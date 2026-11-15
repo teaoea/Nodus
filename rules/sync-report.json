@@ -1,7 +1,7 @@
 {
   "upstream": "https://github.com/blackmatrix7/ios_rule_script",
   "revision": "0b6897dc17e0c513d25449c935a9694818e32f0c",
-  "date": "2026-11-15 04:37 UTC",
+  "date": "2026-11-15 18:26 UTC",
   "collections": {
     "rule/Clash/115/115.yaml": {
       "input": 10,
@@ -149018,8 +149018,8 @@
   ],
   "discovery": {
     "engine": "Bing public RSS",
-    "checked_at": "2026-11-15 04:37 UTC",
-    "next_index": 631,
+    "checked_at": "2026-11-15 18:26 UTC",
+    "next_index": 655,
     "attempted": 24,
     "total_collections": 689,
     "verified_additions": {
@@ -166446,116 +166446,120 @@
         "ownership_evidence": []
       },
       "Wikipedia/Wikipedia.yaml": {
-        "checked_at": "2026-11-01 04:03 UTC",
+        "checked_at": "2026-11-15 18:26 UTC",
         "name": "Wikipedia",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.wikipedia.org/",
-          "https://en.wikipedia.org/wiki/Wikipedia",
+          "https://en.wikipedia.org/wiki/Wikipedia:About",
+          "https://commons.wikimedia.org/wiki/Main_Page",
+          "https://wikimediafoundation.org/",
           "https://en.wikipedia.org/wiki/Main_Page",
-          "https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal",
-          "https://es.wikipedia.org/wiki/Wikipedia:Portada",
-          "https://gpe.wikipedia.org/wiki/Wikipedia",
+          "https://www.linkedin.com/company/wikipedia-the-free-encyclopedia",
+          "https://en.wikipedia.org/wiki/Wikipedia",
           "https://en.wikipedia.org/wiki/English_Wikipedia",
-          "https://en.wikipedia.org/wiki/%2F%2F",
-          "https://en.wikipedia.org/wiki/Wiki",
-          "https://en.wikipedia.org/wiki/Wikipedia:About"
+          "https://gpe.wikipedia.org/wiki/Wikipedia",
+          "https://en.wikipedia.org/wiki/%2F%2F"
         ],
         "candidates": [
+          "commons.wikimedia.org",
           "en.wikipedia.org",
-          "es.wikipedia.org",
-          "fr.wikipedia.org",
           "gpe.wikipedia.org",
+          "wikimediafoundation.org",
+          "www.linkedin.com",
           "www.wikipedia.org"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "WildRift/WildRift.yaml": {
-        "checked_at": "2026-11-01 04:03 UTC",
+        "checked_at": "2026-11-15 18:26 UTC",
         "name": "WildRift",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://wildrift.leagueoflegends.com/en-us/",
-          "https://www.wildriftfire.com/",
           "https://play.google.com/store/apps/details?id=com.riotgames.league.wildrift&hl=en-US",
-          "https://www.wildriftalpha.com/",
-          "https://www.wildriftguides.com/",
-          "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-3/",
-          "https://wildriftcore.com/en/builds/",
-          "https://www.wildriftfire.com/item-list",
-          "https://wiki.leagueoflegends.com/en-us/WR:Wild_Rift"
+          "https://wildrift.leagueoflegends.com/en-us/game-overview/",
+          "https://en.m.wikipedia.org/wiki/League_of_Legends:_Wild_Rift",
+          "https://x.com/wildrift",
+          "https://m.apkpure.com/league-of-legends-wild-rift/com.riotgames.league.wildrift",
+          "https://www.youtube.com/c/wildrift",
+          "https://leagueoflegends.fandom.com/wiki/League_of_Legends:_Wild_Rift",
+          "https://support.riotgames.com/wild-rift",
+          "https://play.google.com/store/apps/details?id=com.riotgames.league.wildrift&hl=en-GB"
         ],
         "candidates": [
+          "en.m.wikipedia.org",
+          "leagueoflegends.fandom.com",
+          "m.apkpure.com",
           "play.google.com",
-          "wiki.leagueoflegends.com",
+          "support.riotgames.com",
           "wildrift.leagueoflegends.com",
-          "wildriftcore.com",
-          "www.wildriftalpha.com",
-          "www.wildriftfire.com",
-          "www.wildriftguides.com"
+          "www.youtube.com",
+          "x.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "WoLai/WoLai.yaml": {
-        "checked_at": "2026-11-01 04:03 UTC",
+        "checked_at": "2026-11-15 18:26 UTC",
         "name": "WoLai",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.amazon.com/Adapter-Replacement-12-S335-RS-0512-S335-RS0512S335/dp/B0DWK21H4Q",
-          "https://www.amazon.com/rs-05-12-s335/s?k=rs-05+12-s335",
-          "https://adapter-world.com/power-stream-rs0512s335-ac-adapter-12vdc-5a-2x55x12mm-p-6561.html",
-          "https://www.ebay.com/itm/398445588611",
-          "https://www.ebay.com/itm/157300240530",
-          "https://www.walmart.com/ip/12V-Replacement-AC-DC-Adapter-Compatible-with-Akura-RS-05-12-S335-RS-0512-S335-LCD-TV-DVD-Combo-Power-Supply/16242971835",
-          "https://www.ebay.ca/sch/i.html?_nkw=ac+adapter+rs-05+12-s335",
-          "https://www.walmart.com/ip/AC-Adapter-Compatible-with-12V-Shenzhen-RS-05-12-S335-PSU-Replacement-Power-Supply/20310017724",
-          "https://myvolts.com/product/8071/Shenzhen_PSU_part_RS-05_12-S335_power_supply_adapter_charger",
-          "https://www.aliexpress.com/item/1005009646351086.html"
+          "https://www.wolai.com/",
+          "https://wolai.io/",
+          "https://www.wolai.com/downloads",
+          "https://wolai.aiproducthub.cn/",
+          "https://wolai.dingtalk.com/downloads",
+          "https://ad.yiban.io/operate/tool/1559",
+          "https://www.wolai.com/login",
+          "https://www.wolai.com/wolai/k1Qgi1J2L9vWBQkkJz8j82",
+          "https://www.wolai.com/pricing",
+          "https://zhuanlan.zhihu.com/p/523644138"
         ],
         "candidates": [
-          "adapter-world.com",
-          "amazon.com",
-          "myvolts.com",
-          "outlets.this",
-          "walmart.com",
-          "www.aliexpress.com",
-          "www.amazon.com",
-          "www.ebay.ca",
-          "www.ebay.com",
-          "www.walmart.com"
+          "ad.yiban.io",
+          "wolai.aiproducthub.cn",
+          "wolai.com",
+          "wolai.dingtalk.com",
+          "wolai.io",
+          "www.wolai.com",
+          "zhuanlan.zhihu.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Wordpress/Wordpress.yaml": {
-        "checked_at": "2026-11-01 04:03 UTC",
+        "checked_at": "2026-11-15 18:26 UTC",
         "name": "Wordpress",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://wordpress.com/",
+          "https://wordpress.org/",
           "https://wordpress.com/log-in/",
           "https://wordpress.org/download/",
-          "https://wordpress.org/",
           "https://en.wikipedia.org/wiki/WordPress",
-          "https://wordpress.com/free/",
-          "https://wordpress.com/website-builder/",
+          "https://learn.wordpress.org/",
+          "https://www.wpbeginner.com/beginners-guide/what-is-wordpress/",
           "https://login.wordpress.org/",
-          "https://en.wikipedia.org/wiki/WordPress.com",
-          "https://wordpress.org/about/"
+          "https://playground.wordpress.net/",
+          "https://apps.wordpress.com/desktop/"
         ],
         "candidates": [
+          "apps.wordpress.com",
           "en.wikipedia.org",
+          "learn.wordpress.org",
           "login.wordpress.org",
+          "playground.wordpress.net",
           "wordpress.com",
-          "wordpress.org"
+          "wordpress.org",
+          "www.wpbeginner.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "WorldofWarcraft/WorldofWarcraft.yaml": {
-        "checked_at": "2026-11-01 04:03 UTC",
+        "checked_at": "2026-11-15 18:26 UTC",
         "name": "WorldofWarcraft",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -166563,8 +166567,8 @@
           "https://worldofwarcraft.com/en-us/login",
           "https://us.shop.battle.net/en-us/family/world-of-warcraft",
           "https://us.shop.battle.net/en-us",
-          "https://us.forums.blizzard.com/en/wow/",
           "https://en.wikipedia.org/wiki/World_of_Warcraft",
+          "https://us.forums.blizzard.com/en/wow/",
           "https://apps.microsoft.com/detail/xp9ckphr0jp7f7",
           "https://worldofwarcraft.blizzard.com/login/"
         ],
@@ -166581,151 +166585,178 @@
         "ownership_evidence": []
       },
       "Wteam/Wteam.yaml": {
-        "checked_at": "2026-11-01 04:03 UTC",
+        "checked_at": "2026-11-15 18:26 UTC",
         "name": "Wteam",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.youtube.com/",
-          "https://www.youtube.com/youtube",
-          "https://accounts.google.com/InteractiveLogin?service=youtube",
-          "https://blog.youtube/",
-          "https://about.youtube/",
-          "https://tv.youtube.com/streaming",
-          "https://music.youtube.com/%EF%BB%BF",
-          "https://www.youtube.com/feed",
-          "https://www.youtube.com/m/home",
-          "https://www.youtube.com/@---_-_"
+          "https://www.realclearpolling.com/latest-polls",
+          "https://www.270towin.com/polls/latest-2026-house-election-polls/",
+          "https://www.270towin.com/polls/latest-2026-senate-election-polls/",
+          "https://www.foxnews.com/official-polls",
+          "https://www.cnn.com/polling",
+          "https://www.nytimes.com/interactive/polls/latest-polls.html",
+          "https://www.realclearpolitics.com/",
+          "https://www.nbcnews.com/politics/2026-elections/midterms",
+          "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+          "https://www.realclearpolling.com/"
         ],
         "candidates": [
-          "about.youtube",
-          "accounts.google.com",
-          "blog.youtube",
-          "music.youtube.com",
-          "tv.youtube.com",
-          "www.youtube.com"
+          "www.270towin.com",
+          "www.cnn.com",
+          "www.foxnews.com",
+          "www.natesilver.net",
+          "www.nbcnews.com",
+          "www.nytimes.com",
+          "www.realclearpolitics.com",
+          "www.realclearpolling.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Xbox/Xbox.yaml": {
-        "checked_at": "2026-11-01 04:03 UTC",
+        "checked_at": "2026-11-15 18:26 UTC",
         "name": "Xbox",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.xbox.com/",
+          "https://www.bestbuy.com/site/video-games/xbox/pcmcat1741975945801.c?id=pcmcat1741975945801",
           "https://www.xbox.com/en-US/%C2%A0",
-          "https://www.bestbuy.com/site/xbox/xbox-consoles/pcmcat1766162468701.c?id=pcmcat1766162468701",
+          "https://www.walmart.com/brand/xbox/10063717",
           "https://play.xbox.com/",
           "https://www.microsoft.com/en-us/store/b/xbox",
-          "https://www.walmart.com/brand/xbox/10063717",
-          "https://www.gamestop.com/consoles-hardware/xbox-series-x%7Cs",
           "https://en.wikipedia.org/wiki/Xbox",
-          "https://www.windowscentral.com/gaming/xbox",
-          "https://www.bestbuy.com/site/video-games/xbox/pcmcat1741975945801.c?id=pcmcat1741975945801"
+          "https://support.xbox.com/en-US/",
+          "https://www.microsoft.com/en-us/store/b/xboxconsoles",
+          "https://www.xbox.com/en-US/play"
         ],
         "candidates": [
           "en.wikipedia.org",
           "play.xbox.com",
+          "support.xbox.com",
           "walmart.com",
           "www.bestbuy.com",
-          "www.gamestop.com",
           "www.microsoft.com",
           "www.walmart.com",
-          "www.windowscentral.com",
-          "www.xbox.com"
+          "www.xbox.com",
+          "xbox.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "XiamiMusic/XiamiMusic.yaml": {
-        "checked_at": "2026-11-01 04:03 UTC",
+        "checked_at": "2026-11-15 18:26 UTC",
         "name": "XiamiMusic",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://derelaergo.com/derila-ergo.html"
+          "https://gohomeltd.com/",
+          "https://www.youtube.com/watch?v=OrmH0jXiAw0",
+          "https://store.steampowered.com/app/1334840/GOHOME/",
+          "https://music.youtube.com/watch?v=OrmH0jXiAw0",
+          "https://www.youtube.com/watch?v=FhPVoQd1FPU",
+          "https://en.wikipedia.org/wiki/Go_Home_(song)",
+          "https://music.youtube.com/watch?v=DfXUyQsmXRk",
+          "https://gohomeltd.com/category/furniture/",
+          "https://gamejolt.com/games/GOHOME666/880387",
+          "https://open.spotify.com/track/5zSwmohdHeH2xmrWDFZUZZ"
         ],
         "candidates": [
-          "derelaergo.com"
+          "en.wikipedia.org",
+          "gamejolt.com",
+          "gohomeltd.com",
+          "music.youtube.com",
+          "open.spotify.com",
+          "store.steampowered.com",
+          "www.youtube.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "XianYu/XianYu.yaml": {
-        "checked_at": "2026-11-01 04:03 UTC",
+        "checked_at": "2026-11-15 18:26 UTC",
         "name": "XianYu",
         "status": "needs_ownership_evidence",
         "sources": [
+          "https://www.goofish.com/?locale=en",
           "https://www.goofish.com/",
-          "https://www.goofish.com/personal",
-          "https://go2china.app/en/xianyu/",
           "https://www.alibabagroup.com/en-US/about-alibaba-businesses-1747081802473799680",
+          "https://www.trip.com/guide/info/xianyu.html",
+          "https://www.xianyuu.com.cn/",
+          "https://go2china.app/en/xianyu/",
+          "https://m.youtube.com/watch?v=iZPB2VkLVcA",
           "https://bk.taobao.com/k/xianyu_229/49b11123eeabfc043fd78549e0d06196.html",
-          "https://github.com/shaxiu/XianyuAutoAgent",
-          "https://github.com/zhinianboke/xianyu-auto-reply",
-          "https://xianyu.memos.im/heihua/",
-          "https://bk.taobao.com/k/xianyu_229/a2f4e25c71d87b5153f7fe181cc6ef15.html",
-          "https://a.app.qq.com/o/simple.jsp?pkgname=com.taobao.idlefish&channel=0002160650432d595942&fromcase=60001"
+          "https://home.alibabagroup.com/about-alibaba-businesses-1747081802473799680",
+          "https://m.youtube.com/watch?v=9CLGDb-gOa4"
         ],
         "candidates": [
-          "a.app.qq.com",
           "bk.taobao.com",
-          "github.com",
           "go2china.app",
+          "home.alibabagroup.com",
+          "m.youtube.com",
           "www.alibabagroup.com",
           "www.goofish.com",
-          "www.xianyu.taobao.com",
-          "xianyu.memos.im"
+          "www.trip.com",
+          "www.xianyuu.com.cn"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "XiaoGouKeJi/XiaoGouKeJi.yaml": {
-        "checked_at": "2026-11-01 04:03 UTC",
+        "checked_at": "2026-11-15 18:26 UTC",
         "name": "XiaoGouKeJi",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.google.com/travel/flights?gl=US&hl=en-US",
-          "https://www.google.com/travel/flights",
-          "https://www.google.com/travel/explore",
-          "https://www.google.com/travel/flights/region/flights-to-united-states.html",
-          "https://www.google.com/travel/flights?curr=USD",
-          "https://support.google.com/travel/answer/6235879?hl=en&co=GENIE.Platform%3DDesktop",
-          "https://www.google.com/travel/flights/saves",
-          "https://www.google.com/travel/flights/flights-to-new-york.html",
-          "https://www.google.com/travel/flights/?curr=EUR",
-          "https://www.google.com/travel/flights/region/flights-to-europe.html"
+          "https://www.meetboston.com/",
+          "https://www.boston.gov/visiting-boston",
+          "https://newenglandandbeyond.com/ultimate-guide-to-boston-for-first-time-visitors/",
+          "https://visitboston.com/",
+          "https://travel.usnews.com/Boston_MA/Things_To_Do/",
+          "https://content.boston.gov/visiting-boston",
+          "https://www.boston.com/tag/visiting-boston/",
+          "https://www.bostontourism.org/",
+          "https://en.wikipedia.org/wiki/Boston",
+          "https://www.travelandleisure.com/boston-massachusetts-guide-11959733"
         ],
         "candidates": [
-          "support.google.com",
-          "www.google.com"
+          "boston.gov",
+          "content.boston.gov",
+          "en.wikipedia.org",
+          "newenglandandbeyond.com",
+          "travel.usnews.com",
+          "visitboston.com",
+          "www.boston.com",
+          "www.boston.gov",
+          "www.bostontourism.org",
+          "www.meetboston.com",
+          "www.travelandleisure.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "XiaoHongShu/XiaoHongShu.yaml": {
-        "checked_at": "2026-11-01 04:03 UTC",
+        "checked_at": "2026-11-15 18:26 UTC",
         "name": "XiaoHongShu",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.xiaohongshu.com/?language=en-US",
-          "https://www.xiaohongshu.com/",
-          "https://mojito.xiaohongshu.com/",
           "https://www.rednote.com/",
-          "https://en.wikipedia.org/wiki/Xiaohongshu",
-          "https://creator.xiaohongshu.com/login",
           "https://oia.xiaohongshu.com/oia?source=growth_default_page",
-          "https://ark.xiaohongshu.com/iframe/",
-          "https://apps.microsoft.com/detail/xp88x2kjk5cl7c?launch=true&hl=zh-CN&gl=CN",
-          "https://ec.xiaohongshu.com/ecommerce/home"
+          "https://creator.xiaohongshu.com/login",
+          "https://en.wikipedia.org/wiki/Xiaohongshu",
+          "https://pro.xiaohongshu.com/",
+          "https://oa.xiaohongshu.com/",
+          "https://miniapp.xiaohongshu.com/home",
+          "https://login3.xiaohongshu.com/login",
+          "https://play.google.com/store/apps/details?id=com.xingin.xhs&hl=en-US"
         ],
         "candidates": [
-          "apps.microsoft.com",
-          "ark.xiaohongshu.com",
           "creator.xiaohongshu.com",
-          "ec.xiaohongshu.com",
           "en.wikipedia.org",
-          "mojito.xiaohongshu.com",
+          "login3.xiaohongshu.com",
+          "miniapp.xiaohongshu.com",
+          "oa.xiaohongshu.com",
           "oia.xiaohongshu.com",
+          "play.google.com",
+          "pro.xiaohongshu.com",
           "www.rednote.com",
           "www.xiaohongshu.com"
         ],
@@ -166733,7 +166764,7 @@
         "ownership_evidence": []
       },
       "XiaoMi/XiaoMi.yaml": {
-        "checked_at": "2026-11-01 04:03 UTC",
+        "checked_at": "2026-11-15 18:26 UTC",
         "name": "XiaoMi",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -166741,21 +166772,20 @@
           "https://www.mi.com/us/",
           "https://en.wikipedia.org/wiki/Xiaomi",
           "https://www.amazon.com/xiaomi/s?k=xiaomi",
+          "https://account.xiaomi.com/?lang=en-us",
           "https://www.xiaomiauto.com/global",
           "https://www.amazon.com/stores/Xiaomi/page/02B8D23F-3BED-4542-AB11-43606B9FD75E",
-          "https://account.xiaomi.com/?lang=en-us",
           "https://m.mi.com/category",
-          "https://global.app.mi.com/",
-          "https://c.mi.com/global/"
+          "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=xiaomi",
+          "https://en.wikipedia.org/wiki/List_of_Xiaomi_products"
         ],
         "candidates": [
           "account.xiaomi.com",
           "amazon.com",
-          "c.mi.com",
           "en.wikipedia.org",
-          "global.app.mi.com",
           "m.mi.com",
           "www.amazon.com",
+          "www.bestbuy.com",
           "www.mi.com",
           "www.xiaomiauto.com"
         ],
@@ -166763,102 +166793,96 @@
         "ownership_evidence": []
       },
       "XiaoYuanKeJi/XiaoYuanKeJi.yaml": {
-        "checked_at": "2026-11-01 04:03 UTC",
+        "checked_at": "2026-11-15 18:26 UTC",
         "name": "XiaoYuanKeJi",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.hondaoflosangeles.com/honda-specials-los-angeles-ca-dtw/",
-          "https://www.hondaoflosangeles.com/honda-civic-los-angeles-ca",
-          "https://research.hondaoflosangeles.com/research/2020-Honda-Accord-Hybrid/Los-Angeles-CA",
-          "https://research.hondaoflosangeles.com/research/2026-Honda-Accord/Los-Angeles-CA",
-          "https://express.hondaoflosangeles.com/Honda/Civic-Hatchback",
-          "https://buildhonda.hondaoflosangeles.com/",
-          "https://www.hondaoflosangeles.com/searchused.aspx/",
-          "https://www.hondaoflosangeles.com/new-inventory/?new=true",
-          "https://www.hondaoflosangeles.com/used-cars-under-10k-for-sale-los-angeles-ca",
-          "https://www.hondaoflosangeles.com/honda-certified-used-vehicles"
+          "https://www.milestoneauctions.com/",
+          "https://www.milestoneauctions.com/bidding/",
+          "https://www.milestoneauctions.com/contact/",
+          "https://www.milestoneauctions.com/consign/",
+          "https://www.milestoneauctions.com/about/"
         ],
         "candidates": [
-          "buildhonda.hondaoflosangeles.com",
-          "express.hondaoflosangeles.com",
-          "research.hondaoflosangeles.com",
-          "www.hondaoflosangeles.com"
+          "liveauctioneers.com",
+          "milestoneauctions.com",
+          "proxibid.com",
+          "www.milestoneauctions.com",
+          "zip.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "XieCheng/XieCheng.yaml": {
-        "checked_at": "2026-11-01 04:03 UTC",
+        "checked_at": "2026-11-15 18:26 UTC",
         "name": "XieCheng",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.accuweather.com/en/us/effingham/62401/hourly-weather-forecast/332735",
-          "https://weather.com/en-KI/us/illinois/city/effingham/today",
-          "https://www.meteoblue.com/en/weather/week/effingham_united-states_4237727",
-          "https://weather.com/weather/today/l/8f5f1bd24b1c6f00c74387e2ab3db83d707da78483616cb52d2c2113e27c6155",
-          "https://earthpulsenow.com/us/illinois/effingham/rain-today",
-          "https://www.foxweather.com/local-weather/illinois/effingham",
-          "https://www.wunderground.com/precipitation/us/il/effingham",
-          "https://www.wunderground.com/precipitation/us/il/effingham/62401",
-          "https://www.weather-forecast.com/locations/Effingham/forecasts/latest",
-          "https://www.weather.gov/62401"
+          "https://www.ctrip.com/",
+          "https://m.ctrip.com/",
+          "https://www.trip.com/",
+          "https://vacations.ctrip.com/",
+          "https://m.ctrip.com/html5/flight/home",
+          "https://ct.ctrip.com/online/home",
+          "https://xiechenglight.com/",
+          "https://www.jmxiecheng.com/products.html",
+          "https://www.jmxiecheng.com/industrial-chiller-series.html"
         ],
         "candidates": [
-          "earthpulsenow.com",
-          "weather.com",
-          "www.accuweather.com",
-          "www.foxweather.com",
-          "www.meteoblue.com",
-          "www.weather-forecast.com",
-          "www.weather.gov",
-          "www.wunderground.com"
+          "ct.ctrip.com",
+          "ctrip.com",
+          "m.ctrip.com",
+          "pages.ctrip.com",
+          "trip.com",
+          "vacations.ctrip.com",
+          "www.ctrip.com",
+          "www.jmxiecheng.com",
+          "www.trip.com",
+          "xiechenglight.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "XingKongWuXian/XingKongWuXian.yaml": {
-        "checked_at": "2026-11-01 04:03 UTC",
+        "checked_at": "2026-11-15 18:26 UTC",
         "name": "XingKongWuXian",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.xvideos.com/",
-          "https://www.xvideos.com/home/en",
-          "https://mobile-xvideos.com/tags/newest",
-          "https://mobile-xvideos.com/?fmc=1",
-          "https://www.pornhub.com/video/search?search=x+v+i+d+e+o+s",
-          "https://www.pornhub.com/video/search?search=xvideos",
-          "https://de-xvideos.com/",
-          "https://fr.xvideos.com/",
-          "https://www.xvideos.com/home/br",
-          "https://www.xvideos.com/new/1"
+          "https://www.meijer.com/",
+          "https://www.meijer.com/shopping/c/collections/summer-celebration.html",
+          "https://jobs.meijer.com/jobs/location/IN/Fort-Wayne/",
+          "https://vendornet.meijer.com/",
+          "https://weeklyad.meijer.com/h/m/meijer?locale=en&type=2",
+          "https://jobs.meijer.com/distribution/",
+          "https://www.meijer.com/shopping/departments/household-essentials/household-products/disposable-tableware/cups.html",
+          "https://www.meijer.com/shopping/departments/fresh/meat/beef/steaks.html",
+          "https://www.meijer.com/shopping/collections/holiday",
+          "https://www.meijer.com/shopping/collections/custom-bakery-cakes-and-cupcakes"
         ],
         "candidates": [
-          "de-xvideos.com",
-          "fr.xvideos.com",
-          "mobile-xvideos.com",
-          "pornhub.com",
-          "www.pornhub.com",
-          "www.xvideos.com",
-          "xvideos.com"
+          "jobs.meijer.com",
+          "vendornet.meijer.com",
+          "weeklyad.meijer.com",
+          "www.meijer.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "XueErSi/XueErSi.yaml": {
-        "checked_at": "2026-11-01 04:03 UTC",
+        "checked_at": "2026-11-15 18:26 UTC",
         "name": "XueErSi",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.reddit.com/r/SpiritHalloween/?feedViewType=classicView",
-          "https://www.reddit.com/r/SpiritHalloween/comments/15e7ggi/20_off_coupon/",
-          "https://www.reddit.com/r/SpiritHalloween/comments/159jf9t/interview/",
-          "https://www.reddit.com/r/SpiritHalloween/comments/1689n74/how_to_get_hired_at_spirit/",
-          "https://www.reddit.com/r/SpiritHalloween/comments/190syyc/lawsuit_against_spirit/",
-          "https://www.reddit.com/r/legaladvice/comments/721l1j/applying_for_a_job_at_spirit_halloween_store_and/",
-          "https://www.reddit.com/r/SpiritHalloween/comments/15vamz8/work_hours/",
-          "https://www.reddit.com/r/SpiritHalloween/comments/ptwvpt/how_to_use_spirit_employee_discount_online_guide/",
-          "https://www.reddit.com/r/SpiritHalloween/comments/15t844l/i_quit_after_4_hours/",
-          "https://www.reddit.com/r/SpiritHalloween/comments/16ijmg0/what_was_it_like_working_at_spirit_halloween/"
+          "https://www.reddit.com/r/AmateurPorn/top/?t=year",
+          "https://www.reddit.com/r/AlphaMalePorn/",
+          "https://www.reddit.com/r/ultrawidemasterrace/comments/4vwz4h/ultrawide_porn/",
+          "https://www.reddit.com/r/pornfreewomen/",
+          "https://www.reddit.com/r/writing/comments/rqha8r/what_makes_a_story_classify_as_trauma_porn/",
+          "https://www.reddit.com/r/EngineeringPorn/",
+          "https://www.reddit.com/r/xxx/comments/kw0xf4/directory_of_xxx_subreddits/",
+          "https://www.reddit.com/r/RedditNSFW/",
+          "https://www.reddit.com/r/WarplanePorn/",
+          "https://www.reddit.com/r/transporn/about/"
         ],
         "candidates": [
           "www.reddit.com"
@@ -166867,214 +166891,220 @@
         "ownership_evidence": []
       },
       "XueQiu/XueQiu.yaml": {
-        "checked_at": "2026-11-01 04:03 UTC",
+        "checked_at": "2026-11-15 18:26 UTC",
         "name": "XueQiu",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://xueqiu.com/",
           "https://xueqiu.com/hq",
-          "https://m.up-xueqiu.com.cn/",
           "https://baike.baidu.com/item/%E9%9B%AA%E7%90%83/22843379",
           "https://mp.xueqiu.com/",
-          "https://top-index-xueqiu.com.cn/",
-          "https://in-xueqiu.com.cn/",
-          "https://m.hi-index-xueqiu.com.cn/"
+          "https://xueqiulive.com/",
+          "https://mp.xueqiu.com/dataview/content",
+          "https://m.hi-index-xueqiu.com.cn/",
+          "https://broker.xueqiu.com/",
+          "https://hot-index-xueqiu.com.cn/",
+          "https://ai.xueqiu.com/chat"
         ],
         "candidates": [
+          "ai.xueqiu.com",
           "baike.baidu.com",
-          "in-xueqiu.com.cn",
+          "broker.xueqiu.com",
+          "hot-index-xueqiu.com.cn",
           "m.hi-index-xueqiu.com.cn",
-          "m.up-xueqiu.com.cn",
           "mp.xueqiu.com",
-          "top-index-xueqiu.com.cn",
-          "xueqiu.com"
+          "xueqiu.com",
+          "xueqiulive.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Xunlei/Xunlei.yaml": {
-        "checked_at": "2026-11-01 17:34 UTC",
+        "checked_at": "2026-11-15 18:26 UTC",
         "name": "Xunlei",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://forums.tomsguide.com/threads/how-to-transfer-pics-from-de-activated-cell-phone.289900/",
-          "https://forums.tomsguide.com/threads/hyperx-cloud-ii-mic-volume-cant-be-adjusted-stuck-at-0db.445476/",
-          "https://forums.tomsguide.com/threads/same-thing-as-above-i-tried-calling-a-number-and-got-that-%E2%80%9Cwelcome-to-verizon-wireless-the-number-has-calling-that-prevent.195349/",
-          "https://forums.tomsguide.com/threads/why-no-names-on-verizon-caller-id.304145/",
-          "https://forums.tomsguide.com/threads/what-does-calling-restriction-mean-on-verizon.288702/",
-          "https://forums.tomsguide.com/threads/cellco-partnership-dba-verizon-wireless-is-texting-me-saying-there-the-fbi-is-this-a-scam.169023/",
-          "https://forums.tomsguide.com/threads/wwan-wpan-fcm-what-are-they-and-can-i-put-a-wlan-card-in-any-of-them.390674/",
-          "https://forums.tomsguide.com/threads/choosing-tracfone-sim-kit.479253/",
-          "https://forums.tomsguide.com/threads/cant-get-sound-on-my-tv-when-connected-to-my-laptop-with-hdmi-cable.338568/",
-          "https://forums.tomsguide.com/threads/rant-verizon-wireless-customer-service-and-web-site.289467/"
+          "https://www.52pojie.cn/thread-2078291-1-1.html",
+          "https://www.52pojie.cn/thread-1321361-1-1.html",
+          "https://www.52pojie.cn/archiver/tid-2111368.html",
+          "https://www.52pojie.cn/archiver/tid-2090717.html",
+          "https://www.52pojie.cn/thread-1197235-1-1.html",
+          "https://www.52pojie.cn/thread-1829621-1-1.html",
+          "https://www.52pojie.cn/thread-1979877-1-1.html",
+          "https://www.52pojie.cn/thread-1109956-1-1.html",
+          "https://www.52pojie.cn/thread-1021845-1-1.html",
+          "https://www.52pojie.cn/thread-1891616-1-1.html"
         ],
         "candidates": [
-          "alt.cellular.verizon",
-          "forums.tomsguide.com"
+          "52pojie.cn",
+          "api-shoulei-ssl.xunlei.com",
+          "pan.xunlei.com",
+          "www.52pojie.cn"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "YYeTs/YYeTs.yaml": {
-        "checked_at": "2026-11-01 17:34 UTC",
+        "checked_at": "2026-11-15 18:26 UTC",
         "name": "YYeTs",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.irs.gov/",
-          "https://apps.irs.gov/app/understandingTaxes/index.jsp",
-          "https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit/school-template",
-          "https://apps.irs.gov/training/",
-          "https://sa.www4.irs.gov/ola/tax_records/transcripts",
-          "https://sa.www4.irs.gov/wmr/es/?os=fno_journeystrue&ref=app",
-          "https://foiapublicaccessportal.for.irs.gov/app/Home.aspx",
-          "https://fire.test.irs.gov/"
+          "https://www.amazon.com/",
+          "https://www.amazon.com/b?node=18190131011",
+          "https://aws.amazon.com/workmail/",
+          "https://hiring.amazon.com/",
+          "https://hiring.amazon.com/search/full-time-jobs",
+          "https://aws.amazon.com/legal/marketingentities/",
+          "https://advertising.amazon.com/about-us",
+          "https://logistics.amazon.com/marketing/dsp-available-locations",
+          "https://freight.amazon.com/services",
+          "https://business.amazon.com/en/register"
         ],
         "candidates": [
-          "apps.irs.gov",
-          "fire.test.irs.gov",
-          "foiapublicaccessportal.for.irs.gov",
-          "id.me",
-          "login.gov",
-          "sa.www4.irs.gov",
-          "www.irs.gov",
-          "www.jobs.irs.gov"
+          "advertising.amazon.com",
+          "amazon.com",
+          "aws.amazon.com",
+          "business.amazon.com",
+          "freight.amazon.com",
+          "hiring.amazon.com",
+          "logistics.amazon.com",
+          "www.amazon.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Yandex/Yandex.yaml": {
-        "checked_at": "2026-11-01 17:34 UTC",
+        "checked_at": "2026-11-15 18:26 UTC",
         "name": "Yandex",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://yandex.com/",
-          "https://online.yandex.com/search?text=yandex.com.&lr=21206&msp=1",
-          "https://yandex.ru/",
-          "https://yandex.ru/chrome/newtab",
-          "https://yandex.uz/",
+          "https://browser.yandex.com/",
+          "https://en.wikipedia.org/wiki/Yandex",
+          "https://wap.yandex.com/search?lr=101",
           "https://ya.ru/",
-          "https://en.m.wikipedia.org/wiki/Yandex",
-          "https://yandex.tm/",
-          "https://game.yandex.com/"
+          "https://online.yandex.com/search?text=yandex.eu&lr=21206&msp=1",
+          "https://www.facebook.com/YandexCom/",
+          "https://x.com/yandexcom",
+          "https://ir.yandex/press-releases",
+          "https://en.wikipedia.org/wiki/Yandex_Browser"
         ],
         "candidates": [
-          "en.m.wikipedia.org",
-          "game.yandex.com",
+          "browser.yandex.com",
+          "en.wikipedia.org",
+          "ir.yandex",
           "online.yandex.com",
-          "server.yandex.com",
+          "wap.yandex.com",
+          "www.facebook.com",
+          "x.com",
           "ya.ru",
           "yandex.com",
-          "yandex.ru",
-          "yandex.tm",
-          "yandex.uz"
+          "yandex.eu"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "YiChe/YiChe.yaml": {
-        "checked_at": "2026-11-01 17:34 UTC",
+        "checked_at": "2026-11-15 18:26 UTC",
         "name": "YiChe",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.eporner.com/best-videos/",
-          "https://jp.eporner.com/",
-          "https://www.eporner.com/video-8h1d47kctIZ/tokyo-hot-n0996-haruka-inoue/",
-          "https://pt.eporner.com/",
-          "https://pl.eporner.com/",
-          "https://jp.eporner.com/cat/japanese/",
-          "https://de.eporner.com/",
-          "https://es.eporner.com/",
-          "https://es.eporner.com/categorias/",
-          "https://cams.eporner.com/"
+          "https://www.youtube.com/",
+          "https://support.google.com/youtube/answer/157177?hl=en-gb&co=GENIE.Platform%3DDesktop",
+          "https://support.google.com/youtube/answer/9879686?hl=nl&co=GENIE.Platform%3DDesktop",
+          "https://obsproject.com/forum/tags/youtube/",
+          "https://obsproject.com/forum/resources/youtube-chat-transparent-background-solely-css.486/",
+          "https://support.google.com/youtubetv/community-guide/294051734/understanding-the-youtube-tv-interface?hl=en",
+          "https://support.google.com/youtubetv/?hl=en",
+          "https://support.google.com/youtube/answer/174084?hl=en&co=GENIE.Platform%3Ddesktop",
+          "https://support.google.com/youtube/?hl=pt",
+          "https://support.google.com/youtube/answer/6397026?hl=en"
         ],
         "candidates": [
-          "cams.eporner.com",
-          "de.eporner.com",
-          "eporner.com",
-          "es.eporner.com",
-          "jp.eporner.com",
-          "pl.eporner.com",
-          "pt.eporner.com",
-          "www.eporner.com"
+          "obsproject.com",
+          "support.google.com",
+          "www.youtube.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "YiXiaKeJi/YiXiaKeJi.yaml": {
-        "checked_at": "2026-11-01 17:34 UTC",
+        "checked_at": "2026-11-15 18:26 UTC",
         "name": "YiXiaKeJi",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://taongafarm.com/es/play/",
-          "https://support.taongafarm.com/hc/en-us/articles/4416455869458-Yacht-Orders",
-          "https://taongafarm.com/en/",
-          "https://support.taongafarm.com/hc/en-us/articles/360017446639-The-game-is-freezing-and-or-running-slow-browsers-Chrome-Microsoft-Edge-Opera",
-          "https://us2.taongafarm.com/ko/play/",
-          "https://us2.taongafarm.com/news/update/festival-has-arrived-sm84",
-          "https://support.taongafarm.com/hc/en-us/articles/14982475522450-Island-of-Blazing-Rivers",
-          "https://taongafarm.com/pt/play/",
-          "https://support.taongafarm.com/hc/en-us/articles/360014621079-Island-of-the-Turtles",
-          "https://support.taongafarm.com/hc/en-us/articles/360008241713-Island-of-the-Flower-Nectar"
+          "https://www.portland.gov/parks/cathedral-park",
+          "https://www.portland.gov/transportation/permitting/movepdx",
+          "https://pro.portland.gov/_/?new=1",
+          "https://pbotapps.portland.gov/streets-pdx/city-projects",
+          "https://www.portland.gov/police/news/2026/9/8/update-teen-criminally-charged-attempted-murder-terrorism-following-september",
+          "https://www.portland.gov/bps/planning/historic-resources/historic-and-conservation-districts",
+          "https://www.portland.gov/parks/forest-park",
+          "https://www.portland.gov/bps/planning/adap/history-racist-planning-portland",
+          "https://www.portland.gov/hello/city-leaders",
+          "https://www.portland.gov/operating-business-portland"
         ],
         "candidates": [
-          "reward.first",
-          "support.taongafarm.com",
-          "taongafarm.com",
-          "us2.taongafarm.com"
+          "pbotapps.portland.gov",
+          "portland.gov",
+          "pro.portland.gov",
+          "www.portland.gov"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "YiZhiBo/YiZhiBo.yaml": {
-        "checked_at": "2026-11-01 17:34 UTC",
+        "checked_at": "2026-11-15 18:26 UTC",
         "name": "YiZhiBo",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.apple.com/ae/store",
-          "https://www.apple.com/ph/store",
-          "https://apps.apple.com/us/app/apple-store/id375380948",
-          "https://developer.apple.com/app-store/small-business-program/",
-          "https://developer.apple.com/app-store/asset-best-practices/",
-          "https://ecommerce.apple.com/",
-          "https://support.apple.com/en-gb/contact",
-          "https://locate.apple.com/au/en/",
-          "https://support.apple.com/en-gb/repair",
-          "https://www.apple.com/au/store"
+          "https://www.spotify.com/",
+          "https://community.spotify.com/t5/iOS-iPhone-iPad/Spotify-randomly-stops-music/td-p/5076652",
+          "https://community.spotify.com/t5/Desktop-Windows/Full-screen-lyrics-issue/td-p/7371514",
+          "https://community.spotify.com/t5/Your-Library/How-do-I-export-my-playlists/td-p/5517422",
+          "https://community.spotify.com/t5/Android/App-not-working-constantly-loading/td-p/6959381",
+          "https://community.spotify.com/t5/iOS-iPhone-iPad/Your-client-does-not-have-permission-to-get-URL-from-this-server/td-p/5641825",
+          "https://community.spotify.com/t5/Desktop-Windows/Desktop-app-wont-use-headset-as-output-device/td-p/6680274",
+          "https://community.spotify.com/t5/Android/App-doesn-t-work-even-with-internet/td-p/5997758",
+          "https://community.spotify.com/t5/Subscriptions/Access-to-Hulu-not-working/td-p/6459589",
+          "https://community.spotify.com/t5/Android/Spotify-playback-no-longer-showing-up-on-my-lock-screen-or/td-p/6975727"
         ],
         "candidates": [
-          "apps.apple.com",
-          "developer.apple.com",
-          "ecommerce.apple.com",
-          "locate.apple.com",
-          "support.apple.com",
-          "www.apple.com"
+          "1.2.84.476.ga1ff6607",
+          "community.spotify.com",
+          "www.spotify.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "YouMengChuangXiang/YouMengChuangXiang.yaml": {
-        "checked_at": "2026-11-01 17:34 UTC",
+        "checked_at": "2026-11-15 18:26 UTC",
         "name": "YouMengChuangXiang",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.spectrum.com/",
-          "https://www.spectrum.com/locations/store/4419-dixie-hwy-louisville-ky-6523",
-          "https://jobs.spectrum.com/location/charlotte-jobs/4673-14710/6252001-4482348-4478884-4460243/4",
-          "https://jobs.spectrum.com/recruiting-events",
-          "https://official.spectrum.com/address/localization",
-          "https://customers.spectrum.com/customer-portal",
-          "https://partners.spectrum.com/",
-          "https://customers.spectrum.com/customer-portal/login",
-          "https://reportspam.spectrum.com/",
-          "https://official.spectrum.com/cable-tv/plans/select"
+          "https://www.merriam-webster.com/dictionary/vindicate",
+          "https://dictionary.cambridge.org/us/dictionary/english/vindicate",
+          "https://www.dictionary.com/browse/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20vindicate",
+          "https://dictionary.cambridge.org/dictionary/english/vindicate?q=vindicated",
+          "https://www.merriam-webster.com/dictionary/vindication",
+          "https://en.thefreedictionary.com/vindicate",
+          "https://www.dictionary.net/dictionary/vindicate",
+          "https://www.definitions.net/definition/vindicate",
+          "https://englishwordchamps.com/vindicate-meaning-and-examples/",
+          "https://www.collinsdictionary.com/us/dictionary/english/vindicate"
         ],
         "candidates": [
-          "customers.spectrum.com",
-          "jobs.spectrum.com",
-          "official.spectrum.com",
-          "partners.spectrum.com",
-          "reportspam.spectrum.com",
-          "www.spectrum.com"
+          "definitions.net",
+          "dictionary.cambridge.org",
+          "dictionary.com",
+          "dictionary.net",
+          "en.thefreedictionary.com",
+          "englishwordchamps.com",
+          "www.collinsdictionary.com",
+          "www.definitions.net",
+          "www.dictionary.com",
+          "www.dictionary.net",
+          "www.merriam-webster.com"
         ],
         "accepted": [],
         "ownership_evidence": []
