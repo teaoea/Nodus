@@ -1,7 +1,7 @@
 {
   "upstream": "https://github.com/blackmatrix7/ios_rule_script",
   "revision": "0b6897dc17e0c513d25449c935a9694818e32f0c",
-  "date": "2026-11-14 17:37 UTC",
+  "date": "2026-11-15 04:37 UTC",
   "collections": {
     "rule/Clash/115/115.yaml": {
       "input": 10,
@@ -149018,8 +149018,8 @@
   ],
   "discovery": {
     "engine": "Bing public RSS",
-    "checked_at": "2026-11-14 17:37 UTC",
-    "next_index": 607,
+    "checked_at": "2026-11-15 04:37 UTC",
+    "next_index": 631,
     "attempted": 24,
     "total_collections": 689,
     "verified_additions": {
@@ -165786,24 +165786,27 @@
         "ownership_evidence": []
       },
       "VikACG/VikACG.yaml": {
-        "checked_at": "2026-10-31 16:45 UTC",
+        "checked_at": "2026-11-15 04:37 UTC",
         "name": "VikACG",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.vikacg.com/about",
           "https://www.vikacg.com/app",
+          "https://x.com/VikACG_ZH",
           "https://github.com/Sailoud/VikACG_Rescue",
           "https://list.tg/zh/channel/vikacg",
-          "https://x.com/VikACG_ZH",
+          "https://tv.yandex.com/search?text=%E7%BB%B4%E5%92%94VikACG&lr=21414",
           "https://online.yandex.com/search?text=%E7%BB%B4%E5%92%94VikACG+%E7%A4%BE%E5%8C%BA&lr=21206",
-          "https://t.me/s/vikacg?before=4870",
           "https://tv.yandex.com/search?text=%E7%BB%B4%E5%92%94VikACG&lr=21206",
-          "https://github.com/Sailoud/VikACG_Rescue/blob/main/docs/zh-SG/HOW_TO_LINK.md",
-          "https://www.vikacg.com/wallet/mission"
+          "https://t.me/s/vikacg?before=4870",
+          "https://meow.tg/messages/b2c5557a-d606-4d0c-a44a-53e0c3aad33e"
         ],
         "candidates": [
           "github.com",
+          "go.gov.sg",
+          "gowhere.gov.sg",
           "list.tg",
+          "meow.tg",
           "online.yandex.com",
           "t.co",
           "t.me",
@@ -165815,100 +165818,110 @@
         "ownership_evidence": []
       },
       "Viki/Viki.yaml": {
-        "checked_at": "2026-10-31 16:45 UTC",
+        "checked_at": "2026-11-15 04:37 UTC",
         "name": "Viki",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.viki.com/",
           "https://www.viki.com/sign-in",
-          "https://play.google.com/store/apps/details?id=com.viki.android&hl=en-US",
           "https://support.viki.com/hc/en-us/categories/4414313970067-Manage-My-Account",
-          "https://support.viki.com/hc/en-us/articles/200138964-What-is-Viki",
-          "https://www.rakuten.tv/ie/lists/free-rakuten-viki",
-          "https://en.wikipedia.org/wiki/Rakuten_Viki",
-          "https://www.justwatch.com/us/provider/rakuten-viki",
+          "https://www.viki.com/?locale=es",
           "https://www.viki.com/apps",
-          "https://www.viki.com/-/"
+          "https://www.viki.com/-",
+          "https://play.google.com/store/apps/details?id=com.viki.android&hl=en-US",
+          "https://www.viki.com/?locale=pt",
+          "https://www.youtube.com/viki",
+          "https://support.viki.com/hc/en-us/articles/200138964-What-is-Viki"
         ],
         "candidates": [
-          "en.wikipedia.org",
           "play.google.com",
           "support.viki.com",
-          "www.justwatch.com",
-          "www.rakuten.tv",
-          "www.viki.com"
+          "www.viki.com",
+          "www.youtube.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Vimeo/Vimeo.yaml": {
-        "checked_at": "2026-10-31 16:45 UTC",
+        "checked_at": "2026-11-15 04:37 UTC",
         "name": "Vimeo",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://vimeo.com/",
           "https://vimeo.com/watch",
+          "https://player.vimeo.com/video/80834817/login/like",
           "https://en.wikipedia.org/wiki/Vimeo",
+          "https://www.youtube.com/channel/UC0ntvHJfviqvUHzdGBgrKlA",
+          "https://vimeopro.com/softwareag/us/contact",
+          "https://help.vimeo.com/hc/en-us",
           "https://vimeo.com/log_in",
           "https://vimeo.com/search",
-          "https://vimeo.com/join",
-          "https://vimeo.com/about",
-          "https://vimeo.com/categories",
-          "https://help.vimeo.com/hc/en-us",
-          "https://www.youtube.com/c/@vimeo"
+          "https://vimeo.com/categories"
         ],
         "candidates": [
           "en.wikipedia.org",
           "help.vimeo.com",
-          "today.we",
+          "player.vimeo.com",
           "vimeo.com",
+          "vimeopro.com",
           "www.youtube.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "VipShop/VipShop.yaml": {
-        "checked_at": "2026-10-31 16:45 UTC",
+        "checked_at": "2026-11-15 04:37 UTC",
         "name": "VipShop",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.musehub.com/",
-          "https://www.musehub.com/learn/best-free-vst-plugins",
-          "https://support.musehub.com/en/articles/15070600-where-does-musehub-install-things",
-          "https://support.musehub.com/en/",
-          "https://developer.musehub.com/muse-partners-help/resources/muse-sdk",
-          "https://developer.musehub.com/muse-partners-help/getting-started/generate-api-keys",
-          "https://partner.musehub.com/dashboard/user-settings",
-          "https://join.musehub.com/",
-          "https://cosmos.musehub.com/",
-          "https://www.musehub.com/learn/free-musesounds-complete-guide"
+          "https://www.tenforums.com/threads/turn-on-or-off-mouse-clicklock-in-windows.106624/",
+          "https://www.tenforums.com/threads/enable-or-disable-disk-write-protection-in-windows.3548/",
+          "https://support.google.com/chrome/thread/52193001/how-can-i-lock-the-host-computer-in-chrome-remote-desktop-and-still-be-able-to-access-remotely?hl=en",
+          "https://support.google.com/chrome/thread/217111496/chrome-does-not-remain-signed-in-and-resets-each-time-window-is-closed?hl=en",
+          "https://www.tenforums.com/threads/enable-or-disable-device-guard-in-windows-10.68913/",
+          "https://www.tenforums.com/tutorials/129765-allow-prevent-users-groups-change-time-zone-windows-10-a.html",
+          "https://support.google.com/chrome/answer/7177579?hl=en",
+          "https://www.tenforums.com/threads/how-to-enable-or-disable-mouse-keys-keyboard-shortcut-in-windows.103600/",
+          "https://www.tenforums.com/tutorials/53449-lock-unlock-taskbar-windows-10-a.html",
+          "https://www.tenforums.com/threads/turn-on-or-off-screen-rotation-lock-in-windows-10.104641/"
         ],
         "candidates": [
-          "cosmos.musehub.com",
-          "developer.musehub.com",
-          "join.musehub.com",
-          "partner.musehub.com",
-          "support.musehub.com",
-          "www.musehub.com"
+          "support.google.com",
+          "www.tenforums.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "ViuTV/ViuTV.yaml": {
-        "checked_at": "2026-10-31 16:45 UTC",
+        "checked_at": "2026-11-15 04:37 UTC",
         "name": "ViuTV",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.idahopress.com/elections/idaho-gov-brad-little-announces-reelection-campaign/article_32c6f992-abd0-4709-b96d-699ab778bebe.html"
+          "https://viu.tv/",
+          "https://www.viu.com/ott/au",
+          "https://en.wikipedia.org/wiki/ViuTV",
+          "https://www.viu.com/ott/hk",
+          "https://viu.tv/encore",
+          "https://howtowatch.co/channels/watch-viutv-in-canada/",
+          "https://www.youtube.com/viutv",
+          "https://zh.wikipedia.org/wiki/ViuTV",
+          "https://www.youtube.com/@ViuTVWorld",
+          "https://www.facebook.com/ViuTV/"
         ],
         "candidates": [
-          "www.idahopress.com"
+          "en.wikipedia.org",
+          "howtowatch.co",
+          "viu.tv",
+          "www.facebook.com",
+          "www.viu.com",
+          "www.youtube.com",
+          "zh.wikipedia.org"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Vivo/Vivo.yaml": {
-        "checked_at": "2026-10-31 16:45 UTC",
+        "checked_at": "2026-11-15 04:37 UTC",
         "name": "Vivo",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -165916,20 +165929,20 @@
           "https://vivo-us.com/",
           "https://www.vivo.com/en/products",
           "https://vivo.com.br/para-voce",
-          "https://en.wikipedia.org/wiki/Vivo_(technology_company)",
-          "https://vivo-official.com/",
-          "https://vivo-us.com/collections/standing-desks",
-          "https://www.gsmarena.com/vivo-phones-98.php",
           "https://www.vivobarefoot.com/us/",
-          "https://vivo-official.com/collections/all"
+          "https://en.wikipedia.org/wiki/Vivo_(technology_company)",
+          "https://www.amazon.com/stores/VIVO/page/80615CC7-EA3E-4B20-ADA8-BBCACD186AB7",
+          "https://vivo-official.com/pages/x500",
+          "https://vivo-us.com/pages/about-us",
+          "https://vivo-official.com/"
         ],
         "candidates": [
+          "amazon.com",
           "en.wikipedia.org",
-          "gsmarena.com",
           "vivo-official.com",
           "vivo-us.com",
           "vivo.com.br",
-          "www.gsmarena.com",
+          "www.amazon.com",
           "www.vivo.com",
           "www.vivobarefoot.com"
         ],
@@ -165937,49 +165950,57 @@
         "ownership_evidence": []
       },
       "Voxmedia/Voxmedia.yaml": {
-        "checked_at": "2026-10-31 16:45 UTC",
+        "checked_at": "2026-11-15 04:37 UTC",
         "name": "Voxmedia",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.cityofsignalhill.org/",
-          "https://www.cityofsignalhill.org/493/Utilities",
-          "https://www.cityofsignalhill.org/253/Economic-Development",
-          "https://www.cityofsignalhill.org/95/Fair-Affordable-Housing",
-          "https://www.cityofsignalhill.org/612/Current-Projects",
-          "https://www.cityofsignalhill.org/218/History-of-Signal-Hill",
-          "https://www.cityofsignalhill.org/588/Walkways-and-Trails",
-          "https://www.cityofsignalhill.org/699/GIS",
-          "https://www.cityofsignalhill.org/120/Parks-Facilities",
-          "https://www.cityofsignalhill.org/22/Water"
+          "https://www.biblegateway.com/passage/?search=Revelation%202%3A9%2CRevelation%203%3A9&version=KJV",
+          "https://www.biblegateway.com/passage/?search=Revelation%202%3A9%2CRevelation%203%3A9&version=NIV",
+          "https://biblehub.com/revelation/2-9.htm",
+          "https://www.kingjamesbibleonline.org/Revelation-2-9/",
+          "https://www.thinkoutsidethebeast.com/revelation-29-and-39-those-who-say-they-are-jews-and-are-not/",
+          "https://en.wikipedia.org/wiki/Synagogue_of_Satan",
+          "https://biblehub.com/commentaries/revelation/2-9.htm",
+          "https://www.esv.org/Revelation+2:9;Revelation+3:9/",
+          "https://www.bible.com/bible/1/REV.2.9.kjv",
+          "https://www.bibleref.com/Revelation/2/Revelation-2-9.html"
         ],
         "candidates": [
-          "www.cityofsignalhill.org"
+          "biblegateway.com",
+          "biblehub.com",
+          "bibleref.com",
+          "en.wikipedia.org",
+          "esv.org",
+          "www.bible.com",
+          "www.biblegateway.com",
+          "www.bibleref.com",
+          "www.esv.org",
+          "www.kingjamesbibleonline.org",
+          "www.thinkoutsidethebeast.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "W3schools/W3schools.yaml": {
-        "checked_at": "2026-10-31 16:45 UTC",
+        "checked_at": "2026-11-15 04:37 UTC",
         "name": "W3schools",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.w3schools.com/",
           "https://www.w3schools.com/html/",
-          "https://w3schools.dev/",
-          "https://w3schools.dev/html/default.asp",
+          "https://app.w3schools.com/",
           "https://nav.w3schools.com/",
-          "https://en.wikipedia.org/wiki/W3Schools",
-          "https://www.w3schools.com/js/",
-          "https://campus.w3schools.com/",
+          "https://www.w3schools.com/python/",
+          "https://www.w3schools.com/sql/",
+          "https://www.w3schools.com/css/",
+          "https://www.w3schools.com/java/default.asp",
           "https://www.w3schools.in/",
-          "https://app.w3schools.com/"
+          "https://en.wikipedia.org/wiki/W3Schools"
         ],
         "candidates": [
           "app.w3schools.com",
-          "campus.w3schools.com",
           "en.wikipedia.org",
           "nav.w3schools.com",
-          "w3schools.dev",
           "www.w3schools.com",
           "www.w3schools.in"
         ],
@@ -165987,172 +166008,185 @@
         "ownership_evidence": []
       },
       "WIX/WIX.yaml": {
-        "checked_at": "2026-10-31 16:45 UTC",
+        "checked_at": "2026-11-15 04:37 UTC",
         "name": "WIX",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.wix.com/",
           "https://users.wix.com/signin",
-          "https://www.wix.com/%22",
+          "https://www.wix.com/\"",
           "https://support.wix.com/en/article/logging-in-to-your-wix-account",
           "https://es.wix.com/",
-          "https://users.wix.com/signin?overrideLocale=pt",
-          "https://www.wix.com/website/design",
-          "https://www.wix.com/plans",
-          "https://www.wix.com/website/templates",
-          "https://fr.wix.com/"
+          "https://www.wixfilters.com/",
+          "https://support.wix.com/en",
+          "https://pt.wix.com/",
+          "https://vibe.wix.com/",
+          "https://en.wikipedia.org/wiki/Wix.com"
         ],
         "candidates": [
+          "en.wikipedia.org",
           "es.wix.com",
-          "fr.wix.com",
+          "pt.wix.com",
           "support.wix.com",
           "users.wix.com",
+          "vibe.wix.com",
           "wix.com",
-          "www.wix.com"
+          "www.wix.com",
+          "www.wixfilters.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "WanKaHuanJu/WanKaHuanJu.yaml": {
-        "checked_at": "2026-10-31 16:45 UTC",
+        "checked_at": "2026-11-15 04:37 UTC",
         "name": "WanKaHuanJu",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.merriam-webster.com/thesaurus/hate!",
-          "https://www.englishgrammar.org/best-synonyms-hate/",
-          "https://www.merriam-webster.com/thesaurus/hates",
-          "https://www.thesaurus.com/browse/%20hate",
-          "https://synonymspot.com/synonyms-of-hate/",
-          "https://synonymplanet.com/synonyms-of-hate/",
-          "https://www.collinsdictionary.com/us/dictionary/english-thesaurus/hate",
-          "https://responseasy.com/synonyms-for-hate/",
-          "https://synonymsgalaxy.com/hate-synonyms/",
-          "https://www.synonyms.com/synonym/hate%20"
+          "https://www.scribbr.com/citation/generator/apa/",
+          "https://www.scribbr.com/citation/generator/cite/newspaper-article/",
+          "https://www.scribbr.com/apa-style/in-text-citation/",
+          "https://www.scribbr.com/apa-examples/ted-talk/",
+          "https://www.scribbr.com/citation/generator/cite/presentation-slides/",
+          "https://www.scribbr.com/citation/generator/cite/data-set/",
+          "https://www.scribbr.com/proofreading-editing/apa-editing-services/",
+          "https://www.scribbr.com/citation/generator/cite/journal-article/",
+          "https://www.scribbr.com/citation/generator/cite/webpage/",
+          "https://www.scribbr.com/apa-style/reference-entry/"
         ],
         "candidates": [
-          "responseasy.com",
-          "synonymplanet.com",
-          "synonyms.com",
-          "synonymsgalaxy.com",
-          "synonymspot.com",
-          "thesaurus.com",
-          "www.collinsdictionary.com",
-          "www.englishgrammar.org",
-          "www.merriam-webster.com",
-          "www.synonyms.com",
-          "www.thesaurus.com"
+          "www.scribbr.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "WanMeiShiJie/WanMeiShiJie.yaml": {
-        "checked_at": "2026-10-31 16:45 UTC",
+        "checked_at": "2026-11-15 04:37 UTC",
         "name": "WanMeiShiJie",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.wikipedia.org/",
-          "https://en.wikipedia.org/wiki/Wikipedia",
-          "https://en.wikipedia.org/wiki/Main_Page",
-          "https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal",
-          "https://es.wikipedia.org/wiki/Wikipedia:Portada",
-          "https://it.wikipedia.org/wiki/Pagina_principale",
-          "https://de.wikipedia.org/wiki/Wikipedia:Hauptseite",
-          "https://es.wikipedia.org/wiki/Wikipedia_en_Espa%C3%B1ol",
-          "https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal",
-          "https://simple.wikipedia.org/wiki/Main_Page"
+          "https://www.youtube.com/",
+          "https://support.google.com/youtube/answer/157177?hl=en-gb&co=GENIE.Platform%3DDesktop",
+          "https://support.google.com/youtube/answer/9288567?hl=en-GB",
+          "https://obsproject.com/forum/tags/youtube/",
+          "https://obsproject.com/tr/downLOAD",
+          "https://support.google.com/youtube/answer/9879686?hl=nl&co=GENIE.Platform%3DDesktop",
+          "https://support.google.com/youtubetv/community-guide/294051734/understanding-the-youtube-tv-interface?hl=en",
+          "https://support.google.com/youtubetv/?hl=en",
+          "https://support.google.com/youtube/answer/174084?hl=en&co=GENIE.Platform%3Ddesktop",
+          "https://support.google.com/youtube/?hl=el"
         ],
         "candidates": [
-          "de.wikipedia.org",
-          "en.wikipedia.org",
-          "es.wikipedia.org",
-          "fr.wikipedia.org",
-          "it.wikipedia.org",
-          "pt.wikipedia.org",
-          "simple.wikipedia.org",
-          "www.wikipedia.org"
+          "obsproject.com",
+          "support.google.com",
+          "www.youtube.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Wanfang/Wanfang.yaml": {
-        "checked_at": "2026-10-31 16:45 UTC",
+        "checked_at": "2026-11-15 04:37 UTC",
         "name": "Wanfang",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.msn.com/en-us/news/other/alabama-democrats-say-this-election-is-their-best-chance-in-25-years-can-they-win/ar-AA2gp8y7"
+          "https://www.flylax.com/",
+          "https://www.skyscanner.com/routes/lasa/laxa/las-vegas-to-los-angeles.html",
+          "https://www.kayak.com/flight-routes/Las-Vegas-McCarran-LAS/Los-Angeles-LAX",
+          "https://www.skyscanner.com/routes/las/lax/harry-reid-to-los-angeles-international.html",
+          "https://www.skyscanner.net/routes/las/lax/harry-reid-international-to-los-angeles-international.html",
+          "https://www.travelocity.com/lp/flights/las/lax/harry-reid-intl-to-los-angeles-intl",
+          "https://www.flightroutes.com/LAS-LAX",
+          "https://www.expedia.ca/lp/flights/las/lax/las-vegas-to-los-angeles",
+          "https://www.google.com/travel/flights/flights-from-los-angeles-to-las-vegas.html",
+          "https://www.jetblue.com/en/flights-from-las-vegas-to-los-angeles"
         ],
         "candidates": [
-          "www.msn.com"
+          "expedia.ca",
+          "www.expedia.ca",
+          "www.flightroutes.com",
+          "www.flylax.com",
+          "www.google.com",
+          "www.jetblue.com",
+          "www.kayak.com",
+          "www.skyscanner.com",
+          "www.skyscanner.net",
+          "www.travelocity.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "WangSuKeJi/WangSuKeJi.yaml": {
-        "checked_at": "2026-10-31 16:45 UTC",
+        "checked_at": "2026-11-15 04:37 UTC",
         "name": "WangSuKeJi",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.zhihu.com/question/280889172",
-          "https://www.zhihu.com/topic/19618133/hot",
-          "https://www.zhihu.com/question/277724609/answers/updated",
-          "https://www.zhihu.com/question/2052643077081321839",
-          "https://www.zhihu.com/question/37459696",
-          "https://www.zhihu.com/question/278326367",
-          "https://www.zhihu.com/question/2060793804202971292",
-          "https://www.zhihu.com/question/347259620",
-          "https://www.zhihu.com/question/35296900",
-          "https://www.zhihu.com/question/264507012/answers/updated"
+          "https://www.reddit.com/r/VintageStory/comments/1bro9pw/cheesy_madness/",
+          "https://www.reddit.com/r/MovieDetails/comments/c0b8oj/in_the_neverending_story_bastians_dad_cracks_an/",
+          "https://support.google.com/accounts/thread/167847866/i-subscribe-to-raw-story-an-online-magazine-i-can-t-login-with-my-google-account?hl=en",
+          "https://support.google.com/youtube/answer/3015415?hl=en-GB",
+          "https://www.reddit.com/r/WWEGames/comments/15hgz3g/which_smackdown_vs_raw_is_your_favorite_and_why/",
+          "https://www.reddit.com/r/Amaburi/comments/6wvwjg/spoilers_final_manga_chapters_raw/",
+          "https://www.reddit.com/r/Wrasslin/comments/10b6i7o/whats_your_favorite_smackdown_vs_raw_game/",
+          "https://www.reddit.com/r/VintageStory/comments/1bx3wwl/why_is_this_not_cooking_its_raw_redmeat_and/",
+          "https://www.reddit.com/r/VintageStory/comments/16dd2bx/why_is_the_bow_so_ass/",
+          "https://www.reddit.com/r/VintageStory/comments/1dfeg53/im_about_to_start_my_first_winter_and_i_have/"
         ],
         "candidates": [
-          "www.zhihu.com"
+          "fire.as",
+          "support.google.com",
+          "www.reddit.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "WangXinKeJi/WangXinKeJi.yaml": {
-        "checked_at": "2026-10-31 16:45 UTC",
+        "checked_at": "2026-11-15 04:37 UTC",
         "name": "WangXinKeJi",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.aarp.org/states/virginia/",
-          "https://www.aarp.org/social-security/faq/what-is-my-social-security/",
-          "https://www.aarp.org/social-security/open-your-online-account/",
-          "https://www.aarp.org/social-security/faq/getting-copy-ssa-1099-tax-form/",
-          "https://www.aarp.org/social-security/ssa-sign-in-change-2024/",
-          "https://www.aarp.org/videos/social-security/6174064438001/",
-          "https://www.aarp.org/social-security/representative-payee/",
-          "https://www.aarp.org/social-security/faq/replacement-card/",
-          "https://www.aarp.org/money/retirement/financial-planning-in-your-50s/",
-          "https://www.aarp.org/espanol/jubilacion/seguro-social/preguntas-respuestas/obtener-formulario-de-impuestos-ssa-1099.html"
+          "https://www.skiptomylou.org/funny-jokes/",
+          "https://parade.com/1287449/marynliles/short-jokes/",
+          "https://jokeorbit.com/actually-funny-jokes/",
+          "https://www.countryliving.com/life/entertainment/a36178514/hilariously-funny-jokes/",
+          "https://www.mentalfloss.com/entertainment/100-funny-jokes-make-friends-laugh-out-loud",
+          "https://www.cosmopolitan.com/uk/lifestyle/a45035485/funny-jokes/",
+          "https://socialself.com/blog/jokes-friends/",
+          "https://www.buzzfeed.com/sarahaspler/best-jokes-people-have-ever-heard-round-up",
+          "https://www.wikihow.com/Long-Jokes",
+          "https://punscorner.com/guaranteed-jokes/"
         ],
         "candidates": [
-          "id.me",
-          "login.gov",
-          "ssa.gov",
-          "www.aarp.org"
+          "jokeorbit.com",
+          "parade.com",
+          "punscorner.com",
+          "socialself.com",
+          "www.buzzfeed.com",
+          "www.cosmopolitan.com",
+          "www.countryliving.com",
+          "www.mentalfloss.com",
+          "www.skiptomylou.org",
+          "www.wikihow.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "WeChat/WeChat.yaml": {
-        "checked_at": "2026-10-31 16:45 UTC",
+        "checked_at": "2026-11-15 04:37 UTC",
         "name": "WeChat",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.wechat.com/en/",
           "https://weixin.qq.com/",
           "https://web.wechat.com/",
-          "https://www.wechat.com/en/index.html",
-          "https://en.wikipedia.org/wiki/WeChat",
-          "https://pc.weixin.qq.com/?lang=en_US",
-          "https://wx.qq.com/",
           "https://web.wechat.com/?lang=zh_TW",
-          "https://play.google.com/store/apps/details?id=com.tencent.mm&hl=en-US"
+          "https://www.wechat.com/en/index.html",
+          "https://wx.qq.com/",
+          "https://en.wikipedia.org/wiki/WeChat",
+          "https://pc.weixin.qq.com/?lang=en_US"
         ],
         "candidates": [
           "en.wikipedia.org",
+          "login.web.wechat.com",
           "pc.weixin.qq.com",
-          "play.google.com",
           "web.wechat.com",
           "web1.wechat.com",
           "weixin.qq.com",
@@ -166163,247 +166197,248 @@
         "ownership_evidence": []
       },
       "WeTV/WeTV.yaml": {
-        "checked_at": "2026-10-31 16:45 UTC",
+        "checked_at": "2026-11-15 04:37 UTC",
         "name": "WeTV",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://wetv.vip/en/profile",
-          "https://tv.wetv.vip/",
           "https://www.wetv.com/",
-          "https://wetv.vip/",
-          "https://www.wetv.com/shows",
+          "https://tv.wetv.vip/",
+          "https://wetv.vip/en/live/1",
+          "https://www.wetv.com/live",
+          "https://explore.wetv.com/",
           "https://static.wetv.vip/tv/index.html",
-          "https://play.google.com/store/apps/details?id=com.tencent.qqlivei18n&hl=en-US",
-          "https://front.wetv.vip/static/download/index.html",
-          "https://en.wikipedia.org/wiki/We_TV"
+          "https://www.youtube.com/channel/UCiu3bj4rR8KOYcUA4KNkOAA",
+          "https://en.wikipedia.org/wiki/We_TV",
+          "https://www.wetv.com/shows"
         ],
         "candidates": [
           "en.wikipedia.org",
           "explore.wetv.com",
-          "front.wetv.vip",
-          "play.google.com",
           "static.wetv.vip",
           "tv.wetv.vip",
           "wetv.vip",
-          "www.wetv.com"
+          "www.wetv.com",
+          "www.youtube.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "WeType/WeType.yaml": {
-        "checked_at": "2026-10-31 16:45 UTC",
+        "checked_at": "2026-11-15 04:37 UTC",
         "name": "WeType",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.elpasotimes.com/",
-          "https://enewspaper.elpasotimes.com/",
-          "https://enewspaper.elpasotimes.com/?cnum=77097510-b678-e911-ac30-90b11c343abd&fod=1111111STD-0&selDate=20220216&licenseType=enterprise_subscriber",
-          "https://www.elpasotimes.com/news/",
-          "https://www.facebook.com/eptimes/",
-          "https://www.legacy.com/us/obituaries/local/texas/el-paso-area",
-          "https://www.elpasotimes.com/obituaries",
-          "https://www.dignitymemorial.com/obituaries/el-paso-tx",
-          "https://www.ktsm.com/",
-          "https://elpasomatters.org/latest-el-paso-news/"
+          "https://login.yahoo.com/",
+          "https://forum-en.msi.com/index.php?threads/msi-z790-bluetooth-connection-problem.385097/",
+          "https://forum-en.msi.com/index.php?threads/so-many-problems-with-mag-z890-tomahawk-wifi.407895/",
+          "https://forum-en.msi.com/index.php?threads/how-to-use-dragon-center-if-product-wasnt-registered.397972/",
+          "https://forum-en.msi.com/index.php?threads/hdmi-port-on-laptop-not-working.387148/",
+          "https://forum-en.msi.com/index.php?threads/secure-boot-not-working.374163/",
+          "https://forum-en.msi.com/index.php?threads/msi-center-2-0-19-0-stuck-at-sdk-initialization.386834/",
+          "https://forum-en.msi.com/index.php?threads/gt70-2oc-bios-update.254417/",
+          "https://forum-en.msi.com/index.php?threads/how-to-ensure-that-auto-cut-off-really-works-in-battery.295320/",
+          "https://forum-en.msi.com/index.php?threads/bootable-usb-device-not-recognized-in-bios-h4.386510/"
         ],
         "candidates": [
-          "elpasomatters.org",
-          "enewspaper.elpasotimes.com",
-          "legacy.com",
-          "www.dignitymemorial.com",
-          "www.elpasotimes.com",
-          "www.facebook.com",
-          "www.ktsm.com",
-          "www.legacy.com"
+          "0.0.03.exe",
+          "forum-en.msi.com",
+          "login.yahoo.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "WeiZhiYunDong/WeiZhiYunDong.yaml": {
-        "checked_at": "2026-11-01 04:03 UTC",
+        "checked_at": "2026-11-15 04:37 UTC",
         "name": "WeiZhiYunDong",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.walmart.com/",
-          "https://www.walmart.com/all-departments",
-          "https://www.walmart.com/browse",
-          "https://www.walmart.com/c/kp/online-grocery-shopping-all-departments",
-          "https://creator.walmart.com/account/login",
-          "https://www.walmart.com/c/kp/online-groceries-shopping-with-delivery",
-          "https://www.walmart.com/departments-list",
-          "https://www.walmart.com/c/kp/online-shopping",
-          "https://play.google.com/store/apps/details?id=com.walmart.android&hl=en-US",
-          "https://business.walmart.com/search?q=Walmart+shopping+online+all+departments"
+          "https://www.espn.com/college-football/scoreboard/_/group/90",
+          "https://www.ncaa.com/scoreboard/football/fbs",
+          "https://www.cbssports.com/college-football/scoreboard/",
+          "https://www.espn.com.sg/college-football/scoreboard/_/group/80",
+          "https://www.ncaa.com/scoreboard/football/fcs",
+          "https://sports.yahoo.com/college-football/scoreboard/",
+          "https://www.scoresandodds.com/ncaaf",
+          "https://www.foxsports.com/college-football/scores",
+          "https://sports.yahoo.com/college-football/",
+          "https://sportsdata.usatoday.com/football/ncaaf/scores"
         ],
         "candidates": [
-          "business.walmart.com",
-          "creator.walmart.com",
-          "play.google.com",
-          "walmart.com",
-          "www.walmart.com"
+          "foxsports.com",
+          "ncaa.com",
+          "sports.yahoo.com",
+          "sportsdata.usatoday.com",
+          "www.cbssports.com",
+          "www.espn.com",
+          "www.espn.com.sg",
+          "www.foxsports.com",
+          "www.ncaa.com",
+          "www.scoresandodds.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Weibo/Weibo.yaml": {
-        "checked_at": "2026-11-01 04:03 UTC",
+        "checked_at": "2026-11-15 04:37 UTC",
         "name": "Weibo",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://weibo.com/",
+          "https://www.weibo.com/",
           "https://weibo.com/login.php/",
           "https://m.weibo.cn/?lang=zh-Hans",
-          "https://en.wikipedia.org/wiki/Weibo",
-          "https://d.weibo.com/",
-          "https://h5.video.weibo.com/home",
+          "https://m.weibo.cn/",
           "https://video.weibo.com/login/login.html",
-          "https://en.wikipedia.org/wiki/Weibo_Corporation",
-          "https://s.weibo.cn/",
-          "https://s.weibo.com/"
+          "https://d.weibo.com/",
+          "https://apps.weibo.com/3158834234/8s2qevYU",
+          "https://vip.weibo.com/home",
+          "https://en.wikipedia.org/wiki/Weibo",
+          "https://s.weibo.com/top/summary?cate=realtimehot"
         ],
         "candidates": [
+          "apps.weibo.com",
           "d.weibo.com",
           "en.wikipedia.org",
-          "h5.video.weibo.com",
           "m.weibo.cn",
-          "s.weibo.cn",
           "s.weibo.com",
-          "t.cn",
           "t.sina.com.cn",
           "video.weibo.com",
-          "weibo.com"
+          "vip.weibo.com",
+          "weibo.com",
+          "www.weibo.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "WenJuanXing/WenJuanXing.yaml": {
-        "checked_at": "2026-11-01 04:03 UTC",
+        "checked_at": "2026-11-15 04:37 UTC",
         "name": "WenJuanXing",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.cricinfo.com/team/india-6/match-schedule-fixtures-and-results",
-          "https://sports.ndtv.com/cricket/teams/6-india-teamprofile/schedules-fixtures",
-          "https://www.cricbuzz.com/cricket-team/india/2",
-          "https://www.espn.com/cricket/team/_/id/6/india",
-          "https://www.espn.com/cricket/scores/team/6/india",
-          "https://www.sportpreferred.com/cricket/india-odi-schedule-till-2027/4131",
-          "https://www.cricbuzz.com/cricket-schedule/upcoming-series/all",
-          "https://www.bcci.tv/matches",
-          "https://www.timesnownews.com/sports/indias-schedule-at-asian-games-2026-september-23-full-list-of-events-timing-medal-action-article-156204058",
-          "https://www.cricketnews.com/en/cricket/news/india-world-cup-2027-schedule-matches-dates-venues-timings/3b0558ae5e35540197286bc0"
+          "https://support.google.com/a/answer/174124?Hl=en",
+          "https://support.google.com/mail/answer/8494?hl=en&co=genie.platform=desktop",
+          "https://forums.xfinity.com/conversations/email/cant-sign-into-email-using-outlook/67c37a0604f4cf33964b321e",
+          "https://forums.xfinity.com/conversations/email/starting-on-november-21-gmailify-is-not-able-to-connect-to-my-comcast-account-to-retrieve-my-messages-to-gmail/674e94552efed25d1c18354a",
+          "https://support.google.com/mail/answer/8494?hl=sv-se&co=GENIE.Platform%3DDesktop",
+          "https://support.google.com/mail/thread/61045166/why-do-some-emails-have-sender%E2%80%99s-initials-in-the-round-circle-and-some-have-an-empty-blue-avatar-i?hl=en",
+          "https://support.google.com/mail/answer/8494?hl=en-IN&co=GENIE.Platform%3DDesktop",
+          "https://support.google.com/mail/answer/56256?hl=id",
+          "https://support.google.com/mail/?hl=en",
+          "https://support.google.com/a/answer/33327?hl=en"
         ],
         "candidates": [
-          "cricbuzz.com",
-          "espn.com",
-          "sports.ndtv.com",
-          "www.bcci.tv",
-          "www.cricbuzz.com",
-          "www.cricinfo.com",
-          "www.cricketnews.com",
-          "www.espn.com",
-          "www.sportpreferred.com",
-          "www.timesnownews.com"
+          "forums.xfinity.com",
+          "support.google.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Westerndigital/Westerndigital.yaml": {
-        "checked_at": "2026-11-01 04:03 UTC",
+        "checked_at": "2026-11-15 04:37 UTC",
         "name": "Westerndigital",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.bk.com/store-locator/store/restaurant_3177",
-          "https://www.bk.com/store-locator/store/3578/",
-          "https://menuwithpricesonline.com/burger-king-menu/wi/west-allis/10042/",
-          "https://www.yelp.com/biz/burger-king-west-allis",
-          "https://www.chamberofcommerce.com/business-directory/wisconsin/west-allis/fast-food-restaurant/6321906-burger-king",
-          "https://www.yelp.com/biz/burger-king-west-allis-2",
-          "https://www.restaurantji.com/wi/west-allis/burger-king-/",
-          "https://www.storeopeninghours.com/burger-king-south-108-street-west-allis-wi",
-          "https://www.chamberofcommerce.com/business-directory/wisconsin/west-allis/fast-food-restaurant/6426032-burger-king",
-          "https://www.storeopeninghours.com/burger-king-greenfield-ave-and-s-70th-st-west-allis-wi"
+          "https://www.microsoft.com/en-us/",
+          "https://www.microsoft.com/",
+          "https://account.microsoft.com/account",
+          "https://myaccount.microsoft.com/",
+          "https://account.microsoft.com/account-checkup",
+          "https://myaccount.microsoft.com/login",
+          "https://m365.cloud.microsoft/",
+          "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365",
+          "https://apps.microsoft.com/",
+          "https://entra.microsoft.com/auth/login/"
         ],
         "candidates": [
-          "menuwithpricesonline.com",
-          "www.bk.com",
-          "www.chamberofcommerce.com",
-          "www.restaurantji.com",
-          "www.storeopeninghours.com",
-          "www.yelp.com"
+          "account.microsoft.com",
+          "apps.microsoft.com",
+          "entra.microsoft.com",
+          "m365.cloud.microsoft",
+          "myaccount.microsoft.com",
+          "support.microsoft.com",
+          "www.microsoft.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Whatsapp/Whatsapp.yaml": {
-        "checked_at": "2026-11-01 04:03 UTC",
+        "checked_at": "2026-11-15 04:37 UTC",
         "name": "Whatsapp",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.whatsapp.com/",
-          "https://www.whatsapp.com/download",
           "https://web.whatsapp.com/",
+          "https://www.whatsapp.com/download",
           "https://wa.me/",
-          "https://play.google.com/store/apps/details?id=com.whatsapp&hl=en-US",
           "https://en.wikipedia.org/wiki/WhatsApp",
-          "https://www.whatsapp.com/download/desktop?lang=en",
-          "https://www.whatsapp.com/messaging",
-          "https://apps.microsoft.com/detail/9nksqgp7f2nh?hl=en-US&gl=US",
-          "https://www.whatsapp.com/download/mobile"
+          "https://x.com/WhatsApp",
+          "https://play.google.com/store/apps/details?id=com.whatsapp&hl=en_US",
+          "https://faq.whatsapp.com/",
+          "https://www.meta.com/whatsapp/",
+          "https://www.youtube.com/watch?v=2TMbwdIexcE"
         ],
         "candidates": [
-          "apps.microsoft.com",
           "en.wikipedia.org",
+          "faq.whatsapp.com",
           "play.google.com",
           "wa.me",
           "web.whatsapp.com",
-          "www.whatsapp.com"
+          "www.meta.com",
+          "www.whatsapp.com",
+          "www.youtube.com",
+          "x.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "WiFiMaster/WiFiMaster.yaml": {
-        "checked_at": "2026-11-01 04:03 UTC",
+        "checked_at": "2026-11-15 04:37 UTC",
         "name": "WiFiMaster",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.timeanddate.com/time/change/australia?year=2026",
-          "https://www.timeanddate.com/time/change/canada?year=2026",
-          "https://www.timeanddate.com/news/time/dst-season-spring-2026.html",
-          "https://www.timeanddate.com/time/change/new-zealand?year=2026",
-          "https://www.timeanddate.com/time/change/usa/chicago?year=2026",
-          "https://www.timeanddate.com/time/change/new-zealand/auckland?year=2026",
-          "https://www.timeanddate.com/time/change/germany?year=2026",
-          "https://www.timeanddate.com/news/time/alberta-permanent-dst.html",
-          "https://www.timeanddate.com/news/time/dst-season-fall-2026.html",
-          "https://www.timeanddate.com/time/change/usa/atlanta?year=2026"
+          "https://mail.google.com/mail",
+          "https://support.google.com/mail/thread/376693886/gmail-login-issues-region-not-supported?hl=en",
+          "https://support.google.com/mail/answer/12095?hl=en&co=GENIE.Platform%3DDesktop",
+          "https://discussions.apple.com/thread/254817395",
+          "https://discussions.apple.com/thread/254984982",
+          "https://support.google.com/mail/answer/8494?hl=id&co=GENIE.Platform%3DDesktop",
+          "https://support.google.com/mail/answer/8494?hl=pt-BR&co=GENIE.Platform%3DDesktop",
+          "https://support.google.com/mail/answer/8494?hl=en-GB&co=GENIE.Platform%3DDesktop",
+          "https://support.google.com/mail/answer/8494?hl=en-Link&co=GENIE.Platform%3DDesktop",
+          "https://support.google.com/mail/?hl=de"
         ],
         "candidates": [
-          "timeanddate.com",
-          "www.timeanddate.com"
+          "discussions.apple.com",
+          "gmail.com",
+          "mail.google.com",
+          "support.google.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Wikimedia/Wikimedia.yaml": {
-        "checked_at": "2026-11-01 04:03 UTC",
+        "checked_at": "2026-11-15 04:37 UTC",
         "name": "Wikimedia",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://commons.wikimedia.org/wiki/Main_Page",
           "https://www.wikimedia.org/",
-          "https://en.wikipedia.org/wiki/Wikimedia_Foundation",
-          "https://wikimediafoundation.org/",
-          "https://commons.wikimedia.org/wiki/Category:Images",
-          "https://wikimediafoundation.org/what-we-do/wikimedia-projects/commons/",
-          "https://www.wikipedia.org/",
-          "https://commons.wikimedia.org/wiki/Accueil",
+          "https://commons.wikimedia.org/wiki/Main_Page",
           "https://commons.wikimedia.org/wiki/Category:Videos",
-          "https://en.wikipedia.org/wiki/Wikimedia_Commons"
+          "https://idp.wikimedia.org/",
+          "https://en.wikipedia.org/wiki/Wikimedia_Foundation",
+          "https://www.wikimedia.com/",
+          "https://wikimediafoundation.org/",
+          "https://wikimedia.ch/en/",
+          "https://www.wikipedia.org/",
+          "https://wikimediafoundation.org/what-we-do/wikimedia-projects/commons/"
         ],
         "candidates": [
           "commons.wikimedia.org",
           "en.wikipedia.org",
+          "idp.wikimedia.org",
+          "wikimedia.ch",
           "wikimediafoundation.org",
+          "www.wikimedia.com",
           "www.wikimedia.org",
           "www.wikipedia.org"
         ],
