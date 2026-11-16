@@ -1,7 +1,7 @@
 {
   "upstream": "https://github.com/blackmatrix7/ios_rule_script",
   "revision": "0b6897dc17e0c513d25449c935a9694818e32f0c",
-  "date": "2026-11-15 18:26 UTC",
+  "date": "2026-11-16 04:32 UTC",
   "collections": {
     "rule/Clash/115/115.yaml": {
       "input": 10,
@@ -149018,8 +149018,8 @@
   ],
   "discovery": {
     "engine": "Bing public RSS",
-    "checked_at": "2026-11-15 18:26 UTC",
-    "next_index": 655,
+    "checked_at": "2026-11-16 04:32 UTC",
+    "next_index": 679,
     "attempted": 24,
     "total_collections": 689,
     "verified_additions": {
@@ -167110,29 +167110,31 @@
         "ownership_evidence": []
       },
       "YouTube/YouTube.yaml": {
-        "checked_at": "2026-11-01 17:34 UTC",
+        "checked_at": "2026-11-16 04:32 UTC",
         "name": "YouTube",
         "status": "checked",
         "sources": [
           "https://www.youtube.com/",
+          "https://www.facebook.com/youtube/",
+          "https://about.youtube/",
+          "https://en.wikipedia.org/wiki/YouTube_(YouTube_channel)",
+          "https://blog.youtube/",
+          "https://en.wikipedia.org/wiki/YouTube",
           "https://www.youtube.com/youtube",
-          "https://www.youtube.com/%23/",
-          "https://www.youtube.com/feed",
-          "https://www.youtube.com/@en.---",
-          "https://www.youtube.com/@---_-_",
-          "https://music.youtube.com/%EF%BB%BF",
+          "https://www.britannica.com/topic/YouTube",
           "https://accounts.google.com/InteractiveLogin?service=youtube",
-          "https://music.youtube.com/explore",
-          "https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en-US"
+          "https://en.wikipedia.org/wiki/History_of_YouTube"
         ],
         "candidates": [
+          "about.youtube",
           "accounts.google.com",
-          "music.youtube.com",
-          "play.google.com",
+          "blog.youtube",
+          "en.wikipedia.org",
+          "www.britannica.com",
+          "www.facebook.com",
           "www.youtube.com"
         ],
         "accepted": [
-          "music.youtube.com",
           "www.youtube.com"
         ],
         "ownership_evidence": [
@@ -167140,19 +167142,19 @@
         ]
       },
       "YouTubeMusic/YouTubeMusic.yaml": {
-        "checked_at": "2026-11-01 17:34 UTC",
+        "checked_at": "2026-11-16 04:32 UTC",
         "name": "YouTubeMusic",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://music.youtube.com/",
+          "https://www.youtube.com/music",
           "https://music.youtube.com/explore",
           "https://www.youtube.com/youtube%20-MUSIC",
           "https://www.youtube.com/feed/youtubemusic",
-          "https://www.youtube.com/channel/UCB1lnXfEjwtfLYwZSadksrA",
-          "https://www.youtube.com/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ",
           "https://music.youtube.com/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ",
+          "https://www.youtube.com/YouTube/music",
+          "https://www.youtube.com/channel/UCB1lnXfEjwtfLYwZSadksrA",
           "https://music.youtube.com/channel/UCStaiwu-FAgp_RC_tBiLh9A",
-          "https://music.youtube.com/new_releases/videos",
           "https://music.youtube.com/library"
         ],
         "candidates": [
@@ -167164,56 +167166,58 @@
         "ownership_evidence": []
       },
       "YouZan/YouZan.yaml": {
-        "checked_at": "2026-11-01 17:34 UTC",
+        "checked_at": "2026-11-16 04:32 UTC",
         "name": "YouZan",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://studentaid.gov/h/apply-for-aid/fafsa",
-          "https://studentaid.gov/fsa-id/sign-in",
-          "https://login.studentaid.gov/",
-          "https://cri.studentaid.gov/welcome",
-          "https://aidvantage.studentaid.gov/contact-us",
-          "https://aidvantage.studentaid.gov/",
-          "https://mohela.studentaid.gov/DL/FAQs/DLNewUser.aspx",
-          "https://cri.studentaid.gov/account/login",
-          "https://studentaid.gov/es/help/fafsa",
-          "https://studentaid.gov/help-center/contact"
+          "https://dungarees.com/",
+          "https://dungarees.com/customer-service/contact",
+          "https://www.facebook.com/Dungareesclothing/",
+          "https://www.chamberofcommerce.com/business-directory/missouri/columbia/work-clothes-store/2002711498-dungarees",
+          "https://www.libertysafesofmissouri.com/",
+          "https://www.loc8nearme.com/missouri/columbia/dungarees/3050126/",
+          "https://www.locally.com/store/89080/dungarees",
+          "https://www.libertysafesofmissouri.com/support/contact-us",
+          "https://www.visitcolumbiamo.com/directory/dungarees/",
+          "https://directory.discoverthedistrict.com/business/dungarees/"
         ],
         "candidates": [
-          "aidvantage.studentaid.gov",
-          "cri.studentaid.gov",
-          "login.studentaid.gov",
-          "mohela.studentaid.gov",
-          "studentaid.gov"
+          "directory.discoverthedistrict.com",
+          "dungarees.com",
+          "www.chamberofcommerce.com",
+          "www.facebook.com",
+          "www.libertysafesofmissouri.com",
+          "www.loc8nearme.com",
+          "www.locally.com",
+          "www.visitcolumbiamo.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Youku/Youku.yaml": {
-        "checked_at": "2026-11-01 17:34 UTC",
+        "checked_at": "2026-11-16 04:32 UTC",
         "name": "Youku",
         "status": "needs_ownership_evidence",
         "sources": [
+          "https://www.youku.tv/?lang=en_US",
           "https://www.youku.com/",
           "https://youku.com/product/index",
           "https://tv.youku.com/",
-          "https://www.youtube.com/@youkuenglish",
           "https://so.youku.com/search/q_%E4%BC%98%E9%85%B7%E5%AE%98%E7%BD%91",
-          "https://en.m.wikipedia.org/wiki/Youku",
-          "https://play.google.com/store/apps/details?id=com.youku.international.phone&hl=en-US",
+          "https://www.youku.tv/page/usc/index",
           "https://v.youku.com/",
-          "https://www.youtube.com/@youku-official"
+          "https://www.youtube.com/@youkuenglish",
+          "https://play.google.com/store/apps/details?id=com.youku.international.phone&hl=en-US",
+          "https://user.youku.com/"
         ],
         "candidates": [
-          "56.com",
-          "app.thank",
-          "en.m.wikipedia.org",
-          "h5.m.youku.com",
           "play.google.com",
           "so.youku.com",
           "tv.youku.com",
+          "user.youku.com",
           "v.youku.com",
           "www.youku.com",
+          "www.youku.tv",
           "www.youtube.com",
           "youku.com"
         ],
@@ -167221,109 +167225,104 @@
         "ownership_evidence": []
       },
       "YuanFuDao/YuanFuDao.yaml": {
-        "checked_at": "2026-11-01 17:34 UTC",
+        "checked_at": "2026-11-16 04:32 UTC",
         "name": "YuanFuDao",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://localknowledge.tv/",
-          "https://localknowledge.tv/capt-ali-hussainy/",
-          "https://localknowledge.tv/capt-rush-maltz/",
-          "https://localknowledge.tv/episodes/",
-          "https://localknowledge.tv/category/news/",
-          "https://localknowledge.tv/author/scottgoodwin/",
-          "https://localknowledge.tv/2017/02/about-the-show/",
-          "https://localknowledge.tv/episode/s3e12-its-been-real/",
-          "https://localknowledge.tv/portfolio-item/season-7-9/",
-          "https://localknowledge.tv/2017/05/local-knowledge-grab-bag-preview/"
+          "https://www.espn.com/nhl/team/_/name/chi/chicago-blackhawks",
+          "https://www.espn.com/nhl/game/_/gameId/401802947/blackhawks-stars",
+          "https://www.espn.com/nhl/standings",
+          "https://www.espn.com/nhl/boxscore/_/gameId/401892496",
+          "https://www.espn.com/nhl/game/_/gameId/401891779/blues-blackhawks",
+          "https://www.espn.com/nhl/team/schedule/_/name/chi/chicago-blackhawks",
+          "https://www.espn.com/nhl/team/stats/_/name/chi/chicago-blackhawks",
+          "https://www.espn.com/nhl/team/injuries/_/name/chi/chicago-blackhawks",
+          "https://www.espn.com/nhl/game/_/gameId/401687635/blackhawks-oilers",
+          "https://www.espn.com/nhl/game/_/gameId/401892512/jets-blackhawks"
         ],
         "candidates": [
-          "localknowledge.tv"
+          "www.espn.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "YunFanJiaSu/YunFanJiaSu.yaml": {
-        "checked_at": "2026-11-01 17:34 UTC",
+        "checked_at": "2026-11-16 04:32 UTC",
         "name": "YunFanJiaSu",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.microsoft.com/en-us/",
-          "https://account.microsoft.com/account",
-          "https://www.microsoft.com/",
-          "https://myaccount.microsoft.com/",
-          "https://myaccount.microsoft.com/login",
-          "https://en.wikipedia.org/wiki/Microsoft",
-          "https://account.microsoft.com/account-checkup",
-          "https://m365.cloud.microsoft/?origindomain=Office",
-          "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365",
-          "https://outlook.office.com/mail/inbox"
+          "https://community.qvc.com/t5/Kitchen/Tara-Mcconnel-I-always-thought-Lisa-was-her-sister-am-I-wrong/td-p/503431",
+          "https://community.qvc.com/t5/Today-s-Special-Value/QVC-Sizing-vs-HSN-Sizing/td-p/7920460",
+          "https://community.qvc.com/t5/Q-Talk/Carrie-Brescia-Cuddl-Duds/td-p/8061404",
+          "https://community.qvc.com/t5/Q-Talk/Your-TOP-5-Favorite-QVC-hosts-in-order/td-p/8761599",
+          "https://community.qvc.com/t5/Beauty/Where-is-Mally/td-p/8925271",
+          "https://community.qvc.com/t5/Beauty/Josie-Maran-discontinued-products/td-p/8769821",
+          "https://community.qvc.com/t5/Q-Talk/Dara-Lynn-of-Philosophy-Post-Today-9-19-2025/td-p/8961742",
+          "https://community.qvc.com/t5/Q-Talk/Ashley-Thayer-Brand-Ambassador-for-Women-With-Control-Just-Said/td-p/9222248",
+          "https://community.qvc.com/t5/Blogs/Meet-the-Model-Katia-Bassou/ba-p/1856085"
         ],
         "candidates": [
-          "account.microsoft.com",
-          "en.wikipedia.org",
-          "m365.cloud.microsoft",
-          "myaccount.microsoft.com",
-          "outlook.office.com",
-          "support.microsoft.com",
-          "www.microsoft.com"
+          "community.qvc.com",
+          "www.qvc.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "ZDNS/ZDNS.yaml": {
-        "checked_at": "2026-11-01 17:34 UTC",
+        "checked_at": "2026-11-16 04:32 UTC",
         "name": "ZDNS",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://ignitra.colibrim.net/",
-          "https://ignitra.mediprimes.com/",
-          "https://ignitra.businesscoachingforyou.com/",
-          "https://medidime.com/wellness-goals/weight-loss-guides/low-calorie-meal-planning-tips/how-to-compare-supplements-for-low-calorie-meal-planning-tips-buy-295",
-          "https://buynusa.com/",
-          "https://medidime.com/weight-loss/ignitra-boost-your-metabolism-for-faster-fat-burning-buy-98",
-          "https://www.consumerhealthdigest.com/weight-loss-reviews/ignitra.html",
-          "https://www.amazon.com/ignitra/s?k=ignitra",
-          "https://www.supplementmag.com/ignitra-review/",
-          "https://www.newswire.com/view/content/ignitra-metabolic-support-supplement-explained-science-backed-pathways-22598573"
+          "https://www.speedtest.net/",
+          "https://gfiber.com/speedtest/",
+          "https://speed.measurementlab.net/",
+          "https://interprefy.speedtestcustom.com/",
+          "https://www.speedtest.org/",
+          "https://www.verizon.com/speedtest/",
+          "https://fast.com/",
+          "https://www.spectrum.com/internet/speed-test",
+          "https://www.att.com/support/speedtest/",
+          "https://speed.cloudflare.com/"
         ],
         "candidates": [
-          "amazon.com",
-          "buynusa.com",
-          "ignitra.businesscoachingforyou.com",
-          "ignitra.colibrim.net",
-          "ignitra.mediprimes.com",
-          "medidime.com",
-          "www.amazon.com",
-          "www.consumerhealthdigest.com",
-          "www.newswire.com",
-          "www.supplementmag.com"
+          "fast.com",
+          "gfiber.com",
+          "interprefy.speedtestcustom.com",
+          "speed.cloudflare.com",
+          "speed.measurementlab.net",
+          "speedtest.org",
+          "www.att.com",
+          "www.spectrum.com",
+          "www.speedtest.net",
+          "www.speedtest.org",
+          "www.verizon.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Zalo/Zalo.yaml": {
-        "checked_at": "2026-11-01 17:34 UTC",
+        "checked_at": "2026-11-16 04:32 UTC",
         "name": "Zalo",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://chat.zalo.me/",
+          "https://en.wikipedia.org/wiki/Zalo",
           "https://zalo.me/pc",
           "https://play.google.com/store/apps/details?id=com.zing.zalo&hl=en-US",
-          "https://en.wikipedia.org/wiki/Zalo",
+          "https://www.zalo.im/en/",
+          "https://zalo.en.softonic.com/",
+          "https://www.zalo.im/en/help",
           "https://help.zalo.me/huong-dan/chuyen-muc/moi-bat-dau/tai-zalo-mien-phi/",
-          "https://apps.apple.com/vn/app/zalo/id579523206",
-          "https://zalo.me/ott/",
-          "https://play.google.com/store/apps/details?id=com.zing.zalo&hl=vi",
-          "https://apkpure.com/zalo/com.zing.zalo",
-          "https://zalo.en.softonic.com/"
+          "https://zalo-zw.com/",
+          "https://zalo.en.softonic.com/android"
         ],
         "candidates": [
-          "apkpure.com",
-          "apps.apple.com",
           "chat.zalo.me",
           "en.wikipedia.org",
           "help.zalo.me",
           "play.google.com",
+          "www.zalo.im",
+          "zalo-zw.com",
           "zalo.en.softonic.com",
           "zalo.me"
         ],
@@ -167331,78 +167330,137 @@
         "ownership_evidence": []
       },
       "Zee/Zee.yaml": {
-        "checked_at": "2026-11-01 17:34 UTC",
+        "checked_at": "2026-11-16 04:32 UTC",
         "name": "Zee",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.zee5.com/",
-          "https://www.zee5.com/tv-shows",
+          "https://www.zee5.com/signin",
+          "https://en.m.wikipedia.org/wiki/Zee_Entertainment_Enterprises",
+          "https://en.m.wikipedia.org/wiki/Zee_TV",
+          "https://www.zee.com/",
           "https://www.youtube.com/zeetv/featured",
           "https://www.youtube.com/@ZEE5",
           "https://play.google.com/store/apps/details?id=com.graymatrix.did&hl=en-US",
-          "https://en.wikipedia.org/wiki/Zee_Entertainment_Enterprises",
-          "https://en.wikipedia.org/wiki/Zee_TV",
-          "https://www.zee.com/",
-          "https://lg.zee5.com/",
-          "https://www.zeetvusa.com/"
+          "https://english.zeenews.com/",
+          "https://zee-official.com/"
         ],
         "candidates": [
-          "en.wikipedia.org",
-          "here.great",
-          "lg.zee5.com",
+          "en.m.wikipedia.org",
+          "english.zeenews.com",
           "play.google.com",
-          "roll.from",
           "www.youtube.com",
           "www.zee.com",
           "www.zee5.com",
-          "www.zeetvusa.com"
+          "zee-official.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "ZeeTV/ZeeTV.yaml": {
-        "checked_at": "2026-11-01 17:34 UTC",
+        "checked_at": "2026-11-16 04:32 UTC",
         "name": "ZeeTV",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.zee5.com/",
-          "https://www.zee5.com/live-tv/zee-tv/0-9-zeetv",
-          "https://www.zeetvusa.com/",
-          "https://www.youtube.com/@zeetv",
-          "https://en.wikipedia.org/wiki/Zee_TV",
-          "https://www.yupptv.com/channels/zee-tv/live",
-          "https://www.youtube.com/channel/UCqSlPR1Da1S8_hhMcQnRSuw",
-          "https://play.google.com/store/apps/details?id=com.graymatrix.did&hl=en-US",
-          "https://www.zeetvusa.com/all-channels/",
-          "https://www.yupptv.com/channels/zee-tv"
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9392842/",
+          "https://www.elevancehealth.com/content/dam/elevance-health/articles/ppi_assets/reports/PPI_Telemedicine_in_Rural_Areas.pdf",
+          "https://www.sciencedirect.com/science/article/pii/S305083712500027X",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC13383467/",
+          "https://www.elevancehealth.com/public-policy-institute/telemedicine-in-rural-communities",
+          "https://ray.yorksj.ac.uk/id/eprint/11579/1/1-s2.0-S2949953425000050-main.pdf",
+          "https://www.sciencedirect.com/org/science/article/pii/S143888712100844X",
+          "https://medcitynews.com/2026/08/report-telehealth-uptake-is-lagging-in-rural-areas/",
+          "https://www.deloitte.com/us/en/insights/industry/government-public-sector-services/virtual-health-telemedicine-rural-areas.html",
+          "https://www.ajmc.com/view/telemedicine-utilization-and-preventive-services-among-a-rural-population"
         ],
         "candidates": [
-          "en.wikipedia.org",
-          "play.google.com",
-          "www.youtube.com",
-          "www.yupptv.com",
-          "www.zee5.com",
-          "www.zeetelevision.com",
-          "www.zeetvusa.com"
+          "medcitynews.com",
+          "pmc.ncbi.nlm.nih.gov",
+          "ray.yorksj.ac.uk",
+          "www.ajmc.com",
+          "www.deloitte.com",
+          "www.elevancehealth.com",
+          "www.sciencedirect.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Zendesk/Zendesk.yaml": {
-        "checked_at": "2026-11-01 17:34 UTC",
+        "checked_at": "2026-11-16 04:32 UTC",
         "name": "Zendesk",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.microsoft.com/en-us/",
+          "https://www.zendesk.com/",
+          "https://www.zendesk.com/login/",
+          "https://yourcompany.zendesk.com/access/unauthenticated",
+          "https://en.wikipedia.org/wiki/Zendesk",
+          "https://support.zendesk.com/hc/en-us",
+          "https://www.zendesk.co.uk/",
+          "https://oauth-bridge.zendesk.com/oauth_bridge/start",
+          "https://www.zendesk.co.jp/",
+          "https://support.zendesk.com/hc/en-us/articles/4409155145242-Welcome-to-the-Zendesk-Help-Center-support-zendesk-com",
+          "https://www.zendesk.co.uk/lp/brand/"
+        ],
+        "candidates": [
+          "en.wikipedia.org",
+          "oauth-bridge.zendesk.com",
+          "support.zendesk.com",
+          "www.zendesk.co.jp",
+          "www.zendesk.co.uk",
+          "www.zendesk.com",
+          "yourcompany.zendesk.com",
+          "zendesk.co.uk",
+          "zendesk.com"
+        ],
+        "accepted": [],
+        "ownership_evidence": []
+      },
+      "ZhangYue/ZhangYue.yaml": {
+        "checked_at": "2026-11-16 04:32 UTC",
+        "name": "ZhangYue",
+        "status": "needs_ownership_evidence",
+        "sources": [
+          "https://www.answers.com/general-arts-and-entertainment/What_color_are_Arnold_Schwarzenegger%27s_eyes",
+          "https://nbkomputer.com/arnold-schwarzenegger-eye-color-enigma-of-his-eye-color/",
+          "https://nbkomputer.com/arnold-schwarzenegger-eye-color-deciphering-the-enigma/",
+          "https://www.famousfix.com/topic/arnold-schwarzenegger",
+          "https://wiki.rschooltoday.com/filedownload.ashx/HomePages/595/496/aL0D4K/ArnoldSchwarzeneggerEyeColor.pdf",
+          "https://leakbio.com/arnold-schwarzenegger-eye-color/",
+          "https://healthyceleb.com/arnold-schwarzenegger/",
+          "https://www.instagram.com/popular/arnold-schwarzenegger-eyes/",
+          "https://spotsmedia16.blogspot.com/2025/04/arnold-schwarzeneggers-eye-color-truth.html",
+          "https://en.wikipedia.org/wiki/Arnold_Schwarzenegger"
+        ],
+        "candidates": [
+          "en.wikipedia.org",
+          "healthyceleb.com",
+          "leakbio.com",
+          "nbkomputer.com",
+          "spotsmedia16.blogspot.com",
+          "wiki.rschooltoday",
+          "wiki.rschooltoday.com",
+          "www.answers.com",
+          "www.famousfix.com",
+          "www.instagram.com"
+        ],
+        "accepted": [],
+        "ownership_evidence": []
+      },
+      "ZhiYinManKe/ZhiYinManKe.yaml": {
+        "checked_at": "2026-11-16 04:32 UTC",
+        "name": "ZhiYinManKe",
+        "status": "needs_ownership_evidence",
+        "sources": [
+          "https://www.microsoft.com/en-us",
           "https://account.microsoft.com/account",
-          "https://www.microsoft.com/",
-          "https://en.wikipedia.org/wiki/Microsoft",
           "https://myaccount.microsoft.com/",
-          "https://myaccount.microsoft.com/login",
+          "https://m365.cloud.microsoft/",
           "https://account.microsoft.com/account-checkup",
-          "https://m365.cloud.microsoft/?origindomain=Office",
           "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365",
-          "https://apps.microsoft.com/"
+          "https://myaccount.microsoft.com/login",
+          "https://apps.microsoft.com/",
+          "https://mysignins.microsoft.com/",
+          "https://en.wikipedia.org/wiki/Microsoft"
         ],
         "candidates": [
           "account.microsoft.com",
@@ -167410,267 +167468,209 @@
           "en.wikipedia.org",
           "m365.cloud.microsoft",
           "myaccount.microsoft.com",
+          "mysignins.microsoft.com",
           "support.microsoft.com",
           "www.microsoft.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
-      "ZhangYue/ZhangYue.yaml": {
-        "checked_at": "2026-11-01 17:34 UTC",
-        "name": "ZhangYue",
-        "status": "needs_ownership_evidence",
-        "sources": [
-          "https://www.wordplays.com/crossword-solver/festival-following-ramadan",
-          "https://www.wordhint.net/crossword-clue/nyt-midi/post-ramadan-festival-that-translates-to-festival/",
-          "https://www.wordplays.com/crossword-solver/Festival-following-Ramadan,-informally",
-          "https://nytcrosswordanswers.org/festival-following-ramadan-informally-crossword-clue/",
-          "https://nytcrossword.org/nyt-clues/festival-at-the-end-of-ramadan-informally-nyt-crossword/",
-          "https://nytcrosswordanswers.com/festival-following-ramadan-informally-crossword-clue",
-          "https://nytcrossword.org/midi-clue/post-ramadan-festival-that-translates-to-festival-nyt-crossword/",
-          "https://crossword-solver.io/clue/festival-following-ramadan-informally/",
-          "https://tryhardguides.com/festival-following-ramadan-informally-crossword-clue/",
-          "https://www.danword.com/crossword/Post_Ramadan_festival_3v7d"
-        ],
-        "candidates": [
-          "crossword-solver.io",
-          "nytcrossword.org",
-          "nytcrosswordanswers.com",
-          "nytcrosswordanswers.org",
-          "tryhardguides.com",
-          "wordplays.com",
-          "www.danword.com",
-          "www.wordhint.net",
-          "www.wordplays.com"
-        ],
-        "accepted": [],
-        "ownership_evidence": []
-      },
-      "ZhiYinManKe/ZhiYinManKe.yaml": {
-        "checked_at": "2026-11-01 17:34 UTC",
-        "name": "ZhiYinManKe",
-        "status": "needs_ownership_evidence",
-        "sources": [
-          "https://nativeamericanheritagemonth.gov/ExhibitsandCollections.html",
-          "https://nativeamericanheritagemonth.gov/About.html",
-          "https://nativeamericanheritagemonth.gov/"
-        ],
-        "candidates": [
-          "nativeamericanheritagemonth.gov"
-        ],
-        "accepted": [],
-        "ownership_evidence": []
-      },
       "ZhiYunZhong/ZhiYunZhong.yaml": {
-        "checked_at": "2026-11-01 17:34 UTC",
+        "checked_at": "2026-11-16 04:32 UTC",
         "name": "ZhiYunZhong",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://login.aol.com/?lang=en-gb&intl=us",
-          "https://login.aol.com/?src=mail&lang=en-US&language=en-US",
-          "https://login.aol.com/forgot",
-          "https://login.aol.com/account/create",
-          "https://login.aol.com/?lang=de-de&intl=de",
-          "https://login.aol.com/?src=mail&lang=ja-jp&activity=default",
-          "https://login.aol.com/?lang=fr-FR&intl=fr",
-          "https://login.aol.com/?.src=guce-mail&lang=hu-HU",
-          "https://login.aol.com/?display=login&intl=us&lang=en-us&src=fp-us",
-          "https://login.aol.com/forgot?intl=uk&lang=en-gb"
+          "https://www.reddit.com/r/Porn_news/hot/",
+          "https://www.reddit.com/r/ultrawidemasterrace/comments/4vwz4h/ultrawide_porn/",
+          "https://www.reddit.com/r/AlphaMalePorn/",
+          "https://www.reddit.com/r/WarplanePorn/",
+          "https://www.reddit.com/r/writing/comments/rqha8r/what_makes_a_story_classify_as_trauma_porn/",
+          "https://www.reddit.com/r/PassportPorn/",
+          "https://www.reddit.com/r/AskRedditNSFW/comments/195ueha/which_is_the_best_porn_site_to_you_and_why_is_that/",
+          "https://www.reddit.com/r/furporn/",
+          "https://www.reddit.com/r/transporn/about/",
+          "https://www.reddit.com/r/PornoFeet/"
         ],
         "candidates": [
-          "login.aol.com"
+          "r34.xxx",
+          "www.reddit.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Zhihu/Zhihu.yaml": {
-        "checked_at": "2026-11-01 17:34 UTC",
+        "checked_at": "2026-11-16 04:32 UTC",
         "name": "Zhihu",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.zhihu.com/",
           "https://www.zhihu.com/explore",
-          "https://en.wikipedia.org/wiki/Zhihu",
           "https://oia.zhihu.com/",
+          "https://zh.wikipedia.org/wiki/%E7%9F%A5%E4%B9%8E",
+          "https://now-zhihu.com.cn/",
+          "https://en.wikipedia.org/wiki/Zhihu",
           "https://www.zhihu.com/selection/",
           "https://www.zhihu.com/?lang=zh-Hant",
-          "https://www.zhihu.com/people/"
+          "https://daily.zhihu.com/",
+          "https://at-zhihu.com.cn/"
         ],
         "candidates": [
+          "at-zhihu.com.cn",
+          "daily.zhihu.com",
           "en.wikipedia.org",
+          "now-zhihu.com.cn",
           "oia.zhihu.com",
-          "www.zhihu.com"
+          "www.zhihu.com",
+          "zh.wikipedia.org"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "ZhihuAds/ZhihuAds.yaml": {
-        "checked_at": "2026-11-01 17:34 UTC",
+        "checked_at": "2026-11-16 04:32 UTC",
         "name": "ZhihuAds",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.michaels.com/",
-          "https://www.michaels.com/shop/yarn-needlework/needlework-fiber-arts/cross-stitch-embroidery/cross-stitch",
-          "https://canada.michaels.com/shop/crafts-hobbies/sewing-notions/sewing-machines",
-          "https://canada.michaels.com/shop/holidays-occasions/fall",
-          "https://locationsca.michaels.com/AB/RED-DEER/3910",
-          "https://locations.michaels.com/",
-          "https://locations.michaels.com/nc/statesville/1154",
-          "https://locationsca.michaels.com/QC/LAVAL/4954",
-          "https://enterprise.michaels.com/",
-          "https://signon.michaels.com/wps/myportal"
+          "https://www.wizard101.com/forum/pets-mounts/question-about-maycast-pet-talents-8ad6a42465189813016531113b071473",
+          "https://www.wizard101.com/forum/ravenwood-commons/where-do-you-get-the-feint-and-shatter-tc-8ad6a41a3fcd0053013fdb66bd40486b",
+          "https://www.wizard101.com/forum/crafting/pierce-jewels-8ad6a4265a8923e0015abfec8da43c39",
+          "https://www.wizard101.com/forum/ravenwood-commons/hpw-does-the-jewels-work-8ad6a4194d0967fb014d0fa14ed54220",
+          "https://www.wizard101.com/forum/ravenwood-commons/armor-piercing-8ad6a41740340d6e01404bb1d00c1219",
+          "https://www.wizard101.com/forum/ravenwood-commons/fire-wizard-guide--8ad6a415549ee7450154d97abbbf0d21",
+          "https://www.wizard101.com/forum/ravenwood-commons/whats-so-great-about-armor-piercing-8ad6a417552f1481015546a52e2408cc",
+          "https://www.wizard101.com/forum/halstons-laboratory/shatter-and-pierce-arent-working-38030",
+          "https://www.wizard101.com/forum/ravenwood-commons/jewel-drops-8ad6a42568cc74ef0168dab2924f3727",
+          "https://www.wizard101.com/forum/ravenwood-commons/jewels-worth-it-or-not-8ad6a4154f69566e014f85c2f10178f7"
         ],
         "candidates": [
-          "canada.michaels.com",
-          "enterprise.michaels.com",
-          "locations.michaels.com",
-          "locationsca.michaels.com",
-          "signon.michaels.com",
-          "www.michaels.com"
+          "www.wizard101.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "ZhongGuoShiHua/ZhongGuoShiHua.yaml": {
-        "checked_at": "2026-11-01 17:34 UTC",
+        "checked_at": "2026-11-16 04:32 UTC",
         "name": "ZhongGuoShiHua",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://entra.microsoft.com/auth/login/",
-          "https://entra.microsoft.com/?culture=en-us&country=us",
-          "https://entra.microsoft.com/signin/index/",
-          "https://entra.microsoft.us/",
-          "https://entra.microsoft.com/index.html",
-          "https://entra.microsoft.com/?feature.msaljs=true",
-          "https://entra.microsoft.com/?feature.msaljs=false",
-          "https://entra.microsoft.com/ktsdemo.onmicrosoft.com",
-          "https://myaccount.microsoft.com/login",
-          "https://myaccount.microsoft.com/?login"
+          "https://howbout.app/",
+          "https://howbout.app/about",
+          "https://www.wikihow.com/Schedule-Your-Day",
+          "https://en.m.wikipedia.org/wiki/Schedule",
+          "https://www.wikihow.com/Make-a-Schedule",
+          "https://dictionary.cambridge.org/dictionary/english/schedule",
+          "https://venngage.com/blog/types-of-schedules/",
+          "https://status.net/articles/create-perfect-daily-schedule-examples/",
+          "https://www.developgoodhabits.com/stick-to-schedule/",
+          "https://www.merriam-webster.com/dictionary/schedule"
         ],
         "candidates": [
-          "entra.microsoft.com",
-          "entra.microsoft.us",
-          "myaccount.microsoft.com"
+          "dictionary.cambridge.org",
+          "en.m.wikipedia.org",
+          "howbout.app",
+          "status.net",
+          "venngage.com",
+          "www.developgoodhabits.com",
+          "www.merriam-webster.com",
+          "www.wikihow.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "ZhongWeiShiJi/ZhongWeiShiJi.yaml": {
-        "checked_at": "2026-11-02 04:08 UTC",
+        "checked_at": "2026-11-16 04:32 UTC",
         "name": "ZhongWeiShiJi",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://populartimelines.com/timeline/Daytona-International-Speedway/full",
-          "https://en.wikipedia.org/wiki/Daytona_International_Speedway",
-          "https://www.daytonainternationalspeedway.com/event-calendar/",
-          "https://www.daytonainternationalspeedway.com/about-daytona-international-speedway/",
-          "https://frcs.pro/nascar/tracks/daytona-international-speedway",
-          "https://www.caranddriver.com/features/a15150349/between-a-cathouse-and-a-dog-track-a-brief-timeline-page-1/",
-          "https://sportsfoundation.org/nascar-history/",
-          "https://en.wikipedia.org/wiki/History_of_the_Daytona_500",
-          "https://www.nascar.com/gallery/daytona-international-speedway-through-the-years/",
-          "https://www.nascar.com/nascar75-historical-timeline/"
+          "https://www.blakejarrett.ca/",
+          "https://www.blakejarrett.ca/lottery",
+          "https://www.blakejarrett.ca/contact",
+          "https://www.blakejarrett.ca/custom-manufacturing",
+          "https://www.blakejarrett.ca/counter-floor-displays",
+          "https://www.blakejarrett.ca/retail-display-solutions",
+          "https://www.blakejarrett.ca/retail-environments",
+          "https://www.blakejarrett.ca/blog/2021/03/11/from-sketch-to-reality-the-power-of-sketching-in-the-design-process",
+          "https://www.blakejarrett.ca/blog/2020/11/12/best-innovation-in-lottery-retail-store-design",
+          "https://www.blakejarrett.ca/digital-innovation-in-retail"
         ],
         "candidates": [
-          "en.wikipedia.org",
-          "frcs.pro",
-          "populartimelines.com",
-          "sportsfoundation.org",
-          "www.caranddriver.com",
-          "www.daytonainternationalspeedway.com",
-          "www.nascar.com"
+          "www.blakejarrett.ca"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "ZhongXingTongXun/ZhongXingTongXun.yaml": {
-        "checked_at": "2026-11-02 04:08 UTC",
+        "checked_at": "2026-11-16 04:32 UTC",
         "name": "ZhongXingTongXun",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://mail.yahoo.com/",
-          "https://login.yahoo.com/",
-          "https://mobile.yahoo.com/mail",
-          "https://mail.yahoo.com/%EF%BC%89%E3%80%82",
-          "https://www.yahoo.com/",
-          "https://login.yahoo.com/account/create",
-          "https://currently.att.yahoo.com/",
-          "https://mail.yahoo.com/plus/mail/",
-          "https://help.yahoo.com/kb/SLN3407.html",
-          "https://login.yahoo.com/forgot"
+          "https://steamcommunity.com/app/892970/discussions/0/3046108212596076063/",
+          "https://steamcommunity.com/sharedfiles/filedetails/?id=3269574338",
+          "https://www.reddit.com/r/valheim/comments/ndm5mh/modding_with_r2modman_and_vortex/",
+          "https://www.reddit.com/r/valheim/comments/lt9r9o/r2modman_with_dedicated_server/",
+          "https://steamcommunity.com/sharedfiles/filedetails/?id=3465149602",
+          "https://steamcommunity.com/app/1366540/discussions/0/3468352315401612023/",
+          "https://steamcommunity.com/sharedfiles/filedetails/?id=3584376398",
+          "https://steamcommunity.com/app/632360/discussions/0/4754200580378260829/",
+          "https://www.reddit.com/r/riskofrain/comments/nge7xd/r2modman_problem_i_cannot_find_a_fix_for_this/",
+          "https://steamcommunity.com/app/632360/discussions/0/3195866872026131903/"
         ],
         "candidates": [
-          "currently.att.yahoo.com",
-          "currently.com",
-          "help.yahoo.com",
-          "login.yahoo.com",
-          "mail.yahoo.com",
-          "mobile.yahoo.com",
-          "www.yahoo.com"
+          "r2modman.exe",
+          "reddit.com",
+          "steamcommunity.com",
+          "www.reddit.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "ZhongYuanYiShang/ZhongYuanYiShang.yaml": {
-        "checked_at": "2026-11-02 04:08 UTC",
+        "checked_at": "2026-11-16 04:32 UTC",
         "name": "ZhongYuanYiShang",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://en.m.wikipedia.org/wiki/Petula_Clark",
-          "https://www.petulaclark.net/",
-          "https://www.express.co.uk/celebrity-news/2156786/petula-clark-makes-end-of-life-admission",
-          "https://www.youtube.com/playlist?list=PLraeEjFDRCuJCgD84y7K1-4-OCNmIcXzL",
-          "https://m.imdb.com/name/nm0164379/bio/",
-          "https://m.imdb.com/name/nm0164379/",
-          "https://simple.m.wikipedia.org/wiki/Petula_Clark",
-          "https://opiniondesk.uk/blog/petula-clark-health-life-now/",
-          "https://www.petulaclark.net/pages/biography.html",
-          "https://en.m.wikipedia.org/wiki/Petula_Clark_discography"
+          "https://www.foodnetwork.com/recipes/ree-drummond/chicken-nachos-2698446",
+          "https://www.foodnetwork.com/recipes/tyler-florence/chicken-stir-fry-recipe-1906578",
+          "https://www.foodnetwork.com/recipes/food-network-kitchen/almost-famous-chicken-lettuce-wraps-recipe-2118628",
+          "https://www.foodnetwork.com/recipes/yogurt-marinated-chicken-skewers-5543574",
+          "https://www.foodnetwork.com/recipes/ina-garten/curried-chicken-salad-recipe-2014291",
+          "https://www.foodnetwork.com/recipes/photos/easy-chicken-dinner-recipes",
+          "https://www.foodnetwork.com/recipes/aida-mollenkamp/slow-roasted-garlic-chicken-recipe-1944176",
+          "https://www.foodnetwork.com/recipes/ted-allen/baked-chicken-breasts-with-parmesan-crust-recipe-2120982",
+          "https://www.foodnetwork.com/recipes/food-network-kitchen/chicken-stroganoff-recipe-2120379",
+          "https://www.foodnetwork.com/topics/chicken-casserole-recipes"
         ],
         "candidates": [
-          "en.m.wikipedia.org",
-          "m.imdb.com",
-          "opiniondesk.uk",
-          "simple.m.wikipedia.org",
-          "www.express.co.uk",
-          "www.petulaclark.net",
-          "www.youtube.com"
+          "www.foodnetwork.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "ZhuanZhuan/ZhuanZhuan.yaml": {
-        "checked_at": "2026-11-02 04:08 UTC",
+        "checked_at": "2026-11-16 04:32 UTC",
         "name": "ZhuanZhuan",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.timeanddate.com/time/zones/pst",
-          "https://time.now/timezones/pst/",
-          "https://en.wikipedia.org/wiki/Pacific_Time_Zone",
-          "https://time.is/PST",
-          "https://24timezones.com/time-zone/pst",
-          "https://www.timeanddate.com/time/zone/@z-us-98047",
-          "https://pst.net/pst",
-          "https://usamap.net/time-zones/pacific/",
-          "https://www.timezone-map.com/",
-          "https://usamap.net/time-zones/"
+          "https://www.answers.com/natural-sciences/What_time_zone_is_3_hours_behind_California",
+          "https://www.answers.com/natural-sciences/What_is_4pm_gmt_in_pacific_time",
+          "https://dailythemedcrosswordanswers.com/",
+          "https://dailythemedcrosswordanswers.com/daily-themed-crossword-halloween-minis-level-7-answers/",
+          "https://www.answers.com/healthcare-facilities/What_does_medical_code_Q1800_mean",
+          "https://www.answers.com/religion-and-spirituality/How_old_was_Zacharias_when_John_the_Baptist_was_born",
+          "https://www.answers.com/natural-sciences/Time_zone_difference_from_ca_and_Hawaii",
+          "https://www.answers.com/travel-destinations/What_time_zone_is_3_hours_ahead_California",
+          "https://www.answers.com/natural-sciences/What_is_the_time_difference_between_Florida_and_California",
+          "https://www.answers.com/travel-destinations/What_is_the_difference_between_Michigan_and_California_time_zones"
         ],
         "candidates": [
-          "24timezones.com",
-          "en.wikipedia.org",
-          "pst.net",
-          "time.is",
-          "time.now",
-          "timeanddate.com",
-          "usamap.net",
-          "www.timeanddate.com",
-          "www.timezone-map.com"
+          "dailythemedcrosswordanswers.com",
+          "www.answers.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Zoho/Zoho.yaml": {
-        "checked_at": "2026-11-02 04:08 UTC",
+        "checked_at": "2026-11-16 04:32 UTC",
         "name": "Zoho",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -167680,14 +167680,15 @@
           "https://www.zohocorp.com/",
           "https://en.wikipedia.org/wiki/Zoho_Corporation",
           "https://www.zoho.com/mail/login.html",
-          "https://www.zoho.com/crm/login.html",
           "https://www.zoho.com/all-products.html",
-          "https://www.zoho.com/one/login.html",
-          "https://www.zoho.com/mail/"
+          "https://www.zoho.com/crm/login.html",
+          "https://www.zoho.com/en-us/crm/",
+          "https://mail.zoho.com/signup"
         ],
         "candidates": [
           "en.wikipedia.org",
           "m.saravanan",
+          "mail.zoho.com",
           "start.zoho.com",
           "www.zoho.com",
           "www.zohocorp.com"
@@ -167696,47 +167697,61 @@
         "ownership_evidence": []
       },
       "aiXcoder/aiXcoder.yaml": {
-        "checked_at": "2026-11-02 04:08 UTC",
+        "checked_at": "2026-11-16 04:32 UTC",
         "name": "aiXcoder",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://stackoverflow.com/questions/10690019/link-to-pin-it-on-pinterest-without-generating-a-button",
-          "https://stackoverflow.com/questions/65468063/bootstrap-5-layout-for-different-sizes-cards-like-pinterest",
-          "https://ja.stackoverflow.com/questions/51671/pinterest-access-token%e3%81%ae%e5%8f%96%e5%be%97%e3%82%84%e3%82%8a%e6%96%b9%e3%81%8c%e5%88%86%e3%81%8b%e3%82%89%e3%81%aa%e3%81%84",
-          "https://stackoverflow.com/questions/26431674/pinterest-wont-recognize-verification-metatag",
-          "https://stackoverflow.com/questions/9352021/how-can-i-rerender-pinterests-pin-it-button",
-          "https://stackoverflow.com/questions/9951045/pinterest-api-documentation",
-          "https://stackoverflow.com/questions/12570559/is-it-possible-to-create-a-pinterest-like-layout-with-bootstrap-only",
-          "https://stackoverflow.com/questions/27127156/how-to-find-your-pinterest-board-id",
-          "https://stackoverflow.com/questions/21455388/how-to-get-oauth-access-token-for-pinterest",
-          "https://stackoverflow.com/questions/28489758/how-to-get-the-list-of-followers-in-pinterest"
+          "https://www.anniesloan.com/products/chalk-paint/",
+          "https://www.anniesloan.com/us/products/chalk-paint/",
+          "https://www.lowes.com/pl/paint/annie-sloan/chalky/4294729418-821199002148-4294394489",
+          "https://www.amazon.com/annie-sloan-chalk-paint/s?k=annie+sloan+chalk+paint",
+          "https://www.lowes.com/pl/paint/annie-sloan/4294729418-821199002148",
+          "https://en.wikipedia.org/wiki/Chalk_paint",
+          "https://www.amazon.com/stores/ANNIESLOAN/page/4DB0B8B7-582D-4D0C-A6D0-4B19A7EB0DA8",
+          "https://www.marthastewart.com/8015284/chalk-paint-explained",
+          "https://www.acehardware.com/departments/paint-and-supplies/specialty-paints/chalk-paint-near-me",
+          "https://www.chalkpaint.it/"
         ],
         "candidates": [
-          "ja.stackoverflow.com",
-          "pinit.js",
-          "stackoverflow.com"
+          "amazon.com",
+          "en.wikipedia.org",
+          "lowes.com",
+          "www.acehardware.com",
+          "www.amazon.com",
+          "www.anniesloan.com",
+          "www.chalkpaint.it",
+          "www.lowes.com",
+          "www.marthastewart.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "eBay/eBay.yaml": {
-        "checked_at": "2026-11-02 04:08 UTC",
+        "checked_at": "2026-11-16 04:32 UTC",
         "name": "eBay",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.ebay.com/",
+          "https://www.facebook.com/ebay/",
+          "https://en.wikipedia.org/wiki/EBay",
+          "https://www.ebayinc.com/",
           "https://www.ebay.com/d/main",
           "https://pages.ebay.com/welcome-to-ebay/",
-          "https://il.ebay.com/",
           "https://pages.ebay.com/welcome/m/default.html",
-          "https://www.ebay.com/n/all-categories",
-          "https://www.ebay.com/welcome/index.html"
+          "https://www.ebay.es/",
+          "https://pages.ebay.com.au/welcome-to-ebay/",
+          "https://www.ebay.com/n/all-categories"
         ],
         "candidates": [
           "ebay.com",
-          "il.ebay.com",
+          "ebay.com.au",
+          "en.wikipedia.org",
           "pages.ebay.com",
-          "www.ebay.com"
+          "pages.ebay.com.au",
+          "www.ebay.com",
+          "www.ebay.es",
+          "www.ebayinc.com",
+          "www.facebook.com"
         ],
         "accepted": [],
         "ownership_evidence": []
