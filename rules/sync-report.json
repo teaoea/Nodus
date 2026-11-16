@@ -1,7 +1,7 @@
 {
   "upstream": "https://github.com/blackmatrix7/ios_rule_script",
   "revision": "0b6897dc17e0c513d25449c935a9694818e32f0c",
-  "date": "2026-11-16 04:32 UTC",
+  "date": "2026-11-16 21:35 UTC",
   "collections": {
     "rule/Clash/115/115.yaml": {
       "input": 10,
@@ -149018,8 +149018,8 @@
   ],
   "discovery": {
     "engine": "Bing public RSS",
-    "checked_at": "2026-11-16 04:32 UTC",
-    "next_index": 679,
+    "checked_at": "2026-11-16 21:35 UTC",
+    "next_index": 14,
     "attempted": 24,
     "total_collections": 689,
     "verified_additions": {
@@ -167757,53 +167757,52 @@
         "ownership_evidence": []
       },
       "friDay/friDay.yaml": {
-        "checked_at": "2026-11-02 04:08 UTC",
+        "checked_at": "2026-11-16 21:35 UTC",
         "name": "friDay",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://en.m.wikipedia.org/wiki/Friday_(1995_film)",
+          "https://en.wikipedia.org/wiki/Friday_(1995_film)",
           "https://tubitv.com/movies/594102/friday",
-          "https://m.imdb.com/title/tt0113118/",
+          "https://www.imdb.com/title/tt0113118/",
+          "https://en.wikipedia.org/wiki/Friday",
+          "https://www.merriam-webster.com/dictionary/Friday",
           "https://pluto.tv/us/movies/6924978453126d02e28c5a16/",
-          "https://www.netflix.com/title/525057",
-          "https://en.m.wikipedia.org/wiki/Friday",
-          "https://m.youtube.com/watch?v=kMawYCOdHF8",
-          "https://www.moviefone.com/movie/friday/1311/main/",
-          "https://m.imdb.com/title/tt0113118/fullcredits/",
-          "https://www.snokido.com/game/friday-night-funkin"
+          "https://fridayfighters.com/",
+          "https://tgifridays.com/",
+          "https://ice-cubes-friday.fandom.com/wiki/Friday",
+          "https://fridayplans.com/"
         ],
         "candidates": [
-          "en.m.wikipedia.org",
-          "m.imdb.com",
-          "m.youtube.com",
+          "en.wikipedia.org",
+          "fridayfighters.com",
+          "fridayplans.com",
+          "ice-cubes-friday.fandom.com",
           "pluto.tv",
+          "tgifridays.com",
           "tubitv.com",
-          "www.moviefone.com",
-          "www.netflix.com",
-          "www.snokido.com"
+          "www.imdb.com",
+          "www.merriam-webster.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "iCloud/iCloud.yaml": {
-        "checked_at": "2026-11-02 04:08 UTC",
+        "checked_at": "2026-11-16 21:35 UTC",
         "name": "iCloud",
         "status": "checked",
         "sources": [
           "https://www.icloud.com/",
-          "https://support.apple.com/en-us/108047",
-          "https://en.wikipedia.org/wiki/ICloud",
-          "https://support.apple.com/guide/icloud/introduction-to-icloud-mm74e822f6de/icloud",
+          "https://www.icloud.com/mail",
           "https://www.apple.com/icloud/",
-          "https://appleinsider.com/inside/icloud",
+          "https://support.apple.com/guide/icloud/sign-in-and-use-icloudcom-mm281e3e7d/icloud",
+          "https://www.icloud.com/photos",
+          "https://www.icloud.com/find",
           "https://www.icloud.com/iclouddrive",
-          "https://apps.microsoft.com/detail/9pktq5699m62?hl=en-GB&gl=GB",
-          "https://support.apple.com/icloud",
-          "https://support.apple.com/guide/icloud/sign-in-and-use-icloudcom-mm281e3e7d/icloud"
+          "https://support.apple.com/en-us/103232",
+          "https://en.wikipedia.org/wiki/ICloud",
+          "https://support.apple.com/en-us/108047"
         ],
         "candidates": [
-          "appleinsider.com",
-          "apps.microsoft.com",
           "en.wikipedia.org",
           "icloud.com",
           "support.apple.com",
@@ -167819,121 +167818,131 @@
         ]
       },
       "iCloudPrivateRelay/iCloudPrivateRelay.yaml": {
-        "checked_at": "2026-11-02 04:08 UTC",
+        "checked_at": "2026-11-16 21:35 UTC",
         "name": "iCloudPrivateRelay",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.youtube.com/",
-          "https://www.youtube.com/youtube",
-          "https://accounts.google.com/InteractiveLogin?service=youtube",
-          "https://www.youtube.com/feed",
-          "https://www.youtube.com/@---_-_",
-          "https://www.youtube.com/@en.---",
-          "https://www.youtube.com/%3C/",
-          "https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en-US",
-          "https://music.youtube.com/explore",
-          "https://music.youtube.com/%EF%BB%BF"
+          "https://www.pornhub.com/",
+          "https://www.pornhub.com/categories",
+          "https://es.pornhub.com/",
+          "https://www.xvideos.com/tags/pornhub",
+          "https://en-pornhub.com/sites/pornhub/",
+          "https://www.pornhub.xxx/",
+          "https://en-pornhub.com/categories/"
         ],
         "candidates": [
-          "accounts.google.com",
-          "music.youtube.com",
-          "play.google.com",
-          "www.youtube.com"
+          "en-pornhub.com",
+          "es.pornhub.com",
+          "www.pornhub.com",
+          "www.pornhub.xxx",
+          "www.xvideos.com",
+          "xvideos.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "iFlytek/iFlytek.yaml": {
-        "checked_at": "2026-11-02 04:08 UTC",
+        "checked_at": "2026-11-16 21:35 UTC",
         "name": "iFlytek",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.iflytek.com/en/",
-          "https://www.iflytek.com/en/about-us/about.html",
-          "https://en.wikipedia.org/wiki/IFlytek",
+          "https://www.iflytek.com/index.html",
           "https://store.iflytek.com/collections/",
           "https://store.iflytek.com/collections/all-products",
-          "https://global.xfyun.cn/",
-          "https://iflytek.ae/",
-          "https://iflytek.zhiye.com/",
+          "https://en.wikipedia.org/wiki/IFlytek",
+          "https://iflytekau.com/",
           "https://www.amazon.com/iflytek-AINOTE-16-Language-Transcription-Handwritten/dp/B0FQMHZJP4",
-          "https://global.chinadaily.com.cn/a/202504/21/WS68060e40a3104d9fd3820aa6.html"
+          "https://iflytek.ae/",
+          "https://www.amazon.com/iFLYTEK-Transcription-5-Language-Reduction-Interviews/dp/B0D2W6L1YX",
+          "https://www.linkedin.com/company/iflytek"
         ],
         "candidates": [
           "en.wikipedia.org",
-          "global.chinadaily.com.cn",
-          "global.xfyun.cn",
           "iflytek.ae",
-          "iflytek.zhiye.com",
+          "iflytekau.com",
           "store.iflytek.com",
           "www.amazon.com",
-          "www.iflytek.com"
+          "www.iflytek.com",
+          "www.linkedin.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "iQIYI/iQIYI.yaml": {
-        "checked_at": "2026-11-02 04:08 UTC",
+        "checked_at": "2026-11-16 21:35 UTC",
         "name": "iQIYI",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.iq.com/?lang=en_us",
           "https://www.iqiyi.com/",
           "https://www.iq.com/drama?lang=en_us",
-          "https://www.iqiyi.com/index.html/www.iqiyi.com/",
           "https://go.iqiyi.com/",
+          "https://www.iqiyi.com/index.html/www.iqiyi.com/",
+          "https://m.iqiyi.com/",
           "https://en.wikipedia.org/wiki/IQIYI",
-          "https://www.youtube.com/@iQIYIofficial/videos"
+          "https://www.youtube.com/@iqiyienglish",
+          "https://sports.iqiyi.com/",
+          "https://www.justwatch.com/us/provider/iqiyi"
         ],
         "candidates": [
           "en.wikipedia.org",
           "go.iqiyi.com",
           "iq.com",
           "iqiyi.com",
+          "m.iqiyi.com",
+          "sports.iqiyi.com",
           "www.iq.com",
           "www.iqiyi.com",
+          "www.justwatch.com",
           "www.youtube.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "iQIYIIntl/iQIYIIntl.yaml": {
-        "checked_at": "2026-11-02 04:08 UTC",
+        "checked_at": "2026-11-16 21:35 UTC",
         "name": "iQIYIIntl",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.youtube.com/watch?v=FM5SRyO-WyE",
-          "https://www.youtube.com/watch?v=FvE9a-F8-2g",
-          "https://www.adweek.com/brand-marketing/taco-bells-super-bowl-ad-gives-face-time-to-hundreds-of-fans/",
-          "https://www.lbbonline.com/news/400-real-fans-star-in-taco-bells-super-bowl-spot",
-          "https://www.tacobell.com/newsroom/taco-bell-features-nearly-400-real-fans-in-its-big-game-ad",
-          "https://actingmagazine.com/2025/09/who-is-in-the-new-taco-bell-commercial-in-2025/",
-          "https://admeter.usatoday.com/story/sports/ad-meter/2025/02/09/taco-bell-super-bowl-commercial-2025-lebron-james-doja-cat/78373292007/"
+          "https://bank.truist.com/",
+          "https://bank.truist.com/ui/",
+          "https://dias.bank.truist.com/selfserv/forgotpwd",
+          "https://dias.bank.truist.com/ui/login?redirecturi=%2Fweb%2Ftaplp%2Fzelle&icid=CelebrateZelle1023TruistComHome79",
+          "https://bank.truist.com/content/lib-documents/translations/en.json",
+          "https://bank.truist.com/configs/config.json?_=1678891583935",
+          "https://bank.truist.com/content/lib-accounts/translations/en/content1.json",
+          "https://bank.truist.com/configs/moduleconfig.json?_=1678891584268",
+          "https://bank.truist.com/dt/",
+          "https://bank.truist.com/.well-known/assetlinks.json"
         ],
         "candidates": [
-          "actingmagazine.com",
-          "admeter.usatoday.com",
-          "www.adweek.com",
-          "www.lbbonline.com",
-          "www.tacobell.com",
-          "www.youtube.com"
+          "assets.adobedtm.com",
+          "bank.truist.com",
+          "com.truist.mobile",
+          "dias.bank.truist.com",
+          "launch-a5c4b6620207.min.js",
+          "window.settimeout",
+          "www.dynatrace.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "iTalkBB/iTalkBB.yaml": {
-        "checked_at": "2026-11-02 04:08 UTC",
+        "checked_at": "2026-11-16 21:35 UTC",
         "name": "iTalkBB",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.italkbb.com/us/en/",
           "https://www.italkbb.com/us/chs/",
-          "https://webaccount.italkbb.com/CSS/Login.Responsive.loader.html",
-          "https://buy.italkbb.com/en/",
           "https://www.italkbb.ca/en",
-          "https://www.italkbb.ca/en/multi-number-app"
+          "https://buy.italkbb.com/en/",
+          "https://webaccount.italkbb.com/CSS/Login.Responsive.loader.html",
+          "https://webaccount.italkbb.com/CSS/login.loadernew.html",
+          "https://buy.italkbb.ca/en/login-2/"
         ],
         "candidates": [
+          "buy.italkbb.ca",
           "buy.italkbb.com",
           "italkbb.com",
           "webaccount.italkbb.com",
@@ -167944,157 +167953,170 @@
         "ownership_evidence": []
       },
       "ifanr/ifanr.yaml": {
-        "checked_at": "2026-11-02 04:08 UTC",
+        "checked_at": "2026-11-16 21:35 UTC",
         "name": "ifanr",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://q.musd.net/studentportal",
-          "https://q.musd.net/StudentPortal/Home/LoginReminder",
-          "https://q.musd.net/parent",
-          "https://q.musd.net/parent/Home/LoginReminder",
-          "https://q.musd.net/OpenEnrollment/",
-          "https://q.musd.net/preenroll",
-          "https://q.musd.net/q",
-          "https://q.musd.net/FSOnline/Main/Login",
-          "https://q.musd.net/QLoader/Main/Index"
+          "https://nipr.com/licensing-center",
+          "https://nipr.com/licensing-center/look-up-a-national-producer-number",
+          "https://npn-lookup.app.nipr.com/npn-lookup/PacNpnSearch.htm",
+          "https://nipr.com/licensing-center/apply-for-a-license/renew-your-license",
+          "https://nipr.com/licensing-center/apply-for-a-license",
+          "https://nipr.com/licensing/verify-existing-licenses",
+          "https://nipr.com/licensing-center/apply-for-a-license/check-your-insurance-application-status",
+          "https://www.acronymfinder.com/Military-and-Government/NIPR.html",
+          "https://wiki.nipr.com/login.action?os_destination=%2Findex.action&permissionViolation=true",
+          "https://content.naic.org/cipr-topics/national-insurance-producer-registry-nipr"
         ],
         "candidates": [
-          "q.musd.net"
+          "content.naic.org",
+          "nipr.com",
+          "npn-lookup.app.nipr.com",
+          "wiki.nipr.com",
+          "www.acronymfinder.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "myTVSUPER/myTVSUPER.yaml": {
-        "checked_at": "2026-11-02 04:08 UTC",
+        "checked_at": "2026-11-16 21:35 UTC",
         "name": "myTVSUPER",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.mytvsuper.com/en/home/",
-          "https://www.mytvsuper.com/tc/home/",
-          "https://en.m.wikipedia.org/wiki/MyTV_Super",
-          "https://play.google.com/store/apps/details?id=com.tvb.mytvsuper&hl=en-US",
-          "https://promo.mytvsuper.com/en/app_download",
-          "https://promo.mytvsuper.com/en/smart-tv",
-          "https://apkpure.com/mytv-super/com.tvb.mytvsuper.atv",
-          "https://play.google.com/store/apps/details?id=com.tvb.mytvsuper.atv&hl=en",
-          "https://apkpure.com/mytv-super-watch-tv-and-news/com.tvb.mytvsuper",
-          "https://www.appbrain.com/app/mytv-super-watch-tv-and-news/com.tvb.mytvsuper"
+          "https://community.spectrum.net/discussion/179319/my-email-has-been-hacked",
+          "https://community.spectrum.net/discussion/178268/paramount-plus-issues",
+          "https://community.spectrum.net/discussion/173290/how-to-add-additional-email-addresses-to-my-spectrum-email",
+          "https://community.spectrum.net/discussion/178937/new-phone-order-fraud-alert",
+          "https://community.spectrum.net/discussion/176654/where-can-i-find-my-secondary-spectrum-email-accounts",
+          "https://community.spectrum.net/discussion/179128/i-have-several-apps-included-with-my-account-but-cannot-get-them-activated",
+          "https://community.spectrum.net/discussion/173829/how-to-pay-my-bill",
+          "https://community.spectrum.net/discussion/179107/discovery-on-roku-tv",
+          "https://community.spectrum.net/categories/MySpectrum-35",
+          "https://community.spectrum.net/discussion/176533/cant-access-my-road-runner-email-account"
         ],
         "candidates": [
-          "apkpure.com",
-          "en.m.wikipedia.org",
-          "play.google.com",
-          "promo.mytvsuper.com",
-          "www.appbrain.com",
-          "www.mytvsuper.com"
+          "charter.net",
+          "community.spectrum.net",
+          "discoveryplus.com",
+          "new.rr.com",
+          "spectrum.net"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "zhanqi/zhanqi.yaml": {
-        "checked_at": "2026-11-02 04:08 UTC",
+        "checked_at": "2026-11-16 21:35 UTC",
         "name": "zhanqi",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.miracosta.edu/",
-          "https://www.miracosta.edu/student-services/career-center/log-in-to-canvas.html",
-          "https://surf.miracosta.edu/psc/ps/EMPLOYEE/SA/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL",
-          "https://catalog.miracosta.edu/disciplines/businessadministration/",
-          "https://catalog.miracosta.edu/disciplines/horticulture/",
-          "https://commed.miracosta.edu/public/category/programArea.do?method=load&selectedProgramAreaId=1016636",
-          "https://commed.miracosta.edu/",
-          "https://library.miracosta.edu/az/databases",
-          "https://library.miracosta.edu/citations",
-          "https://jobs.miracosta.edu/"
+          "https://www.united.com/ual/en/us/",
+          "https://www.united.com/en/us/checkin",
+          "https://en.wikipedia.org/wiki/United_Airlines",
+          "https://jetstream.united.com/",
+          "https://newsroom.united.com/",
+          "https://www.kayak.com/United-Airlines.UA.airline.html",
+          "https://www.united.com/en/us/fly/help-center.html",
+          "https://www.aa.com/homePage.do?locale=en_US",
+          "https://careers.united.com/us/en/home",
+          "https://www.linkedin.com/company/united-airlines/"
         ],
         "candidates": [
-          "catalog.miracosta.edu",
-          "commed.miracosta.edu",
-          "jobs.miracosta.edu",
-          "library.miracosta.edu",
-          "miracosta.edu",
-          "surf.miracosta.edu",
-          "www.miracosta.edu"
+          "aa.com",
+          "careers.united.com",
+          "en.wikipedia.org",
+          "jetstream.united.com",
+          "newsroom.united.com",
+          "www.aa.com",
+          "www.kayak.com",
+          "www.linkedin.com",
+          "www.united.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "115/115.yaml": {
-        "checked_at": "2026-11-02 04:08 UTC",
+        "checked_at": "2026-11-16 21:35 UTC",
         "name": "115",
         "status": "checked",
         "sources": [
-          "https://m.youtube.com/watch?v=-B19u9tHnIs",
-          "https://en.m.wikipedia.org/wiki/115_(number)",
-          "https://115.com/product_browser",
-          "https://f.115.com/",
-          "https://m.youtube.com/watch?v=bmDXgBDF7lk",
-          "https://en.m.wikipedia.org/wiki/115",
-          "https://pc.115.com/index.html",
-          "https://aq.115.com/index/login",
-          "https://zh.m.wikipedia.org/wiki/115_(%E4%BA%91%E5%AD%98%E5%82%A8%E6%9C%8D%E5%8A%A1)"
+          "https://www.youtube.com/watch?v=-B19u9tHnIs",
+          "https://www.mass.gov/info-details/chapter-115-benefitssafety-net-program",
+          "https://www.youtube.com/watch?v=bmDXgBDF7lk",
+          "https://www.mass.gov/info-details/massvets-veteran-financial-benefits",
+          "https://en.wikipedia.org/wiki/115_(number)",
+          "https://vets.mass.gov/",
+          "https://metronome-online.com/115-bpm",
+          "https://genius.com/Kevin-sherwood-and-elena-siegman-115-lyrics",
+          "https://115.com/",
+          "https://en.wikipedia.org/wiki/List_of_emergency_telephone_numbers"
         ],
         "candidates": [
           "115.com",
-          "aq.115.com",
-          "en.m.wikipedia.org",
-          "f.115.com",
-          "m.youtube.com",
-          "pc.115.com",
-          "www.115.com",
-          "zh.m.wikipedia.org"
+          "en.wikipedia.org",
+          "genius.com",
+          "mass.gov",
+          "metronome-online.com",
+          "vets.mass.gov",
+          "www.mass.gov",
+          "www.youtube.com"
         ],
         "accepted": [
-          "115.com",
-          "aq.115.com",
-          "f.115.com",
-          "pc.115.com",
-          "www.115.com"
+          "115.com"
         ],
         "ownership_evidence": [
           "https://115.com/"
         ]
       },
       "12306/12306.yaml": {
-        "checked_at": "2026-11-02 04:08 UTC",
+        "checked_at": "2026-11-16 21:35 UTC",
         "name": "12306",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.12306.cn/index/",
-          "https://cx.12306.cn/tlcx/welcome.html",
-          "https://kyfw.12306.cn/otn/leftTicket/init?linktypeid=wf",
           "https://cx.12306.cn/tlcx/index.html",
+          "https://kyfw.12306.cn/otn/view/index.html",
+          "https://mobile.12306.cn/mormhweb/zxdt/index_zxdt.html",
+          "https://mobile.12306.cn/mormhweb/1/9/index_fl.html",
+          "https://hzfw.12306.cn/mormhweb/1/13/index_fl_1.html",
+          "https://travel.12306.cn/",
           "https://www.12306.cn/en/index.html",
-          "https://www.12306.cn/en/login.html",
-          "https://kyfw.12306.cn/",
-          "https://www.12306.cn/mormhweb/index.html"
+          "https://www.12306.cn/en/login.html"
         ],
         "candidates": [
           "12306.cn",
           "cx.12306.cn",
+          "hzfw.12306.cn",
           "kyfw.12306.cn",
+          "mobile.12306.cn",
+          "travel.12306.cn",
           "www.12306.cn"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "1337x/1337x.yaml": {
-        "checked_at": "2026-11-02 04:08 UTC",
+        "checked_at": "2026-11-16 21:35 UTC",
         "name": "1337x",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://1337x.to/",
-          "https://en.wikipedia.org/wiki/1337x",
+          "https://www.13377x.com/",
           "https://vpncentral.com/1337x-proxy-list/",
+          "https://en.wikipedia.org/wiki/1337x",
           "https://www.techworm.net/2019/06/1337x-proxy-sites-list-alternatives.html",
+          "https://www.13377x.tv/",
+          "https://1337x.to/cat/Movies/132/",
           "https://www.reddit.com/r/1337x/about/",
-          "https://privacysavvy.com/security/torrents/best-torrent-sites/"
+          "https://privacysavvy.com/security/torrents/best-torrent-sites/",
+          "https://torrentfreak.com/top-10-most-popular-torrent-sites-2025/"
         ],
         "candidates": [
           "1337x.to",
           "en.wikipedia.org",
           "privacysavvy.com",
+          "torrentfreak.com",
           "vpncentral.com",
+          "www.13377x.com",
+          "www.13377x.tv",
           "www.reddit.com",
           "www.techworm.net"
         ],
@@ -168102,177 +168124,154 @@
         "ownership_evidence": []
       },
       "17173/17173.yaml": {
-        "checked_at": "2026-11-02 04:08 UTC",
+        "checked_at": "2026-11-16 21:35 UTC",
         "name": "17173",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.17173.com/",
-          "https://www.17173.com/f/index_fgmore.shtml",
-          "https://newgame.17173.com/",
-          "https://m.17173.com/",
-          "https://news.17173.com/",
-          "https://search.17173.com/?_",
-          "https://h5.17173.com/",
-          "https://h5.17173.com/m/board/index.shtml",
-          "https://game.17173.com/",
-          "https://sw.17173.com/z/index_2.shtml"
+          "https://www.answers.microsoft.com/ja-jp/windows/forum/windows_7-security/ÃƒÂ£Ã†â€™ÃƒÂ¢Ã‚Â£ÃƒÂ£Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÂ£Ã¢â‚¬Å¡ÃƒÂ¢Ã‚Â¦ÃƒÂ£Ã†â€™ÃƒÂ¢Ã‚Â£ÃƒÂ£Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÂ£Ã¢â‚¬Å¡ÃƒÂ¢Ã‚Â¼ÃƒÂ£Ã†â€™ÃƒÂ¢Ã‚Â£ÃƒÂ£Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¥Ã‚Â¡ÃƒÂ£Ã¢â‚¬Å¡ÃƒÂ¢Ã‚Â¶ÃƒÂ£Ã†â€™ÃƒÂ¢Ã‚Â£ÃƒÂ£Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÂ£Ã¢â‚¬Å¡ÃƒÂ¢Ã‚Â¼ÃƒÂ£Ã†â€™ÃƒÂ¢Ã‚Â£ÃƒÂ£Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¥Ã‚Â¡ÃƒÂ£Ã¢â‚¬Å¡ÃƒÂ¢Ã‚Â¢/7ffe7a9b-d0cf-454c-b3db-731542747656",
+          "https://www.answers.microsoft.com/ja-jp/windows/forum/all/ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¹ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â®ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£/b45f8dde-aa4a-4598-ab6e-21a67f8b6ec2",
+          "https://www.answers.microsoft.com/ja-jp/msteams/forum/all/teamsÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¾ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¹ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¯ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©/4850be98-e651-4d92-8a05-d1489edbf168",
+          "https://www.answers.microsoft.com/ja-jp/windows/forum/apps_windows_10-msedge/microsoft-edge/252f30fb-a46d-48f1-9dff-46f1ebf7ddc1↑少し違うかもですが、マイクロソフトのコミュニティに書いてある方法を試して下さい。&gt;アプリのトラブルシューティングを実行してみると良さそうです。手順:[コントロールパネル]→[システムとセキュリティ]→[セキュリティとメンテナンス]→[トラブルシューティング]の順に開き、[すべて表示]を選択して&quot;Windowsストアアプリ&quot;の診断を行ってみてください。もし、上記の対処法を試してみてもうまくいかない場合は、ひとまず、有効な対処法が見つかるまではIEをかわりに使用されると良いと思います。",
+          "https://www.answers.microsoft.com/zh-hans/windows/forum/all/ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¥ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â½win8ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂºÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â´ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°/d8c51abf-b863-4da3-9596-797deace59f7",
+          "https://www.answers.microsoft.com/ja-jp/windows/forum/all/ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡/55dd8522-1caa-4ae4-80b4-3d0fe4944f22",
+          "https://www.answers.microsoft.com/ja-jp/windows/forum/all/ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¹ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¿ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Â¹ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡/023f32f5-479b-465f-ab1f-813cec5f4efd",
+          "https://www.answers.microsoft.com/ja-jp/windows/forum/windows_7-windows_install/windows7%E3%81%AEdsp%E7%89%88%E3%82%92fdd%E3%81%A8/63d82597-a57c-4ced-a95d-16464a599639こういう質疑例がMicrosoftのサイトにあって、厳密にはアウトということになります。DSP版は、もともとパソコンを作るための付属品ではなくそのパーツを稼働させるための付属品という位置づけで特別に低価格で提供されたものです。そのパーツなくして、その付属品だけが使い続けられるのは不自然きわまりありません。それを、Windowsに依存しながらWindowsを通常価格に見合う価値が無いと考える人が…制限付きで安く買ったものを、パーツがだめになっても使い続けるためにパーツが稼働できなくても、貼り付けておけばいいという主張を広めてきたようです。もともと、DSP版には販売する業者が運用についての条件を決められる側面があり「テープで貼っておいてもダメです」といった警告が出されることは無かったようです。ところが、2011年のWindows",
+          "https://www.answers.microsoft.com/ja-jp/windows/forum/all/ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â«ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¨ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¨ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â­ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¥ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â®ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡/9804990c-60c8-440c-b1ab-2a0a01c8a749",
+          "https://www.answers.microsoft.com/en-us/windows/forum/all/windows-10-reset-and-fully-clean-the-drive-on-ssd/6a1b2a43-7aed-41da-a768-7425c6143226answers.microsoft.comやsocial.technet.microsoft.comにはさまざまな英語資料を速やかに読める英語話者達が多く参加し平均的な日本語話者が探し出すことが難しい情報を早い時期に話題にしていることがよくあります。日本で「高速起動によるUSB-HDDのトラブル」が話題になる半年前にMicrosoftのサイトには、英語でその質疑が残されていたくらいです。日本は、そもそも日本マイクロソフトがMicrosoftと充分な情報共有を与えられておらず必然的に、わかりにくい問題や難しい問題は英語の資料にあたらざるを得ない状況があります。ところが、前述のリンク先では、SSDの場合の抹消の有効性についてはっきりしたことがわからないままになっているようで「どうもMicrosoftはこの質問に答えたくないようだ」と疑われているようです。検証手段はあって、cipherで行われる米国防総省水準の時間がかかる抹消処理とfully"
         ],
         "candidates": [
-          "17173.com",
-          "game.17173.com",
-          "h5.17173.com",
-          "m.17173.com",
-          "newgame.17173.com",
-          "news.17173.com",
-          "search.17173.com",
-          "sw.17173.com",
-          "www.17173.com"
+          "www.answers.microsoft.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "178/178.yaml": {
-        "checked_at": "2026-11-02 04:08 UTC",
+        "checked_at": "2026-11-16 21:35 UTC",
         "name": "178",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://en.m.wikipedia.org/wiki/178_(number)",
+          "https://en.wikipedia.org/wiki/178_(number)",
           "https://number.academy/178",
-          "https://en.m.wikipedia.org/wiki/178",
-          "https://wowui.178.com/",
-          "https://www.foothilltransit.org/line/178",
-          "https://www.facebook.com/178barandgrill/",
-          "https://transitapp.com/en/region/los-angeles/foothill-transit/bus-178",
-          "https://roads.dot.ca.gov/?roadnumber=178",
-          "https://www.ascii-code.com/178",
-          "https://www.opm.gov/forms/pdf_fill/of178.pdf"
+          "https://www.opm.gov/forms/pdf_fill/of178.pdf",
+          "https://en.wikipedia.org/wiki/178",
+          "https://www.calculateme.com/length/inches/to-feet/178",
+          "https://numbermatics.com/n/178/",
+          "https://www.178wing.ang.af.mil/",
+          "https://www.178wing.ang.af.mil/Home/Welcome/",
+          "https://ua178.org/",
+          "https://www.law.cornell.edu/uscode/text/18/178"
         ],
         "candidates": [
-          "en.m.wikipedia.org",
+          "calculateme.com",
+          "en.wikipedia.org",
           "number.academy",
-          "roads.dot.ca.gov",
-          "transitapp.com",
-          "wowui.178.com",
-          "www.ascii-code.com",
-          "www.facebook.com",
-          "www.foothilltransit.org",
+          "numbermatics.com",
+          "ua178.org",
+          "www.178wing.ang.af.mil",
+          "www.calculateme.com",
+          "www.law.cornell.edu",
           "www.opm.gov"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "17zuoye/17zuoye.yaml": {
-        "checked_at": "2026-11-02 04:08 UTC",
+        "checked_at": "2026-11-16 21:35 UTC",
         "name": "17zuoye",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.nfl.com/scores",
-          "https://www.espn.com/nfl/scoreboard",
-          "https://www.cbssports.com/nfl/scoreboard/regular/",
-          "https://www.nfl.com/",
-          "https://sports.yahoo.com/nfl/scoreboard/",
-          "https://www.espn.com/nfl/",
-          "https://sports.yahoo.com/nfl/",
-          "https://www.cbssports.com/nfl/",
-          "https://www.nbcsports.com/nfl/scores",
-          "https://www.foxsports.com/nfl/scores"
+          "https://www.drugs.com/comments/atomoxetine/strattera-for-attention-deficit-disorder.html",
+          "https://www.drugs.com/comments/atomoxetine/strattera.html",
+          "https://www.drugs.com/comments/atomoxetine/sfx-tiredness.html",
+          "https://www.drugs.com/medical-answers/what-benefits-taking-strattera-night-3577435/",
+          "https://www.drugs.com/medical-answers/how-long-take-strattera-work-3576963/",
+          "https://www.drugs.com/medical-answers/strattera-cause-weight-loss-3577063/",
+          "https://www.drugs.com/tips/strattera-patient-tips",
+          "https://www.drugs.com/comments/atomoxetine/strattera-sfx-tiredness.html",
+          "https://www.drugs.com/medical-answers/strattera-adderall-difference-3121641/",
+          "https://www.drugs.com/drug-interactions/prozac-with-strattera-1115-648-275-1683.html"
         ],
         "candidates": [
-          "cbssports.com",
-          "nfl.com",
-          "sports.yahoo.com",
-          "www.cbssports.com",
-          "www.espn.com",
-          "www.foxsports.com",
-          "www.nbcsports.com",
-          "www.nfl.com"
+          "drugs.com",
+          "www.drugs.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "2KGames/2KGames.yaml": {
-        "checked_at": "2026-11-02 04:08 UTC",
+        "checked_at": "2026-11-16 21:35 UTC",
         "name": "2KGames",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.consumerreports.org/home-garden/home-security-cameras/best-video-doorbells-of-the-year-a1115426074/",
-          "https://www.pcmag.com/picks/the-best-video-doorbells",
-          "https://www.amazon.com/wireless-doorbell-camera/s?k=wireless+doorbell+camera",
-          "https://www.amazon.com/door-bell-cameras/s?k=door+bell+cameras",
-          "https://www.nytimes.com/wirecutter/reviews/best-smart-doorbell-camera/",
-          "https://www.thisoldhouse.com/home-safety/best-doorbell-cameras",
-          "https://www.eufy.com/collections/video-doorbell",
-          "https://ring.com/video-doorbell-cameras",
-          "https://www.cnet.com/home/security/best-video-doorbell-cameras/",
-          "https://us.arlo.com/products/arlo-doorbell"
+          "https://www.pandaexpress.com/location/menu",
+          "https://www.pandaexpress.com/",
+          "https://shop.pandaexpress.com/products/pei-pei-bag-charm-blind-box",
+          "https://community.pandaexpress.com/fundraisers",
+          "https://community.pandaexpress.com/read-with-me",
+          "https://shop.pandaexpress.com/",
+          "https://www.pandaexpress.com/locations/oh/sandusky/3561",
+          "https://www.pandaexpress.com/locations/mt/great-falls/2874",
+          "https://www.pandaexpress.com/locations/nj/eatontown/3588",
+          "https://www.pandaexpress.com/locations/ut/layton/966"
         ],
         "candidates": [
-          "amazon.com",
-          "ring.com",
-          "us.arlo.com",
-          "www.amazon.com",
-          "www.cnet.com",
-          "www.consumerreports.org",
-          "www.eufy.com",
-          "www.nytimes.com",
-          "www.pcmag.com",
-          "www.thisoldhouse.com"
+          "community.pandaexpress.com",
+          "shop.pandaexpress.com",
+          "www.pandaexpress.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "360/360.yaml": {
-        "checked_at": "2026-11-02 21:20 UTC",
+        "checked_at": "2026-11-16 21:35 UTC",
         "name": "360",
         "status": "needs_ownership_evidence",
         "sources": [
+          "https://m365.cloud.microsoft/",
           "https://www.360.com/",
+          "https://www.microsoft.com/en-us/microsoft-365",
           "https://www.360totalsecurity.com/en/us/",
-          "https://www.360.cn/",
-          "https://www.youtube.com/watch?v=hEdzv7D4CbQ",
-          "https://www.360training.com/",
-          "https://www.360training.com/AjaxLogonForm?catalogId=10051&langId=-1&storeId=21701&ls360Dashboard=1",
+          "https://m.youtube.com/watch?v=hEdzv7D4CbQ",
           "https://www.microsoft.com/en-us/microsoft-365/products-apps-services",
-          "https://www.youtube.com/360",
           "https://www.360totalsecurity.com/en/download-free-antivirus/",
-          "https://browser.360.cn/"
+          "https://www.360training.com/AjaxLogonForm?catalogId=10051&langId=-1&storeId=21701&ls360Dashboard=1",
+          "https://www.360training.com/",
+          "https://www.360.cn/"
         ],
         "candidates": [
-          "browser.360.cn",
+          "m.youtube.com",
+          "m365.cloud.microsoft",
           "www.360.cn",
           "www.360.com",
           "www.360totalsecurity.com",
           "www.360training.com",
-          "www.microsoft.com",
-          "www.youtube.com"
+          "www.microsoft.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "36kr/36kr.yaml": {
-        "checked_at": "2026-11-02 21:20 UTC",
+        "checked_at": "2026-11-16 21:35 UTC",
         "name": "36kr",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.36kr.com/",
-          "https://www.36kr.com/pages/about-en",
           "https://en.wikipedia.org/wiki/36Kr",
-          "https://m.36kr.com/",
+          "https://www.36kr.com/pages/about-en",
           "https://www.36krglobal.com/",
-          "https://baike.baidu.com/en/item/36Kr/889034",
-          "https://global.36kr.com/",
+          "https://pitchhub.36kr.com/",
+          "https://m.36kr.com/",
+          "https://kr-asia.com/author/36kr-english",
           "https://finance.yahoo.com/quote/KRKR/",
-          "https://36kr.gcs-web.com/",
-          "https://stockanalysis.com/stocks/krkr/company/"
+          "https://36kr.jp/"
         ],
         "candidates": [
-          "36kr.gcs-web.com",
-          "baike.baidu.com",
+          "36kr.jp",
           "en.wikipedia.org",
           "finance.yahoo.com",
-          "global.36kr.com",
+          "kr-asia.com",
           "m.36kr.com",
-          "stockanalysis.com",
+          "pitchhub.36kr.com",
           "www.36kr.com",
           "www.36krglobal.com"
         ],
@@ -168280,142 +168279,139 @@
         "ownership_evidence": []
       },
       "3Type/3Type.yaml": {
-        "checked_at": "2026-11-02 21:20 UTC",
+        "checked_at": "2026-11-16 21:35 UTC",
         "name": "3Type",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.youtube.com/",
-          "https://support.google.com/youtube/answer/6083634?hl=en&co=GENIE.Platform%3DDesktop",
-          "https://obsproject.com/forum/resources/youtube-chat-transparent-background-solely-css.486/",
-          "https://support.google.com/youtube/answer/9288567?hl=en-GB",
-          "https://obsproject.com/forum/resources/tuna.843/",
-          "https://support.google.com/youtube/answer/2398242?hl=en-GB&co=GENIE.Platform%3DDesktop",
-          "https://support.google.com/youtube/threads?hl=en",
-          "https://support.google.com/youtube/community?hl=it",
-          "https://support.google.com/youtube/answer/1311392?hl=en-gb",
-          "https://support.google.com/youtube/?hl=en-GB"
+          "https://my.wagner.edu/",
+          "https://my.wagner.edu/ICS/Registrar/",
+          "https://my.wagner.edu/ICS/default.aspx?portlet=Course_Schedules",
+          "https://my.wagner.edu/ICS/Portal_Homepage.jnz?portlet=Welcome",
+          "https://my.wagner.edu/ICS/Portal_Homepage.jnz?portlet=FAQ%2fHelp",
+          "https://my.wagner.edu/ICS/Billing/Billing.jnz?portlet=My_Account_Info",
+          "https://my.wagner.edu/ICS/?tool=CampusDirectory",
+          "https://my.wagner.edu/ICS/Registrar/Default_Page.jnz?portlet=Free-form_Content",
+          "https://my.wagner.edu/ICS/Portal_Homepage.jnz?portlet=Campus_Requests",
+          "https://my.wagner.edu/ICS/Registrar/Default_Page.jnz?portlet=Free-form_Content_2017-10-20T14-34-47-81"
         ],
         "candidates": [
-          "obsproject.com",
-          "support.google.com",
-          "www.youtube.com"
+          "my.wagner.edu",
+          "student.accounts",
+          "wagner.edu"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "3dm/3dm.yaml": {
-        "checked_at": "2026-11-02 21:20 UTC",
+        "checked_at": "2026-11-16 21:35 UTC",
         "name": "3dm",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.3dmgame.com/",
-          "https://bbs.3dmgame.com/",
-          "https://en.3dmgame.com/",
-          "https://mod.3dmgame.com/games",
-          "https://bbs.3dmgame.com/forum.php?mobile=no",
-          "https://en.3dmgame.com/games",
-          "https://mod.3dmgame.com/",
-          "https://m.3dmgame.com/s/about.html",
-          "https://en.wikipedia.org/wiki/3DM",
-          "https://3dm.net.cn/"
+          "https://m.car-part.com/",
+          "https://www.car-part.com/buyer.htm",
+          "https://web.car-part.com/outside/back.htm",
+          "https://cpprosearch01prod.car-part.com/advsearch.htm",
+          "https://web.car-part.com/consolidated2.htm",
+          "https://carspart.us/",
+          "https://www.usedpart.us/used-auto-parts/ringwood-new-jersey/",
+          "https://carpartmall.com/"
         ],
         "candidates": [
-          "3dm.net.cn",
-          "bbs.3dmgame.com",
-          "en.3dmgame.com",
-          "en.wikipedia.org",
-          "m.3dmgame.com",
-          "mod.3dmgame.com",
-          "www.3dmgame.com"
+          "car-part.com",
+          "car-part.com--used",
+          "carpartmall.com",
+          "carspart.us",
+          "cc01qa.car-part.com",
+          "cpprosearch01prod.car-part.com",
+          "m.car-part.com",
+          "recycler.car-part.com",
+          "web.car-part.com",
+          "www.car-part.com",
+          "www.usedpart.us"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "4399/4399.yaml": {
-        "checked_at": "2026-11-02 21:20 UTC",
+        "checked_at": "2026-11-16 21:35 UTC",
         "name": "4399",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.4399.com/flash/game100_4.htm",
           "https://www.4399.com/special/2.htm",
           "https://h.4399.com/",
+          "https://web.4399.com/",
           "https://my.4399.com/",
+          "https://www.4399.cn/",
           "https://h.4399.com/xyx.htm",
           "https://u.4399.com/",
-          "https://my.4399.com/game/index",
-          "https://web.4399.com/gamehall/",
-          "https://m.go-index-4399.com.cn/"
+          "https://www.4399.com/flash_fl/12_h_1.htm"
         ],
         "candidates": [
           "4399.com",
           "h.4399.com",
           "ls-xx.cn",
-          "m.go-index-4399.com.cn",
           "my.4399.com",
           "u.4399.com",
           "web.4399.com",
+          "www.4399.cn",
           "www.4399.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "4Paradigm/4Paradigm.yaml": {
-        "checked_at": "2026-11-02 21:20 UTC",
+        "checked_at": "2026-11-16 21:35 UTC",
         "name": "4Paradigm",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.walmart.com/",
-          "https://www.walmart.com/store/2358-alpena-mi",
-          "https://tech.walmart.com/content/walmart-global-tech/en_us/careers.html",
-          "https://my.walmart.com/home",
-          "https://seller.walmart.com/home",
-          "https://corporate.walmart.com/about/location-facts/united-states",
-          "https://photos3.walmart.com/about/calendars",
-          "https://careers.walmart.com/us/en/sams-home",
-          "https://gscope.walmart.com/login",
-          "https://corporate.walmart.com/about/leadership"
+          "https://www.nfl.com/news/chargers-qb-justin-herbert-left-hand-questionable-to-play-monday-vs-eagles",
+          "https://www.nfl.com/schedules/2026/by-team",
+          "https://www.nfl.com/schedules/2025/by-week/preseason-week-1",
+          "https://www.nfl.com/news/nfl-week-17-injury-report-player-statuses-for-all-16-games",
+          "https://www.nfl.com/players/adam-trautman/",
+          "https://www.nfl.com/injuries/league/2026/reg1",
+          "https://www.nfl.com/schedules/2026/prime-time/monday-night-football",
+          "https://www.nfl.com/schedules/2026/by-week/week-5",
+          "https://www.nfl.com/schedules/2026/prime-time",
+          "https://www.nfl.com/players/romeo-doubs/"
         ],
         "candidates": [
-          "careers.walmart.com",
-          "corporate.walmart.com",
-          "gscope.walmart.com",
-          "my.walmart.com",
-          "photos3.walmart.com",
-          "seller.walmart.com",
-          "tech.walmart.com",
-          "walmart.com",
-          "www.walmart.com"
+          "nfl.com",
+          "www.nfl.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "4chan/4chan.yaml": {
-        "checked_at": "2026-11-02 21:20 UTC",
+        "checked_at": "2026-11-16 21:35 UTC",
         "name": "4chan",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://en.m.wikipedia.org/wiki/4chan",
-          "https://gigazine.net/gsc_news/en/20250428-4chan-still-standing/",
           "https://simple.m.wikipedia.org/wiki/4chan",
-          "https://knowyourmeme.com/news/4chan-is-back-online-days-after-the-infamous-april-2025-hack-that-leaked-its-janitors-emails",
-          "https://www.extremetech.com/internet/4chan-is-back-online-but-is-the-aura-of-anonymity-dead",
-          "https://en.m.wikipedia.org/wiki/List_of_Internet_forums",
+          "https://gigazine.net/gsc_news/en/20250428-4chan-still-standing/",
           "https://fr.m.wikipedia.org/wiki/4chan",
-          "https://github.com/bzvnr/4chan-Link-Updater",
+          "https://es.m.wikipedia.org/wiki/4chan",
+          "https://x.com/4chan/status/1912242601102844078",
+          "https://en.m.wikipedia.org/wiki//pol/",
           "https://it.m.wikipedia.org/wiki/4chan",
-          "https://www.livenowfox.com/news/4chan-shut-down-after-hack"
+          "https://knowyourmeme.com/news/4chan-is-back-online-days-after-the-infamous-april-2025-hack-that-leaked-its-janitors-emails",
+          "https://de.m.wikipedia.org/wiki/4chan"
         ],
         "candidates": [
+          "4chan.net",
+          "4chan.org",
+          "de.m.wikipedia.org",
           "en.m.wikipedia.org",
+          "es.m.wikipedia.org",
           "fr.m.wikipedia.org",
           "gigazine.net",
-          "github.com",
           "it.m.wikipedia.org",
           "knowyourmeme.com",
           "simple.m.wikipedia.org",
           "soyjak.party",
-          "www.extremetech.com",
-          "www.livenowfox.com"
+          "x.com"
         ],
         "accepted": [],
         "ownership_evidence": []
