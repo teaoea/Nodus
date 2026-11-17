@@ -1,7 +1,7 @@
 {
   "upstream": "https://github.com/blackmatrix7/ios_rule_script",
   "revision": "0b6897dc17e0c513d25449c935a9694818e32f0c",
-  "date": "2026-11-16 21:35 UTC",
+  "date": "2026-11-17 06:19 UTC",
   "collections": {
     "rule/Clash/115/115.yaml": {
       "input": 10,
@@ -149018,8 +149018,8 @@
   ],
   "discovery": {
     "engine": "Bing public RSS",
-    "checked_at": "2026-11-16 21:35 UTC",
-    "next_index": 14,
+    "checked_at": "2026-11-17 06:19 UTC",
+    "next_index": 38,
     "attempted": 24,
     "total_collections": 689,
     "verified_additions": {
@@ -168417,159 +168417,178 @@
         "ownership_evidence": []
       },
       "51Job/51Job.yaml": {
-        "checked_at": "2026-11-02 21:20 UTC",
+        "checked_at": "2026-11-17 06:19 UTC",
         "name": "51Job",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.51job.com/",
           "https://login.51job.com/",
           "https://union.51job.com/",
+          "https://www.51job.com/shanghai/",
           "https://big5.51job.com/",
-          "https://www.51job.com/default-e.php",
           "https://u.51job.com/",
           "https://we.51job.com/pc/search",
-          "https://www.linkedin.com/company/51job",
           "https://jobs.51job.com/",
-          "https://www.51job.com/shanghai/"
+          "https://ehire.51job.com/MainLogin.aspx"
         ],
         "candidates": [
           "51job.com",
           "big5.51job.com",
+          "ehire.51job.com",
           "jobs.51job.com",
           "login.51job.com",
           "u.51job.com",
           "union.51job.com",
           "we.51job.com",
           "www.51job.com",
-          "www.linkedin.com"
+          "xy.51job.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "51nod/51nod.yaml": {
-        "checked_at": "2026-11-02 21:20 UTC",
+        "checked_at": "2026-11-17 06:19 UTC",
         "name": "51nod",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.foodinjapan.org/kansai/kyoto/obanzai/",
-          "https://www.foodinjapan.org/tag/obanzai/",
-          "https://www.foodinjapan.org/tag/%E3%81%8A%E3%81%B0%E3%82%93%E3%81%96%E3%81%84/",
-          "https://www.foodinjapan.org/?vp_page=119",
-          "https://www.foodinjapan.org/kansai/kyoto/taitan/",
-          "https://www.foodinjapan.org/fr/kansai-fr/kyoto-fr-2/obanzai-fr/",
-          "https://www.foodinjapan.org/ja/%e9%96%a2%e8%a5%bf/%e4%ba%ac%e9%83%bd/%e3%81%8a%e3%81%b0%e3%82%93%e3%81%96%e3%81%84-2/",
-          "https://www.foodinjapan.org/article/kyoto-cuisine/",
-          "https://www.foodinjapan.org/kansai/kyoto/one-day-kyoto-food-itinerary/",
-          "https://www.foodinjapan.org/kansai/kyoto/inarizushi/"
+          "https://www.my.af.mil/gcss-af/USAF/ep/home.do",
+          "https://www.my.af.mil/afp/netstorage/login_page_files/afportal_faqs.html",
+          "https://aiportal.us.af.mil/aiportal/auth/login",
+          "https://www.logtool.com/toolbox/af-portal",
+          "https://aflink.us/",
+          "https://www2.my.af.mil/afp/netstorage/login_page_files/afportal_ffminreq.html",
+          "https://www.my.af.mil/afp/netstorage/login_page_files/afportal_account.html",
+          "https://www2.my.af.mil/afp/netstorage/login_page_files/afportal_helpdesk_lbp.html",
+          "https://www.af.mil/",
+          "https://webmail.apps.mil/mail/?realm=us.af.mil"
         ],
         "candidates": [
-          "www.foodinjapan.org"
+          "af.mil",
+          "aflink.us",
+          "aiportal.us.af.mil",
+          "login.gov",
+          "webmail.apps.mil",
+          "www.af.mil",
+          "www.logtool.com",
+          "www.my.af.mil",
+          "www2.my.af.mil"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "56/56.yaml": {
-        "checked_at": "2026-11-02 21:20 UTC",
+        "checked_at": "2026-11-17 06:19 UTC",
         "name": "56",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.washington.edu/",
-          "https://en.m.wikipedia.org/wiki/University_of_Washington",
-          "https://www.uwmedicine.org/",
-          "https://myplan.uw.edu/plan/?rd=/student/myplan",
-          "https://admit.washington.edu/",
-          "https://admit.washington.edu/Apply/",
-          "https://myplan.uw.edu/home/",
-          "https://www.washington.edu/admissions/",
-          "https://www.washington.edu/students/gencat/degree_programs.html",
-          "https://www.washington.edu/about/"
+          "https://en.m.wikipedia.org/wiki/56_(number)",
+          "https://www.irs.gov/forms-pubs/about-form-56",
+          "https://m.youtube.com/watch?v=nDfYsgKl9yk",
+          "https://deepsymbol.com/the-symbolism-of-number-56/",
+          "https://en.m.wikipedia.org/wiki/56",
+          "https://m.youtube.com/watch?v=CnHdVNxsH24",
+          "https://number.academy/56",
+          "https://www.irs.gov/pub/irs-pdf/f56.pdf",
+          "https://numeraly.com/about-the-number-56/",
+          "https://m.imdb.com/title/tt30412869/"
         ],
         "candidates": [
-          "admit.washington.edu",
+          "deepsymbol.com",
           "en.m.wikipedia.org",
-          "myplan.uw.edu",
-          "www.uwmedicine.org",
-          "www.washington.edu"
+          "irs.gov",
+          "m.imdb.com",
+          "m.youtube.com",
+          "number.academy",
+          "numeraly.com",
+          "www.irs.gov"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "58TongCheng/58TongCheng.yaml": {
-        "checked_at": "2026-11-02 21:20 UTC",
+        "checked_at": "2026-11-17 06:19 UTC",
         "name": "58TongCheng",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://okpolicy.org/judges-ballot-oklahoma-need-know/",
-          "https://okpoliticstoday.com/2026/10/before-you-vote-nine-oklahoma-judges-face-retention-decisions/",
-          "https://nondoc.com/2026/10/15/oklahoma-court-of-civil-appeals-4-judges-up-for-retention-on-nov-3-ballot/",
-          "https://okpoliticstoday.com/2026/10/before-you-vote-how-oklahomas-judicial-retention-ballot-works/",
-          "https://www.muskogeepolitico.com/2026/10/heres-what-you-need-to-know-about.html",
-          "https://theballotbrief.com/judges/oklahoma",
-          "https://tulsaflyer.org/2026/10/23/government/post/oklahoma-judges-elections-2026/",
-          "https://ballotpedia.org/Oklahoma_intermediate_appellate_court_elections,_2026",
-          "https://nondoc.com/2026/10/15/oklahoma-court-of-civil-appeals-4-judges-up-for-retention-on-nov-3-ballot/?ratts_pdf=1",
-          "https://www.oklahoman.com/story/news/politics/elections/2026/10/29/oklahoma-judicial-retention-elections-robert-l-hudson-stacie-l-hixon-deborah-b-barnes/92497849007/"
+          "https://www.zennixtek.com/products/feetech-sm45bl-c001-servo-motor",
+          "https://rcdrone.top/products/feetech-sm45bl-c001-servo-motor",
+          "https://servodatabase.com/servo/feetech/sm45bl",
+          "https://www.aliexpress.com/item/1005003687608651.html",
+          "https://robotdoo.com/products/feetech-sm45bl-rs485-brushless-45kg-servo",
+          "https://www.zennixtek.com/products/feetech-sm45bl-c002-servo-motor",
+          "https://www.alibaba.com/product-detail/Feetech-SM45BL-24V-45kg-Servo-for_1601873871311.html",
+          "https://www.alibaba.com/product-detail/FEETECH-SM45BL-24V-45kg-cm-RS485_1601756135328.html",
+          "https://www.ebay.com/itm/236706836416",
+          "https://feixiang668.en.made-in-china.com/product/HwbANodCMQrk/China-Feetech-Sm45bl-All-Metal-45kg-Magnetic-Code-Hv-24V-360-Degree-RC-DIY-Servo-RS485-Double-Shaft-Programmable-RTU-Brushless-Servo.html"
         ],
         "candidates": [
-          "ballotpedia.org",
-          "nondoc.com",
-          "okpolicy.org",
-          "okpoliticstoday.com",
-          "theballotbrief.com",
-          "tulsaflyer.org",
-          "www.muskogeepolitico.com",
-          "www.oklahoman.com"
+          "15kg.cm",
+          "45kg.cm",
+          "feixiang668.en.made-in-china.com",
+          "rcdrone.top",
+          "robotdoo.com",
+          "servodatabase.com",
+          "www.alibaba.com",
+          "www.aliexpress.com",
+          "www.ebay.com",
+          "www.zennixtek.com",
+          "zennixtek.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "6JianFang/6JianFang.yaml": {
-        "checked_at": "2026-11-02 21:20 UTC",
+        "checked_at": "2026-11-17 06:19 UTC",
         "name": "6JianFang",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.similarweb.com/website/ebaumsworld.com/competitors/",
-          "https://www.similarweb.com/top-websites/",
-          "https://aisearch.similarweb.com/blog/most-used-ai/",
-          "https://support.similarweb.com/hc/en-us/articles/360001295078-Understand-The-Search-Competition",
-          "https://pro.similarweb.com/",
-          "https://aisearch.similarweb.com/geo/",
-          "https://www.similarweb.com/blog/research/business-benchmarking/benchmarking-best-practices/",
-          "https://www.similarweb.com/top-websites/business-and-consumer-services/online-marketing/",
-          "https://www.similarweb.com/top-websites/e-commerce-and-shopping/auctions/",
-          "https://www.similarweb.com/top-websites/e-commerce-and-shopping/"
+          "https://www.bp.com/en-US/products-and-services/find-a-station",
+          "https://wherefuel.com/",
+          "https://gasstations-nearme.com/",
+          "https://www.shell.us/shell-stations/station-locator.html",
+          "https://gas-stationsnearme.com/",
+          "https://fuelwide.com/stations",
+          "https://www.merriam-webster.com/dictionary/gas%20station",
+          "https://www.crazygames.com/game/gas-station-ooe",
+          "https://www.exxon.com/en/find%20station",
+          "https://en.m.wikipedia.org/wiki/List_of_gas_station_chains_in_North_America"
         ],
         "candidates": [
-          "aisearch.similarweb.com",
-          "ebaumsworld.com",
-          "pro.similarweb.com",
-          "support.similarweb.com",
-          "www.similarweb.com"
+          "en.m.wikipedia.org",
+          "fuelwide.com",
+          "gas-stationsnearme.com",
+          "gasstations-nearme.com",
+          "wherefuel.com",
+          "www.bp.com",
+          "www.crazygames.com",
+          "www.exxon.com",
+          "www.merriam-webster.com",
+          "www.shell.us"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "6park/6park.yaml": {
-        "checked_at": "2026-11-02 21:20 UTC",
+        "checked_at": "2026-11-17 06:19 UTC",
         "name": "6park",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://en.wikipedia.org/wiki/6park",
           "https://6park.com/index.php?locale=en_US",
-          "https://www.6park.co.uk/",
-          "https://archive.li/www.6park.com",
-          "https://zh.wikipedia.org/wiki/%E7%95%99%E5%9B%AD%E7%BD%91",
-          "https://apps.apple.com/us/app/%E7%95%99%E5%9B%AD%E7%A4%BE%E5%8C%BA-6park-com/id1474851292",
           "https://www.hhlink.com/hhlink/ViewWebsiteCopy.aspx?u=www.6park.com",
-          "https://zh.wikipedia.org/zh-hant/%E7%95%99%E5%9B%AD%E7%BD%91"
+          "https://www.hhlink.com/url/www.6park.com",
+          "https://www.dawhois.com/site/6park.com.html",
+          "https://www.6park.co.uk/",
+          "https://apps.apple.com/us/app/%E7%95%99%E5%9B%AD%E7%A4%BE%E5%8C%BA-6park-com/id1474851292",
+          "https://zh.wikipedia.org/wiki/%E7%95%99%E5%9B%AD%E7%BD%91"
         ],
         "candidates": [
           "6park.com",
           "apps.apple.com",
-          "archive.li",
           "en.wikipedia.org",
           "www.6park.co.uk",
           "www.6park.com",
+          "www.dawhois.com",
           "www.hhlink.com",
           "www.ymcanada.com",
           "zh.wikipedia.org"
@@ -168578,127 +168597,120 @@
         "ownership_evidence": []
       },
       "8btc/8btc.yaml": {
-        "checked_at": "2026-11-02 21:20 UTC",
+        "checked_at": "2026-11-17 06:19 UTC",
         "name": "8btc",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://vsalele.org/spip/IMG/pdf/La_femme_chocolat.pdf",
-          "https://www.lafeechocolat.com/wp-content/uploads/2025/11/Catalogue-2026-La-Fe%CC%81e-Chocolat.pdf",
-          "https://www.francepodcasts.com/wp-content/uploads/2021/07/Olivia-Ruiz-la-femme-chocolat.pdf",
-          "https://www.lafeechocolat.com/wp-content/uploads/2021/09/Catalogue-2021-la_fee_chocolat.pdf",
-          "https://www.initiatives.fr/blog/wp-content/uploads/2017/02/paroles-chanson-ruiz-femme-chocolat.pdf",
-          "https://www.sympaphonie.com/sympadoc/pdf/26018-A.pdf",
-          "https://www.jeanpierrepoulin.com/PDF/PAROLES/LA_FEMME_CHOCOLAT.pdf"
+          "https://mol.tfs.usmc.mil/mol/MarineResources.do"
         ],
         "candidates": [
-          "vsalele.org",
-          "www.francepodcasts.com",
-          "www.initiatives.fr",
-          "www.jeanpierrepoulin.com",
-          "www.lafeechocolat.com",
-          "www.sympaphonie.com"
+          "mol.tfs.usmc.mil"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "9News/9News.yaml": {
-        "checked_at": "2026-11-02 21:20 UTC",
+        "checked_at": "2026-11-17 06:19 UTC",
         "name": "9News",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://sosmt.gov/business/",
-          "https://biz.sosmt.gov/search/business",
-          "https://help.sosmt.gov/en-us/article/cancel-withdraw-or-terminate-a-business-registration-1k1n93r/",
-          "https://sosmt.gov/search/",
-          "https://help.sosmt.gov/en-us/article/how-do-i-obtain-or-renew-my-business-license-1cux7gm/",
-          "https://biz.sosmt.gov/search/business/A",
-          "https://sosmt.gov/",
-          "https://sosmt.gov/apostilles-authentications/",
-          "https://sosmt.gov/?page_id=0",
-          "https://sosmt.gov/business/business-structures/"
+          "https://www.9news.com/",
+          "https://www.9news.com/local/",
+          "https://tv.9news.com/",
+          "https://www.youtube.com/9news",
+          "https://interactive.9news.com/appredirect/index.html",
+          "https://www.9news.com/news",
+          "https://www.9news.com/watch",
+          "https://www.9news.com/weather",
+          "https://www.9news.com/live-local-form",
+          "https://www.9news.com/10-day"
         ],
         "candidates": [
-          "biz.sosmt.gov",
-          "help.sosmt.gov",
-          "sosmt.gov"
+          "9news.com",
+          "interactive.9news.com",
+          "tv.9news.com",
+          "www.9news.com",
+          "www.youtube.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "9to5/9to5.yaml": {
-        "checked_at": "2026-11-02 21:20 UTC",
+        "checked_at": "2026-11-17 06:19 UTC",
         "name": "9to5",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://9to5mac.com/",
           "https://9to5seating.com/",
-          "https://9to5seating.com/product-detail/?chair_id=130",
           "https://9to5google.com/",
-          "https://www.youtube.com/watch?v=UbxUSsFXYo4",
-          "https://www.imdb.com/title/tt0080319/",
-          "https://en.wikipedia.org/wiki/9_to_5_(film)",
+          "https://www.youtube.com/watch?v=3mzW6L1GTu8",
+          "https://9to5seating.com/product-detail/?chair_id=130",
           "https://9to5toys.com/",
+          "https://9to5.org/",
+          "https://en.wikipedia.org/wiki/9_to_5_(film)",
           "https://www.youtube.com/watch?v=Pcm2yDp8XxI",
-          "https://www.fandango.com/9-to-5-re-release-2026-247645/movie-overview"
+          "https://en.wikipedia.org/wiki/9to5"
         ],
         "candidates": [
+          "9to5.org",
           "9to5google.com",
           "9to5mac.com",
           "9to5seating.com",
           "9to5toys.com",
-          "dollyparton.lnk.to",
           "en.wikipedia.org",
-          "www.fandango.com",
-          "www.imdb.com",
           "www.youtube.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "ABC/ABC.yaml": {
-        "checked_at": "2026-11-02 21:20 UTC",
+        "checked_at": "2026-11-17 06:19 UTC",
         "name": "ABC",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://abc.com/",
           "https://abcnews.com/",
           "https://abc.com/watch-live",
-          "https://abc7.com/watch/live/",
-          "https://abc7.com/",
-          "https://abcnews.com/Live",
-          "https://www.abcya.com/"
+          "https://www.abc.net.au/",
+          "https://abcnews.com/Live/",
+          "https://en.wikipedia.org/wiki/American_Broadcasting_Company",
+          "https://www.youtube.com/watch?v=tKsIi1MH4lw",
+          "https://www.youtube.com/watch?v=xY3Z8acE8ew",
+          "https://www.abc.net.au/news/newschannel",
+          "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_the_American_Broadcasting_Company"
         ],
         "candidates": [
           "abc.com",
-          "abc7.com",
           "abcnews.com",
-          "www.abcya.com"
+          "en.wikipedia.org",
+          "www.abc.net.au",
+          "www.youtube.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "AFP/AFP.yaml": {
-        "checked_at": "2026-11-02 21:20 UTC",
+        "checked_at": "2026-11-17 06:19 UTC",
         "name": "AFP",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.afp.com/en/homepage",
           "https://www.financialprofessionals.org/",
-          "https://us.afpnews.com/",
           "https://afpglobal.org/",
+          "https://us.afpnews.com/",
           "https://www.aafp.org/",
-          "https://www.afp.com/en/afp-world",
-          "https://en.wikipedia.org/wiki/Agence_France-Presse",
-          "https://news.afp.com/",
           "https://conference.financialprofessionals.org/",
-          "https://us.afpnews.com/politics/"
+          "https://www.afp.com/en/afp-world",
+          "https://medlineplus.gov/lab-tests/alpha-fetoprotein-afp-tumor-marker-test/",
+          "https://en.wikipedia.org/wiki/Agence_France-Presse",
+          "https://www.aafp.org/afp"
         ],
         "candidates": [
           "afp.com",
           "afpglobal.org",
           "conference.financialprofessionals.org",
           "en.wikipedia.org",
-          "news.afp.com",
+          "medlineplus.gov",
           "us.afpnews.com",
           "www.aafp.org",
           "www.afp.com",
@@ -168708,7 +168720,7 @@
         "ownership_evidence": []
       },
       "ALJazeera/ALJazeera.yaml": {
-        "checked_at": "2026-11-02 21:20 UTC",
+        "checked_at": "2026-11-17 06:19 UTC",
         "name": "ALJazeera",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -168716,20 +168728,23 @@
           "https://www.aljazeera.com/news/",
           "https://www.aljazeera.net/video/live",
           "https://www.aljazeera.net/",
-          "https://www.youtube.com/aljazeera%20english/live",
           "https://www.aljazeera.com/video/live",
-          "https://www.aljazeera.com/middle-east/"
+          "https://www.aljazeera.com/middle-east/",
+          "https://www.aljazeera.net/news/",
+          "https://www.aljazeera.com/where/united-states/",
+          "https://1-e8259.azureedge.net/video/live",
+          "https://www.aljazeera.com/tag/al-jazeera/"
         ],
         "candidates": [
+          "1-e8259.azureedge.net",
           "www.aljazeera.com",
-          "www.aljazeera.net",
-          "www.youtube.com"
+          "www.aljazeera.net"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "AMD/AMD.yaml": {
-        "checked_at": "2026-11-02 21:20 UTC",
+        "checked_at": "2026-11-17 06:19 UTC",
         "name": "AMD",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -168737,247 +168752,271 @@
           "https://www.amd.com/en/support/download/drivers.html",
           "https://finance.yahoo.com/quote/AMD/",
           "https://en.wikipedia.org/wiki/AMD",
+          "https://ir.amd.com/",
+          "https://www.marketwatch.com/investing/stock/AMD",
           "https://finance.yahoo.com/quote/AMD/news/",
-          "https://www.marketwatch.com/investing/stock/amd",
-          "https://newsroom.amd.com/news/amd-acquire-world-labs/",
-          "https://shop-us-en.amd.com/",
-          "https://www.cnbc.com/quotes/AMD",
-          "https://www.cnn.com/markets/stocks/AMD"
+          "https://www.amd.com/en/support.html",
+          "https://www.amd.com/en/gaming.html",
+          "https://www.amd.com/en/products.html"
         ],
         "candidates": [
           "en.wikipedia.org",
           "finance.yahoo.com",
-          "newsroom.amd.com",
-          "shop-us-en.amd.com",
+          "ir.amd.com",
           "www.amd.com",
-          "www.cnbc.com",
-          "www.cnn.com",
           "www.marketwatch.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "AMP/AMP.yaml": {
-        "checked_at": "2026-11-02 21:20 UTC",
+        "checked_at": "2026-11-17 06:19 UTC",
         "name": "AMP",
         "status": "needs_ownership_evidence",
         "sources": [
+          "https://www.ampfutures.com/",
+          "https://cubecoders.com/AMP",
+          "https://ampcode.com/",
           "https://www.sce.com/save-money/income-qualified-programs/arrearage-management-plans",
-          "https://www.sce.com/customer-service-center/help-center/rebate-savings/care-fera-financial-assistance/arrearage-management-plan",
-          "https://www.sce.com/sites/default/files/custom-files/SCE_CP_Phase1_FactSheet_EN_SP_FINAL.pdf",
-          "https://www.sce.com/save-money/rebates-financial-assistance/bill-assistance-programs",
-          "https://www.sce.com/save-money/rates-financing/residential-rate-plans/time-of-use-plans",
-          "https://www.sce.com/customer-service-center/billing-payments",
-          "https://www.sce.com/sites/default/files/custom-files/PDF_Files/G24-024_Community_Resource_Guide_042924.pdf",
-          "https://www.sce.com/my-account",
-          "https://www.sce.com/sites/default/files/custom-files/PDF_Files/Arrangement_Management_Payment_Plan_Online_Form_RedLine.pdf",
-          "https://www.sce.com/save-money/income-qualified-programs/care-fera"
+          "https://www.youtube.com/@ampexclusive",
+          "https://www.amp.com.au/",
+          "https://amp26.amp.org/",
+          "https://amp.dev/",
+          "https://cms.amptab.com/"
         ],
         "candidates": [
-          "www.sce.com"
-        ],
-        "accepted": [],
-        "ownership_evidence": []
-      },
-      "AOL/AOL.yaml": {
-        "checked_at": "2026-11-02 21:20 UTC",
-        "name": "AOL",
-        "status": "needs_ownership_evidence",
-        "sources": [
-          "https://www.aol.com/",
-          "https://mail.aol.com/",
-          "https://www.aol.com/homepage/",
-          "https://login.aol.com/",
-          "https://login.aol.com/?lang=en-gb&intl=us",
-          "https://lite.aol.com/",
-          "https://help.aol.com/products/new-aol-mail",
-          "https://help.aol.com/",
-          "https://en.wikipedia.org/wiki/AOL",
-          "https://www.aol.co.uk/"
-        ],
-        "candidates": [
-          "aol.co.uk",
-          "aol.com",
-          "en.wikipedia.org",
-          "help.aol.com",
-          "lite.aol.com",
-          "login.aol.com",
-          "mail.aol.com",
-          "www.aol.co.uk",
-          "www.aol.com"
-        ],
-        "accepted": [],
-        "ownership_evidence": []
-      },
-      "APKCombo/APKCombo.yaml": {
-        "checked_at": "2026-11-02 21:20 UTC",
-        "name": "APKCombo",
-        "status": "needs_ownership_evidence",
-        "sources": [
-          "https://apkcombo.com/%29%20",
-          "https://apk-combo.com/",
-          "https://github.com/apkcombo",
-          "https://www.ipaddress.com/website/apkcombo.com",
-          "https://alternativeto.net/software/apkcombo/?platform=android",
-          "https://naijaknowhow.net/best-apk-download-sites/",
-          "https://www.wikihow.com/Download-an-APK-File-from-the-Google-Play-Store"
-        ],
-        "candidates": [
-          "alternativeto.net",
-          "apk-combo.com",
-          "apkcombo.com",
-          "github.com",
-          "naijaknowhow.net",
-          "play.google.com",
-          "www.ipaddress.com",
-          "www.wikihow.com"
-        ],
-        "accepted": [],
-        "ownership_evidence": []
-      },
-      "ATTWatchTV/ATTWatchTV.yaml": {
-        "checked_at": "2026-11-02 21:20 UTC",
-        "name": "ATTWatchTV",
-        "status": "needs_ownership_evidence",
-        "sources": [
-          "https://social.msdn.microsoft.com/Forums/en-US/6a8ad849-7db0-43a2-a708-052c110051eb/polygons-with-holes-complex-polygons?forum=bingmaps"
-        ],
-        "candidates": [
-          "social.msdn.microsoft.com"
-        ],
-        "accepted": [],
-        "ownership_evidence": []
-      },
-      "Abema/Abema.yaml": {
-        "checked_at": "2026-11-03 05:08 UTC",
-        "name": "Abema",
-        "status": "needs_ownership_evidence",
-        "sources": [
-          "https://www.temporaryhvac.com/spot-cooler-rental/pawtucket-rhode-island/",
-          "https://www.temporaryhvac.com/service-areas/rhode-island/pawtucket/",
-          "https://www.rubbl.com/equipment-rentals/Portable%20Air%20Conditioner/Pawtucket-RI",
-          "https://www.yellowpages.com/pawtucket-ri/portable-ac-rental",
-          "https://paratusairconditioningrentals.com/location/paratus-air-conditioner-rental-pawtucket-ri-up-to-80-tons/",
-          "https://www.superpages.com/pawtucket-ri/portable-air-conditioners-rental-and-leasing",
-          "https://www.yellowpages.com/pawtucket-ri/portable-a-c-rentals",
-          "https://www.superpages.com/pawtucket-ri/air-conditioning-rental-and-leasing",
-          "https://www.unitedrentals.com/marketplace/equipment/hvac-equipment/air-conditioners/portable-air-conditioners-spot-coolers",
-          "https://www.sunbeltrentals.com/equipment-rental/cooling-heating-drying-and-indoor-air-quality/1-ton-classic-portable-air-conditioner-dehumidifier/1070110/"
-        ],
-        "candidates": [
-          "paratusairconditioningrentals.com",
-          "superpages.com",
-          "www.rubbl.com",
-          "www.sunbeltrentals.com",
-          "www.superpages.com",
-          "www.temporaryhvac.com",
-          "www.unitedrentals.com",
-          "www.yellowpages.com",
-          "yp.com"
-        ],
-        "accepted": [],
-        "ownership_evidence": []
-      },
-      "AbemaTV/AbemaTV.yaml": {
-        "checked_at": "2026-11-03 05:08 UTC",
-        "name": "AbemaTV",
-        "status": "needs_ownership_evidence",
-        "sources": [
-          "https://abema.tv/",
-          "https://abema.tv/now-on-air/abema-anime",
-          "https://en.wikipedia.org/wiki/Abema",
-          "https://www.abema-global.com/en",
-          "https://ja.wikipedia.org/wiki/ABEMA",
-          "https://www.youtube.com/c/AbemaTV/videos",
-          "https://www.wikiwand.com/en/Abema",
-          "https://www.abema-global.com/en/about",
-          "https://abema.tv/now-on-air/drama"
-        ],
-        "candidates": [
-          "abema.tv",
-          "en.wikipedia.org",
-          "ja.wikipedia.org",
-          "www.abema-global.com",
-          "www.wikiwand.com",
+          "amp.dev",
+          "amp26.amp.org",
+          "ampcode.com",
+          "cms.amptab.com",
+          "cubecoders.com",
+          "www.amp.com.au",
+          "www.amp.org",
+          "www.ampfutures.com",
+          "www.sce.com",
           "www.youtube.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
-      "AcFun/AcFun.yaml": {
-        "checked_at": "2026-11-03 05:08 UTC",
-        "name": "AcFun",
+      "AOL/AOL.yaml": {
+        "checked_at": "2026-11-17 06:19 UTC",
+        "name": "AOL",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.acfun.cn/",
-          "https://en.wikipedia.org/wiki/AcFun",
-          "https://tv.yandex.com/search?text=Acfun&lr=21206",
-          "https://zh.wikipedia.org/wiki/AcFun",
-          "https://x.com/acfun_",
-          "https://acfun.my/",
-          "https://acfun.biz/",
-          "https://www.acfun.hl.cn/",
-          "https://open.app.acfun.cn/home/",
-          "https://apps.microsoft.com/detail/xp9cphgd7gbp9c?hl=zh-CN&gl=CN"
+          "https://www.aol.com/",
+          "https://en.wikipedia.org/wiki/AOL",
+          "https://www.britannica.com/money/AOL",
+          "https://mail.aol.com/",
+          "https://www.facebook.com/aol/",
+          "https://en.wikipedia.org/wiki/AOL_Mail",
+          "https://login.aol.com/",
+          "https://www.aol.com/homepage/",
+          "https://login.aol.com/?lang=en-gb&intl=us",
+          "https://lite.aol.com/"
         ],
         "candidates": [
-          "acfun.biz",
-          "acfun.my",
-          "apps.microsoft.com",
+          "aol.com",
           "en.wikipedia.org",
-          "open.app.acfun.cn",
-          "tv.yandex.com",
-          "www.acfun.cn",
-          "www.acfun.hl.cn",
-          "x.com",
+          "lite.aol.com",
+          "login.aol.com",
+          "mail.aol.com",
+          "www.aol.com",
+          "www.britannica.com",
+          "www.facebook.com"
+        ],
+        "accepted": [],
+        "ownership_evidence": []
+      },
+      "APKCombo/APKCombo.yaml": {
+        "checked_at": "2026-11-17 06:19 UTC",
+        "name": "APKCombo",
+        "status": "needs_ownership_evidence",
+        "sources": [
+          "https://apkcombo.com/%E2%81%A0",
+          "https://apk-combo.com/",
+          "https://github.com/apkcombo",
+          "https://alternativeto.net/software/apkcombo/?platform=android",
+          "https://alternativeto.net/software/apkcombo/",
+          "https://addons.mozilla.org/en-US/firefox/addon/direct-apk-downloader-2018/",
+          "https://www.apkmirror.com/",
+          "https://apkcombo.com.br/",
+          "https://apkcombo.com/chrome/com.android.chrome/",
+          "https://github.com/apkcombo/apkcombo-vpn"
+        ],
+        "candidates": [
+          "138.amazon-webview-v138-7204-rz000",
+          "addons.mozilla.org",
+          "alternativeto.net",
+          "apk-combo.com",
+          "apkcombo.com",
+          "apkcombo.com.br",
+          "github.com",
+          "www.apkmirror.com"
+        ],
+        "accepted": [],
+        "ownership_evidence": []
+      },
+      "ATTWatchTV/ATTWatchTV.yaml": {
+        "checked_at": "2026-11-17 06:19 UTC",
+        "name": "ATTWatchTV",
+        "status": "needs_ownership_evidence",
+        "sources": [
+          "https://www.pornhub.com/",
+          "https://www.xnxx.com/",
+          "https://www.pornhub.com/video/search?search=porn",
+          "https://xhamster.com/",
+          "https://www.youporn.com/",
+          "https://xhamster.com/tags/porn",
+          "https://www.xvideos.com/home/en",
+          "https://www.xvideos.com/",
+          "https://www.its.porn/",
+          "https://tubepleasure.com/en/"
+        ],
+        "candidates": [
+          "its.porn",
+          "pornhub.com",
+          "tubepleasure.com",
+          "www.its.porn",
+          "www.pornhub.com",
+          "www.xnxx.com",
+          "www.xvideos.com",
+          "www.youporn.com",
+          "xhamster.com",
+          "xnxx.com",
+          "xvideos.com"
+        ],
+        "accepted": [],
+        "ownership_evidence": []
+      },
+      "Abema/Abema.yaml": {
+        "checked_at": "2026-11-17 06:19 UTC",
+        "name": "Abema",
+        "status": "needs_ownership_evidence",
+        "sources": [
+          "https://abema.tv/",
+          "https://en.wikipedia.org/wiki/Abema",
+          "https://www.abema-global.com/en",
+          "https://abema.tv/video/genre/animation",
+          "https://abema.tv/now-on-air/abema-news",
+          "https://abema.tv/video/genre/drama",
+          "https://www.youtube.com/@prime_ABEMA",
+          "https://www.youtube.com/c/AbemaTV/videos",
+          "https://times.abema.tv/en",
+          "https://ja.wikipedia.org/wiki/ABEMA"
+        ],
+        "candidates": [
+          "abema.tv",
+          "en.wikipedia.org",
+          "ja.wikipedia.org",
+          "times.abema.tv",
+          "www.abema-global.com",
+          "www.youtube.com"
+        ],
+        "accepted": [],
+        "ownership_evidence": []
+      },
+      "AbemaTV/AbemaTV.yaml": {
+        "checked_at": "2026-11-17 06:19 UTC",
+        "name": "AbemaTV",
+        "status": "needs_ownership_evidence",
+        "sources": [
+          "https://abema.tv/",
+          "https://zh.wikipedia.org/wiki/ABEMA",
+          "https://www.abema-global.com/en",
+          "https://abematv.co.jp/",
+          "https://ja.wikipedia.org/wiki/ABEMA",
+          "https://www.abema-global.com/zh-TW",
+          "https://baike.baidu.com/item/ABEMA/67125271",
+          "https://en.wikipedia.org/wiki/Abema",
+          "https://apkpure.com/cn/abema%EF%BC%88%E3%82%A2%E3%83%99%E3%83%9E%EF%BC%89%E3%83%86%E3%83%AC%E3%83%93%E3%82%84%E3%82%A2%E3%83%8B%E3%83%A1%E7%AD%89%E3%81%AE%E5%8B%95%E7%94%BB%E9%85%8D%E4%BF%A1%E3%82%A2%E3%83%97%E3%83%AA/tv.abema",
+          "https://play.google.com/store/apps/details?id=tv.abema&hl=en-US"
+        ],
+        "candidates": [
+          "abema.tv",
+          "abematv.co.jp",
+          "apkpure.com",
+          "baike.baidu.com",
+          "en.wikipedia.org",
+          "ja.wikipedia.org",
+          "play.google.com",
+          "www.abema-global.com",
           "zh.wikipedia.org"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
+      "AcFun/AcFun.yaml": {
+        "checked_at": "2026-11-17 06:19 UTC",
+        "name": "AcFun",
+        "status": "needs_ownership_evidence",
+        "sources": [
+          "https://www.acfun.cn/",
+          "https://tv.yandex.com/search?text=Acfun&lr=21206",
+          "https://acfun.my/",
+          "https://www.acfun.cn/?lang=zh",
+          "https://www.aacfun.cn/",
+          "https://www.acfanapp.cn/",
+          "https://www.acfunpl.com.cn/",
+          "https://www.aacfun.cloud/",
+          "https://m.acfun.hi.cn/",
+          "https://m.acfun.cn/"
+        ],
+        "candidates": [
+          "acfun.my",
+          "m.acfun.cn",
+          "m.acfun.hi.cn",
+          "tv.yandex.com",
+          "www.aacfun.cloud",
+          "www.aacfun.cn",
+          "www.acfanapp.cn",
+          "www.acfun.cn",
+          "www.acfunpl.com.cn"
+        ],
+        "accepted": [],
+        "ownership_evidence": []
+      },
       "Accuweather/Accuweather.yaml": {
-        "checked_at": "2026-11-03 05:08 UTC",
+        "checked_at": "2026-11-17 06:19 UTC",
         "name": "Accuweather",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.accuweather.com/",
-          "https://www.accuweather.com/en/browse-locations",
           "https://wwwl.accuweather.com/",
-          "https://wwwl.accuweather.com/pro_login.php",
           "https://granite.accuweather.com/hosted/granite/index.asp",
-          "https://app.accuweather.com/app-download",
-          "https://www.weatherbug.com/",
-          "https://abc7.com/weather/",
-          "https://en.m.wikipedia.org/wiki/AccuWeather"
+          "https://wwwl.accuweather.com/premium_login.php",
+          "https://en.wikipedia.org/wiki/AccuWeather",
+          "https://www.accuweather.com/en/browse-locations",
+          "https://wwwl.accuweather.com/pro_login.php",
+          "https://www.facebook.com/AccuWeather/"
         ],
         "candidates": [
-          "abc7.com",
           "accuweather.com",
-          "app.accuweather.com",
-          "en.m.wikipedia.org",
+          "en.wikipedia.org",
           "granite.accuweather.com",
           "www.accuweather.com",
-          "www.weatherbug.com",
+          "www.facebook.com",
+          "wwwa.accuweather.com",
           "wwwl.accuweather.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Acer/Acer.yaml": {
-        "checked_at": "2026-11-03 05:08 UTC",
+        "checked_at": "2026-11-17 06:19 UTC",
         "name": "Acer",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.acer.com/us-en",
-          "https://www.acer.com/us-en/support/drivers-and-manuals",
+          "https://www.acer.com/us-en/",
           "https://store.acer.com/en-us/",
+          "https://www.acer.com/us-en/support/drivers-and-manuals",
           "https://en.wikipedia.org/wiki/Acer_Inc.",
           "https://store.acer.com/en-in/",
+          "https://community.acer.com/en",
+          "https://www.bestbuy.com/site/acer/acer-laptops/pcmcat1602772370014.c?id=pcmcat1602772370014",
           "https://blog.acer.com/en",
           "https://service.acer.com/chat/support/en/US/",
-          "https://community.acer.com/en/kb/articles/117-downloading-and-installing-drivers-for-acer-products",
-          "https://www.bestbuy.com/site/acer/acer-laptops/pcmcat1602772370014.c?id=pcmcat1602772370014",
-          "https://community.acer.com/en"
+          "https://www.acer.com/us-en/laptops"
         ],
         "candidates": [
           "blog.acer.com",
@@ -168992,53 +169031,39 @@
         "ownership_evidence": []
       },
       "Acplay/Acplay.yaml": {
-        "checked_at": "2026-11-03 05:08 UTC",
+        "checked_at": "2026-11-17 06:19 UTC",
         "name": "Acplay",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.youtube.com/",
-          "https://support.google.com/youtube/answer/6083634?hl=en&co=GENIE.Platform%3DDesktop",
-          "https://obsproject.com/forum/resources/youtube-chat-transparent-background-solely-css.486/",
-          "https://support.google.com/youtube/threads?hl=en",
-          "https://obsproject.com/forum/resources/tuna.843/",
-          "https://support.google.com/youtube/answer/2398242?hl=en-GB&co=GENIE.Platform%3DDesktop",
-          "https://support.google.com/youtube/answer/9288567?hl=en-GB",
-          "https://support.google.com/youtube/answer/1311392?hl=en-gb",
-          "https://support.google.com/youtube/?hl=sv",
-          "https://support.google.com/youtube/answer/2807691?hl=en"
+          "https://www.datalounge.com/thread/36376608-what-was-your-first-car-",
+          "https://www.datalounge.com/thread/32890916-rfk-jr.-claims-cia-killed-jfk",
+          "https://www.datalounge.com/thread/35798717-the-increasingly-complex-billy-porter-%E2%80%9Ccabaret%E2%80%9D-controversy-explained"
         ],
         "candidates": [
-          "obsproject.com",
-          "support.google.com",
-          "www.youtube.com"
+          "www.datalounge.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Actalis/Actalis.yaml": {
-        "checked_at": "2026-11-03 05:08 UTC",
+        "checked_at": "2026-11-17 06:19 UTC",
         "name": "Actalis",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.microsoft.com/en-us/",
-          "https://account.microsoft.com/account",
-          "https://www.microsoft.com/",
-          "https://myaccount.microsoft.com/",
-          "https://myaccount.microsoft.com/?login",
-          "https://en.wikipedia.org/wiki/Microsoft",
-          "https://account.microsoft.com/account-checkup",
-          "https://apps.microsoft.com/",
-          "https://m365.cloud.microsoft/?origindomain=Office",
-          "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365"
+          "https://www.zhihu.com/question/42052000",
+          "https://www.zhihu.com/question/348533063",
+          "https://www.zhihu.com/question/30167755",
+          "https://www.zhihu.com/question/23765832",
+          "https://www.zhihu.com/question/310088012",
+          "https://www.zhihu.com/question/25261569",
+          "https://www.zhihu.com/question/47607044",
+          "https://www.zhihu.com/question/347553093",
+          "https://www.zhihu.com/question/457016305",
+          "https://www.zhihu.com/question/413563083"
         ],
         "candidates": [
-          "account.microsoft.com",
-          "apps.microsoft.com",
-          "en.wikipedia.org",
-          "m365.cloud.microsoft",
-          "myaccount.microsoft.com",
-          "support.microsoft.com",
-          "www.microsoft.com"
+          "bed.room",
+          "www.zhihu.com"
         ],
         "accepted": [],
         "ownership_evidence": []
