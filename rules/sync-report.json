@@ -1,7 +1,7 @@
 {
   "upstream": "https://github.com/blackmatrix7/ios_rule_script",
   "revision": "0b6897dc17e0c513d25449c935a9694818e32f0c",
-  "date": "2026-11-17 20:25 UTC",
+  "date": "2026-11-18 05:44 UTC",
   "collections": {
     "rule/Clash/115/115.yaml": {
       "input": 10,
@@ -149018,8 +149018,8 @@
   ],
   "discovery": {
     "engine": "Bing public RSS",
-    "checked_at": "2026-11-17 20:25 UTC",
-    "next_index": 62,
+    "checked_at": "2026-11-18 05:44 UTC",
+    "next_index": 86,
     "attempted": 24,
     "total_collections": 689,
     "verified_additions": {
@@ -150917,24 +150917,23 @@
         "ownership_evidence": []
       },
       "AmazonIP/AmazonIP.list": {
-        "checked_at": "2026-11-03 18:59 UTC",
+        "checked_at": "2026-11-18 05:44 UTC",
         "name": "AmazonIP",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.victoryspinalcare.com/",
-          "https://www.victoryspinalcare.com/contact-us/",
-          "https://www.victoryspinalcare.com/common-conditions/",
-          "https://www.victoryspinalcare.com/meet-the-team/",
-          "https://www.victoryspinalcare.com/our-story/",
-          "https://www.victoryspinalcare.com/becoming-a-patient/",
-          "https://www.victoryspinalcare.com/abilene-chiropractor/",
-          "https://www.victoryspinalcare.com/about-us/",
-          "https://www.victoryspinalcare.com/category/back-pain/",
-          "https://www.victoryspinalcare.com/spinal-decompression-abilene-tx/"
+          "https://earth.google.com/",
+          "https://earth.google.com/web",
+          "https://earth.google.com/intl/earth/versions/",
+          "https://earth.google.com/download/ge/agree.html",
+          "https://earth.google.com/intl/en-US/",
+          "https://earth.google.com/web/home",
+          "https://earth.google.com/kmlpreview/",
+          "https://earth.google.com/web/tools",
+          "https://earth.google.com/web/data-layers",
+          "https://earth.google.com/intl/pt/index.html"
         ],
         "candidates": [
-          "victoryspinalcare.com",
-          "www.victoryspinalcare.com"
+          "earth.google.com"
         ],
         "accepted": [],
         "ownership_evidence": []
@@ -169732,51 +169731,51 @@
         "ownership_evidence": []
       },
       "AmazonCN/AmazonCN.yaml": {
-        "checked_at": "2026-11-03 18:59 UTC",
+        "checked_at": "2026-11-18 05:44 UTC",
         "name": "AmazonCN",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.panerabread.com/en-us/home.html",
-          "https://catering.panerabread.com/",
-          "https://www.panerabread.com/en-us/start-an-order.html",
-          "https://www.panerabread.com/en-us/menu/categories/vegetarian.html",
-          "https://www.panerabread.com/en-us/services/delivery.html",
-          "https://fundraising.panerabread.com/",
-          "https://www.panerabread.com/en-us/menu/categories/breakfast.html",
-          "https://www.panerabread.com/en-us/menu/categories/sandwiches.html",
-          "https://careers.panerabread.com/",
-          "https://www.panerabread.com/en-us/menu/categories/soups-and-mac.html"
+          "https://www.microsoft.com/en-us",
+          "https://account.microsoft.com/account",
+          "https://myaccount.microsoft.com/",
+          "https://www.microsoft.com/en-us/download",
+          "https://account.microsoft.com/account-checkup",
+          "https://myaccount.microsoft.com/%C2%A0-%3E",
+          "https://m365.cloud.microsoft/",
+          "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365",
+          "https://en.wikipedia.org/wiki/Microsoft",
+          "https://apps.microsoft.com/"
         ],
         "candidates": [
-          "careers.panerabread.com",
-          "catering.panerabread.com",
-          "fundraising.panerabread.com",
-          "www.panerabread.com"
+          "account.microsoft.com",
+          "apps.microsoft.com",
+          "en.wikipedia.org",
+          "m365.cloud.microsoft",
+          "myaccount.microsoft.com",
+          "support.microsoft.com",
+          "www.microsoft.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "AmazonPrimeVideo/AmazonPrimeVideo.yaml": {
-        "checked_at": "2026-11-03 18:59 UTC",
+        "checked_at": "2026-11-18 05:44 UTC",
         "name": "AmazonPrimeVideo",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.amazon.com/gp/video/storefront/",
+          "https://www.primevideo.com/storefront/home/home",
           "https://www.primevideo.com/collection/IncludedwithPrime",
-          "https://www.primevideo.com/primemembers",
           "https://app.primevideo.com/home",
-          "https://watch.amazon.com/detail?asin=B00D5F7RWQ",
-          "https://www.amazon.com/gp/video/primesignup/",
-          "https://www.primevideo.com/storefront/subscription/default",
+          "https://www.amazon.co.uk/gp/video/storefront/subscription/default",
+          "https://www.primevideo.com/primemembers",
           "https://www.primevideo.com/",
-          "https://www.amazon.com/amazonprime",
-          "https://www.primevideo.com/movie"
+          "https://www.amazon.com/gp/video/primesignup/"
         ],
         "candidates": [
           "amazon.com",
           "app.primevideo.com",
           "primevideo.com",
-          "watch.amazon.com",
+          "www.amazon.co.uk",
           "www.amazon.com",
           "www.primevideo.com"
         ],
@@ -169784,88 +169783,91 @@
         "ownership_evidence": []
       },
       "AmazonTrust/AmazonTrust.yaml": {
-        "checked_at": "2026-11-03 18:59 UTC",
+        "checked_at": "2026-11-18 05:44 UTC",
         "name": "AmazonTrust",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.pinterest.com/",
-          "https://www.pinterest.com/pinterest/",
-          "https://about.pinterest.com/",
-          "https://uk.pinterest.com/pinterestuk/",
-          "https://in.pinterest.com/pinterestindia/",
-          "https://business.pinterest.com/",
-          "https://br.pinterest.com/pinterestbr/",
-          "https://help.pinterest.com/en/article/log-in-and-out-of-pinterest",
-          "https://business.pinterest.com/getting-started/",
-          "https://create.pinterest.com/creators/trends/"
+          "https://www.amazontrust.com/?lang=en",
+          "https://www.amazontrust.com/repository/",
+          "https://www.reddit.com/r/sysadmin/comments/130lvzv/is_it_safe_to_whitelist_amazontrustcom/",
+          "https://aws.amazon.com/trust-center/",
+          "https://valid.rootca1.demo.amazontrust.com/",
+          "https://www.amazon.com/trust/s?k=trust",
+          "https://www.amazontrust.com/repository/crl-and-ocsp-endpoints",
+          "https://www.amazontrust.com/repository/AmazonRootCA1.pem",
+          "https://www.amazontrust.com/repository/cps-1.0.3.pdf",
+          "https://www.amazontrust.com/repository/cp-1.0.14.pdf"
         ],
         "candidates": [
-          "about.pinterest.com",
-          "br.pinterest.com",
-          "business.pinterest.com",
-          "create.pinterest.com",
-          "help.pinterest.com",
-          "in.pinterest.com",
-          "uk.pinterest.com",
-          "www.pinterest.com"
-        ],
-        "accepted": [],
-        "ownership_evidence": []
-      },
-      "Americasvoice/Americasvoice.yaml": {
-        "checked_at": "2026-11-03 18:59 UTC",
-        "name": "Americasvoice",
-        "status": "needs_ownership_evidence",
-        "sources": [
-          "https://www.walmart.com/",
-          "https://www.walmart.com/all-departments",
-          "https://corporate.walmart.com/news/2026/06/09/walmart-deals-returns-june-22-through-28-2026",
-          "https://creator.walmart.com/account/login",
-          "https://careers.walmart.com/us/en/home",
-          "https://my.walmart.com/home",
-          "https://corporate.walmart.com/about/working-at-walmart/live-better-u",
-          "https://business.walmart.com/",
-          "https://delivery.walmart.com/login",
-          "https://careers.walmart.com/stores-clubs/walmart-store-jobs"
-        ],
-        "candidates": [
-          "business.walmart.com",
-          "careers.walmart.com",
-          "corporate.walmart.com",
-          "creator.walmart.com",
-          "delivery.walmart.com",
-          "my.walmart.com",
-          "walmart.com",
-          "www.walmart.com"
-        ],
-        "accepted": [],
-        "ownership_evidence": []
-      },
-      "AnTianKeJi/AnTianKeJi.yaml": {
-        "checked_at": "2026-11-03 18:59 UTC",
-        "name": "AnTianKeJi",
-        "status": "needs_ownership_evidence",
-        "sources": [
-          "https://www.reddit.com/r/StudentLoans/comments/189aps8/anyone_else_get_a_natural_disaster_forbearance/",
-          "https://www.reddit.com/r/WGU/comments/1cwd53f/refund_question/",
-          "https://ficoforums.myfico.com/t5/Rebuilding-Your-Credit/Help-removing-late-payments-on-Nelnet-Student-loans/td-p/4925453",
-          "https://ficoforums.myfico.com/t5/Student-Loans/Nelnet-overpayment/td-p/6791658",
-          "https://www.reddit.com/r/StudentLoans/comments/15sr59r/great_lakes_payment_history/",
-          "https://www.reddit.com/r/StudentLoans/comments/17pamdu/nelnet_says_i_cant_make_principalonly_payments/",
-          "https://www.reddit.com/r/StudentLoans/comments/1767ls9/nelnet_placed_loan_into_admin_forbearance_until/",
-          "https://www.reddit.com/r/WGU/comments/15hyxmz/how_close_am_i_to_getting_my_refund_in_my_account/",
-          "https://www.reddit.com/r/VeteransBenefits/comments/14c2t2c/100_va_disability_tpd_discharge_nelnet/",
-          "https://www.reddit.com/r/StudentLoans/comments/18x9in4/how_to_get_help_if_your_loan_servicer_is_screwing/"
-        ],
-        "candidates": [
-          "ficoforums.myfico.com",
+          "amazon.com",
+          "amazontrust.com",
+          "aws.amazon.com",
+          "valid.rootca1.demo.amazontrust.com",
+          "www.amazon.com",
+          "www.amazontrust.com",
           "www.reddit.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
+      "Americasvoice/Americasvoice.yaml": {
+        "checked_at": "2026-11-18 05:44 UTC",
+        "name": "Americasvoice",
+        "status": "needs_ownership_evidence",
+        "sources": [
+          "https://www.xnxx.com/search/teen",
+          "https://www.xnxx.com/search/teen+porn",
+          "https://www.xnxx.es/search/teens",
+          "https://tporn.xxx/en/search/Teeny%20Beach/1/",
+          "https://lemoncams.com/myfreecams/Tenny_Shy",
+          "https://porn18.xxx/Teens/popular-1.html",
+          "https://xhamster.com/categories/teen/full-length",
+          "https://www.teentuber.xxx/categories/286/first-time",
+          "https://en.xnxx.place/todays-selection",
+          "https://www.xnxx20.com/search/tiny"
+        ],
+        "candidates": [
+          "en.xnxx.place",
+          "lemoncams.com",
+          "porn18.xxx",
+          "teentuber.xxx",
+          "tporn.tube",
+          "tporn.xxx",
+          "www.teentuber.xxx",
+          "www.xnxx.com",
+          "www.xnxx.es",
+          "www.xnxx20.com",
+          "xhamster.com",
+          "xnxx.com"
+        ],
+        "accepted": [],
+        "ownership_evidence": []
+      },
+      "AnTianKeJi/AnTianKeJi.yaml": {
+        "checked_at": "2026-11-18 05:44 UTC",
+        "name": "AnTianKeJi",
+        "status": "needs_ownership_evidence",
+        "sources": [
+          "https://support.google.com/calendar/answer/7638168?hl=en&co=GENIE.Platform%3DDesktop",
+          "https://support.google.com/calendar/answer/37100?hl=en&co=GENIE.Platform%3DiOS",
+          "https://support.google.com/calendar/answer/37648?hl=en",
+          "https://support.google.com/a/users/answer/9290350?hl=en",
+          "https://support.google.com/calendar/answer/13839531?hl=en&co=GENIE.Platform%3DDesktop",
+          "https://support.google.com/calendar/answer/13155911?hl=en&co=GENIE.Platform%3DDesktop",
+          "https://support.google.com/calendar/answer/2465776?hl=en&co=GENIE.Platform%3DDesktop",
+          "https://support.google.com/families/answer/7157782?hl=en&co=GENIE.Platform%3DDesktop",
+          "https://support.google.com/calendar/answer/2465776?hl=zh-Hant&co=GENIE.Platform%3DDesktop",
+          "https://support.google.com/calendar/answer/78739?hl=en&co=GENIE.Platform%3DDesktop"
+        ],
+        "candidates": [
+          "calendar.google.com",
+          "support.google.com"
+        ],
+        "accepted": [],
+        "ownership_evidence": []
+      },
       "Anaconda/Anaconda.yaml": {
-        "checked_at": "2026-11-03 18:59 UTC",
+        "checked_at": "2026-11-18 05:44 UTC",
         "name": "Anaconda",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -169873,41 +169875,38 @@
           "https://www.anaconda.com/",
           "https://anaconda.org/",
           "https://en.wikipedia.org/wiki/Anaconda",
-          "https://en.wikipedia.org/wiki/Anaconda_(Python_distribution)",
+          "https://www.anacondastores.com/en-au/",
           "https://anaconda.org/channels/anaconda/packages/python/overview",
           "https://animals.howstuffworks.com/snakes/largest-anaconda.htm",
-          "https://pro.anaconda.com/",
-          "https://gizmodo.com/download/anaconda",
-          "https://conda.anaconda.org/anaconda/"
+          "https://www.imdb.com/title/tt33244668/",
+          "https://en.wikipedia.org/wiki/Anaconda_(software_company)",
+          "https://www.imdb.com/title/tt33244668/fullcredits/"
         ],
         "candidates": [
           "anaconda.org",
           "animals.howstuffworks.com",
-          "conda.anaconda.org",
           "en.wikipedia.org",
-          "gizmodo.com",
-          "pro.anaconda.cloud",
-          "pro.anaconda.com",
-          "repo.anaconda.com",
-          "www.anaconda.com"
+          "www.anaconda.com",
+          "www.anacondastores.com",
+          "www.imdb.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "AnandTech/AnandTech.yaml": {
-        "checked_at": "2026-11-03 18:59 UTC",
+        "checked_at": "2026-11-18 05:44 UTC",
         "name": "AnandTech",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://forums.anandtech.com/",
           "https://en.wikipedia.org/wiki/AnandTech",
           "https://arstechnica.com/gadgets/2024/08/anandtech-mainstay-of-computer-hardware-reviews-closes-after-27-years/",
-          "https://forums.anandtech.com/forums/politics-and-news.24/",
-          "https://www.tomshardware.com/",
+          "https://en.wikipedia.org/wiki/Anand_Lal_Shimpi",
           "https://www.techpowerup.com/326107/anandtech-shuts-down-an-icon-of-tech-news-and-reviews-rides-into-the-sunset",
+          "https://www.tomshardware.com/",
+          "https://forums.anandtech.com/forums/politics-and-news.24/",
           "https://www.theverge.com/2024/8/30/24232171/anandtech-tech-journalism-hardware",
-          "https://www.techspot.com/news/108967-anandtech-27-year-archive-has-vanished-but-someone.html",
-          "https://www.tomshardware.com/pc-components/cpus/news"
+          "https://www.techspot.com/news/108967-anandtech-27-year-archive-has-vanished-but-someone.html"
         ],
         "candidates": [
           "arstechnica.com",
@@ -169923,27 +169922,24 @@
         "ownership_evidence": []
       },
       "Android/Android.yaml": {
-        "checked_at": "2026-11-03 18:59 UTC",
+        "checked_at": "2026-11-18 05:44 UTC",
         "name": "Android",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.android.com/",
-          "https://en.wikipedia.org/wiki/Android_(operating_system)",
+          "https://en.m.wikipedia.org/wiki/Android_(operating_system)",
+          "https://www.android.com/intl/en_in/",
+          "https://developer.android.com/",
           "https://developer.android.com/studio",
-          "https://developer.android.com/studio/install",
           "https://www.androidcentral.com/apps-software/android-os/android-17-is-finally-here",
-          "https://play.google.com/",
+          "https://www.androidcentral.com/",
+          "https://en.m.wikipedia.org/wiki/Android_version_history",
           "https://www.androidauthority.com/what-is-android-328076/",
-          "https://source.android.com/",
-          "https://support.google.com/android/?hl=en",
-          "https://blog.google/products-and-platforms/platforms/android/"
+          "https://support.google.com/android/?hl=en"
         ],
         "candidates": [
-          "blog.google",
           "developer.android.com",
-          "en.wikipedia.org",
-          "play.google.com",
-          "source.android.com",
+          "en.m.wikipedia.org",
           "support.google.com",
           "www.android.com",
           "www.androidauthority.com",
@@ -169953,133 +169949,142 @@
         "ownership_evidence": []
       },
       "Anime/Anime.yaml": {
-        "checked_at": "2026-11-03 18:59 UTC",
+        "checked_at": "2026-11-18 05:44 UTC",
         "name": "Anime",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.anime-planet.com/anime/watch-online/",
           "https://www.crunchyroll.com/videos/popular",
           "https://www.anime.com/shows",
-          "https://tubitv.com/category/anime",
+          "https://www.aniwatchtv.com/",
           "https://www.hidive.com/home",
-          "https://www.anime-planet.com/",
-          "https://anilist.co/search/anime",
-          "https://www.mewatch.sg/series/anime",
-          "https://www.anisearch.com/anime/streams",
-          "https://www.crunchyroll.com/"
+          "https://en.wikipedia.org/wiki/Anime",
+          "https://www.1234anime.com/",
+          "https://anihub.cc/",
+          "https://www.anime-planet.com/anime/all",
+          "https://tubitv.com/category/anime"
         ],
         "candidates": [
-          "anilist.co",
-          "anisearch.com",
+          "anihub.cc",
+          "en.wikipedia.org",
           "tubitv.com",
+          "www.1234anime.com",
           "www.anime-planet.com",
           "www.anime.com",
-          "www.anisearch.com",
+          "www.aniwatchtv.com",
           "www.crunchyroll.com",
-          "www.hidive.com",
-          "www.mewatch.sg"
+          "www.hidive.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Anjuke/Anjuke.yaml": {
-        "checked_at": "2026-11-03 18:59 UTC",
+        "checked_at": "2026-11-18 05:44 UTC",
         "name": "Anjuke",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.youtube.com/",
-          "https://support.google.com/youtubetv/?hl=en",
-          "https://support.google.com/youtube/answer/95725?hl=en&co=GENIE.Platform%3DDesktop",
-          "https://obsproject.com/forum/tags/youtube/",
-          "https://obsproject.com/forum/resources/youtube-chat-transparent-background-solely-css.486/",
-          "https://support.google.com/youtube/answer/6083634?hl=en&co=GENIE.Platform%3DDesktop",
-          "https://support.google.com/youtube/answer/9288567?hl=en-GB",
-          "https://support.google.com/youtube/answer/2398242?hl=en&co=GENIE.Platform%3DAndroid",
-          "https://support.google.com/youtube/?hl=no",
-          "https://support.google.com/youtube/thread/470890423/prioritizing-original-content-on-shorts?hl=en"
+          "https://www.anjuke.com/",
+          "https://anjuke.com/sy-city.html?from=HomePage_City",
+          "https://hf.anjuke.com/",
+          "https://km.anjuke.com/",
+          "https://vip.anjuke.com/portal/login?type=2",
+          "https://cz.anjuke.com/",
+          "https://zhengzhou.anjuke.com/",
+          "https://m.anjuke.com/sz/",
+          "https://m.anjuke.com/"
         ],
         "candidates": [
-          "obsproject.com",
-          "support.google.com",
-          "www.youtube.com"
+          "58.com",
+          "58ganji.com",
+          "anjuke.brand.anjuke.com",
+          "anjuke.com",
+          "cz.anjuke.com",
+          "hf.anjuke.com",
+          "km.anjuke.com",
+          "m.anjuke.com",
+          "vip.anjuke.com",
+          "www.anjuke.com",
+          "zhengzhou.anjuke.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Anonv/Anonv.yaml": {
-        "checked_at": "2026-11-03 18:59 UTC",
+        "checked_at": "2026-11-18 05:44 UTC",
         "name": "Anonv",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.theconcert.com/concert",
-          "https://www.theconcert.com/concerts/serious-bacon-formyak-concert",
-          "https://admin.theconcert.com/login",
-          "https://www.theconcert.com/helpcenter/887",
-          "https://www.theconcert.com/concerts/lykn-unleashed-concert",
-          "https://www.theconcert.com/concert/4399",
-          "https://www.theconcert.com/concerts",
-          "https://www.theconcert.com/concert/4167",
-          "https://www.theconcert.com/concerts/colorists-music-festival-3",
-          "https://www.theconcert.com/concerts/monster-music-festival-2025"
+          "https://www.microsoft.com/en-us/",
+          "https://www.microsoft.com/",
+          "https://account.microsoft.com/account",
+          "https://apps.microsoft.com/",
+          "https://myaccount.microsoft.com/login",
+          "https://myaccount.microsoft.com/",
+          "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365",
+          "https://en.wikipedia.org/wiki/Microsoft",
+          "https://m365.cloud.microsoft/",
+          "https://account.microsoft.com/account-checkup"
         ],
         "candidates": [
-          "admin.theconcert.com",
-          "theconcert.com",
-          "www.theconcert.com"
+          "account.microsoft.com",
+          "apps.microsoft.com",
+          "en.wikipedia.org",
+          "m365.cloud.microsoft",
+          "myaccount.microsoft.com",
+          "support.microsoft.com",
+          "www.microsoft.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Anthropic/Anthropic.yaml": {
-        "checked_at": "2026-11-03 18:59 UTC",
+        "checked_at": "2026-11-18 05:44 UTC",
         "name": "Anthropic",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.anthropic.com/",
+          "https://baike.baidu.com/item/Anthropic/62639515",
+          "https://zh.wikipedia.org/wiki/Anthropic",
           "https://claude.com/",
           "https://en.wikipedia.org/wiki/Anthropic",
           "https://www.anthropic.com/company",
-          "https://www.zacks.com/featured-articles/761/anthropic-ipo",
-          "https://claude.ai/",
-          "https://academy.claude.com/",
-          "https://claude.com/platform/api",
-          "https://en.wikipedia.org/wiki/Dario_Amodei",
-          "https://platform.claude.com/"
+          "https://portal.anthropic.com/login",
+          "https://baike.baidu.com/item/%E8%BE%BE%E9%87%8C%E5%A5%A5%C2%B7%E9%98%BF%E8%8E%AB%E8%BF%AA/63446539",
+          "https://zhuanlan.zhihu.com/p/13568558856",
+          "https://cn.nytimes.com/business/20261027/anthropic-going-public-stakes/"
         ],
         "candidates": [
-          "academy.claude.com",
-          "claude.ai",
+          "baike.baidu.com",
           "claude.com",
+          "cn.nytimes.com",
           "en.wikipedia.org",
-          "platform.claude.com",
+          "portal.anthropic.com",
           "www.anthropic.com",
-          "www.zacks.com"
+          "zh.wikipedia.org",
+          "zhuanlan.zhihu.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Antutu/Antutu.yaml": {
-        "checked_at": "2026-11-03 18:59 UTC",
+        "checked_at": "2026-11-18 05:44 UTC",
         "name": "Antutu",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.antutu.com/web",
           "https://www.antutu.com/web/ranking",
-          "https://en.m.wikipedia.org/wiki/AnTuTu",
-          "https://nanoreview.net/en/phone-list/antutu-rating",
+          "https://www.kimovil.com/pt/melhores-celulares-antutu",
+          "https://en.wikipedia.org/wiki/AnTuTu",
           "https://antuscore.com/",
-          "https://www.kimovil.com/en/best-smartphones-antutu",
-          "https://m.apkpure.com/antutu-benchmark/com.antutu.ABenchMark",
+          "https://nanoreview.net/en/phone-list/antutu-rating",
           "https://www.antutu.com/web/download",
+          "https://www.antutu.com/",
           "https://www.antutu.com/web/pt",
-          "https://www.antutu.com/"
+          "https://www.antutu.com/download"
         ],
         "candidates": [
           "antuscore.com",
-          "apkpure.com",
-          "en.m.wikipedia.org",
-          "kimovil.com",
-          "m.apkpure.com",
+          "en.wikipedia.org",
           "nanoreview.net",
           "www.antutu.com",
           "www.kimovil.com"
@@ -170088,111 +170093,103 @@
         "ownership_evidence": []
       },
       "Apifox/Apifox.yaml": {
-        "checked_at": "2026-11-03 18:59 UTC",
+        "checked_at": "2026-11-18 05:44 UTC",
         "name": "Apifox",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://apifox.com/",
+          "https://app.apifox.com/main",
           "https://docs.apifox.com/download",
-          "https://apifox.com/api-design/",
-          "https://apifox.aiproducthub.cn/",
-          "https://apifox.com/help/index.html",
           "https://docs.apifox.com/apifox-mcp-server",
-          "https://blog.csdn.net/NHB66666666/article/details/144752235",
           "https://app.apifox.com/user/login",
-          "https://blog.csdn.net/m0_74907886/article/details/149811716",
-          "https://apifox.maxhub.com/help/overview/introduction/"
+          "https://apifox.com/api-design/",
+          "https://github.com/apifox",
+          "https://apifox.aiproducthub.cn/",
+          "https://apidog.com/",
+          "https://github.com/apifox/apifox"
         ],
         "candidates": [
+          "apidog.com",
           "apifox.aiproducthub.cn",
           "apifox.com",
-          "apifox.maxhub.com",
           "app.apifox.com",
-          "blog.csdn.net",
-          "docs.apifox.com"
+          "docs.apifox.com",
+          "github.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Apkpure/Apkpure.yaml": {
-        "checked_at": "2026-11-03 18:59 UTC",
+        "checked_at": "2026-11-18 05:44 UTC",
         "name": "Apkpure",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://apkpure.com/",
           "https://apkpure.com/apkpure/com.apkpure.aegon",
           "https://apkpure.net/apkpure/com.apkpure.aegon",
-          "https://apkpure.net/",
           "https://apkpure.en.uptodown.com/android",
-          "https://apkpure.en.softonic.com/android",
-          "https://m.apkpure.com/category",
-          "https://apkpure.com/es/",
-          "https://apkpure.com/apkpure-app.html",
-          "https://apkpure.com/app"
+          "https://apkpure.net/",
+          "https://apkpure.en.softonic.com/android"
         ],
         "candidates": [
           "apkpure.com",
           "apkpure.en.softonic.com",
           "apkpure.en.uptodown.com",
-          "apkpure.net",
-          "m.apkpure.com"
+          "apkpure.net"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "AppLovin/AppLovin.yaml": {
-        "checked_at": "2026-11-03 18:59 UTC",
+        "checked_at": "2026-11-18 05:44 UTC",
         "name": "AppLovin",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.applovin.com/",
           "https://en.wikipedia.org/wiki/AppLovin",
           "https://finance.yahoo.com/quote/APP/",
-          "https://support.applovin.com/en",
           "https://max.applovin.com/login",
-          "https://financhle.com/articles/what-does-applovin-do",
+          "https://support.applovin.com/en/growth/introduction/creating-an-account",
           "https://ads.applovin.com/auth/signin",
-          "https://investors.applovin.com/",
-          "https://max.applovin.com/signup",
-          "https://whop.com/blog/what-is-applovin/"
+          "https://support.applovin.com/en",
+          "https://www.applovin.com/en/blog/applovin-business-model",
+          "https://finance.yahoo.com/quote/APP/news/",
+          "https://investors.applovin.com/overview/default.aspx"
         ],
         "candidates": [
           "ads.applovin.com",
           "en.wikipedia.org",
           "finance.yahoo.com",
-          "financhle.com",
           "investors.applovin.com",
           "max.applovin.com",
           "support.applovin.com",
-          "whop.com",
           "www.applovin.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "AppStore/AppStore.yaml": {
-        "checked_at": "2026-11-04 04:39 UTC",
+        "checked_at": "2026-11-18 05:44 UTC",
         "name": "AppStore",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.apple.com/app-store/",
           "https://apps.apple.com/us/iphone/search",
           "https://play.google.com/store/apps?hl=en-us",
+          "https://www.amazon.com/b?node=77179530011",
           "https://apps.apple.com/us/iphone/apps",
+          "https://play.google.com/store/apps/developer?id=App+Store.&hl=en-US",
           "https://www.amazon.com/appstore/s?k=appstore",
-          "https://apps.microsoft.com/home?hl=en-US&gl=US",
-          "https://www.amazon.com/mobile-apps/b?node=2350149011",
           "https://www.apple.com/store",
-          "https://kotaku.com/download/google-playstore",
-          "https://support.microsoft.com/en-us/windows/apps/mobileapps/install-mobile-apps-and-the-amazon-appstore-on-windows"
+          "https://developer.apple.com/app-store/",
+          "https://apps.microsoft.com/home?hl=en-US&gl=US"
         ],
         "candidates": [
           "amazon.com",
           "apps.apple.com",
           "apps.microsoft.com",
-          "kotaku.com",
+          "developer.apple.com",
           "play.google.com",
-          "support.microsoft.com",
           "www.amazon.com",
           "www.apple.com"
         ],
@@ -170200,29 +170197,29 @@
         "ownership_evidence": []
       },
       "Apple/Apple.yaml": {
-        "checked_at": "2026-11-04 04:39 UTC",
+        "checked_at": "2026-11-18 05:44 UTC",
         "name": "Apple",
         "status": "checked",
         "sources": [
           "https://www.apple.com/",
           "https://www.apple.com/store",
           "https://account.apple.com/",
-          "https://account.apple.com/sign-in",
           "https://asw.apple.com/home",
-          "https://support.apple.com/en-us/111001",
-          "https://en.m.wikipedia.org/wiki/Apple_Inc.",
-          "https://support.apple.com/",
+          "https://www.icloud.com/",
+          "https://account.apple.com/sign-in",
           "https://music.apple.com/us/new",
+          "https://support.apple.com/",
+          "https://support.apple.com/en-us/111001",
           "https://tv.apple.com/"
         ],
         "candidates": [
           "account.apple.com",
           "asw.apple.com",
-          "en.m.wikipedia.org",
           "music.apple.com",
           "support.apple.com",
           "tv.apple.com",
-          "www.apple.com"
+          "www.apple.com",
+          "www.icloud.com"
         ],
         "accepted": [
           "account.apple.com",
@@ -170237,114 +170234,116 @@
         ]
       },
       "AppleDaily/AppleDaily.yaml": {
-        "checked_at": "2026-11-04 04:39 UTC",
+        "checked_at": "2026-11-18 05:44 UTC",
         "name": "AppleDaily",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://onlinecasinosco.com/schweiz/",
-          "https://onlinecasinosco.com/states/virginia/",
-          "https://onlinecasinosco.com/paypal/",
-          "https://onlinecasinosco.com/states/indiana/",
-          "https://onlinecasinosco.com/states/michigan/",
-          "https://onlinecasinosco.com/games/blackjack/",
-          "https://onlinecasinosco.com/states/new-york/",
-          "https://onlinecasinosco.com/states/new-jersey/",
-          "https://onlinecasinosco.com/states/pennsylvania/",
-          "https://onlinecasinosco.com/games/bingo/"
+          "https://www.paypal-community.com/t5/Payments-Archives/Payments-from-Venmo-to-PayPal/td-p/1983189",
+          "https://www.paypal-community.com/t5/Advantage-Program-Suggestions/legacy/td-p/416415",
+          "https://www.paypal-community.com/t5/C%C3%B3mo-abrir-una-cuenta/Nombre-Secundario/td-p/443125",
+          "https://www.paypal-community.com/t5/About-Products/PayPal-Here-Questions-and-Troubleshooting/td-p/488886/page/44",
+          "https://www.paypal-community.com/t5/Les-Archives/Pr%C3%A9l%C3%A8vement-inconnu-et-fr%C3%A9quent/td-p/715275",
+          "https://www.paypal-community.com/t5/Disputes-and-claims-Archive/Chargeback-for-a-monthly-subscription/td-p/309428",
+          "https://www.paypal-community.com/t5/Les-Archives/Annulation-d-autorisation-de-paiement/td-p/267834",
+          "https://www.paypal-community.com/t5/Restrictions-et-v%C3%A9rifications/Changement-de-nom-et-de-pr%C3%A9nom/td-p/1529919",
+          "https://www.paypal-community.com/t5/Selling-on-eBay/Granting-a-partial-refund-during-a-dispute/td-p/330276",
+          "https://www.paypal-community.com/t5/Apresente-se/Inserir-novo-numero-de-celular-dos-EUA/td-p/1447124"
         ],
         "candidates": [
-          "onlinecasinosco.com"
+          "grailed.com",
+          "www.paypal-community.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "AppleDev/AppleDev.yaml": {
-        "checked_at": "2026-11-04 04:39 UTC",
+        "checked_at": "2026-11-18 05:44 UTC",
         "name": "AppleDev",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://earthquaketoday.org/taiwan",
-          "https://www.cwa.gov.tw/V8/E/E/index.html",
-          "https://earthquakelist.org/taiwan/",
-          "https://earthquaketrack.com/p/taiwan/recent",
-          "https://earthquakemap.live/earthquakes/taiwan",
-          "https://earthquakes.site/earthquakes/taiwan/",
-          "https://en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan"
+          "https://blog.adeccousa.com/ceo-one-month-boosted-confidence/20150715_154248/",
+          "https://blog.adeccousa.com/meet-our-summer-2018-interns/rodney-josue-escobar/",
+          "https://www.adeccousa.com/es-es/job/material-handler-memphis-tenesi/?ID=US_EN_99_020070_2317623",
+          "https://www.adeccousa.com/es-es/jobs/job-search/cat-industrial-manufactura-cat-call-center-customer-service-cat-operaciones-comerciales-y-gerencia-cat-centro-de-llamadas-y-servicio-al-cliente-c-columbus/?cityfacet=Charlotte%7CWilliamsville%7C",
+          "https://blog.adeccousa.com/2015-street-day-success/",
+          "https://www.adeccousa.com/es-es/jobs/job-search/cat-tecnolog%C3%ADas-de-la-informaci%C3%B3n-cat-business-operations-and-management-cat-ingenieria-cat-legal-cat-ingenieria-c-jayuya/",
+          "https://www.adeccousa.com/es-es/jobs/job-search/cat-oficinista-clerical-y-administrativo-cat-information-technology-cat-industrial-manufactura-c-barceloneta/?cityfacet=Branchburg%7CTwinsburg%7CCrozet%7CParsippany%7C",
+          "https://www.adeccousa.com/es-es/jobs/job-search/cat-tecnolog%C3%ADas-de-la-informaci%C3%B3n-cat-business-operations-and-management-cat-mercadeo-y-creativo-cat-ventas-al-por-menor-c-winchester/",
+          "https://www.adeccousa.com/es-es/jobs/job-search/cat-industrial-manufactura-cat-industrial-manufacturing-cat-ingenieria-cat-ingenieria-cat-contabilidad-finanzas-cat-operaciones-comerciales-y-gerencia-cat-contabilidad-finanzas-c-templeton/?cityfacet=Globe%7C",
+          "https://www.adeccousa.com/es-es/jobs/job-search/cat-oficinista-clerical-y-administrativo-cat-medical-science-cat-industrial-manufactura-cat-industrial-manufactura-c-arlington/?cityfacet=Bohemia%7CBrandywine%7C"
         ],
         "candidates": [
-          "earthquakelist.org",
-          "earthquakemap.live",
-          "earthquakes.site",
-          "earthquaketoday.org",
-          "earthquaketrack.com",
-          "en.wikipedia.org",
-          "www.cwa.gov.tw"
+          "blog.adeccousa.com",
+          "www.adeccousa.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "AppleFirmware/AppleFirmware.yaml": {
-        "checked_at": "2026-11-04 04:39 UTC",
+        "checked_at": "2026-11-18 05:44 UTC",
         "name": "AppleFirmware",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.shutterstock.com/",
-          "https://www.shutterstock.com/search",
-          "https://submit.shutterstock.com/",
-          "https://tech.shutterstock.com/about",
-          "https://en.wikipedia.org/wiki/Shutterstock",
-          "https://submit.shutterstock.com/help/en/",
-          "https://careers.shutterstock.com/us/en/home"
+          "https://www.oranum.com/en/",
+          "https://www.oranum.com/en/auth/login",
+          "https://about.oranum.com/",
+          "https://broadcaster.oranum.com/login",
+          "https://oraside.com/",
+          "https://about.oranum.com/intro1",
+          "https://tarot.oranum.com/",
+          "https://broadcaster.oranum.com/",
+          "https://love.oranum.com/",
+          "https://cam.oranum.com/"
         ],
         "candidates": [
-          "careers.shutterstock.com",
-          "en.wikipedia.org",
-          "submit.shutterstock.com",
-          "tech.shutterstock.com",
-          "www.shutterstock.com"
+          "about.oranum.com",
+          "broadcaster.oranum.com",
+          "cam.oranum.com",
+          "love.oranum.com",
+          "oranum.com",
+          "oraside.com",
+          "tarot.oranum.com",
+          "www.oranum.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "AppleHardware/AppleHardware.yaml": {
-        "checked_at": "2026-11-04 04:39 UTC",
+        "checked_at": "2026-11-18 05:44 UTC",
         "name": "AppleHardware",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.city-data.com/forum/military-life-issues/804871-spain-any-americans-remember-royal-oaks-9.html",
-          "https://www.city-data.com/forum/military-life-issues/1437749-air-force-discharge-code-question.html",
-          "https://www.zhihu.com/question/20054401",
-          "https://www.zhihu.com/question/36270160",
-          "https://www.resetera.com/forums/gaming-forum.7/",
-          "https://www.resetera.com/threads/one-belt-one-road-one-big-mistake-foreign-policy.85624/",
-          "https://www.city-data.com/forum/seattle-area/154951-can-u-live-seattle-work-bremerton.html",
-          "https://www.city-data.com/forum/military-life-issues/804871-spain-any-americans-remember-royal-oaks-26.html",
-          "https://www.zhihu.com/question/33270045",
-          "https://www.zhihu.com/question/297465882"
+          "https://en.wikipedia.org/wiki/Colorado_Rockies",
+          "https://www.mlb.com/rockies",
+          "https://www.mlb.com/rockies/roster/",
+          "https://www.baseball-reference.com/teams/COL/index.shtml",
+          "https://en.wikipedia.org/wiki/History_of_the_Colorado_Rockies",
+          "https://www.espn.com/mlb/team/_/name/col/colorado-rockies",
+          "https://www.baseball-reference.com/teams/COL/2026.shtml"
         ],
         "candidates": [
-          "www.city-data.com",
-          "www.resetera.com",
-          "www.zhihu.com"
+          "baseball-reference.com",
+          "en.wikipedia.org",
+          "mlb.com",
+          "www.baseball-reference.com",
+          "www.espn.com",
+          "www.mlb.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "AppleID/AppleID.yaml": {
-        "checked_at": "2026-11-04 04:39 UTC",
+        "checked_at": "2026-11-18 05:44 UTC",
         "name": "AppleID",
-        "status": "needs_ownership_evidence",
+        "status": "checked",
         "sources": [
+          "https://appleid.apple.com/",
           "https://account.apple.com/account",
           "https://www.icloud.com/",
+          "https://support.apple.com/en-us/111001",
           "https://asw.apple.com/home",
-          "https://appleid.apple.com/widget/account/?roleType=Agent&lv=0.3.17&widgetKey=af1139274f266b22b68c2a3e7ad932cb3c0bbe854e13a79af78dcc73136882c3&v=3&appContext=account",
-          "https://support.apple.com/zh-cn/apple-account",
-          "https://iforgot.apple.com/",
           "https://support.apple.com/apple-account",
-          "https://appleid.apple.com/CN/",
-          "https://support.apple.com/en-us/108647",
-          "https://www.apple.com/"
+          "https://iforgot.apple.com/"
         ],
         "candidates": [
           "account.apple.com",
@@ -170352,11 +170351,14 @@
           "asw.apple.com",
           "iforgot.apple.com",
           "support.apple.com",
-          "www.apple.com",
           "www.icloud.com"
         ],
-        "accepted": [],
-        "ownership_evidence": []
+        "accepted": [
+          "account.apple.com"
+        ],
+        "ownership_evidence": [
+          "https://support.apple.com/en-ca/109353"
+        ]
       },
       "AppleMail/AppleMail.yaml": {
         "checked_at": "2026-11-04 04:39 UTC",
