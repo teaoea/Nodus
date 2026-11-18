@@ -1,7 +1,7 @@
 {
   "upstream": "https://github.com/blackmatrix7/ios_rule_script",
   "revision": "0b6897dc17e0c513d25449c935a9694818e32f0c",
-  "date": "2026-11-18 05:44 UTC",
+  "date": "2026-11-18 19:54 UTC",
   "collections": {
     "rule/Clash/115/115.yaml": {
       "input": 10,
@@ -149018,8 +149018,8 @@
   ],
   "discovery": {
     "engine": "Bing public RSS",
-    "checked_at": "2026-11-18 05:44 UTC",
-    "next_index": 86,
+    "checked_at": "2026-11-18 19:54 UTC",
+    "next_index": 110,
     "attempted": 24,
     "total_collections": 689,
     "verified_additions": {
@@ -170361,216 +170361,201 @@
         ]
       },
       "AppleMail/AppleMail.yaml": {
-        "checked_at": "2026-11-04 04:39 UTC",
+        "checked_at": "2026-11-18 19:54 UTC",
         "name": "AppleMail",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.votebrevard.gov/Election-Information/Election-Results",
-          "https://www.votebrevard.gov/",
-          "https://www.aljazeera.com/us-midterm-elections-2026/results/",
-          "https://ballotpedia.org/Brevard_County,_Florida,_elections,_2026",
-          "https://www.nbcnews.com/politics/2026-elections/colorado-us-house-district-4-results",
-          "https://apnews.com/projects/elections-2026/us-house-results/",
-          "https://spacecoastdaily.com/2026/07/brevard-county-sheriff-wayne-ivey-unveils-ivey-league-endorsements-for-2026-election/",
-          "https://bluevoterguide.org/district/FL/Melbourne_city/60713/",
-          "https://www.pbs.org/newshour/elections-2026/results",
-          "https://www.nbcnews.com/politics/2026-elections/house-results"
+          "https://finance.yahoo.com/quote/IBM/",
+          "https://stockanalysis.com/stocks/ibm/",
+          "https://www.google.com/finance/beta/quote/IBM:NYSE",
+          "https://www.google.com/finance/quote/IBM:NYSE?hl=en",
+          "https://stockanalysis.com/stocks/ibm/history/",
+          "https://www.marketwatch.com/investing/stock/ibm",
+          "https://www.investing.com/equities/ibm",
+          "https://finance.yahoo.com/quote/IBM/history/",
+          "https://www.marketbeat.com/stocks/NYSE/IBM/",
+          "https://markets.businessinsider.com/stocks/ibm-stock"
         ],
         "candidates": [
-          "apnews.com",
-          "ballotpedia.org",
-          "bluevoterguide.org",
-          "spacecoastdaily.com",
-          "votebrevard.gov",
-          "www.aljazeera.com",
-          "www.nbcnews.com",
-          "www.pbs.org",
-          "www.votebrevard.gov"
+          "finance.yahoo.com",
+          "investing.com",
+          "markets.businessinsider.com",
+          "stockanalysis.com",
+          "www.google.com",
+          "www.investing.com",
+          "www.marketbeat.com",
+          "www.marketwatch.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "AppleMedia/AppleMedia.yaml": {
-        "checked_at": "2026-11-04 04:39 UTC",
+        "checked_at": "2026-11-18 19:54 UTC",
         "name": "AppleMedia",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.reddit.com/r/stormwreckisle/comments/y65jd3/creature_and_npc_tokens_for_stormwreck_isle/",
-          "https://www.reddit.com/r/theisle/comments/c7joei/best_places_to_live_in_v3_as_herbivores/",
-          "https://steamcommunity.com/sharedfiles/filedetails/?id=1750506510",
-          "https://steamcommunity.com/sharedfiles/filedetails/?id=3683274299",
-          "https://www.reddit.com/r/HiTMAN/comments/9ypdb6/isle_of_sg%C3%A0il_magpie_challenge_35_commemorative/",
-          "https://steamcommunity.com/app/376210/discussions/16/2592234299539979124/",
-          "https://steamcommunity.com/sharedfiles/filedetails/?id=1386359247",
-          "https://steamcommunity.com/sharedfiles/filedetails/?id=1157229017",
-          "https://steamcommunity.com/app/376210/discussions/14/4304949638716140236/",
-          "https://www.reddit.com/r/theisle/comments/b3ihk0/new_interactive_map/"
+          "https://www.kroger.com/savings/cl/coupons/",
+          "https://www.kroger.com/hc/help/faqs/ways-to-save/coupons",
+          "https://kroger.softcoin.com/programs/kroger/dcp/?banner=Kroger&origin=yt&assettag=ATHSFTBL25&filtertag=FTBLHSFTBL25",
+          "https://krogerweekly.com/kroger-digital-coupons/",
+          "https://windowsreport.com/how-to-get-kroger-digital-coupons/",
+          "https://kroger.softcoin.com/programs/kroger/fb/",
+          "https://www.wcpo.com/money/consumer/dont-waste-your-money/how-to-use-kroger-digital-coupons-a-step-by-step-guide-for-shoppers",
+          "https://www.krogerkrazy.com/digital-coupons-kroger/",
+          "https://www.ilovefreebies.com/kroger-digital-coupons/",
+          "https://www.youtube.com/watch?v=PlsjD7MaYKc"
         ],
         "candidates": [
-          "steamcommunity.com",
-          "www.reddit.com"
+          "kroger.com",
+          "kroger.softcoin.com",
+          "krogerweekly.com",
+          "windowsreport.com",
+          "www.ilovefreebies.com",
+          "www.kroger.com",
+          "www.krogerkrazy.com",
+          "www.wcpo.com",
+          "www.youtube.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "AppleMusic/AppleMusic.yaml": {
-        "checked_at": "2026-11-04 04:39 UTC",
+        "checked_at": "2026-11-18 19:54 UTC",
         "name": "AppleMusic",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://music.apple.com/us/new",
           "https://music.apple.com/us/login",
           "https://www.apple.com/apple-music/",
-          "https://apps.microsoft.com/detail/9pfhdd62mxs1",
-          "https://www.apple.com/ph/apple-music/",
-          "https://offers.applemusic.apple/student-offer",
-          "https://music.apple.com/es/new",
+          "https://replay.music.apple.com/",
           "https://music.apple.com/us/artist/login/439834157",
-          "https://music.apple.com/mx/new",
-          "https://music.apple.com/us/subscribe"
+          "https://music.apple.com/cn/new",
+          "https://apps.microsoft.com/detail/9pfhdd62mxs1",
+          "https://music.apple.com/us/search",
+          "https://www.apple.com.cn/apple-music/",
+          "https://www.apple.com/uk/apple-music/"
         ],
         "candidates": [
           "apps.microsoft.com",
           "music.apple.com",
-          "offers.applemusic.apple",
-          "www.apple.com"
+          "replay.music.apple.com",
+          "www.apple.com",
+          "www.apple.com.cn"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "AppleNews/AppleNews.yaml": {
-        "checked_at": "2026-11-04 04:39 UTC",
+        "checked_at": "2026-11-18 19:54 UTC",
         "name": "AppleNews",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.apple.com/apple-news/",
           "https://news.apple.com/magazines",
-          "https://apple.news/TteGvEYvpSiyvqUON1PSdHg",
           "https://www.apple.com/apple-news/publications/",
+          "https://news.apple.com/TqT-jfrI0QXaYqGoz68HYeQ",
+          "https://x.com/AppleNews",
           "https://apps.apple.com/us/app/apple-news/id1066498020",
+          "https://www.macrumors.com/",
           "https://9to5mac.com/",
-          "https://news.nextapple.com/",
-          "https://podcasts.apple.com/us/podcast/apple-news-narrated/id1708072320",
-          "https://www.nbcnews.com/tech/apple",
-          "https://podcasts.apple.com/us/channel/apple-news/id6442611283"
+          "https://www.macworld.com/apple/news",
+          "https://offers.applenews.apple/en-us/three-month-offer-enca"
         ],
         "candidates": [
           "9to5mac.com",
-          "apple.news",
           "apps.apple.com",
-          "nbcnews.com",
           "news.apple.com",
-          "news.nextapple.com",
-          "podcasts.apple.com",
+          "offers.applenews.apple",
           "www.apple.com",
-          "www.nbcnews.com"
+          "www.macrumors.com",
+          "www.macworld.com",
+          "x.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "AppleProxy/AppleProxy.yaml": {
-        "checked_at": "2026-11-04 04:39 UTC",
+        "checked_at": "2026-11-18 19:54 UTC",
         "name": "AppleProxy",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.pornpics.com/pornstars/holly-michaels/",
-          "https://xhamster.com/pornstars/holly-michaels",
-          "https://www.xvideos.com/pornstars/holly-michaels-1",
-          "https://www.elitebabes.com/model/holly-michaels/",
-          "https://www.babepedia.com/babe/Holly_Michaels",
-          "https://goldtits.com/pornstars/holly-michaels/",
-          "https://www.xerotica.com/models/holly-michaels-598.html",
-          "https://www.aznude.com/view/celeb/h/hollymichaels.html",
-          "https://www.pornhub.com/pornstar/holly-michaels",
-          "https://www.xnxx.com/pornstar/holly-michaels-1"
+          "https://www.talkjesus.com/threads/seeing-11-11-and-its-meaning-in-the-bible.35456/",
+          "https://www.talkjesus.com/threads/numbers-in-the-bible-50.31326/",
+          "https://www.talkjesus.com/threads/opening-the-bible-at-random.37556/",
+          "https://www.talkjesus.com/threads/depart-from-me-i-never-knew-you-meaning-of-matthew-7-21-23.49818/",
+          "https://www.talkjesus.com/threads/yearnment-is-that-a-word-p.44974/",
+          "https://www.talkjesus.com/threads/marriage-in-the-days-of-jesus.80003/",
+          "https://www.talkjesus.com/threads/hebrews-8-10-12-for-the-shall-all-know-me.50874/",
+          "https://www.talkjesus.com/threads/word-4u-2day-prayer-doesnt-work.28460/",
+          "https://www.talkjesus.com/threads/word-4-u-2day-stop-comparing-yourself-with-others.48387/",
+          "https://www.talkjesus.com/threads/psalm-119-the-law-of-the-spirit-of-life-in-jesus-the-messiah.49944/"
         ],
         "candidates": [
-          "goldtits.com",
-          "pornhub.com",
-          "pornpics.com",
-          "www.aznude.com",
-          "www.babepedia.com",
-          "www.elitebabes.com",
-          "www.pornhub.com",
-          "www.pornpics.com",
-          "www.xerotica.com",
-          "www.xnxx.com",
-          "www.xvideos.com",
-          "xerotica.com",
-          "xhamster.com",
-          "xnxx.com",
-          "xvideos.com"
+          "www.talkjesus.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "AppleTV/AppleTV.yaml": {
-        "checked_at": "2026-11-04 04:39 UTC",
+        "checked_at": "2026-11-18 19:54 UTC",
         "name": "AppleTV",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://tv.apple.com/",
           "https://www.apple.com/apple-tv/",
-          "https://www.apple.com/apple-tv-app/",
           "https://tv.apple.com/us/search",
-          "https://support.apple.com/tv",
-          "https://support.apple.com/en-us/118404",
+          "https://tv.apple.com/gb",
+          "https://www.apple.com/apple-tv-app/",
           "https://tv.apple.com/us/home",
+          "https://apps.microsoft.com/detail/9nm4t8b9jqz1",
           "https://www.apple.com/home/",
-          "https://www.apple.com/shop/buy-tv/apple-tv-4k",
-          "https://www.apple.com/apple-tv-4k/"
+          "https://tv.apple.com/mx",
+          "https://www.tvguide.com/news/best-apple-tv-shows-movies/"
         ],
         "candidates": [
-          "support.apple.com",
+          "apps.microsoft.com",
           "tv.apple.com",
-          "www.apple.com"
+          "www.apple.com",
+          "www.tvguide.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Arphic/Arphic.yaml": {
-        "checked_at": "2026-11-04 04:39 UTC",
+        "checked_at": "2026-11-18 19:54 UTC",
         "name": "Arphic",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.speedtest.net/",
-          "https://www.speedtest.net/zh-Hant/settings",
-          "https://www.speedtest.net/run",
-          "https://www.speedtest.net/server/m",
-          "https://www.speedtest.net/nl",
-          "https://www.speedtest.net/it",
-          "https://www.speedtest.net/apps",
-          "https://www.speedtest.net/global-index/romania",
-          "https://www.speedtest.net/about/knowledge/glossary",
-          "https://www.speedtest.net/about/knowledge/plan-for-better-internet"
+          "https://shop.nordstrom.com/",
+          "https://shop.nordstrom.com/sr?keyword=ë¶€ì²œì¢…í•©ìš´ë™ìž¥ì—­ì¶œìž¥ìƒµ%20ìƒë‹´í†¡%20B%20E%20E%20C%201%20ì£¼ì†Œâ˜›ã€Žsosï¼˜ï¼˜ï¼˜ï¼˜.t0pã€%20ë¶€ì²œì¢…í•©ìš´ë™ìž¥ì—­ì¶œìž¥ë§Œë‚¨%20ë¶€ì²œì¢…í•©ìš´ë™ìž¥ì—­ì¶œìž¥ìƒµì¶”ì²œ%20ë¶€ì²œì¢…í•©ìš´ë™ìž¥ì—­ì¶œìž¥ë§Œë‚¨í›„ê¸°%20ë¶€ì²œì¢…í•©ìš´ë™ìž¥ì—­ì¶œìž¥ëŒ€í–‰%20ë¶€ì²œì¢…í•©ìš´ë™ìž¥ì—­ì½œê±¸ì¶”ì²œ%20ë¶€ì²œì¢…í•©ìš´ë™ìž¥ì—­ì½œê±¸í›„ê¸°%20ë¶€ì²œì¢…í•©ìš´ë™ìž¥ì—­ì½œê±¸í›„ê¸°%20ë¶€ì²œì¢…í•©ìš´ë™ìž¥ì—­ì¶œìž¥ëŒ€í–‰ì¶”ì²œ"
         ],
         "candidates": [
-          "www.speedtest.net"
+          "shop.nordstrom.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Asahi/Asahi.yaml": {
-        "checked_at": "2026-11-04 04:39 UTC",
+        "checked_at": "2026-11-18 19:54 UTC",
         "name": "Asahi",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.asahibeerusa.com/",
           "https://www.asahi-america.com/",
-          "https://en.m.wikipedia.org/wiki/Asahi_Breweries",
-          "https://www.asahi.com/sp/",
-          "https://www.asahi.com/sp/ajw/",
-          "https://www.asahigroup-holdings.com/en/",
+          "https://www.asahibeerusa.com/",
+          "https://en.wikipedia.org/wiki/Asahi_Breweries",
+          "https://www.asahi.com/",
+          "https://www.asahi.com/ajw/",
           "https://www.asahi-america.com/membership-login/",
-          "https://www.asahibeerusa.com/about-us",
-          "https://www.asahibeer.co.jp/",
-          "https://en.m.wikipedia.org/wiki/Asahi"
+          "https://www.asahigroup-holdings.com/en/",
+          "https://www.asahibeerusa.com/brands",
+          "https://en.wikipedia.org/wiki/Asahi",
+          "https://asahiimports.com/"
         ],
         "candidates": [
-          "en.m.wikipedia.org",
+          "asahiimports.com",
+          "en.wikipedia.org",
           "www.asahi-america.com",
           "www.asahi.com",
-          "www.asahibeer.co.jp",
           "www.asahibeerusa.com",
           "www.asahigroup-holdings.com"
         ],
@@ -170578,249 +170563,239 @@
         "ownership_evidence": []
       },
       "AsianMedia/AsianMedia.yaml": {
-        "checked_at": "2026-11-04 04:39 UTC",
+        "checked_at": "2026-11-18 19:54 UTC",
         "name": "AsianMedia",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.reddit.com/r/maturemilf/",
-          "https://www.reddit.com/r/CreatorsAdvice/comments/17ya7l2/3_months_as_adult_content_creators_2m_views_and/",
-          "https://www.reddit.com/r/workgonewild/",
-          "https://www.reddit.com/r/techsupport/comments/260oz2/xhamster_doesnt_work_properly_on_my_computer_ff/",
-          "https://www.reddit.com/r/askgaybros/comments/tjghq1/has_anyone_figured_out_a_way_to_download_videos/",
-          "https://www.reddit.com/r/OutOfTheLoop/comments/56pdfn/what_happened_to_xhamster/",
-          "https://www.reddit.com/r/AlienBlue/comments/2h1mw8/complaint_xhamster_videos_are_not_playing_please/",
-          "https://www.reddit.com/r/privacy/comments/e32wtf/a_reason_not_to_get_your_porn_from_pornhub/",
-          "https://www.reddit.com/r/CamGirlProblems/comments/sadi1f/is_xhamster_the_same_as_stripchat/",
-          "https://www.reddit.com/r/NoStupidQuestions/comments/7v2s0h/why_do_they_call_the_website_xhamster_is_it/"
+          "https://www.imdb.com/title/tt0099088/trivia/",
+          "https://www.imdb.com/title/tt0088763/characters/nm0000708",
+          "https://www.imdb.com/title/tt1688659/",
+          "https://www.imdb.com/title/tt0088763/awards/",
+          "https://www.imdb.com/title/tt0099088/soundtrack/",
+          "https://www.imdb.com/title/tt5162276/",
+          "https://www.imdb.com/title/tt0096874/soundtrack/",
+          "https://www.imdb.com/title/tt0101042/",
+          "https://www.imdb.com/name/nm0110198/",
+          "https://www.imdb.com/title/tt0099088/characters/nm0164273"
         ],
         "candidates": [
-          "www.reddit.com"
+          "www.imdb.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Assassin'sCreed/Assassin'sCreed-Odyssey/Assassin'sCreed-Odyssey.yaml": {
-        "checked_at": "2026-11-04 04:39 UTC",
+        "checked_at": "2026-11-18 19:54 UTC",
         "name": "Assassin'sCreed-Odyssey",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://masterunitlist.battletech.com/units/assassin-asn-21",
-          "https://masterunitlist.battletech.com/units/assassin-asn-101",
-          "https://masterunitlist.battletech.com/units/assassin-asn-30",
-          "https://masterunitlist.battletech.com/units/assassin-asn-99",
-          "https://masterunitlist.battletech.com/units/assassin-asn-30-alice",
-          "https://masterunitlist.battletech.com/units/assassin-servitor",
-          "https://masterunitlist.battletech.com/units/assassin-asn-23",
-          "https://masterunitlist.battletech.com/units/assassin-asn-101/record-sheet.pdf?v=420d0a3cd092",
-          "https://masterunitlist.battletech.com/units/assassin-asn-21/record-sheet.pdf?v=fec334bbbc57",
-          "https://masterunitlist.battletech.com/units/assassin-asn-30/record-sheet.pdf?v=845990641254"
+          "https://en.m.wikipedia.org/wiki/Assassination",
+          "https://www.merriam-webster.com/dictionary/assassin",
+          "https://en.m.wikipedia.org/wiki/The_Assassin_(TV_series)",
+          "https://m.imdb.com/title/tt33246591/",
+          "https://dictionary.cambridge.org/dictionary/english/assassin",
+          "https://m.imdb.com/title/tt0090666",
+          "https://www.merriam-webster.com/dictionary/assassinate",
+          "https://www.oed.com/dictionary/assassin_n",
+          "https://www.dictionary.com/browse/assassin",
+          "https://www.rottentomatoes.com/m/assassin_2023"
         ],
         "candidates": [
-          "masterunitlist.battletech.com"
+          "dictionary.cambridge.org",
+          "dictionary.com",
+          "en.m.wikipedia.org",
+          "m.imdb.com",
+          "www.dictionary.com",
+          "www.merriam-webster.com",
+          "www.oed.com",
+          "www.rottentomatoes.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins.yaml": {
-        "checked_at": "2026-11-04 04:39 UTC",
+        "checked_at": "2026-11-18 19:54 UTC",
         "name": "Assassin'sCreed-Origins",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://masterunitlist.battletech.com/units/assassin-asn-21",
-          "https://masterunitlist.battletech.com/units/assassin-asn-101",
-          "https://masterunitlist.battletech.com/units/assassin-asn-30",
-          "https://masterunitlist.battletech.com/units/assassin-asn-99",
-          "https://masterunitlist.battletech.com/units/assassin-asn-30-alice",
-          "https://masterunitlist.battletech.com/units/assassin-servitor",
-          "https://masterunitlist.battletech.com/units/assassin-asn-23",
-          "https://masterunitlist.battletech.com/units/assassin-asn-101/record-sheet.pdf?v=420d0a3cd092",
-          "https://masterunitlist.battletech.com/units/assassin-asn-21/record-sheet.pdf?v=fec334bbbc57",
-          "https://masterunitlist.battletech.com/units/assassin-asn-30/record-sheet.pdf?v=845990641254"
+          "https://en.m.wikipedia.org/wiki/Assassination",
+          "https://www.merriam-webster.com/dictionary/assassin",
+          "https://en.m.wikipedia.org/wiki/The_Assassin_(TV_series)",
+          "https://m.imdb.com/title/tt33246591/",
+          "https://dictionary.cambridge.org/dictionary/english/assassin",
+          "https://m.imdb.com/title/tt0090666",
+          "https://www.merriam-webster.com/dictionary/assassinate",
+          "https://www.oed.com/dictionary/assassin_n",
+          "https://www.dictionary.com/browse/assassin",
+          "https://www.rottentomatoes.com/m/assassin_2023"
         ],
         "candidates": [
-          "masterunitlist.battletech.com"
+          "dictionary.cambridge.org",
+          "dictionary.com",
+          "en.m.wikipedia.org",
+          "m.imdb.com",
+          "www.dictionary.com",
+          "www.merriam-webster.com",
+          "www.oed.com",
+          "www.rottentomatoes.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Atlassian/Atlassian.yaml": {
-        "checked_at": "2026-11-04 04:39 UTC",
+        "checked_at": "2026-11-18 19:54 UTC",
         "name": "Atlassian",
-        "status": "needs_ownership_evidence",
+        "status": "checked",
         "sources": [
           "https://www.atlassian.com/",
           "https://id.atlassian.com/login",
           "https://www.atlassian.com/software/jira",
           "https://en.wikipedia.org/wiki/Atlassian",
+          "https://www.atlassian.com/company",
+          "https://www.atlassian.com/software",
           "https://home.atlassian.com/",
           "https://start.atlassian.com/",
-          "https://support.atlassian.com/",
-          "https://www.linkedin.com/company/atlassian",
-          "https://id.atlassian.com/manage",
-          "https://marketplace.atlassian.com/vendors/85/atlassian"
+          "https://www.atlassian.com/ja",
+          "https://support.atlassian.com/"
         ],
         "candidates": [
           "en.wikipedia.org",
           "home.atlassian.com",
           "id.atlassian.com",
-          "marketplace.atlassian.com",
           "start.atlassian.com",
           "support.atlassian.com",
-          "www.atlassian.com",
-          "www.linkedin.com"
+          "www.atlassian.com"
         ],
         "accepted": [],
-        "ownership_evidence": []
+        "ownership_evidence": [
+          "https://support.atlassian.com/organization-administration/docs/ip-addresses-and-domains-for-atlassian-cloud-products/"
+        ]
       },
       "Atomdata/Atomdata.yaml": {
-        "checked_at": "2026-11-04 04:39 UTC",
+        "checked_at": "2026-11-18 19:54 UTC",
         "name": "Atomdata",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.raiders.com.au/ladder/",
-          "https://www.flashscore.com/team/canberra-raiders/vD4EtSRJ/standings/",
-          "https://www.raiders.com.au/draw/",
-          "https://en.wikipedia.org/wiki/Canberra_Raiders",
-          "https://www.rugbyleagueproject.org/teams/canberra-raiders/seasons.html",
-          "https://www.flashscore.in/team/canberra-raiders/vD4EtSRJ/standings/QN09jAQF/standings/overall/",
-          "https://www.flashscore.com.gh/team/canberra-raiders/vD4EtSRJ/standings/",
-          "https://www.flashscore.com.au/team/canberra-raiders/vD4EtSRJ/standings/QN09jAQF/standings/overall/",
-          "https://www.rugbyleagueproject.org/seasons/nrl-2025/canberra-raiders/summary.html",
-          "https://nationalrugbyleague.com.au/nrl-teams/canberra-raiders/"
+          "https://climate.nasa.gov/images-of-change?id=504&source=post_page---------------------------"
         ],
         "candidates": [
-          "en.wikipedia.org",
-          "flashscore.com.au",
-          "flashscore.in",
-          "nationalrugbyleague.com.au",
-          "www.flashscore.com",
-          "www.flashscore.com.au",
-          "www.flashscore.com.gh",
-          "www.flashscore.in",
-          "www.raiders.com.au",
-          "www.rugbyleagueproject.org"
+          "climate.nasa.gov"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "BBC/BBC.yaml": {
-        "checked_at": "2026-11-04 04:39 UTC",
+        "checked_at": "2026-11-18 19:54 UTC",
         "name": "BBC",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.bbc.com/",
-          "https://www.bbc.co.uk/",
+          "https://en.wikipedia.org/wiki/BBC_News",
+          "https://x.com/BBC",
+          "https://www.facebook.com/bbc/",
+          "https://www.facebook.com/bbcnews/",
           "https://www.bbc.com/news",
-          "https://www.bbc.co.uk/iplayer",
-          "https://en.m.wikipedia.org/wiki/BBC",
+          "https://en.wikipedia.org/wiki/BBC",
           "https://player.bbc.com/en/live",
-          "https://www.bbc.com/news/1",
           "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-          "https://www.theguardian.com/media/bbc",
           "https://www.youtube.com/channel/UCCj956IF62FbT7Gouszaj9w"
         ],
         "candidates": [
           "bbc.com",
-          "broadcaster.we",
-          "en.m.wikipedia.org",
+          "en.wikipedia.org",
+          "facebook.com",
           "player.bbc.com",
-          "www.bbc.co.uk",
           "www.bbc.com",
-          "www.theguardian.com",
-          "www.youtube.com"
+          "www.facebook.com",
+          "www.youtube.com",
+          "x.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "BMW/BMW.yaml": {
-        "checked_at": "2026-11-04 04:39 UTC",
+        "checked_at": "2026-11-18 19:54 UTC",
         "name": "BMW",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.bmwusa.com/",
           "https://www.bmwusa.com/all-bmws.html",
-          "https://www.bmwofsterling.com/",
-          "https://en.m.wikipedia.org/wiki/BMW",
           "https://mybmw.bmwusa.com/",
-          "https://www.bmwoffairfax.com/",
+          "https://www.bmw.cc/en/catalog.html",
+          "https://www.bmwofannarbor.com/",
+          "https://en.wikipedia.org/wiki/BMW",
           "https://www.bmwgroup.com/en.html",
-          "https://www.bmwofalexandria.com/",
-          "https://www.bmwofsterling.com/bmw-dealer-ashburn-va.html",
-          "https://www.bmwoffairfax.com/new-inventory/index.htm"
+          "https://www.bmwfarmingtonhills.com/",
+          "https://www.bmwbloomfieldhills.com/",
+          "https://www.bmwusa.com/build-your-own.html"
         ],
         "candidates": [
-          "en.m.wikipedia.org",
+          "en.wikipedia.org",
           "mybmw.bmwusa.com",
+          "www.bmw.cc",
+          "www.bmwbloomfieldhills.com",
+          "www.bmwfarmingtonhills.com",
           "www.bmwgroup.com",
-          "www.bmwofalexandria.com",
-          "www.bmwoffairfax.com",
-          "www.bmwofsterling.com",
+          "www.bmwofannarbor.com",
           "www.bmwusa.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "BOC/BOC.yaml": {
-        "checked_at": "2026-11-04 04:39 UTC",
+        "checked_at": "2026-11-18 19:54 UTC",
         "name": "BOC",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://bocatc.org/",
-          "https://www.nyc.gov/site/boc/index.page",
           "https://www.boc.cn/en/",
           "https://www.bocusa.com/",
-          "https://ebanking.bocusa.com/ibank/user/login",
-          "https://www.bocusa.com/contact-us/new-york-branch",
+          "https://www.bocusa.org/",
+          "https://bocfootwear.com/",
+          "https://www.boc.cn/",
           "https://www.boc.lk/",
-          "https://www.nyc.gov/site/boc/reports/board-of-correction-reports.page",
-          "https://finance.yahoo.com/quote/BOC/",
-          "https://www.bocbanking.com/"
+          "https://ebanking.bocusa.com/ibank/user/login",
+          "https://www.bocgases.co.uk/"
         ],
         "candidates": [
           "bocatc.org",
+          "bocfootwear.com",
           "ebanking.bocusa.com",
-          "finance.yahoo.com",
-          "nyc.gov",
+          "www.blueoystercult.com",
           "www.boc.cn",
           "www.boc.lk",
-          "www.bocbanking.com",
+          "www.bocgases.co.uk",
           "www.bocusa.com",
-          "www.nyc.gov"
+          "www.bocusa.org"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "BOCOM/BOCOM.yaml": {
-        "checked_at": "2026-11-04 04:39 UTC",
+        "checked_at": "2026-11-18 19:54 UTC",
         "name": "BOCOM",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://en.wikipedia.org/wiki/Bank_of_Communications",
-          "https://www.bocomgroup.com/BankCommSite/shtml/jygj/en/16641/16651/list.shtml?channelId=16641",
-          "https://www.bocombbm.com.br/en/",
-          "https://bocom.e-ciie.com/",
-          "https://www.bocomgroup.com/BankCommSite/shtml/jyjr/en/2600223/2600236/list.shtml?channelId=2600233",
-          "https://pbank.95559.com.cn/personbank/system/index.html?locale=en_US",
-          "https://bankcomm.com/BankCommSite/shtml/jyjr/en/2600212/list.shtml?channelId=2600212",
-          "https://bankcomm.com/BankCommSite/shtml/jyjr/en/2600223/2600240/2600344/list.shtml?channelId=2600344",
-          "https://www.bocommleasing.com/ywb/008002/008002001/aviation.html",
-          "https://pbank.95559.com.cn/personbank/system/syLogin.do?locale=en_US"
+          "https://forums.realgm.com/boards/viewtopic.php?t=1466872",
+          "https://forums.realgm.com/boards/viewtopic.php?t=1413138",
+          "https://forums.realgm.com/boards/viewtopic.php?t=2376731&start=400",
+          "https://forums.realgm.com/boards/viewtopic.php?t=1308145",
+          "https://forums.realgm.com/boards/viewtopic.php?t=990051",
+          "https://forums.realgm.com/boards/viewtopic.php?t=2403136",
+          "https://forums.realgm.com/boards/viewtopic.php?t=2417584",
+          "https://forums.realgm.com/boards/viewtopic.php?t=2312397",
+          "https://forums.realgm.com/boards/viewtopic.php?t=2397352",
+          "https://forums.realgm.com/boards/viewtopic.php?t=2443552"
         ],
         "candidates": [
-          "bankcomm.com",
-          "bocom.e-ciie.com",
-          "bocommleasing.com",
-          "en.wikipedia.org",
-          "pbank.95559.com.cn",
-          "www.bocombbm.com.br",
-          "www.bocomgroup.com",
-          "www.bocommleasing.com"
+          "d.brasco",
+          "forums.realgm.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Bahamut/Bahamut.yaml": {
-        "checked_at": "2026-11-04 19:17 UTC",
+        "checked_at": "2026-11-18 19:54 UTC",
         "name": "Bahamut",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -170828,177 +170803,188 @@
           "https://forgottenrealms.fandom.com/wiki/Bahamut",
           "https://finalfantasy.fandom.com/wiki/Bahamut",
           "https://en.wikipedia.org/wiki/Bahamut_(Dungeons_%26_Dragons)",
-          "https://mythology.net/mythical-creatures/bahamut/",
           "https://godsandmonsters.info/bahamut/",
+          "https://www.gamer.com.tw/",
+          "https://mythology.net/mythical-creatures/bahamut/",
           "https://mythicalcreatures.info/characters/bahamut/",
-          "https://villains.fandom.com/wiki/Bahamut_(Shingeki_no_Bahamut)",
           "https://mythus.fandom.com/wiki/Bahamut",
-          "https://www.gamer.com.tw/"
+          "https://greyhawkonline.com/greyhawkwiki/Bahamut"
         ],
         "candidates": [
           "en.wikipedia.org",
           "finalfantasy.fandom.com",
           "forgottenrealms.fandom.com",
           "godsandmonsters.info",
+          "greyhawkonline.com",
           "mythicalcreatures.info",
           "mythology.net",
           "mythus.fandom.com",
-          "villains.fandom.com",
           "www.gamer.com.tw"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "BaiDuTieBa/BaiDuTieBa.yaml": {
-        "checked_at": "2026-11-04 19:17 UTC",
+        "checked_at": "2026-11-18 19:54 UTC",
         "name": "BaiDuTieBa",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://blog.hubspot.com/website/how-to-pick-a-domain-extension",
-          "https://blog.hubspot.com/website/best-one-page-wordpress-theme",
-          "https://blog.hubspot.com/website/io-domains",
-          "https://blog.hubspot.com/marketing/website-plugins",
-          "https://blog.hubspot.com/marketing/best-marketing-campaigns",
-          "https://blog.hubspot.com/marketing/marketing-techniques",
-          "https://blog.hubspot.com/website/best-wordpress-hotel-booking-system-plugins",
-          "https://blog.hubspot.com/marketing/google-adwords-ppc",
-          "https://blog.hubspot.com/website/divi-vs-elementor",
-          "https://blog.hubspot.com/marketing/brand-extensions"
+          "https://www.autotrader.com/cars-for-sale/chevrolet/hhr/ss",
+          "https://en.wikipedia.org/wiki/Chevrolet_HHR",
+          "https://www.edmunds.com/used-chevrolet-hhr-ss/",
+          "https://www.cargurus.com/Cars/t-Used-Chevrolet-HHR-SS-FWD-t35727",
+          "https://www.carfax.com/Used-Chevrolet-HHR-SS_t3679",
+          "https://www.carfax.com/Used-Chevrolet-HHR-Chicago-IL_w147_c11479",
+          "https://www.cargurus.com/Cars/l-Used-Chevrolet-HHR-Illinois-d716_L7246",
+          "https://www.chevyhhr.net/forums/hhr-ss-45/",
+          "https://www.autotrader.com/cars-for-sale/chevrolet/hhr/chicago-il",
+          "https://motogallery.com/blogs/automotive-resource-guide/2008-2010-chevrolet-hhr-ss"
         ],
         "candidates": [
-          "blog.hubspot.com"
+          "en.wikipedia.org",
+          "motogallery.com",
+          "www.autotrader.com",
+          "www.carfax.com",
+          "www.cargurus.com",
+          "www.chevyhhr.net",
+          "www.edmunds.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "BaiFenDian/BaiFenDian.yaml": {
-        "checked_at": "2026-11-04 19:17 UTC",
+        "checked_at": "2026-11-18 19:54 UTC",
         "name": "BaiFenDian",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.tasteofhome.com/collection/quick-and-easy-desserts/",
-          "https://www.allrecipes.com/quick-dessert-recipes-11872855",
-          "https://www.allrecipes.com/recipes/2821/everyday-cooking/quick-and-easy/desserts/",
-          "https://www.tasteofhome.com/collection/easy-pantry-desserts/",
-          "https://www.simplyrecipes.com/quick-dessert-recipes-12021611",
-          "https://www.bettycrocker.com/recipes/courses/dessert-recipes/quick-easy-desserts",
-          "https://sallysbakingaddiction.com/quick-easy-dessert-recipes/",
-          "https://www.foodnetwork.com/recipes/photos/quick-dessert-recipes",
-          "https://www.seriouseats.com/quick-dessert-recipes-to-satisfy-your-sweet-tooth",
-          "https://www.simplyrecipes.com/easy-beginner-dessert-recipes-11900893"
+          "https://www.kristamoser.com/",
+          "https://www.imdb.com/name/nm1233561/",
+          "https://www.kristamoser.com/blog/categories/free-pattern",
+          "https://www.tiktok.com/@krista_morgan",
+          "https://en.wikipedia.org/wiki/Christa_Pike",
+          "https://news.berkeley.edu/2026/11/17/she-felt-her-latino-community-was-sidelined-now-her-scholarship-centers-it/",
+          "https://www.theologymom.com/about",
+          "https://www.peoplefinders.com/name/krista-mor/sd",
+          "https://www.kristamoser.com/free-patterns",
+          "https://www.youtube.com/@kristamoser"
         ],
         "candidates": [
-          "sallysbakingaddiction.com",
-          "www.allrecipes.com",
-          "www.bettycrocker.com",
-          "www.foodnetwork.com",
-          "www.seriouseats.com",
-          "www.simplyrecipes.com",
-          "www.tasteofhome.com"
+          "en.wikipedia.org",
+          "kristamoser.com",
+          "news.berkeley.edu",
+          "www.imdb.com",
+          "www.kristamoser.com",
+          "www.peoplefinders.com",
+          "www.theologymom.com",
+          "www.tiktok.com",
+          "www.youtube.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "BaiShanYunKeJi/BaiShanYunKeJi.yaml": {
-        "checked_at": "2026-11-04 19:17 UTC",
+        "checked_at": "2026-11-18 19:54 UTC",
         "name": "BaiShanYunKeJi",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.gamestop.com/",
-          "https://www.gamestop.com/store/us/il/bloomingdale/539/bloomingdale-court-gamestop",
-          "https://www.gamestop.com/store/us/ma/chicopee/3132/chicopee-marketplace-gamestop",
-          "https://powerpacks.gamestop.com/packs",
-          "https://powerpacks.gamestop.com/",
-          "https://news.gamestop.com/newsroom/",
-          "https://www.gamestop.com/gaming-accessories/gaming-headsets",
-          "https://www.gamestop.com/toys-games/trading-cards/baseball-trading-cards",
-          "https://www.gamestop.com/gaming-accessories/xbox-one-accessories",
-          "https://www.gamestop.com/consoles-hardware/nintendo-switch/nintendo-switch-amiibo"
+          "https://www.yelp.com/search?find_desc=Comedy+Shows&find_loc=Huntsville%2C+AL",
+          "https://comedy.tickets/city/huntsville/",
+          "https://levitylive.com/huntsville/",
+          "https://allevents.in/huntsville/comedy",
+          "https://stayhappening.com/huntsville--comedy",
+          "https://levitylive.com/huntsville/calendar/",
+          "https://www.eventbrite.com/d/al--huntsville/comedy-show/",
+          "https://comedy.tickets/venue/huntsville-levity-live/",
+          "https://www.bandsintown.com/c/huntsville-al/all-dates/genre/comedy",
+          "https://www.huntsvillelaughs.com/"
         ],
         "candidates": [
-          "news.gamestop.com",
-          "powerpacks.gamestop.com",
-          "www.gamestop.com"
+          "allevents.in",
+          "comedy.tickets",
+          "levitylive.com",
+          "stayhappening.com",
+          "www.bandsintown.com",
+          "www.eventbrite.com",
+          "www.huntsvillelaughs.com",
+          "www.yelp.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Baidu/Baidu.yaml": {
-        "checked_at": "2026-11-04 19:17 UTC",
+        "checked_at": "2026-11-18 19:54 UTC",
         "name": "Baidu",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.baidu.com/",
-          "https://www.baidu.com/Index.htm",
           "https://wap.baidu.com/",
-          "https://feed.baidu.com/",
-          "https://en.wikipedia.org/wiki/Baidu",
+          "https://tieba.baidu.com/index.html?menu=true",
+          "https://www.baidu.com/?wd=0",
           "https://pan.baidu.com/",
-          "https://global.baidu.com/s",
-          "https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6/6699",
-          "https://mc.baidu.com/s?word=%E7%99%BE%E5%BA%A6%E4%B8%80%E4%B8%8B%E4%BD%A0%E5%B0%B1%E7%9F%A5%E9%81%93%E5%AE%98%E7%BD%91&sa=brs_6&rq=%E7%99%BE%E5%BA%A6%E4%B8%80%E4%B8%8B&rsf=102631600&pqid=9029035603506794775&rqid=9029035603506794775&params_ssrt=node-san",
-          "https://mc.baidu.com/?ssid=0&bd_af=1"
+          "https://www7.baidu.com/s",
+          "https://www1.baidu.com/s",
+          "https://baike.baidu.com/",
+          "https://map.baidu.com/",
+          "https://haokan.baidu.com/"
         ],
         "candidates": [
-          "baidu.com",
           "baike.baidu.com",
-          "en.wikipedia.org",
-          "feed.baidu.com",
-          "global.baidu.com",
-          "home.baidu.com",
-          "m.baidu.com",
-          "mc.baidu.com",
+          "haokan.baidu.com",
+          "map.baidu.com",
           "pan.baidu.com",
+          "tieba.baidu.com",
           "wap.baidu.com",
-          "www.baidu.com"
+          "www.baidu.com",
+          "www1.baidu.com",
+          "www7.baidu.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "BaoFengYingYin/BaoFengYingYin.yaml": {
-        "checked_at": "2026-11-04 19:17 UTC",
+        "checked_at": "2026-11-18 19:54 UTC",
         "name": "BaoFengYingYin",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.clickondetroit.com/",
-          "https://www.clickondetroit.com/contests/",
-          "https://help.clickondetroit.com/kb/section/15/",
-          "https://vote4thebest.clickondetroit.com/",
-          "https://help.clickondetroit.com/kb/article/239-how-do-i-contact-local-4-news/",
-          "https://www.clickondetroit.com/weather/alerts/",
-          "https://www.clickondetroit.com/weather/radar/",
-          "https://www.clickondetroit.com/weather/",
-          "https://www.clickondetroit.com/news/local/2026/05/11/he-was-a-ghost-since-94-detroit-murder-suspect-caught-after-30-years-on-the-run-in-panama/",
-          "https://www.clickondetroit.com/topic/Weather_Forecast/"
+          "https://www.microsoft.com/en-us/",
+          "https://techcommunity.microsoft.com/blog/plannerblog/introducing-a-refreshed-design-task-chat-and-more-in-microsoft-planner/4495440",
+          "https://support.microsoft.com/en-us/accounts-billing/work-school/sign-in-to-your-work-or-school-account-using-two-step-verification",
+          "https://support.microsoft.com/en-gb/accounts-billing/",
+          "https://techcommunity.microsoft.com/blog/outlook/copilot-in-outlook-new-agentic-experiences-for-email-and-calendar/4499798",
+          "https://support.microsoft.com/en-gb/outlook/install-or-reinstall-classic-outlook-on-a-windows-pc",
+          "https://support.microsoft.com/en-us/accounts-billing/work-school/verifying-your-identity-when-signing-in",
+          "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128",
+          "https://techcommunity.microsoft.com/event/techcommunitylive/microsoft-technical-takeoff-2026-windows--intune/4490614",
+          "https://techcommunity.microsoft.com/category/windows/discussions/windowsinsiderprogram"
         ],
         "candidates": [
-          "clickondetroit.com",
-          "help.clickondetroit.com",
-          "vote4thebest.clickondetroit.com",
-          "www.clickondetroit.com"
+          "support.microsoft.com",
+          "techcommunity.microsoft.com",
+          "www.microsoft.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "BardAI/BardAI.yaml": {
-        "checked_at": "2026-11-04 19:17 UTC",
+        "checked_at": "2026-11-18 19:54 UTC",
         "name": "BardAI",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://drive.google.com/",
-          "https://support.google.com/drive/answer/2424384?hl=de&co=GENIE.Platform=iOS",
-          "https://support.google.com/drive/answer/2424384?hl=vi&co=GENIE.Platform%3DAndroid",
-          "https://support.google.com/drive/answer/1716222",
-          "https://support.google.com/drive/answer/2424384?hl=nl&co=GENIE.Platform%3DiOS",
-          "https://support.google.com/drive/answer/2424368?hl=sv&co=GENIE.Platform%3DDesktop",
-          "https://support.google.com/googleone/answer/9003634?hl=en&co=GENIE.Platform%3DDesktop",
-          "https://support.google.com/drive/answer/2456903?hl=ar",
-          "https://support.google.com/drive/?hl=tr",
-          "https://support.google.com/drive/answer/1716222?hl=en&co=GENIE.Platform=Android"
+          "https://www.ezcater.com/catering/MD/BALTIMORE",
+          "https://www.ezcater.com/catering/NC/RALEIGH",
+          "https://mealprogram.ezcater.com/home/",
+          "https://driver.ezcater.com/sign_in",
+          "https://driver.ezcater.com/request_sign_in_link",
+          "https://mealprogram.ezcater.com/register",
+          "https://www.ezcater.com/company/about-us/careers/",
+          "https://www.ezcater.com/sign_in",
+          "https://www.ezcater.com/",
+          "https://www.ezcater.com/company/catering-growth-platform/delivery-solutions/dispatch/"
         ],
         "candidates": [
-          "drive.google.com",
-          "support.google.com"
+          "driver.ezcater.com",
+          "mealprogram.ezcater.com",
+          "www.ezcater.com"
         ],
         "accepted": [],
         "ownership_evidence": []
