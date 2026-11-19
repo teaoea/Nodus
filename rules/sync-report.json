@@ -1,7 +1,7 @@
 {
   "upstream": "https://github.com/blackmatrix7/ios_rule_script",
   "revision": "0b6897dc17e0c513d25449c935a9694818e32f0c",
-  "date": "2026-11-18 19:54 UTC",
+  "date": "2026-11-19 05:43 UTC",
   "collections": {
     "rule/Clash/115/115.yaml": {
       "input": 10,
@@ -149018,8 +149018,8 @@
   ],
   "discovery": {
     "engine": "Bing public RSS",
-    "checked_at": "2026-11-18 19:54 UTC",
-    "next_index": 110,
+    "checked_at": "2026-11-19 05:43 UTC",
+    "next_index": 134,
     "attempted": 24,
     "total_collections": 689,
     "verified_additions": {
@@ -170990,66 +170990,61 @@
         "ownership_evidence": []
       },
       "Battle/Battle.yaml": {
-        "checked_at": "2026-11-04 19:17 UTC",
+        "checked_at": "2026-11-19 05:43 UTC",
         "name": "Battle",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://us.shop.battle.net/en-us",
+          "https://shop.battle.net/",
           "https://download.battle.net/en-us/desktop",
-          "https://battlesports.com/",
           "https://www.blizzard.com/login",
-          "https://en.wikipedia.org/wiki/Battle.net",
+          "https://battlesports.com/",
           "https://en.wikipedia.org/wiki/Battle",
-          "https://www.crazygames.com/t/battle",
+          "https://www.merriam-webster.com/dictionary/battle",
+          "https://us.account.battle.net/?locale=en-us",
           "https://us.shop.battle.net/en-us/family/world-of-warcraft",
-          "https://www.blizzard.com/",
-          "https://us.account.battle.net/login?theme=blizzard&app=s1&flowTrackingId=a9723167-875e-4e9e-8b03-01b8ef0692a0&continuation-type=DOWNLOAD_PHOENIX&client-environment=STANDALONE_BROWSER"
+          "https://account.battle.net/?gameRegion=NA&lang=en-US&platform=win",
+          "https://www.blizzard.com/"
         ],
         "candidates": [
+          "account.battle.net",
           "battle.net",
           "battlesports.com",
           "download.battle.net",
           "en.wikipedia.org",
+          "shop.battle.net",
           "us.account.battle.net",
           "us.shop.battle.net",
           "www.blizzard.com",
-          "www.crazygames.com"
+          "www.merriam-webster.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "BeStore/BeStore.yaml": {
-        "checked_at": "2026-11-04 19:17 UTC",
+        "checked_at": "2026-11-19 05:43 UTC",
         "name": "BeStore",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://bestoresnacks.com/",
-          "https://www.weee.com/en/brand/detail/Bestore/eMjZVAxD",
-          "https://bestores.com/about-us/",
-          "https://bestoresnacks.com/collections/all",
-          "https://www.517lppz.com/en/",
-          "https://www.yami.com/us/en/b/bestore/3065",
-          "https://bestores.com/",
-          "https://www.amazon.com/clp/B09XDKCDG5",
-          "https://yumsbox.com/collections/bestore",
-          "https://autel.app/"
+          "https://www.espn.com/nba/scoreboard",
+          "https://www.espn.com/nba-summer-league/scoreboard",
+          "https://espndeportes.espn.com/basquetbol/nba/resultados",
+          "https://espndeportes.espn.com/basquetbol/",
+          "https://www.espn.com/nba/boxscore/_/gameId/401909094",
+          "https://www.espn.com/nba/story/_/id/48419498/nba-playoffs-2026-play-finals-schedule-scores-news-highlights-bracket-dates",
+          "https://www.espn.com/nba/boxscore/_/gameId/401909089",
+          "https://www.espn.com/nba/odds",
+          "https://www.espn.com/nba/lite/scoreboard",
+          "https://www.espn.com/nba/team/_/name/ind/indiana-pacers"
         ],
         "candidates": [
-          "amazon.com",
-          "autel.app",
-          "bestores.com",
-          "bestoresnacks.com",
-          "www.517lppz.com",
-          "www.amazon.com",
-          "www.weee.com",
-          "www.yami.com",
-          "yumsbox.com"
+          "espndeportes.espn.com",
+          "www.espn.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Beats/Beats.yaml": {
-        "checked_at": "2026-11-04 19:17 UTC",
+        "checked_at": "2026-11-19 05:43 UTC",
         "name": "Beats",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -171057,9 +171052,9 @@
           "https://www.beatsbydre.com/products",
           "https://www.bestbuy.com/site/beats-headphones/beats-wireless-headphones/pcmcat748300634768.c?id=pcmcat748300634768",
           "https://www.target.com/b/beats/-/N-s64q0",
+          "https://en.m.wikipedia.org/wiki/Beats_(brand)",
+          "https://www.bestbuy.com/site/brands/beats-headphones/pcmcat315600050036.c?id=pcmcat315600050036",
           "https://www.apple.com/shop/accessories/all/headphones-speakers/beats",
-          "https://en.wikipedia.org/wiki/Beats_(brand)",
-          "https://www.bestbuy.com/site/beats-headphones/beats-earphones/pcmcat748300634839.c?id=pcmcat748300634839",
           "https://www.apple.com/shop/beats/accessories",
           "https://www.amazon.com/Headphones-Earbuds-Beats-Accessories/s?rh=n%3A172541%2Cp_89%3ABeats",
           "https://www.amazon.com/beats/s?k=beats"
@@ -171067,7 +171062,7 @@
         "candidates": [
           "amazon.com",
           "apple.com",
-          "en.wikipedia.org",
+          "en.m.wikipedia.org",
           "www.amazon.com",
           "www.apple.com",
           "www.beatsbydre.com",
@@ -171078,207 +171073,198 @@
         "ownership_evidence": []
       },
       "BesTV/BesTV.yaml": {
-        "checked_at": "2026-11-04 19:17 UTC",
+        "checked_at": "2026-11-19 05:43 UTC",
         "name": "BesTV",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://en.wikipedia.org/wiki/East_Moriches,_New_York",
-          "https://www.longislandguide.com/visit/east-moriches/",
-          "https://www.zillow.com/east-moriches-ny/",
-          "https://www.mapquest.com/us/new-york/east-moriches-ny-492910161",
-          "https://www.zillow.com/east-moriches-ny/houses/",
-          "https://www.realtor.com/realestateandhomes-search/East-Moriches_NY",
-          "https://www.homes.com/local-guide/east-moriches-ny/",
-          "https://www.localobserverdaily.com/town/new-york/east-moriches/17114",
-          "https://maps.apple.com/place?auid=216614878174997763",
-          "https://www.tripadvisor.com/Tourism-g47637-East_Moriches_Long_Island_New_York-Vacations.html"
+          "https://www.reddit.com/r/yesband/",
+          "https://www.detroityes.com/mb/index.php?forums/discuss-detroit.3/",
+          "https://www.reddit.com/r/HazbinBrothel/comments/dz1fhn/yes/",
+          "https://www.reddit.com/r/YesYourGrace/",
+          "https://www.reddit.com/r/copypasta/comments/i4z6lh/yesno/",
+          "https://www.detroityes.com/mb/index.php",
+          "https://www.reddit.com/r/Scams/comments/5so2l0/i_accidentally_said_yes_to_one_of_those_phone/",
+          "https://www.detroityes.com/",
+          "https://www.detroityes.com/search.php",
+          "https://www.detroityes.com/index.php"
         ],
         "candidates": [
-          "en.wikipedia.org",
-          "homes.com",
-          "maps.apple.com",
-          "realtor.com",
-          "www.homes.com",
-          "www.localobserverdaily.com",
-          "www.longislandguide.com",
-          "www.mapquest.com",
-          "www.realtor.com",
-          "www.tripadvisor.com",
-          "www.zillow.com"
+          "www.detroityes.com",
+          "www.reddit.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Bestbuy/Bestbuy.yaml": {
-        "checked_at": "2026-11-04 19:17 UTC",
+        "checked_at": "2026-11-19 05:43 UTC",
         "name": "Bestbuy",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.bestbuy.com/",
-          "https://www.facebook.com/bestbuy/",
           "https://www.bestbuy.com/site/store-locator",
+          "https://www.bestbuy.ca/en-ca",
           "https://citiretailservices.citibankonline.com/RSauth/signon?pageName=signon&siteId=PLCN_BESTBUY&langId=en_US",
           "https://stores.bestbuy.com/",
-          "https://stores.bestbuy.com/ny/new-york.html",
-          "https://en.m.wikipedia.org/wiki/Best_Buy",
-          "https://corporate.bestbuy.com/about-best-buy/",
-          "https://www.slashgear.com/2290787/tech-brands-owned-by-best-buy/",
-          "https://www.bestbuy.com/site/electronics/computers-pcs/abcat0500000.c?id=abcat0500000%2F"
+          "https://en.wikipedia.org/wiki/Best_Buy",
+          "https://www.bestbuy.com/%22",
+          "https://www.bestbuy.com/site/electronics/computers-pcs/abcat0500000.c?id=abcat0500000",
+          "https://www.bestbuy.com/customer/myaccount",
+          "https://www.bestbuy.com/top-deals"
         ],
         "candidates": [
           "citiretailservices.citibankonline.com",
-          "corporate.bestbuy.com",
-          "en.m.wikipedia.org",
+          "en.wikipedia.org",
           "stores.bestbuy.com",
-          "www.bestbuy.com",
-          "www.facebook.com",
-          "www.slashgear.com"
+          "www.bestbuy.ca",
+          "www.bestbuy.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "BianFeng/BianFeng.yaml": {
-        "checked_at": "2026-11-04 19:17 UTC",
+        "checked_at": "2026-11-19 05:43 UTC",
         "name": "BianFeng",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://carmen.osu.edu/",
-          "https://teaching.resources.osu.edu/toolsets/carmencanvas",
-          "https://learn.canvas.net/login/instructure",
-          "https://u.osu.edu/ocscom/curriculum/technology/carmencanvas/",
-          "https://u.osu.edu/hrsteaching/carmen/",
-          "https://distanceeducation.ehe.osu.edu/carmencanvas/smart-start-course-readiness-guide/carmen-canvas-start-of-the-semester/",
-          "https://it.osu.edu/offerings/carmencanvas",
-          "https://teaching.resources.osu.edu/toolsets/carmencanvas/guides/getting-started-carmen-students",
-          "https://u.osu.edu/cphdistanceeducationresources/carmen/",
-          "https://u.osu.edu/cphstudentcourseresources/carmencanvas-2/"
+          "https://www.aramco.com/en/careers",
+          "https://careers.aramco.com/",
+          "https://www.aramco.com/en/careers/for-international-applicants",
+          "https://careers.aramco.com/viewalljobs/",
+          "https://americas.aramco.com/en/careers",
+          "https://americas.aramco.com/en/careers/aramco-americas",
+          "https://www.linkedin.com/company/aramco/jobs",
+          "https://jobsataramco.eu/",
+          "https://www.aramco.jobs/hiring",
+          "https://www.naukrigulf.com/aramco-jobs"
         ],
         "candidates": [
-          "carmen.osu.edu",
-          "distanceeducation.ehe.osu.edu",
-          "it.osu.edu",
-          "learn.canvas.net",
-          "teaching.resources.osu.edu",
-          "u.osu",
-          "u.osu.edu"
+          "americas.aramco.com",
+          "careers.aramco.com",
+          "jobsataramco.eu",
+          "www.aramco.com",
+          "www.aramco.jobs",
+          "www.linkedin.com",
+          "www.naukrigulf.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "BiliBili/BiliBili.yaml": {
-        "checked_at": "2026-11-04 19:17 UTC",
+        "checked_at": "2026-11-19 05:43 UTC",
         "name": "BiliBili",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.bilibili.com/",
-          "https://www.bilibili.tv/en",
-          "https://bilibili.en.softonic.com/android",
-          "https://tv.bilibili.tv/",
-          "https://www.bilibili.tv/vip/en",
+          "https://www.bilibili.com/v/popular/rank/all/",
           "https://app.bilibili.com/",
-          "https://bilibili.co.jp/index.html",
-          "https://www.facebook.com/bilibiliofficial/",
-          "https://tv-danmaku-bili.en.aptoide.com/app",
-          "https://www.bilibili.com/anime/"
+          "https://t.bilibili.com/index.html",
+          "https://www.bilibili.tv/en",
+          "https://search.bilibili.com/special/",
+          "https://tv.bilibili.tv/",
+          "https://h.bilibili.com/ywh/h5/home",
+          "https://big.bilibili.com/pc/video",
+          "https://live.bilibili.com/"
         ],
         "candidates": [
           "app.bilibili.com",
-          "bilibili.co.jp",
+          "big.bilibili.com",
           "bilibili.com",
-          "bilibili.en.softonic.com",
-          "tv-danmaku-bili.en.aptoide.com",
+          "h.bilibili.com",
+          "live.bilibili.com",
+          "search.bilibili.com",
+          "t.bilibili.com",
           "tv.bilibili.tv",
           "www.bilibili.com",
-          "www.bilibili.tv",
-          "www.facebook.com"
+          "www.bilibili.tv"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "BiliBiliIntl/BiliBiliIntl.yaml": {
-        "checked_at": "2026-11-04 19:17 UTC",
+        "checked_at": "2026-11-19 05:43 UTC",
         "name": "BiliBiliIntl",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://shop.advanceautoparts.com/",
-          "https://corp.advanceautoparts.com/home/default.aspx",
-          "https://stores.advanceautoparts.com/",
-          "https://shop.advanceautoparts.com/brands/advance-auto-parts",
-          "https://stores.advanceautoparts.com/tx/houston",
-          "https://jobs.advanceautoparts.com/us/en/home",
-          "https://ir.advanceautoparts.com/investors/overview/default.aspx",
-          "https://corp.advanceautoparts.com/our-story/default.aspx",
-          "https://en.wikipedia.org/wiki/Advance_Auto_Parts",
-          "https://shop.advanceautoparts.com/find/all-makes"
+          "https://terylloy.com/thread/",
+          "https://terylloy.com/1-4-templates-by-tle/",
+          "https://terylloy.com/",
+          "https://terylloy.com/marcus-prints/",
+          "https://terylloy.com/art-gallery-fabrics/?page=2",
+          "https://terylloy.com/glide-thread-1wg11-warm-grey-11/",
+          "https://terylloy.com/80000-colors-yellow-gold/",
+          "https://terylloy.com/3-8-template-s-curve-4/",
+          "https://terylloy.com/shipping-returns-refunds/",
+          "https://terylloy.com/glide-thread-10401-german-granite/"
         ],
         "candidates": [
-          "advanceautoparts.com",
-          "corp.advanceautoparts.com",
-          "en.wikipedia.org",
-          "ir.advanceautoparts.com",
-          "jobs.advanceautoparts.com",
-          "shop.advanceautoparts.com",
-          "stores.advanceautoparts.com"
+          "terylloy.com",
+          "www.terylloy.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Binance/Binance.yaml": {
-        "checked_at": "2026-11-04 19:17 UTC",
+        "checked_at": "2026-11-19 05:43 UTC",
         "name": "Binance",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.binance.com/",
           "https://accounts.binance.com/en/login",
-          "https://en.m.wikipedia.org/wiki/Binance",
-          "https://www.binance.us/",
-          "https://www.binance.us/login",
-          "https://www.binance.com/en/download",
+          "https://www.binance.com/es",
           "https://www.binance.bh/en-BH",
-          "https://accounts.binance.com/en/register?ref=ENGLISH",
-          "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
-          "https://support.binance.us/en/articles/9842963-about-binance-us"
+          "https://play.google.com/store/apps/details?id=com.binance.dev&hl=en-US",
+          "https://www.binance.us/",
+          "https://www.binance.bh/en-AE/about",
+          "https://en.wikipedia.org/wiki/Binance",
+          "https://web3.binance.com/",
+          "https://accounts.binance.com/es/login"
         ],
         "candidates": [
           "accounts.binance.com",
+          "binance.bh",
           "binance.us",
-          "en.m.wikipedia.org",
-          "support.binance.us",
+          "en.wikipedia.org",
+          "play.google.com",
+          "web3.binance.com",
           "www.binance.bh",
           "www.binance.com",
-          "www.binance.us",
-          "www.npr.org"
+          "www.binance.us"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Bing/Bing.yaml": {
-        "checked_at": "2026-11-04 19:17 UTC",
+        "checked_at": "2026-11-19 05:43 UTC",
         "name": "Bing",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.bing.com/",
+          "https://x.com/bing",
+          "https://www.facebook.com/Bing/",
+          "https://en.wikipedia.org/wiki/Microsoft_Bing",
           "https://www.bing.com/webhp",
-          "https://www.microsoft.com/en-ca/bing/",
+          "https://www.youtube.com/bing",
+          "https://explore.microsoft.com/en-us/bing/features/bing-image-creator",
           "https://get.bing.com/",
-          "https://bingapp.microsoft.com/bing",
-          "https://www.microsoft.com/en-ie/bing/",
-          "https://explore.microsoft.com/en-us/bing",
-          "https://bingapp.microsoft.com/"
+          "https://www.microsoft.com/en-ca/bing/",
+          "https://www.microsoft.com/en-ph/bing/"
         ],
         "candidates": [
-          "bingapp.microsoft.com",
+          "en.wikipedia.org",
           "explore.microsoft.com",
           "get.bing.com",
           "microsoft.com",
           "www.bing.com",
-          "www.microsoft.com"
+          "www.facebook.com",
+          "www.microsoft.com",
+          "www.youtube.com",
+          "x.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Blizzard/Blizzard.yaml": {
-        "checked_at": "2026-11-04 19:17 UTC",
+        "checked_at": "2026-11-19 05:43 UTC",
         "name": "Blizzard",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -171287,10 +171273,10 @@
           "https://www.blizzard.com/login",
           "https://download.battle.net/en-us/desktop",
           "https://worldofwarcraft.blizzard.com/en-us/",
-          "https://en.wikipedia.org/wiki/Blizzard_Entertainment",
-          "https://overwatch.blizzard.com/en-us/",
           "https://account.blizzard.com/en-us/signup",
-          "https://www.blizzard.com/en-us/games"
+          "https://overwatch.blizzard.com/en-us/",
+          "https://en.wikipedia.org/wiki/Blizzard_Entertainment",
+          "https://account.blizzard.com/account"
         ],
         "candidates": [
           "account.blizzard.com",
@@ -171306,37 +171292,34 @@
         "ownership_evidence": []
       },
       "BlockHttpDNS/BlockHttpDNS.yaml": {
-        "checked_at": "2026-11-04 19:17 UTC",
+        "checked_at": "2026-11-19 05:43 UTC",
         "name": "BlockHttpDNS",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.walmart.com/browse/auto-tires/truck-batteries/91083_1752665_9117981",
-          "https://www.walmart.com/browse/auto-tires/truck-batteries/91083_1074765_6499603_1104292_9117981",
-          "https://business.walmart.com/browse/automotive/truck-batteries/3227097_6947714_9755837_6391896_8894282_9929112",
-          "https://business.walmart.com/ip/EverStart-Value-Lead-Acid-Automotive-Battery-Group-Size-34-12-Volt-600-CCA/3916154154",
-          "https://carinterior.alibaba.com/question/walmart-truck-battery-prices-buying-guide",
-          "https://automotoflux.com/electrical-systems/how-much-are-batteries-at-walmart",
-          "https://cartipsdaily.com/are-walmart-car-batteries-good",
-          "https://www.bestcarbattery.com/buying-car-battery-at-walmart/",
-          "https://walmartdesk.com/walmart-car-battery-guide/",
-          "https://batteryskills.com/are-car-batteries-at-walmart-good/"
+          "https://gptzero.me/",
+          "https://www.zerogpt.com/",
+          "https://gpt-zero.com/",
+          "https://gptzero.me/machine-learning",
+          "https://www.zerogpt.com/ai-humanizer",
+          "https://join.gptzero.me/",
+          "https://zerogpt.net/",
+          "https://gptzero.me/chrome",
+          "https://gptzero.me/pricing"
         ],
         "candidates": [
-          "automotoflux.com",
-          "batteryskills.com",
-          "business.walmart.com",
-          "carinterior.alibaba.com",
-          "cartipsdaily.com",
-          "walmart.com",
-          "walmartdesk.com",
-          "www.bestcarbattery.com",
-          "www.walmart.com"
+          "gpt-zero.com",
+          "gptzero.me",
+          "gptzero.us",
+          "join.gptzero.me",
+          "node.js",
+          "www.zerogpt.com",
+          "zerogpt.net"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Bloomberg/Bloomberg.yaml": {
-        "checked_at": "2026-11-04 19:17 UTC",
+        "checked_at": "2026-11-19 05:43 UTC",
         "name": "Bloomberg",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -171344,10 +171327,10 @@
           "https://www.bloomberg.com/markets",
           "https://en.wikipedia.org/wiki/Bloomberg_L.P.",
           "https://professional.bloomberg.com/products/bloomberg-terminal/",
-          "https://www.youtube.com/@Bloomberg_Live",
+          "https://en.wikipedia.org/wiki/Michael_Bloomberg",
           "https://www.bloomberg.com/markets/stocks",
-          "https://www.bloomberg.com/asia",
           "https://www.bloomberg.com/live/us",
+          "https://www.bloomberg.com/canada",
           "https://www.bloomberg.com/latest"
         ],
         "candidates": [
@@ -171355,33 +171338,32 @@
           "bloomberg.com",
           "en.wikipedia.org",
           "professional.bloomberg.com",
-          "www.bloomberg.com",
-          "www.youtube.com"
+          "www.bloomberg.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Blued/Blued.yaml": {
-        "checked_at": "2026-11-04 19:17 UTC",
+        "checked_at": "2026-11-19 05:43 UTC",
         "name": "Blued",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.blued.cn/",
-          "https://play.google.com/store/apps/details?id=com.blued.international&hl=en&gl=vn",
           "https://en.wikipedia.org/wiki/Blued_(app)",
-          "https://apkpure.com/blued-gay-chat-social/com.soft.blued",
-          "https://appsplayground.com/blued-pc-2/",
-          "https://blue-city-holdings-co-ltd-blued.en.aptoide.com/app",
-          "https://mylive.blued.cn/",
+          "https://play.google.com/store/apps/details?id=com.blued.international&hl=en&gl=vn",
           "https://www.blued.cn/download.html",
-          "https://www.browsercam.com/blued-pc-2/"
+          "https://apkpure.com/blued-gay-chat-social/com.soft.blued",
+          "https://blue-city-holdings-co-ltd-blued.en.aptoide.com/app",
+          "https://appsplayground.com/blued-pc-2/",
+          "https://www.browsercam.com/blued-pc-2/",
+          "https://international.blued.com/"
         ],
         "candidates": [
           "apkpure.com",
           "appsplayground.com",
           "blue-city-holdings-co-ltd-blued.en.aptoide.com",
           "en.wikipedia.org",
-          "mylive.blued.cn",
+          "international.blued.com",
           "play.google.com",
           "www.blued.cn",
           "www.blued.net",
@@ -171391,212 +171373,204 @@
         "ownership_evidence": []
       },
       "BoXun/BoXun.yaml": {
-        "checked_at": "2026-11-04 19:17 UTC",
+        "checked_at": "2026-11-19 05:43 UTC",
         "name": "BoXun",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.homedepot.com/p/The-Home-Depot-5-Gal-Homer-Bucket-3-Pack-05GLHD2/100672960",
-          "https://www.walmart.com/c/kp/5-gallon-bucket",
-          "https://www.amazon.com/plastic-5-gallon-buckets/s?k=plastic+5+gallon+buckets",
-          "https://www.amazon.com/5-gallon-bucket/s?k=5+gallon+bucket",
-          "https://www.tractorsupply.com/tsc/product/tractor-supply-co-pail-5-gal",
-          "https://www.lowes.com/pl/paint-supplies/buckets-bucket-accessories/buckets/lowes/5-gallon/4294625955-4294961020-4294571498",
-          "https://www.lowes.com/pd/Leaktite-5-gal-70mil-Food-Safe-White-Bucket/5013212247",
-          "https://www.homedepot.com/p/5-gal-White-Pail-10-Pack-RG5700-10/204082827",
-          "https://www.walmart.com/c/kp/food-grade-5-gallon-bucket",
-          "https://www.bucket-outlet.com/Bulk-Plastic-Buckets.htm"
+          "https://x.com/TeXgallery",
+          "https://x.com/Latex247",
+          "https://www.instagram.com/lucyloveslatex/",
+          "https://tex.stackexchange.com/questions/691908/new-twitter-symbol",
+          "https://www.instagram.com/wearlatex/",
+          "https://www.instalker.org/tiashilatex",
+          "https://twstalker.com/Alex_Latex_",
+          "https://github.com/wilx/tweet2latex",
+          "https://github.com/bitzl/latex-twitter",
+          "https://ngntipkolamrenang.twstalker.com/LatexOverdose"
         ],
         "candidates": [
-          "amazon.com",
-          "walmart.com",
-          "www.amazon.com",
-          "www.bucket-outlet.com",
-          "www.homedepot.com",
-          "www.lowes.com",
-          "www.tractorsupply.com",
-          "www.walmart.com"
+          "github.com",
+          "latex.org",
+          "ngntipkolamrenang.twstalker.com",
+          "tex.stackexchange.com",
+          "twstalker.com",
+          "www.instagram.com",
+          "www.instalker.org",
+          "x.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Bootcss/Bootcss.yaml": {
-        "checked_at": "2026-11-04 19:17 UTC",
+        "checked_at": "2026-11-19 05:43 UTC",
         "name": "Bootcss",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.reddit.com/r/CemuPiracy/comments/8r6x3a/heyya_i_need_a_wii_u_super_mario_maker_rom/",
-          "https://forum.bambulab.com/t/where-are-the-users-i-follow/78537",
-          "https://www.reddit.com/r/BambuLab/comments/1b3o51i/makerworld_copyright_question/",
-          "https://forum.bambulab.com/t/print-profile-upload-to-makerworld-fails/36909",
-          "https://www.reddit.com/r/RPGMakerMZ/",
-          "https://forum.bambulab.com/t/cute-flexi-maker/232387",
-          "https://forum.bambulab.com/t/makerworld-error/64355",
-          "https://forum.bambulab.com/t/print-profile-guidelines-on-makerworld/100762",
-          "https://forum.bambulab.com/t/makerworld-search-option-disappeared-in-version-2-2-0-85/189094",
-          "https://forum.bambulab.com/t/how-people-are-getting-so-many-points-gift-cards-on-maker-world/154462"
+          "https://www.houstongrandopera.org/",
+          "https://www.youtube.com/hgopera",
+          "https://en.m.wikipedia.org/wiki/Mercury%28II%29_oxide",
+          "https://dev.houstongrandopera.org/",
+          "https://www.houstongrandopera.org/plan-your-visit",
+          "https://en.m.wikipedia.org/wiki/Houston_Grand_Opera",
+          "https://my.houstongrandopera.org/",
+          "https://hgo.org.uk/",
+          "https://www.houstontheatre.com/hgopera/hgo2026.html",
+          "https://m.youtube.com/watch?v=kDqaXzRbU3A"
         ],
         "candidates": [
-          "forum.bambulab.com",
-          "www.reddit.com"
+          "dev.houstongrandopera.org",
+          "en.m.wikipedia.org",
+          "hgo.org.uk",
+          "m.youtube.com",
+          "my.houstongrandopera.org",
+          "ridealto.com",
+          "www.houstongrandopera.org",
+          "www.houstontheatre.com",
+          "www.youtube.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "BrightCove/BrightCove.yaml": {
-        "checked_at": "2026-11-04 19:17 UTC",
+        "checked_at": "2026-11-19 05:43 UTC",
         "name": "BrightCove",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.brightcove.com/",
-          "https://signin.brightcove.com/",
-          "https://en.wikipedia.org/wiki/Brightcove",
-          "https://www.brightcove.com/products/host-and-stream",
-          "https://www.brightcove.com/products/live-streaming",
-          "https://support.brightcove.com/support/index.html",
-          "https://www.brightcove.com/gen-2",
-          "https://general.support.brightcove.com/general/brightcove-product-overview.html",
-          "https://www.linkedin.com/company/brightcove",
-          "https://supportportal.brightcove.com/s/"
+          "https://www.google.com/flights/",
+          "https://www.google.com/travel/flights",
+          "https://www.google.com/travel/flights/flights-from-toronto.html",
+          "https://www.google.com/travel/flights/region/flights-to-united-states.html",
+          "https://www.google.com/travel/flights/flights-from-dublin.html",
+          "https://www.google.com/travel/flights/flights-from-dubai.html",
+          "https://www.google.com/travel/flights/flights-from-manila.html",
+          "https://www.google.com/travel/flights/flights-from-brussels.html",
+          "https://www.google.com/travel/flights/flights-from-bangkok.html",
+          "https://www.google.com/travel/flights/flights-from-oslo.html"
         ],
         "candidates": [
-          "en.wikipedia.org",
-          "general.support.brightcove.com",
-          "signin.brightcove.com",
-          "support.brightcove.com",
-          "supportportal.brightcove.com",
-          "www.brightcove.com",
-          "www.linkedin.com"
+          "www.google.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "BritboxUK/BritboxUK.yaml": {
-        "checked_at": "2026-11-05 04:54 UTC",
+        "checked_at": "2026-11-19 05:43 UTC",
         "name": "BritboxUK",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.jcpenney.com/d/clearance",
-          "https://www.jcpenney.com/g/clearance-shop-all-products?s1_deals_and_promotions=CLEARANCE&id=cat1007450013",
-          "https://hip2save.com/deals/jcpenney-clearance/",
-          "https://passionatepennypincher.com/jcpenney-clearance/",
-          "https://consumerqueen.com/saving-money-2/jcpenney-clearance-sale",
-          "https://www.freestufffinder.com/jcpenney-clearance/",
-          "https://www.morewithlesstoday.com/jc-penney-clearance-and-closeout-links/",
-          "https://thefreebieguy.com/jcpenney-clearance/",
-          "https://hip2save.com/save-money-with/jcpenney/"
+          "https://www.microsoft.com/en-us/",
+          "https://support.microsoft.com/en-us/accounts-billing/work-school/sign-in-to-your-work-or-school-account-using-two-step-verification",
+          "https://support.microsoft.com/en-gb/accounts-billing/",
+          "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128",
+          "https://techcommunity.microsoft.com/blog/outlook/copilot-in-outlook-new-agentic-experiences-for-email-and-calendar/4499798",
+          "https://support.microsoft.com/en-gb/edge/print-in-microsoft-edge",
+          "https://support.microsoft.com/en-gb/outlook/install-or-reinstall-classic-outlook-on-a-windows-pc",
+          "https://support.microsoft.com/en-us/accounts-billing/work-school/verifying-your-identity-when-signing-in",
+          "https://techcommunity.microsoft.com/category/windows/discussions/windowsinsiderprogram",
+          "https://techcommunity.microsoft.com/event/techcommunitylive/microsoft-technical-takeoff-2026-windows--intune/4490614"
         ],
         "candidates": [
-          "consumerqueen.com",
-          "hip2save.com",
-          "passionatepennypincher.com",
-          "qr.jcpenney.com",
-          "thefreebieguy.com",
-          "www.freestufffinder.com",
-          "www.jcpenney.com",
-          "www.morewithlesstoday.com"
+          "support.microsoft.com",
+          "techcommunity.microsoft.com",
+          "www.microsoft.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Buypass/Buypass.yaml": {
-        "checked_at": "2026-11-05 04:54 UTC",
+        "checked_at": "2026-11-19 05:43 UTC",
         "name": "Buypass",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.buypass.com/",
-          "https://www.buypass.com/login",
-          "https://buypass.ai/",
-          "https://thenorwayguide.com/get-buypass/",
-          "https://support.payarc.com/hc/en-us/articles/37977720603799-Buypass-Fiserv",
-          "https://www.buypass.no/logg-inn",
-          "https://www.buypass.no/",
-          "https://no.wikipedia.org/wiki/Buypass",
-          "https://www.buypass.com/the-company"
+          "https://www.espn.com/",
+          "https://www.reddit.com/r/ESPN/comments/phys0e/extreme_buffering_on_espn/",
+          "https://www.reddit.com/r/ESPN/comments/1b3sqte/unsportsmanlike_conduct/",
+          "https://www.reddit.com/r/ESPN/comments/16drgvq/pat_mcafee_sucks/",
+          "https://www.reddit.com/r/ESPN/comments/173v8oy/how_can_you_add_a_player_to_a_bench_spot_without/",
+          "https://www.reddit.com/r/fantasyfootball/comments/3kocky/how_to_enable_espn_fractional_scoring/",
+          "https://www.reddit.com/r/ESPN/comments/x88uw6/banned_fantasy_names/",
+          "https://www.reddit.com/r/fantasyfootball/comments/5i75h8/how_do_waiver_priorities_work_for_multiple_claims/",
+          "https://www.reddit.com/r/fantasyfootball/comments/3ltqbc/question_about_espns_stuff_stat/",
+          "https://www.reddit.com/r/fantasyfootball/comments/wp5yvg/faab_settings_on_espn/"
         ],
         "candidates": [
-          "buypass.ai",
-          "buypass.com",
-          "buypass.us",
-          "no.wikipedia.org",
-          "support.payarc.com",
-          "thenorwayguide.com",
-          "www.buypass.com",
-          "www.buypass.no"
+          "www.espn.com",
+          "www.reddit.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "ByteDance/ByteDance.yaml": {
-        "checked_at": "2026-11-05 04:54 UTC",
+        "checked_at": "2026-11-19 05:43 UTC",
         "name": "ByteDance",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.bytedance.com/en/",
-          "https://en.m.wikipedia.org/wiki/ByteDance",
-          "https://joinbytedance.com/",
+          "https://en.wikipedia.org/wiki/ByteDance",
+          "https://www.bytedance.com/en/products",
           "https://seed.bytedance.com/en/",
-          "https://www.bytedance.com/products-services",
-          "https://www.byteplus.com/en",
+          "https://joinbytedance.com/",
           "https://www.britannica.com/money/ByteDance",
-          "https://www.slashgear.com/2249007/brands-that-are-owned-by-bytedance/",
+          "https://jobs.bytedance.com/",
           "https://seed.bytedance.com/en/models",
-          "https://jobs.bytedance.com/"
+          "https://ai.byteplus.com/lumina/en",
+          "https://jobs.bytedance.com/en/login"
         ],
         "candidates": [
-          "en.m.wikipedia.org",
+          "ai.byteplus.com",
+          "en.wikipedia.org",
           "jobs.bytedance.com",
           "joinbytedance.com",
           "seed.bytedance.com",
           "www.britannica.com",
-          "www.bytedance.com",
-          "www.byteplus.com",
-          "www.slashgear.com"
+          "www.bytedance.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "CAS/CAS.yaml": {
-        "checked_at": "2026-11-05 04:54 UTC",
+        "checked_at": "2026-11-19 05:43 UTC",
         "name": "CAS",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.cas.org/cas-data/cas-registry",
-          "https://commonchemistry.cas.org/",
           "https://www.cas.org/",
-          "https://www.consolidatedadmin.com/",
+          "https://go.utah.edu/cas/login",
           "https://www.casact.org/",
-          "https://apps.okstate.edu/portal/lu/index.php",
+          "https://commonchemistry.cas.org/",
+          "https://en.wikipedia.org/wiki/Cas",
           "https://en.wikipedia.org/wiki/Chemical_Abstracts_Service",
-          "https://nursingcas.org/",
-          "https://en.wikipedia.org/wiki/CAS_Registry_Number",
-          "https://webbook.nist.gov/chemistry/cas-ser/"
+          "https://www.consolidatedadmin.com/",
+          "https://annual.casact.org/",
+          "https://www.thoughtco.com/what-is-a-cas-number-3975940"
         ],
         "candidates": [
-          "apps.okstate.edu",
+          "annual.casact.org",
           "commonchemistry.cas.org",
           "en.wikipedia.org",
-          "nursingcas.org",
-          "webbook.nist.gov",
+          "go.utah.edu",
           "www.cas.org",
           "www.casact.org",
-          "www.consolidatedadmin.com"
+          "www.consolidatedadmin.com",
+          "www.thoughtco.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "CBS/CBS.yaml": {
-        "checked_at": "2026-11-05 04:54 UTC",
+        "checked_at": "2026-11-19 05:43 UTC",
         "name": "CBS",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.cbs.com/",
           "https://www.cbsnews.com/",
-          "https://www.cbs.com/shows/",
+          "https://www.cbs.com/schedule/",
           "https://www.cbssports.com/",
           "https://www.cbsnews.com/live/",
           "https://en.wikipedia.org/wiki/CBS",
           "https://www.tvinsider.com/network/cbs/schedule/",
-          "https://www.cbs.com/live-tv/stream/tveverywhere/",
+          "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_CBS",
+          "https://www.cbs.com/shows/",
           "https://www.cbs.com/shows/all/"
         ],
         "candidates": [
@@ -171611,27 +171585,31 @@
         "ownership_evidence": []
       },
       "CCB/CCB.yaml": {
-        "checked_at": "2026-11-05 04:54 UTC",
+        "checked_at": "2026-11-19 05:43 UTC",
         "name": "CCB",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.oregon.gov/CCB/Pages/default.aspx",
-          "https://www.oregon.gov/ccb/Pages/CCB%20License.aspx",
-          "https://portal.ccb.state.or.us/",
-          "https://portal.ccb.state.or.us/login.asp",
+          "https://www.corporatecompliance.org/certification",
+          "https://ccb.com/eng/home/index.shtml",
+          "https://ccb.gov/",
+          "https://www.ccbcreditservices.com/",
+          "https://www.bankccb.com/digital-banking",
           "https://www2.ccb.com/chn/home/ebank/new/intro/web/index.shtml",
-          "https://or.accessgov.com/ccb/Forms/Page/ccb/ccbapplication/",
-          "https://en.wikipedia.org/wiki/CCB",
-          "https://lsjr.ccb.com/msmp/ecpweb/page/login/loginCCB.html",
-          "https://www.oregon.gov/ccb/Pages/Licensing.aspx"
+          "https://www.fnbo.com/pages/ccb",
+          "https://www.ccb.org.co/",
+          "https://ccb-inc.com/"
         ],
         "candidates": [
-          "en.wikipedia.org",
-          "lsjr.ccb.com",
+          "ccb-inc.com",
+          "ccb.com",
+          "ccb.gov",
           "m.ccb.com",
-          "or.accessgov.com",
-          "portal.ccb.state.or.us",
-          "search.ccb.state.or.us",
+          "www.bankccb.com",
+          "www.ccb.org.co",
+          "www.ccbcreditservices.com",
+          "www.corporatecompliance.org",
+          "www.fnbo.com",
           "www.oregon.gov",
           "www2.ccb.com"
         ],
@@ -171639,32 +171617,32 @@
         "ownership_evidence": []
       },
       "CCTV/CCTV.yaml": {
-        "checked_at": "2026-11-05 04:54 UTC",
+        "checked_at": "2026-11-19 05:43 UTC",
         "name": "CCTV",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://en.wikipedia.org/wiki/Closed-circuit_television",
-          "https://english.cctv.com/",
           "https://tv.cctv.com/",
-          "https://www.britannica.com/technology/closed-circuit-television",
+          "https://english.cctv.com/",
+          "https://www.amazon.com/cctv-systems/s?k=cctv+systems",
           "https://tv.cctv.com/live/",
+          "https://www.britannica.com/technology/closed-circuit-television",
+          "https://opencctv.org/",
           "https://en.wikipedia.org/wiki/Closed-circuit_television_camera",
-          "https://www.amazon.com/Surveillance-Cameras/b?node=898400",
-          "https://www.cctv.com/english/live/",
-          "https://www.omnilert.com/blog/what-is-cctv-and-how-does-it-enhance-security",
-          "https://learncctv.com/what-is-cctv/"
+          "https://www.homedepot.com/b/Electrical-Home-Security-Security-Camera-Systems/CCTV/N-5yc1vZc1xvZ1z19vbo",
+          "https://www.verkada.com/blog/cctv-security-cameras/"
         ],
         "candidates": [
           "amazon.com",
           "cctv.com",
           "en.wikipedia.org",
           "english.cctv.com",
-          "learncctv.com",
+          "opencctv.org",
           "tv.cctv.com",
           "www.amazon.com",
           "www.britannica.com",
-          "www.cctv.com",
-          "www.omnilert.com"
+          "www.homedepot.com",
+          "www.verkada.com"
         ],
         "accepted": [],
         "ownership_evidence": []
