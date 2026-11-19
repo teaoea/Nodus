@@ -1,7 +1,7 @@
 {
   "upstream": "https://github.com/blackmatrix7/ios_rule_script",
   "revision": "0b6897dc17e0c513d25449c935a9694818e32f0c",
-  "date": "2026-11-19 05:43 UTC",
+  "date": "2026-11-19 19:54 UTC",
   "collections": {
     "rule/Clash/115/115.yaml": {
       "input": 10,
@@ -149018,8 +149018,8 @@
   ],
   "discovery": {
     "engine": "Bing public RSS",
-    "checked_at": "2026-11-19 05:43 UTC",
-    "next_index": 134,
+    "checked_at": "2026-11-19 19:54 UTC",
+    "next_index": 158,
     "attempted": 24,
     "total_collections": 689,
     "verified_additions": {
@@ -153419,80 +153419,78 @@
         "ownership_evidence": []
       },
       "ChinaIPs/ChinaIPs.list": {
-        "checked_at": "2026-11-05 19:26 UTC",
+        "checked_at": "2026-11-19 19:54 UTC",
         "name": "ChinaIPs",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://support.google.com/chrome/?hl=en",
-          "https://www.google.com/intl/en_in/chrome/",
-          "https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DAndroid",
-          "https://www.google.com/chrome/",
-          "https://chrome.google.com/sync",
-          "https://www.google.com/chrome/update/",
-          "https://www.google.com/intl/en_uk/chrome/browser-tools/",
-          "https://chromewebstore.google.com/",
-          "https://play.google.com/store/apps/details?id=com.android.chrome&hl=en-IN",
-          "https://support.google.com/chrome/answer/11032183?hl=en&co=GENIE.Platform%3DDesktop"
+          "https://www.malco.com/cinemas/columbus-cinema/",
+          "https://www.malco.com/listing/spider-man-brand-new-day/",
+          "https://www.malco.com/content/malco-rewards-program/",
+          "https://www.malco.com/nowplaying/the-transformers-the-movie-40th-anniversary/",
+          "https://www.malco.com/nowplaying/verity/2026-10-01/",
+          "https://www.malco.com/content/marquee-rewards/",
+          "https://www.malco.com/cinemas/corinth-cinema/",
+          "https://www.malco.com/listing/imax-showtimes/",
+          "https://www.malco.com/nowplaying/verity/",
+          "https://www.malco.com/listing/the-odyssey/"
         ],
         "candidates": [
-          "chrome.google.com",
-          "chromewebstore.google.com",
-          "play.google.com",
-          "support.google.com",
-          "www.google.com"
+          "www.malco.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "ChinaIPs/ChinaIPsTest/ChinaIPsTest.list": {
-        "checked_at": "2026-11-05 19:26 UTC",
+        "checked_at": "2026-11-19 19:54 UTC",
         "name": "ChinaIPsTest",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://support.microsoft.com/en-au/powerpoint/apply-a-template-to-an-existing-presentation",
-          "https://support.microsoft.com/en-gb/powerpoint/copilot/keep-your-presentation-on-brand-with-copilot",
-          "https://support.microsoft.com/en-gb/powerpoint/copy-and-paste-a-slide-master-from-one-presentation-to-another",
-          "https://support.microsoft.com/en-us/powerpoint/apply-a-template-to-an-existing-presentation",
-          "https://support.microsoft.com/en-us/powerpoint/training/apply-a-slide-layout",
-          "https://support.microsoft.com/en-us/powerpoint/training/add-color-and-design-to-your-slides-with-themes",
-          "https://support.microsoft.com/en-gb/powerpoint/change-the-background-of-slides",
-          "https://support.microsoft.com/en-us/powerpoint/change-the-color-of-text-on-a-powerpoint-slide",
-          "https://support.microsoft.com/en-us/powerpoint/use-multiple-themes-in-one-presentation",
-          "https://support.microsoft.com/en-us/powerpoint/copilot/keep-your-presentation-on-brand-with-copilot"
+          "https://www.britannica.com/event/Dred-Scott-decision",
+          "https://www.history.com/articles/dred-scott-case",
+          "https://www.pbs.org/wgbh/aia/part4/4p2932.html",
+          "https://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=2&psid=3282",
+          "https://nmaahc.si.edu/explore/stories/human-factor-history-dred-scott-and-roger-b-taney",
+          "https://www.archives.gov/milestone-documents/dred-scott-v-sandford",
+          "https://www.sos.mo.gov/archives/resources/africanamerican/scott/scott.asp?hl=en-US"
         ],
         "candidates": [
-          "support.microsoft.com"
+          "nmaahc.si.edu",
+          "www.archives.gov",
+          "www.britannica.com",
+          "www.digitalhistory.uh.edu",
+          "www.history.com",
+          "www.pbs.org",
+          "www.sos.mo.gov"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "ChinaIPsBGP/ChinaIPsBGP.list": {
-        "checked_at": "2026-11-05 19:26 UTC",
+        "checked_at": "2026-11-19 19:54 UTC",
         "name": "ChinaIPsBGP",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.mayoclinic.org/diseases-conditions/pagets-disease-of-bone/symptoms-causes/syc-20350811",
-          "https://my.clevelandclinic.org/health/diseases/21929-pagets-disease-of-the-bone",
-          "https://en.wikipedia.org/wiki/Paget%27s_disease_of_bone",
-          "https://www.niams.nih.gov/health-topics/pagets-disease-bone/diagnosis-treatment-and-steps-to-take",
-          "https://www.merckmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/paget-disease-of-bone/paget-disease-of-bone",
-          "https://www.orthobullets.com/pathology/8040/pagets-disease",
-          "https://www.health.harvard.edu/diseases-and-conditions/pagets-disease-of-bone-a-to-z",
-          "https://www.harvardhealth.org/diseases-and-conditions/pagets-disease-of-bone-a-to-z",
-          "https://pmc.ncbi.nlm.nih.gov/articles/PMC6522384/",
-          "https://www.nhs.uk/conditions/pagets-disease-bone/"
+          "https://sciencenotes.org/protons-stick-to-electrons/",
+          "https://van.physics.illinois.edu/ask/listing/1195",
+          "https://physics.stackexchange.com/questions/60848/why-is-the-charge-transferred-by-electrons-and-not-by-protons",
+          "https://www.thenakedscientists.com/articles/questions/why-dont-protons-stick-electrons",
+          "https://www.bu.edu/gk12/jeff/Unit/Lesson3.htm",
+          "https://www.scienceabc.com/pure-sciences/protons-and-electrons-have-opposite-charges-then-how-do-they-not-end-up-pulling-on-each-other",
+          "https://physics.stackexchange.com/questions/94153/why-dont-the-positive-charges-in-a-conductor-move",
+          "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Quantum_Mechanics/09._The_Hydrogen_Atom/Atomic_Theory/Why_atoms_do_not_Collapse",
+          "https://support.apologia.com/kb/article/228-why-don-t-the-electrons-in-an-atom-just-fall-into-the-nucleus-since-they-are-attracted-by-the-positive-charge/",
+          "https://www.classace.io/answers/why-do-electrons-move-and-protons-dont-move"
         ],
         "candidates": [
-          "en.wikipedia.org",
-          "my.clevelandclinic.org",
-          "pmc.ncbi.nlm.nih.gov",
-          "www.harvardhealth.org",
-          "www.health.harvard.edu",
-          "www.mayoclinic.org",
-          "www.merckmanuals.com",
-          "www.nhs.uk",
-          "www.niams.nih.gov",
-          "www.orthobullets.com"
+          "chem.libretexts.org",
+          "physics.stackexchange.com",
+          "sciencenotes.org",
+          "support.apologia.com",
+          "van.physics.illinois.edu",
+          "www.bu.edu",
+          "www.classace.io",
+          "www.scienceabc.com",
+          "www.thenakedscientists.com"
         ],
         "accepted": [],
         "ownership_evidence": []
@@ -171648,201 +171646,199 @@
         "ownership_evidence": []
       },
       "CEB/CEB.yaml": {
-        "checked_at": "2026-11-05 04:54 UTC",
+        "checked_at": "2026-11-19 19:54 UTC",
         "name": "CEB",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.ceb.com/",
           "https://research.ceb.com/login",
-          "https://store.ceb.com/",
           "https://www.ceb.org/",
-          "https://www.ceb.com/ceb-search/",
-          "https://store.ceb.com/collections/practice-books",
-          "https://payment.ceb.lk/instantpay",
-          "https://learning.ceb.com/",
           "https://www.ceb.lk/",
-          "https://www.cebupacificair.com/"
+          "https://payment.ceb.lk/instantpay",
+          "https://www.ceb.com/products/onlaw-pro/",
+          "https://store.ceb.com/",
+          "https://en.wikipedia.org/wiki/CEB_Inc.",
+          "https://store.ceb.com/pages/contact-us",
+          "https://ceb.mu/"
         ],
         "candidates": [
-          "learning.ceb.com",
+          "ceb.mu",
+          "en.wikipedia.org",
           "payment.ceb.lk",
           "research.ceb.com",
           "store.ceb.com",
           "www.ceb.com",
           "www.ceb.lk",
-          "www.ceb.org",
-          "www.cebupacificair.com"
+          "www.ceb.org"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "CETV/CETV.yaml": {
-        "checked_at": "2026-11-05 04:54 UTC",
+        "checked_at": "2026-11-19 19:54 UTC",
         "name": "CETV",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.nfl.com/scores",
-          "https://www.nfl.com/",
-          "https://www.nfl.com/standings/",
-          "https://www.nfl.com/videos/",
-          "https://www.nfl.com/international",
-          "https://www.nfl.com/schedules",
-          "https://www.nfl.com/redzone/watch",
-          "https://www.nfl.com/news/nfl-week-6-picks-upset-and-score-predictions-matchup-breakdowns-for-every-game",
-          "https://www.nfl.com/videos/channel/game-highlights-vc",
-          "https://www.nfl.com/teams/philadelphia-eagles/"
+          "https://blaze-and-the-monster-machines.fandom.com/wiki/The_Pickle_Family_Campout",
+          "https://blaze-and-the-monster-machines.fandom.com/wiki/The_Pickle_Family_Campout/Trivia",
+          "https://blaze-and-the-monster-machines.fandom.com/wiki/The_Pickle_Family_Song",
+          "https://www.wcostream.tv/blaze-and-the-monster-machines-season-4-episode-2-the-pickle-family-campout",
+          "https://blaze-and-the-monster-machines.fandom.com/wiki/The_Pickle_Family_Campout/Transcript",
+          "https://blaze-and-the-monster-machines.fandom.com/wiki/Pickle",
+          "https://m.wcostream.tv/blaze-and-the-monster-machines-season-4-episode-2-the-pickle-family-campout",
+          "https://blaze-and-the-monster-machines.fandom.com/wiki/The_Pickle_Family_Campout/Gallery/1",
+          "https://nickstoryjr.fandom.com/wiki/Blaze_and_the_Monster_Machines/The_Pickle_Family_Campout",
+          "https://www.youtube.com/watch?v=baDX-tgT2Yg"
         ],
         "candidates": [
-          "nfl.com",
-          "www.nfl.com"
+          "blaze-and-the-monster-machines.fandom.com",
+          "m.wcostream.tv",
+          "nickstoryjr.fandom.com",
+          "www.nickjr.co.uk",
+          "www.wcostream.tv",
+          "www.youtube.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "CGB/CGB.yaml": {
-        "checked_at": "2026-11-05 04:54 UTC",
+        "checked_at": "2026-11-19 19:54 UTC",
         "name": "CGB",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://cgbgrain.com/",
           "https://cgb.com/",
-          "https://cgbgrain.com/cash-bids/",
-          "https://www.cgbmentors.com/learn/account/signin",
-          "https://cgb.com/cgb-grain/",
-          "https://careers.cgb.com/",
-          "https://cgb.agricharts.com/",
+          "https://cgb.com/find-us/",
           "https://www.youtube.com/@covertgoblue",
-          "https://www.cgbfr.com/",
-          "https://www.cgbfr.com/archive.html"
+          "https://www.eaton.com/content/dam/eaton/products/conduit-cable-and-wire-management/crouse-hinds/catalog-pages/crouse-hinds-cgb-cge-cgfp-catalog-page.pdf",
+          "https://cgbgrain.com/cash-bids/",
+          "https://www.cgbfr.com/"
         ],
         "candidates": [
-          "careers.cgb.com",
-          "cgb.agricharts.com",
           "cgb.com",
           "cgb.fr",
           "cgbgrain.com",
           "www.cgbfr.com",
-          "www.cgbmentors.com",
+          "www.eaton.com",
           "www.youtube.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "CHT/CHT.yaml": {
-        "checked_at": "2026-11-05 04:54 UTC",
+        "checked_at": "2026-11-19 19:54 UTC",
         "name": "CHT",
         "status": "needs_ownership_evidence",
         "sources": [
+          "https://chatgpt.com/g/g-NiC7X4RdN-chatcgp",
+          "https://platform.openai.com/onboarding?app=chat",
+          "https://chatgpt.com/download/",
           "https://www.cht.com/en/",
-          "https://m.chatgpt.com/",
-          "https://htcc.org/find-a-cht",
           "https://htcc.org/",
-          "https://www.cht.com/en/cht-group",
-          "https://www.abbreviations.com/CHT",
-          "https://www.acronymfinder.com/CHT.html",
-          "https://www.chthealthcare.com/",
-          "https://solutions.cht.com/cht/web.nsf/id/pa_en_startseite.html",
-          "https://asht.org/find-a-therapist"
+          "https://htcc.org/find-a-cht",
+          "https://www.getahome.org/",
+          "https://www.cht.com/",
+          "https://cht.gov.in/",
+          "https://cht.co.nz/"
         ],
         "candidates": [
-          "abbreviations.com",
-          "acronymfinder.com",
-          "asht.org",
+          "chatgpt.com",
+          "cht.co.nz",
+          "cht.gov.in",
           "htcc.org",
-          "m.chatgpt.com",
-          "solutions.cht.com",
-          "www.abbreviations.com",
-          "www.acronymfinder.com",
+          "platform.openai.com",
           "www.cht.com",
-          "www.chthealthcare.com"
+          "www.getahome.org"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "CIBN/CIBN.yaml": {
-        "checked_at": "2026-11-05 04:54 UTC",
+        "checked_at": "2026-11-19 19:54 UTC",
         "name": "CIBN",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.cibng.org/",
           "https://portal.cibng.org/cb_login.asp",
-          "https://new.cibng.org/",
-          "https://en.wikipedia.org/wiki/Chartered_Institute_of_Bankers_of_Nigeria",
-          "https://thecibn.com/",
           "https://www.cibng.org/membership-categories/",
-          "https://portal.cibng.org/cb_apply.asp",
+          "https://thecibn.com/",
           "https://cibnus.org/",
           "https://cibnconnect.com/",
-          "https://www.wsj.com/market-data/stock/cibn"
+          "https://en.wikipedia.org/wiki/Chartered_Institute_of_Bankers_of_Nigeria",
+          "https://new.cibng.org/",
+          "https://backoffice.cibng.org/",
+          "https://portal.cibng.org/cb_syllabshop_login.asp"
         ],
         "candidates": [
+          "backoffice.cibng.org",
           "cibnconnect.com",
           "cibnus.org",
           "en.wikipedia.org",
           "new.cibng.org",
           "portal.cibng.org",
           "thecibn.com",
-          "www.cibng.org",
-          "www.wsj.com"
+          "www.cibng.org"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "CKJR/CKJR.yaml": {
-        "checked_at": "2026-11-05 04:54 UTC",
+        "checked_at": "2026-11-19 19:54 UTC",
         "name": "CKJR",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.merriam-webster.com/dictionary/shorn",
-          "https://dictionary.cambridge.org/dictionary/english/shorn",
-          "https://usdictionary.com/definitions/shorn/",
-          "https://www.dictionary.com/browse/shorn",
-          "https://www.thefreedictionary.com/shorn",
-          "https://www.vocabulary.com/dictionary/shorn",
-          "https://www.definitions.net/definition/Shorn",
-          "https://dictionary.cambridge.org/us/dictionary/english/shorn",
-          "https://www.collinsdictionary.com/dictionary/english/shorn",
-          "https://en.m.wiktionary.org/wiki/shorn"
+          "https://www.zillow.com/homedetails/343-Maple-Rd-Maple-NC-27956/81646775_zpid/",
+          "https://www.redfin.com/NC/Maple/343-Maple-Rd-27956/home/128430556",
+          "https://www.realtor.com/realestateandhomes-detail/343-Maple-Rd_Maple_NC_27956_M51712-70363",
+          "https://www.trulia.com/home/343-maple-rd-maple-nc-27956-81646775",
+          "https://www.homes.com/property/343-maple-rd-maple-nc/ywqfkp4fvw713/",
+          "https://www.spokeo.com/NC/Maple/343-Maple-Rd",
+          "https://www.propertyreach.com/nc/maple/343-maple-rd/98278107",
+          "https://maps.google.com/",
+          "https://www.realtor.com/realestateandhomes-detail/343-Padgett-Rd_Maple-Hill_NC_28454_M61828-64493",
+          "https://www.mapquest.com/us/north-carolina/maple-nc-283597555"
         ],
         "candidates": [
-          "definitions.net",
-          "dictionary.cambridge.org",
-          "dictionary.com",
-          "en.m.wiktionary.org",
-          "usdictionary.com",
-          "vocabulary.com",
-          "www.collinsdictionary.com",
-          "www.definitions.net",
-          "www.dictionary.com",
-          "www.merriam-webster.com",
-          "www.thefreedictionary.com",
-          "www.vocabulary.com"
+          "homes.com",
+          "maps.google.com",
+          "propertyreach.com",
+          "realtor.com",
+          "www.homes.com",
+          "www.mapquest.com",
+          "www.propertyreach.com",
+          "www.realtor.com",
+          "www.redfin.com",
+          "www.spokeo.com",
+          "www.trulia.com",
+          "www.zillow.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "CMB/CMB.yaml": {
-        "checked_at": "2026-11-05 04:54 UTC",
+        "checked_at": "2026-11-19 19:54 UTC",
         "name": "CMB",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
-          "https://www.custommadebetter.com/",
-          "https://www.coffeemeetsbagel.com/",
           "https://online.cmbnv.com/",
-          "https://sciencenotes.org/cosmic-microwave-background-radiation-cmb-or-cmbr/",
-          "https://en.wikipedia.org/wiki/Discovery_of_cosmic_microwave_background_radiation",
-          "https://www.custommadebetter.com/collections/acrylic-sheets",
+          "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
+          "https://www.coffeemeetsbagel.com/",
+          "https://www.custommadebetter.com/",
+          "https://www.cmbnv.com/personal/products/personal-banking/cmb-personal-online-banking",
+          "https://cmbonline.org/",
+          "https://www.cmbnv.com/",
           "https://www.cmb.fr/reseau-bancaire-cooperatif/web/accueil",
-          "https://www.cmb.fr/reseau-bancaire-cooperatif/web/comptes-et-cartes/piloter-vos-comptes/espace-client"
+          "https://english.cmbchina.com/"
         ],
         "candidates": [
           "cmb.fr",
+          "cmbonline.org",
           "en.wikipedia.org",
+          "english.cmbchina.com",
           "online.cmbnv.com",
-          "sciencenotes.org",
           "www.cmb.fr",
           "www.cmblabs.com",
+          "www.cmbnv.com",
           "www.coffeemeetsbagel.com",
           "www.custommadebetter.com"
         ],
@@ -171850,241 +171846,240 @@
         "ownership_evidence": []
       },
       "CNKI/CNKI.yaml": {
-        "checked_at": "2026-11-05 04:54 UTC",
+        "checked_at": "2026-11-19 19:54 UTC",
         "name": "CNKI",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://c61.oversea.cnki.net/",
-          "https://chn.oversea.cnki.net/index/index.html",
           "https://cnki.net/",
-          "https://beta.oversea.cnki.net/index/",
-          "https://en.wikipedia.org/wiki/CNKI",
-          "https://x.cnki.net/search",
-          "https://tr.oversea.cnki.net/",
-          "https://cajviewer.oversea.cnki.net/chn/index.html",
-          "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%9F%A5%E8%AF%86%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%B7%A5%E7%A8%8B"
+          "https://en.oversea.cnki.net/index/",
+          "https://www.cnki.net/index",
+          "https://tra.oversea.cnki.net/index/",
+          "https://www.gszyy.com/upload/history/main/lzzgxslp/2022/7/202207131740133334.pdf",
+          "https://member.cnki.net/kcenter/user",
+          "https://github.com/cmeister2/dauntless/blob/master/results/top100000_count"
         ],
         "candidates": [
-          "beta.oversea.cnki.net",
           "c61.oversea.cnki.net",
-          "cajviewer.oversea.cnki.net",
-          "chn.oversea.cnki.net",
           "cnki.net",
-          "en.wikipedia.org",
-          "tr.oversea.cnki.net",
+          "en.oversea.cnki.net",
+          "github.com",
+          "member.cnki.net",
+          "scans.io",
+          "tra.oversea.cnki.net",
+          "www.cjihod.com",
           "www.cnki-net.com.cn",
-          "x.cnki.net",
-          "zh.wikipedia.org"
+          "www.cnki.net",
+          "www.gszyy.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "CNN/CNN.yaml": {
-        "checked_at": "2026-11-05 04:54 UTC",
+        "checked_at": "2026-11-19 19:54 UTC",
         "name": "CNN",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.cnn.com/",
           "https://www.cnn.com/us",
           "https://cnnespanol.cnn.com/",
+          "https://us.cnn.com/video/live/live.html",
           "https://en.wikipedia.org/wiki/CNN",
           "https://www.cnn.com/world",
-          "https://www.cnn.com/videos/live",
           "https://www.cnn.com/politics",
+          "https://www.cnn.com/videos/live",
           "https://www.facebook.com/cnn/",
-          "https://www.cnn.com/index2.html",
-          "https://www.youtube.com/cnn"
+          "https://edition.cnn.com/cnn10."
         ],
         "candidates": [
           "cnn.com",
           "cnnespanol.cnn.com",
+          "edition.cnn.com",
           "en.wikipedia.org",
+          "us.cnn.com",
           "www.cnn.com",
-          "www.facebook.com",
-          "www.youtube.com"
+          "www.facebook.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "CNNIC/CNNIC.yaml": {
-        "checked_at": "2026-11-05 04:54 UTC",
+        "checked_at": "2026-11-19 19:54 UTC",
         "name": "CNNIC",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.xbox.com/",
-          "https://stackoverflow.com/questions/29674463/xbox-one-controller-virtual-keys",
-          "https://stackoverflow.com/questions/28077901/kinect-2-0-for-xbox-one-to-pc-usb-3-0-keeps-disconnecting",
-          "https://stackoverflow.com/questions/46506850/how-can-i-get-input-from-an-xbox-one-controller-in-python",
-          "https://stackoverflow.com/questions/38863451/xbox-button-pressed-in-c",
-          "https://stackoverflow.com/questions/51853445/how-to-send-requests-to-xbox-live-restful-api",
-          "https://stackoverflow.com/questions/58477840/convert-xbox-live-gamertag-to-xuid-using-microsoft-rest-api-java",
-          "https://stackoverflow.com/questions/43483121/simulate-xbox-controller-input-with-python"
+          "https://www.cnnic.com.cn/",
+          "https://www.cnnic.com.cn/AU/Introduction/Introduction/201208/t20120815_33295.htm",
+          "https://en.wikipedia.org/wiki/China_Internet_Network_Information_Center",
+          "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E4%B8%AD%E5%BF%83/781301",
+          "https://www.cnnic.net.cn/108/index.html?t=%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E7%BB%9C%E5%8F%91%E5%B1%95%E7%8A%B6%E5%86%B5%E7%BB%9F%E8%AE%A1%E6%8A%A5%E5%91%8A",
+          "https://baike.baidu.com/en/item/China%20Internet%20Network%20Information%20Center/1522042"
         ],
         "candidates": [
-          "stackoverflow.com",
-          "www.jlaforums.com",
-          "www.xbox.com"
+          "baike.baidu.com",
+          "en.wikipedia.org",
+          "tsi.cnnic.cn",
+          "whois.cnnic.cn",
+          "www.cnnic.com.cn",
+          "www.cnnic.net.cn",
+          "www2.cnnic.cn"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "CSDN/CSDN.yaml": {
-        "checked_at": "2026-11-05 04:54 UTC",
+        "checked_at": "2026-11-19 19:54 UTC",
         "name": "CSDN",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.csdn.net/",
           "https://www.csdn.net/i/",
+          "https://zhuanlan.zhihu.com/p/30898724519",
+          "https://play.google.com/store/apps/details?id=net.csdn.csdnplus&hl=zh",
           "https://activity.csdn.net/china_index.html",
-          "https://mp.csdn.net/",
           "https://blog.csdn.net/nav/main",
-          "https://blog.csdn.net/blogdevteam",
-          "https://mp.csdn.net/login",
-          "https://i.csdn.net/",
-          "https://baike.baidu.com/item/CSDN/172150",
-          "https://forum.csdn.net/"
+          "https://en.wikipedia.org/wiki/Chinese_Software_Developer_Network"
         ],
         "candidates": [
           "activity.csdn.net",
-          "baike.baidu.com",
           "blog.csdn.net",
-          "csdn.net",
-          "forum.csdn.net",
-          "i.csdn.net",
-          "mp.csdn.net",
-          "www.csdn.net"
+          "en.wikipedia.org",
+          "play.google.com",
+          "www.csdn.net",
+          "zhuanlan.zhihu.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "CWSeed/CWSeed.yaml": {
-        "checked_at": "2026-11-05 04:54 UTC",
+        "checked_at": "2026-11-19 19:54 UTC",
         "name": "CWSeed",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://support.google.com/docs/answer/7009814?hl=pt-br&co=GENIE.Platform%3DDesktop",
-          "https://support.google.com/docs/?hl=hi",
-          "https://support.google.com/docs/answer/7068618?hl=es-419&co=GENIE.Platform%3DAndroid",
-          "https://support.google.com/docs/answer/10710316?hl=en",
-          "https://support.google.com/docs/answer/179738?hl=pt-br&co=GENIE.Platform%3DDesktop",
-          "https://support.google.com/docs/thread/4975340/how-to-recover-google-form?hl=en",
-          "https://support.google.com/docs/?hl=en",
-          "https://support.google.com/docs/answer/7068618?hl=pt-br&co=GENIE.Platform%3DDesktop",
-          "https://support.google.com/docs/answer/148833?hl=en&co=GENIE.Platform%3DDesktop",
-          "https://support.google.com/docs/answer/7068618?hl=fr&co=GENIE.Platform%3DDesktop"
+          "https://www.espn.com/",
+          "https://www.espn.com/nfl/",
+          "https://plus.espn.com/",
+          "https://m.espn.com/general/index",
+          "https://global.espn.com/football/",
+          "https://www.espn.com.au/",
+          "https://espnpressroom.com/",
+          "https://x.com/espn",
+          "https://secure.web.plus.espn.com/identity/login"
         ],
         "candidates": [
-          "support.google.com"
-        ],
-        "accepted": [],
-        "ownership_evidence": []
-      },
-      "CableTV/CableTV.yaml": {
-        "checked_at": "2026-11-05 04:54 UTC",
-        "name": "CableTV",
-        "status": "needs_ownership_evidence",
-        "sources": [
-          "https://www.cabletv.com/",
-          "https://www.cabletv.us/",
-          "https://www.cabletv.com/tv-near-me",
-          "https://www.allconnect.com/tv/cable-tv",
-          "https://www.spectrum.com/",
-          "https://x.com/cabletv",
-          "https://www.inmyarea.com/tv/cable",
-          "https://www.cabletv.com/xfinity/cable-tv",
-          "https://www.cabletv.com/tv",
-          "https://www.cabletv.com/deals"
-        ],
-        "candidates": [
-          "cabletv.com",
-          "cabletv.us",
-          "instagram.com",
-          "www.allconnect.com",
-          "www.cabletv.com",
-          "www.cabletv.us",
-          "www.inmyarea.com",
-          "www.spectrum.com",
+          "espnpressroom.com",
+          "global.espn.com",
+          "guia.espn.com",
+          "m.espn.com",
+          "plus.espn.com",
+          "secure.web.plus.espn.com",
+          "t.co",
+          "www.espn.com",
+          "www.espn.com.au",
           "x.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
+      "CableTV/CableTV.yaml": {
+        "checked_at": "2026-11-19 19:54 UTC",
+        "name": "CableTV",
+        "status": "needs_ownership_evidence",
+        "sources": [
+          "https://3dproducts.com/",
+          "https://3dproducts.com/products/3d-waterless-car-wash",
+          "https://3dproducts.com/products/3d-pink-car-soap",
+          "https://3dproducts.com/collections/exterior-auto-detailing-products",
+          "https://3dproducts.com/collections/car-wash-soap",
+          "https://3dproducts.com/pages/store-locator",
+          "https://3dproducts.com/products/glw-series-car-wash-soap",
+          "https://3dproducts.com/products/3d-wash-n-wax-car-wash-soap",
+          "https://3dproducts.com/products/glw-series-ceramic-car-wash-soap",
+          "https://3dproducts.com/products/3d-final-touch-quick-detailer-spray"
+        ],
+        "candidates": [
+          "3dproducts.com"
+        ],
+        "accepted": [],
+        "ownership_evidence": []
+      },
       "CaiNiao/CaiNiao.yaml": {
-        "checked_at": "2026-11-05 04:54 UTC",
+        "checked_at": "2026-11-19 19:54 UTC",
         "name": "CaiNiao",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://global.cainiao.com/",
           "https://www.cainiao.com/en/index.html",
-          "https://global.cainiao.com/detail.htm",
-          "https://www.17track.net/en/carriers/cainiao",
-          "https://gpn.cainiao.com/home",
-          "https://www.ordertracker.com/carriers/cainiao",
-          "https://www.cainiao.com/en/global-supply-chain.html",
-          "https://globalexpress.cainiao.com/br/home",
           "https://en.wikipedia.org/wiki/Cainiao",
-          "https://www.cainiao.us/p/cainiao101"
+          "https://gpn.cainiao.com/home",
+          "https://global.cainiao.com/detail.htm",
+          "https://pbc.cainiao.com/hk",
+          "https://page.cainiao.com/mcn/actpc/cnindexpc.html",
+          "https://globalexpress.cainiao.com/br/home"
         ],
         "candidates": [
           "en.wikipedia.org",
           "global.cainiao.com",
           "globalexpress.cainiao.com",
           "gpn.cainiao.com",
-          "www.17track.net",
-          "www.cainiao.com",
-          "www.cainiao.us",
-          "www.ordertracker.com"
+          "i.cainiao.com",
+          "page.cainiao.com",
+          "pbc.cainiao.com",
+          "www.cainiao.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "CaiXinChuanMei/CaiXinChuanMei.yaml": {
-        "checked_at": "2026-11-05 04:54 UTC",
+        "checked_at": "2026-11-19 19:54 UTC",
         "name": "CaiXinChuanMei",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://help.tcc.edu/s/article/How-do-I-drop-or-swap-a-class-in-SIS",
-          "https://help.tcc.edu/s/article/Canvas-Support-Tutorials",
-          "https://help.tcc.edu/s/article/How-do-I-log-in-to-myTCC-and-access-SIS?r=3121&ui-knowledge-components-aura-actions.KnowledgeArticleVersionCreateDraftFromOnlineAction.createDraftFromOnlineArticle=1",
-          "https://help.tcc.edu/s/article/How-do-I-set-up-access-to-my-TCC-student-email",
-          "https://help.tcc.edu/s/topic/0TO1R000000gnkyWAA/mytcc-portal",
-          "https://help.tcc.edu/sfc/servlet.shepherd/document/download/0691R00000DyodUQAR",
-          "https://help.tcc.edu/s/article/How-do-I-look-up-myTCC-username-and-reset-the-password?r=61&ui-knowledge-components-aura-actions.KnowledgeArticleVersionCreateDraftFromOnlineAction.createDraftFromOnlineArticle=1",
-          "https://help.tcc.edu/s/article/What-is-the-high-school-dual-enrollment-admission-process",
-          "https://help.tcc.edu/s/article/How-do-I-retrieve-myTCC-username",
-          "https://help.tcc.edu/s/article/Does-this-policy-impact-my-Veteran-s-Education-Benefits-or-Military-Tuition-Assistance"
+          "https://finance.yahoo.com/markets/article/trump-administration-adds-6-chipmakers-to-the-governments-stock-portfolio-which-now-spans-30-companies-140535555.html",
+          "https://ca.finance.yahoo.com/quote/ABTC/",
+          "https://finance.yahoo.com/news/consumer-reports-grounding-mats-2025-195200900.html",
+          "https://sg.finance.yahoo.com/quote/AMAT/",
+          "https://uk.finance.yahoo.com/quote/ALIBR.PA/",
+          "https://ca.finance.yahoo.com/quote/NANO.TO/",
+          "https://uk.finance.yahoo.com/quote/AVCT.L/",
+          "https://finance.yahoo.com/economy/policy/articles/social-security-capped-50-000-165700573.html",
+          "https://finance.yahoo.com/quote/NPKI/",
+          "https://finance.yahoo.com/quote/CSR/"
         ],
         "candidates": [
-          "help.tcc.edu",
-          "tcc.edu"
+          "alibr.pa",
+          "ca.finance.yahoo.com",
+          "finance.yahoo.com",
+          "nano.to",
+          "sg.finance.yahoo.com",
+          "uk.finance.yahoo.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Cake/Cake.yaml": {
-        "checked_at": "2026-11-05 04:54 UTC",
+        "checked_at": "2026-11-19 19:54 UTC",
         "name": "Cake",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.allrecipes.com/recipes/276/desserts/cakes/",
-          "https://www.yelp.com/search?cflt=bakeries&find_loc=Frederick%2C+CO+80530",
-          "https://www.foodnetwork.com/recipes/packages/baking-guide/crowd-pleasing-cakes/crowd-pleasing-cakes",
-          "https://www.marthastewart.com/274319/easy-cake-recipes",
+          "https://www.facebook.com/p/Alley-Cakes-61563496155649/",
           "https://www.walmart.com/order-ahead/cake",
+          "https://www.marthastewart.com/274319/easy-cake-recipes",
           "https://www.bbc.co.uk/food/cake",
-          "https://www.allrecipes.com/recipe/277000/easy-vanilla-cake/",
-          "https://www.bhg.com/recipes/how-to/bake/how-to-make-a-cake/",
-          "https://sallysbakingaddiction.com/category/desserts/cakes/",
-          "https://m.youtube.com/watch?v=cIjJ9Bce3tI"
+          "https://www.yelp.com/search?find_desc=Custom+Cakes&find_loc=Pikeville%2C+KY+41501",
+          "https://www.yelp.com/search?cflt=bakeries&find_loc=Pikeville%2C+KY+41501",
+          "https://www.walmart.com/store/1505-pikeville-ky/bakery",
+          "https://www.tasteofhome.com/collection/classic-cake-recipes-made-from-scratch/",
+          "https://pikevillefreshmarket.com/"
         ],
         "candidates": [
-          "m.youtube.com",
-          "sallysbakingaddiction.com",
+          "pikevillefreshmarket.com",
           "www.allrecipes.com",
           "www.bbc.co.uk",
-          "www.bhg.com",
-          "www.foodnetwork.com",
+          "www.facebook.com",
           "www.marthastewart.com",
+          "www.tasteofhome.com",
           "www.walmart.com",
           "www.yelp.com"
         ],
@@ -172092,56 +172087,51 @@
         "ownership_evidence": []
       },
       "Camera360/Camera360.yaml": {
-        "checked_at": "2026-11-05 04:54 UTC",
+        "checked_at": "2026-11-19 19:54 UTC",
         "name": "Camera360",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.merriam-webster.com/dictionary/vindicate",
-          "https://dictionary.cambridge.org/us/dictionary/english/vindicate",
-          "https://dictionary.cambridge.org/dictionary/english/vindicated",
-          "https://dictionary.vocabclass.com/word/vindicate",
-          "https://spellingbeeblitz.com/spelling-bee-words/word/vindicate",
-          "https://en.thefreedictionary.com/vindicate",
-          "https://www.dictionary.com/browse/%20vindicate",
-          "https://www.merriam-webster.com/dictionary/vindication",
-          "https://englishwordchamps.com/vindicate-meaning-and-examples/",
-          "https://www.collinsdictionary.com/us/dictionary/english/vindicate"
+          "https://www.reddit.com/r/OpenAI/comments/11dqs3a/turn_chat_gpt_into_your_personal_coach/",
+          "https://www.reddit.com/r/premed/comments/11vviex/chatgpt_on_applications/",
+          "https://github.com/evyatar9/GptHidra",
+          "https://github.com/SudoHopeX/KaliGPT",
+          "https://docs.github.com/en/copilot/how-tos/copilot-in-your-ide/chat-with-copilot/change-the-chat-model",
+          "https://www.zhihu.com/question/1936601885311239615",
+          "https://www.zhihu.com/tardis/bd/ans/3594614505",
+          "https://docs.github.com/en/copilot/reference/ai-models/supported-models",
+          "https://www.reddit.com/r/jobsearchhacks/comments/12ex4v0/can_i_use_chat_gpt_to_write_cover_letters/",
+          "https://www.reddit.com/r/ChatGPTCoding/comments/11uo0th/how_to_use_chat_gpt_4_or_others_to_create_a_web/"
         ],
         "candidates": [
-          "dictionary.cambridge.org",
-          "dictionary.com",
-          "dictionary.vocabclass.com",
-          "en.thefreedictionary.com",
-          "englishwordchamps.com",
-          "spellingbeeblitz.com",
-          "www.collinsdictionary.com",
-          "www.dictionary.com",
-          "www.merriam-webster.com"
+          "docs.github.com",
+          "github.com",
+          "www.reddit.com",
+          "www.zhihu.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Canon/Canon.yaml": {
-        "checked_at": "2026-11-05 19:26 UTC",
+        "checked_at": "2026-11-19 19:54 UTC",
         "name": "Canon",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.usa.canon.com/",
-          "https://www.usa.canon.com/digital-cameras",
-          "https://myprofile.americas.canon.com/us/signin",
+          "https://www.usa.canon.com/support/software-and-drivers",
+          "https://myprofile.americas.canon.com/us/",
           "https://global.canon/en/",
-          "https://global.canon/cpis/",
+          "https://cnaprd.cusa.canon.com/CNA/homepage/homepageFrame.action",
           "https://en.wikipedia.org/wiki/Canon_Inc.",
-          "https://www.usa.canon.com/printers",
-          "https://www.usa.canon.com/contact-us/support",
           "https://global.canon/en/support/",
-          "https://ij.manual.canon/ij/webmanual/WebGS/WGS/wgs_start.html?lng=en"
+          "https://canon.jp/en",
+          "https://www.usa.canon.com/digital-cameras",
+          "https://www.usa.canon.com/printers"
         ],
         "candidates": [
+          "canon.jp",
+          "cnaprd.cusa.canon.com",
           "en.wikipedia.org",
           "global.canon",
-          "ij.manual.canon",
-          "ij.start.canon",
           "myprofile.americas.canon.com",
           "www.usa.canon.com"
         ],
@@ -172149,83 +172139,84 @@
         "ownership_evidence": []
       },
       "ChengTongWangPan/ChengTongWangPan.yaml": {
-        "checked_at": "2026-11-05 19:26 UTC",
+        "checked_at": "2026-11-19 19:54 UTC",
         "name": "ChengTongWangPan",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://whs.swcsd.us/westlandhigh_home.aspx",
-          "https://whs.swcsd.us/TranscriptRecordRequestsWHS.aspx",
-          "https://whs.swcsd.us/athletics",
-          "https://whs.swcsd.us/OurStaffWHS.aspx",
-          "https://whs.swcsd.us/AthleticInformationWHS.aspx",
-          "https://whs.swcsd.us/AFJROTCWHS.aspx",
-          "https://whs.swcsd.us/southwesterncityschools_home.aspx",
-          "https://whs.swcsd.us/BellSchedulesWHS.aspx",
-          "https://whs.swcsd.us/HighSchoolsHistory.aspx",
-          "https://whs.swcsd.us/AboutUsWHS.aspx"
+          "https://www.microsoft.com/en-us/",
+          "https://support.microsoft.com/en-us/accounts-billing/work-school/sign-in-to-your-work-or-school-account-using-two-step-verification",
+          "https://support.microsoft.com/en-gb/accounts-billing/",
+          "https://techcommunity.microsoft.com/category/windows/discussions/windowsinsiderprogram",
+          "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128",
+          "https://support.microsoft.com/en-gb/edge/print-in-microsoft-edge",
+          "https://support.microsoft.com/en-gb/outlook/install-or-reinstall-classic-outlook-on-a-windows-pc",
+          "https://support.microsoft.com/en-us/accounts-billing/work-school/verifying-your-identity-when-signing-in",
+          "https://techcommunity.microsoft.com/blog/outlook/copilot-in-outlook-new-agentic-experiences-for-email-and-calendar/4499798",
+          "https://techcommunity.microsoft.com/event/techcommunitylive/microsoft-technical-takeoff-2026-windows--intune/4490614"
         ],
         "candidates": [
-          "and.or",
-          "swcsd.us",
-          "whs.records",
-          "whs.swcsd.us"
+          "support.microsoft.com",
+          "techcommunity.microsoft.com",
+          "www.microsoft.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "China/China.yaml": {
-        "checked_at": "2026-11-05 19:26 UTC",
+        "checked_at": "2026-11-19 19:54 UTC",
         "name": "China",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://en.wikipedia.org/wiki/China",
-          "https://www.worldatlas.com/maps/china",
+          "https://www.state.gov/countries-areas/china/",
+          "https://ontheworldmap.com/china/",
+          "https://www.lonelyplanet.com/destinations/china",
           "https://www.britannica.com/place/China",
           "https://www.reuters.com/world/china/",
-          "https://theworldfactbook.org/country/china.html",
-          "https://en.wikipedia.org/wiki/History_of_China",
-          "https://data.worldbank.org/country/china",
-          "https://www.britannica.com/place/China/Cultural-milieu",
           "https://www.scmp.com/news/china",
-          "https://www.countryreports.org/country/China"
+          "https://travel.state.gov/en/international-travel/travel-advisories/china.html",
+          "https://english.china.com/",
+          "https://www.worldatlas.com/maps/china"
         ],
         "candidates": [
-          "data.worldbank.org",
+          "china.com",
           "en.wikipedia.org",
+          "english.china.com",
+          "ontheworldmap.com",
           "reuters.com",
-          "theworldfactbook.org",
+          "travel.state.gov",
           "www.britannica.com",
-          "www.countryreports.org",
+          "www.lonelyplanet.com",
           "www.reuters.com",
           "www.scmp.com",
+          "www.state.gov",
           "www.worldatlas.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "ChinaDNS/ChinaDNS.yaml": {
-        "checked_at": "2026-11-05 19:26 UTC",
+        "checked_at": "2026-11-19 19:54 UTC",
         "name": "ChinaDNS",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.spectrum.net/",
-          "https://mail3.spectrum.net/",
-          "https://mail3.spectrum.net/login",
-          "https://ondemand.spectrum.net/networks/espn/",
-          "https://community.spectrum.net/discussion/173501/how-to-fix-error-alp1301-asking-to-change-my-password-when-i-log-in-on-multiple-devices-solved",
-          "https://community.spectrum.net/discussion/176654/where-can-i-find-my-secondary-spectrum-email-accounts",
-          "https://mail3.spectrum.net/account/",
-          "https://ondemand.spectrum.net/networks/starz/",
-          "https://cobrowse.spectrum.net/",
-          "https://community.spectrum.net/discussion/169577/why-can-i-no-longer-log-in-to-my-account"
+          "https://www.rockauto.com/",
+          "https://www.rockauto.com/orderstatus/",
+          "https://www1.rockauto.com/help/?page=1",
+          "https://www3.rockauto.com/help/?page=1",
+          "https://www3.rockauto.com/Newsletter/",
+          "https://www1.rockauto.com/help/?page=2",
+          "https://www4.rockauto.com/help/?page=6",
+          "https://www.rockauto.com/en/catalog/chevrolet,2022",
+          "https://www.rockauto.com/en/catalog/chevrolet,2005,silverado+1500",
+          "https://www.rockauto.com/en/catalog/audi"
         ],
         "candidates": [
-          "cobrowse.spectrum.net",
-          "community.spectrum.net",
-          "mail3.spectrum.net",
-          "ondemand.spectrum.net",
-          "spectrum.net",
-          "www.spectrum.net"
+          "rockauto.com",
+          "www.rockauto.com",
+          "www1.rockauto.com",
+          "www3.rockauto.com",
+          "www4.rockauto.com"
         ],
         "accepted": [],
         "ownership_evidence": []
