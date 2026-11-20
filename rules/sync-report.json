@@ -1,7 +1,7 @@
 {
   "upstream": "https://github.com/blackmatrix7/ios_rule_script",
   "revision": "0b6897dc17e0c513d25449c935a9694818e32f0c",
-  "date": "2026-11-20 05:32 UTC",
+  "date": "2026-11-20 19:33 UTC",
   "collections": {
     "rule/Clash/115/115.yaml": {
       "input": 10,
@@ -149018,8 +149018,8 @@
   ],
   "discovery": {
     "engine": "Bing public RSS",
-    "checked_at": "2026-11-20 05:32 UTC",
-    "next_index": 182,
+    "checked_at": "2026-11-20 19:33 UTC",
+    "next_index": 206,
     "attempted": 24,
     "total_collections": 689,
     "verified_additions": {
@@ -172862,266 +172862,272 @@
         "ownership_evidence": []
       },
       "Cloud/HuaweiCloud/HuaweiCloud.yaml": {
-        "checked_at": "2026-11-06 04:53 UTC",
+        "checked_at": "2026-11-20 19:33 UTC",
         "name": "HuaweiCloud",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.microsoft.com/en-us/",
-          "https://account.microsoft.com/account",
-          "https://www.microsoft.com/",
-          "https://myaccount.microsoft.com/%C2%A0-%3E",
-          "https://myaccount.microsoft.com/login",
-          "https://en.wikipedia.org/wiki/Microsoft",
-          "https://account.microsoft.com/account-checkup",
-          "https://m365.cloud.microsoft/?origindomain=Office",
-          "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365",
-          "https://apps.microsoft.com/"
+          "https://www.foxnews.com/",
+          "https://news.google.com/",
+          "https://www.cnn.com/",
+          "https://apnews.com/",
+          "https://abcnews.com/",
+          "https://www.npr.org/sections/news/",
+          "https://www.nbcnews.com/",
+          "https://www.cbsnews.com/",
+          "https://www.bbc.com/news",
+          "https://www.bbc.co.uk/news"
         ],
         "candidates": [
-          "account.microsoft.com",
-          "apps.microsoft.com",
-          "en.wikipedia.org",
-          "m365.cloud.microsoft",
-          "myaccount.microsoft.com",
-          "support.microsoft.com",
-          "www.microsoft.com"
+          "abcnews.com",
+          "apnews.com",
+          "cnn.com",
+          "nbcnews.com",
+          "news.google.com",
+          "www.bbc.co.uk",
+          "www.bbc.com",
+          "www.cbsnews.com",
+          "www.cnn.com",
+          "www.foxnews.com",
+          "www.nbcnews.com",
+          "www.npr.org"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Cloud/JingDongCloud/JingDongCloud.yaml": {
-        "checked_at": "2026-11-06 04:53 UTC",
+        "checked_at": "2026-11-20 19:33 UTC",
         "name": "JingDongCloud",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://play.google.com/store/movies?hl=en-US",
-          "https://www.justwatch.com/us/movies",
-          "https://www.plex.tv/watch-free/",
-          "https://movies.youtube.com/",
-          "https://tubitv.com/",
-          "https://moviesanywhere.com/home",
-          "https://www.primevideo.com/storefront/home/home",
-          "https://www.youtube.com/playlist?list=PL30RAv-0lkxHdTcoGGgx5L6eXIHnnrEHC",
-          "https://tubitv.com/movies",
-          "https://watch.plex.tv/on-demand"
+          "https://en.m.wikipedia.org/wiki/Doha",
+          "https://visitqatar.com/intl-en/about-qatar/doha",
+          "https://visitqatar.com/",
+          "https://www.tripadvisor.com/Attractions-g294009-Activities-Doha.html",
+          "https://www.britannica.com/place/Doha",
+          "https://www.tripadvisor.com/Tourism-g294009-Doha-Vacations.html",
+          "https://www.google.com/maps/search/Doha,%20Qatar",
+          "https://en.m.wikipedia.org/wiki/Qatar",
+          "https://www.timeoutdoha.com/things-to-do/best-things-to-do-in-doha",
+          "https://www.mapsofworld.com/where-is/doha.html"
         ],
         "candidates": [
-          "movies.youtube.com",
-          "moviesanywhere.com",
-          "play.google.com",
-          "tubitv.com",
-          "watch.plex.tv",
-          "www.justwatch.com",
-          "www.plex.tv",
-          "www.primevideo.com",
-          "www.youtube.com",
-          "youtube.com"
+          "en.m.wikipedia.org",
+          "visitqatar.com",
+          "www.britannica.com",
+          "www.google.com",
+          "www.mapsofworld.com",
+          "www.timeoutdoha.com",
+          "www.tripadvisor.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Cloud/KingsoftCloud/KingsoftCloud.yaml": {
-        "checked_at": "2026-11-06 04:53 UTC",
+        "checked_at": "2026-11-20 19:33 UTC",
         "name": "KingsoftCloud",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://en.m.wikipedia.org/wiki/Lake_Nicaragua",
-          "https://www.britannica.com/place/Lake-Nicaragua",
-          "https://www.worldatlas.com/lakes/lake-nicaragua.html",
-          "https://www.globalgeografia.com/en/north-america/largest-lakes-north-central-america.htm",
-          "https://www.studycountry.com/wiki/what-are-the-two-largest-lakes-in-central-america",
-          "https://www.ruta.org/lakes-of-central-america-e-g-lake-nicaragua/",
-          "https://costarica.org/nicaragua/lake/",
-          "https://www.mikegravel.org/what-are-the-major-bodies-of-water-in-central-america/",
-          "https://www.lakepedia.com/lake/nicaragua.html",
-          "https://www.studycountry.com/wiki/what-is-the-biggest-lake-in-central-america"
+          "https://www.foxnews.com/outkick-sports",
+          "https://www.foxnews.com/person/t/jackson-thompson",
+          "https://radio.foxnews.com/podcast/",
+          "https://noticias.foxnews.com/outkick-sports",
+          "https://nation.foxnews.com/featured/",
+          "https://www.foxnews.com/media/teachers-union-spent-nearly-8m-crush-school-choice-biological-sports-measures-report-finds",
+          "https://www.foxnews.com/sports/fcc-commissioner-backs-frustrated-american-sports-fans-leagues-pivot-streaming-services",
+          "https://www.foxnews.com/politics/watch-hearing-erupts-dem-chair-tries-sidestep-gop-transgender-sports-bills-theyre-petrified",
+          "https://www.foxnews.com/sports/transgender-athlete-fires-back-critics-spotlight-increases-girls-volleyball-participation",
+          "https://www.foxnews.com/sports/trump-pardons-5-former-nfl-stars-wide-ranging-crimes"
         ],
         "candidates": [
-          "costarica.org",
-          "en.m.wikipedia.org",
-          "ruta.org",
-          "studycountry.com",
-          "www.britannica.com",
-          "www.globalgeografia.com",
-          "www.lakepedia.com",
-          "www.mikegravel.org",
-          "www.ruta.org",
-          "www.studycountry.com",
-          "www.worldatlas.com"
+          "nation.foxnews.com",
+          "noticias.foxnews.com",
+          "radio.foxnews.com",
+          "www.foxnews.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Cloud/NeteaseCloud/NeteaseCloud.yaml": {
-        "checked_at": "2026-11-06 04:53 UTC",
+        "checked_at": "2026-11-20 19:33 UTC",
         "name": "NeteaseCloud",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.ups.com/track?loc=EN_US",
-          "https://www.ups.com/us/en/support/tracking-support/where-is-my-package",
-          "https://www.ups.com/us/en/support/tracking-support",
-          "https://www.theupsstore.com/tools/track-a-package",
-          "https://wwwapps.ups.com/us/en/fragments/apps/track.plain.html",
-          "https://locations.theupsstore.com/track-package",
-          "https://www.ups.com/track?loc=en_IN&request",
-          "https://www.ordertracker.com/carriers/ups",
-          "https://www.17track.net/en/carriers/ups",
-          "https://www.theupsstore.com/tools/track-a-package/index"
+          "https://my.viabenefits.com/account/azure/signin.html",
+          "https://help.viabenefits.com/help-articles/sign-into-via-benefits",
+          "https://viabenefits.com/",
+          "https://app.viabenefits.com/account/alreadysignedin",
+          "https://my.viabenefits.com/",
+          "https://app.via.tools/sign_in",
+          "https://app.viabenefits.com/account/signup",
+          "https://help.viabenefits.com/help-articles/tag/Sign+In",
+          "https://www.viabenefitsaccounts.com/acclaim/index.html",
+          "https://help.viabenefits.com/"
         ],
         "candidates": [
-          "locations.theupsstore.com",
-          "www.17track.net",
-          "www.ordertracker.com",
-          "www.theupsstore.com",
-          "www.ups.com",
-          "wwwapps.ups.com"
+          "app.via.tools",
+          "app.viabenefits.com",
+          "help.viabenefits.com",
+          "my.viabenefits.com",
+          "viabenefits.com",
+          "www.viabenefitsaccounts.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Cloud/TencentCloud/TencentCloud.yaml": {
-        "checked_at": "2026-11-06 04:53 UTC",
+        "checked_at": "2026-11-20 19:33 UTC",
         "name": "TencentCloud",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.reddit.com/r/KSU/comments/g86439/can_someone_explain_what_the_difference_is/",
-          "https://www.reddit.com/r/KSU/comments/i9rfp1/how_does_one_day_access_work/",
-          "https://www.reddit.com/r/KSU/comments/wmdgjb/i_am_taking_online_classes_this_semester_but_my/",
-          "https://www.reddit.com/r/KSU/comments/p5wur9/day_one_access_where_to_find_it_on_d2l/",
-          "https://www.reddit.com/r/KSU/comments/16ecbrb/d2l_video_issue/",
-          "https://www.reddit.com/r/KSU/comments/r3iisl/trouble_accessing_d2l/",
-          "https://www.reddit.com/r/KSU/comments/96yu4k/is_there_a_way_to_get_d2l_to_send_me_notifications/",
-          "https://www.reddit.com/r/KSU/comments/p4u75b/d2l_brightspace/",
-          "https://www.reddit.com/r/KSU/comments/llehaq/on_d2l_cant_see_previous_classes_taken/",
-          "https://www.reddit.com/r/KSU/comments/ywl10l/is_anyone_else_having_issues_with_d2l_right_now/"
+          "https://french.literotica.com/stories",
+          "https://www.literotica.com/favorites/most-favorite-authors",
+          "https://www.literotica.com/",
+          "https://tags.literotica.com/",
+          "https://tags.literotica.com/story/",
+          "https://forum.literotica.com/whats-new/",
+          "https://forum.literotica.com/forums/amateur-pic-feedback.8/",
+          "https://i.literotica.com/stories/signup.php",
+          "https://french.tags.literotica.com/francais/",
+          "https://french.literotica.com/new/stories"
         ],
         "candidates": [
-          "status.kennesaw.edu",
-          "www.reddit.com"
+          "forum.literotica.com",
+          "french.literotica.com",
+          "french.tags.literotica.com",
+          "i.literotica.com",
+          "literotica.com",
+          "tags.literotica.com",
+          "www.literotica.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Cloudflare/Cloudflare.yaml": {
-        "checked_at": "2026-11-06 04:53 UTC",
+        "checked_at": "2026-11-20 19:33 UTC",
         "name": "Cloudflare",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.nfl.com/",
-          "https://www.nfl.com/news",
-          "https://www.espn.com/nfl/",
-          "https://www.espn.com/nfl/scoreboard",
-          "https://www.cbssports.com/nfl/",
-          "https://en.m.wikipedia.org/wiki/National_Football_League",
-          "https://sports.yahoo.com/nfl/",
-          "https://www.foxsports.com/nfl",
-          "https://www.cbssports.com/nfl/scoreboard/"
+          "https://www.cloudflare.com/",
+          "https://dash.cloudflare.com/login",
+          "https://developers.cloudflare.com/cloudflare-one/team-and-resources/devices/cloudflare-one-client/download/",
+          "https://speed.cloudflare.com/",
+          "https://www.cloudflare.com/en-gb/",
+          "https://dash.cloudflare.com/sign-up",
+          "https://en.wikipedia.org/wiki/Cloudflare",
+          "https://www.cloudflare.net/home/default.aspx",
+          "https://developers.cloudflare.com/tunnel/",
+          "https://www.cloudflare.com/plans/free/"
         ],
         "candidates": [
-          "cbssports.com",
-          "en.m.wikipedia.org",
-          "foxsports.com",
-          "nfl.com",
-          "nflnetwork.ca",
-          "sports.yahoo.com",
-          "www.cbssports.com",
-          "www.espn.com",
-          "www.foxsports.com",
-          "www.nfl.com"
+          "dash.cloudflare.com",
+          "developers.cloudflare.com",
+          "en.wikipedia.org",
+          "speed.cloudflare.com",
+          "www.cloudflare.com",
+          "www.cloudflare.net"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Cloudflarecn/Cloudflarecn.yaml": {
-        "checked_at": "2026-11-06 04:53 UTC",
+        "checked_at": "2026-11-20 19:33 UTC",
         "name": "Cloudflarecn",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://answers.microsoft.com/nb-no/windows/forum/all/how-can-i-remove-windows-cleaning-tools-from-my/b0f4d44b-5406-40d6-8f01-974a6318d8d0",
-          "https://answers.microsoft.com/en-us/msteams/forum/all/reading-progress-in-teams/e8bf2855-033e-48d2-b3e1-a1f1a58249ae",
-          "https://answers.microsoft.com/en-us/windows/forum/all/task-manager-and-command-prompt-as-administrator/c75bc8c7-0303-41bb-bd9d-97b31164efa5",
-          "https://answers.microsoft.com/en-us/msoffice/forum/all/syncing-onenote-when-work-blocks-onedrive-and-usb/8017e65a-84f6-4592-8f9e-102d86c79727",
-          "https://answers.microsoft.com/en-us/windows/forum/all/windows-81-fails-to-boot-ntldr-missing-press-cntl/b51d0328-7087-4b47-a60c-cb9b2527a9d0",
-          "https://answers.microsoft.com/en-us/msoffice/forum/all/cannot-delete-custom-number-format-protected-sheet/c565c52a-edfc-408a-8edf-330b73a1ae7b",
-          "https://www.answers.microsoft.com/ja-jp/windows/forum/all/ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¹ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â®ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£/b45f8dde-aa4a-4598-ab6e-21a67f8b6ec2",
-          "https://www.answers.microsoft.com/ja-jp/msteams/forum/all/teamsÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¾ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¹ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¯ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©/4850be98-e651-4d92-8a05-d1489edbf168",
-          "https://www.answers.microsoft.com/zh-hans/windows/forum/all/ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¥ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â½win8ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂºÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â´ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°/d8c51abf-b863-4da3-9596-797deace59f7",
-          "https://www.answers.microsoft.com/ja-jp/windows/forum/all/ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡/c431376e-21af-41e6-8cf5-eb47fe618c05"
+          "https://mail.google.com/mail",
+          "https://support.google.com/mail/answer/56256?hl=hu-hu",
+          "https://stackoverflow.com/questions/77937829/how-do-i-get-gmail-com-domain-verified",
+          "https://support.google.com/mail/answer/8494?hl=es&co=GENIE.Platform%3DAndroid",
+          "https://stackoverflow.com/questions/1516754/connecting-to-smtp-gmail-com-via-command-line",
+          "https://support.google.com/mail/answer/8494?hl=pt&co=GENIE.Platform%3DDesktop",
+          "https://support.google.com/mail/answer/8494?hl=en-GB&co=GENIE.Platform%3DDesktop",
+          "https://support.google.com/mail/answer/56256?hl=de",
+          "https://support.google.com/mail/answer/8494?hl=pt-BR&co=GENIE.Platform%3DDesktop",
+          "https://support.google.com/mail/answer/8494?hl=it&co=GENIE.Platform%3DDesktop"
         ],
         "candidates": [
-          "answers.microsoft.com",
-          "www.answers.microsoft.com"
+          "gmail.com",
+          "mail.google.com",
+          "smtp.gmail.com",
+          "stackoverflow.com",
+          "support.google.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Clubhouse/Clubhouse.yaml": {
-        "checked_at": "2026-11-06 04:53 UTC",
+        "checked_at": "2026-11-20 19:33 UTC",
         "name": "Clubhouse",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.clubhouse.com/signin",
           "https://www.clubhouse.com/",
-          "https://en.m.wikipedia.org/wiki/Clubhouse_(app)",
+          "https://en.wikipedia.org/wiki/Clubhouse_(app)",
           "https://play.google.com/store/apps/details?id=com.clubhouse.app&hl=en-US",
+          "https://www.tiktok.com/@clubhousebh",
           "https://support.clubhouse.com/hc/en-us",
-          "https://support.clubhouse.com/hc/en-us/articles/13683274674835-Getting-Started-with-Clubhouse",
-          "https://www.digitaltrends.com/social-media/what-is-clubhouse/",
-          "https://www.theclubhousesportsgrille.com/",
+          "https://admin.clubhouse.com/",
           "https://clubhouse-web.com/en",
-          "https://www.wikiwand.com/en/Clubhouse_(app)"
+          "https://support.clubhouse.com/hc/en-us/articles/13683274674835-Getting-Started-with-Clubhouse",
+          "https://clubhouse.community/"
         ],
         "candidates": [
+          "admin.clubhouse.com",
           "clubhouse-web.com",
-          "en.m.wikipedia.org",
+          "clubhouse.community",
+          "en.wikipedia.org",
           "play.google.com",
           "support.clubhouse.com",
           "www.clubhouse.com",
-          "www.digitaltrends.com",
-          "www.theclubhousesportsgrille.com",
-          "www.wikiwand.com"
+          "www.tiktok.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "ClubhouseIP/ClubhouseIP.yaml": {
-        "checked_at": "2026-11-06 04:53 UTC",
+        "checked_at": "2026-11-20 19:33 UTC",
         "name": "ClubhouseIP",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://forum.roseonlinegame.com/topic/5706-mounts/",
-          "https://forum.roseonlinegame.com/forum/48-mods-and-tools/",
-          "https://forum.roseonlinegame.com/topic/6242-mage-pvp-guide-from-kruizzle/",
-          "https://forum.roseonlinegame.com/topic/961-annual-event-calendar/",
-          "https://forum.roseonlinegame.com/topic/1299-guide-pest-control-repeatable/",
-          "https://forum.roseonlinegame.com/topic/738-dual-client/",
-          "https://forum.roseonlinegame.com/topic/955-guide-making-a-custom-clan-mark/",
-          "https://forum.roseonlinegame.com/topic/1361-guide-fetch-quests/",
-          "https://forum.roseonlinegame.com/how-to-install-rose-online/",
-          "https://forum.roseonlinegame.com/topic/4414-guide-shortcuts/"
+          "https://www.yelp.com/nearme/restaurants-open-now",
+          "https://www.yelp.com/nearme/restaurants",
+          "https://www.tripadvisor.com/Restaurants-g60933-Albuquerque_New_Mexico.html",
+          "https://www.tripadvisor.com/Restaurants-g34618-Sarasota_Florida.html",
+          "https://clevelandmagazine.com/articles/50-best-restaurants-in-cleveland-and-northeast-ohio/",
+          "https://www.restaurantji.com/",
+          "https://www.opentable.com/nearby",
+          "https://springsmag.com/best-restaurants-in-colorado-springs/",
+          "https://chicago.eater.com/maps/38-best-restaurants-in-chicago",
+          "https://resy.com/"
         ],
         "candidates": [
-          "forum.roseonlinegame.com",
-          "mark.bmp"
+          "chicago.eater.com",
+          "clevelandmagazine.com",
+          "resy.com",
+          "springsmag.com",
+          "www.opentable.com",
+          "www.restaurantji.com",
+          "www.tripadvisor.com",
+          "www.yelp.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Cnet/Cnet.yaml": {
-        "checked_at": "2026-11-06 04:53 UTC",
+        "checked_at": "2026-11-20 19:33 UTC",
         "name": "Cnet",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.cnet.com/",
-          "https://www.cnet.com/latest/",
+          "https://www.cnet.com/reviews/",
           "https://download.cnet.com/",
           "https://download.cnet.com/windows/",
           "https://en.wikipedia.org/wiki/CNET",
-          "https://www.youtube.com/channel/UCOmcA3f_RrH6b9NmcNa4tdg",
-          "https://www.cnet.com/reviews/",
+          "https://www.cnet.com/latest/",
           "https://www.cnet.com/best/",
-          "https://www.cnet.com/news/",
-          "https://www.cnet.com/about/"
+          "https://www.cnet.com/home/",
+          "https://www.cnet.com/about/",
+          "https://www.youtube.com/channel/UCOmcA3f_RrH6b9NmcNa4tdg"
         ],
         "candidates": [
           "download.cnet.com",
@@ -173133,20 +173139,20 @@
         "ownership_evidence": []
       },
       "Collabora/Collabora.yaml": {
-        "checked_at": "2026-11-06 04:53 UTC",
+        "checked_at": "2026-11-20 19:33 UTC",
         "name": "Collabora",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.collaboraonline.com/",
           "https://www.collabora.com/",
-          "https://www.collaboraonline.com/collabora-office/",
           "https://en.wikipedia.org/wiki/Collabora",
-          "https://nextcloud.com/collabora/",
-          "https://en.wikipedia.org/wiki/Collabora_Online",
-          "https://www.collaboraoffice.org/online/",
+          "https://www.collaboraonline.com/collabora-office/",
           "https://apps.microsoft.com/detail/9p9mrbxjjg0m",
+          "https://www.collaboraoffice.org/online/",
+          "https://www.collabora.com/careers.html",
+          "https://nextcloud.com/collabora/",
           "https://github.com/CollaboraOnline",
-          "https://www.collabora.com/about-us/open-source/open-source-projects/libreoffice.html"
+          "https://en.wikipedia.org/wiki/Collabora_Online"
         ],
         "candidates": [
           "apps.microsoft.com",
@@ -173162,55 +173168,54 @@
         "ownership_evidence": []
       },
       "Comodo/Comodo.yaml": {
-        "checked_at": "2026-11-06 04:53 UTC",
+        "checked_at": "2026-11-20 19:33 UTC",
         "name": "Comodo",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.comodo.com/",
           "https://www.comodo.com/home/download/download.php?prod=antivirus",
+          "https://personalfirewall.comodo.com/",
           "https://www.spanishdict.com/translate/c%C3%B3modo",
-          "https://one.comodo.com/app/login",
-          "https://forums.comodo.com/t/link-to-latest-free-version-of-comodo-internet-security/362758",
+          "https://one.comodo.com/",
+          "https://browser.comodo.com/",
           "https://ssl.comodoca.com/index.php",
-          "https://en.wikipedia.org/wiki/Xcitium",
-          "https://www.techspot.com/downloads/4758-comodo-internet-security.html",
-          "https://www.comodomotors.com/"
+          "https://one.comodo.com/app/login",
+          "https://forums.comodo.com/"
         ],
         "candidates": [
           "antivirus.comodo.com",
-          "en.wikipedia.org",
+          "browser.comodo.com",
           "forums.comodo.com",
           "one.comodo.com",
+          "personalfirewall.comodo.com",
           "spanishdictionary.com",
           "ssl.comodoca.com",
           "www.comodo.com",
-          "www.comodomotors.com",
-          "www.spanishdict.com",
-          "www.techspot.com"
+          "www.spanishdict.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Contentful/Contentful.yaml": {
-        "checked_at": "2026-11-06 04:53 UTC",
+        "checked_at": "2026-11-20 19:33 UTC",
         "name": "Contentful",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.contentful.com/",
           "https://www.contentful.com/products/platform/",
           "https://app.contentful.com/?login=1",
+          "https://app.contentful.com/",
           "https://en.wikipedia.org/wiki/Contentful",
           "https://www.salesforce.com/marketing/content-management-system/",
+          "https://be.contentful.com/auth/sso/login",
           "https://www.contentful.com/pricing/",
           "https://www.contentful.com/about-us/",
-          "https://www.contentful.com/products/studio/",
-          "https://training.contentful.com/catalog",
-          "https://training.contentful.com/"
+          "https://www.contentful.com/products/"
         ],
         "candidates": [
           "app.contentful.com",
+          "be.contentful.com",
           "en.wikipedia.org",
-          "training.contentful.com",
           "www.contentful.com",
           "www.salesforce.com"
         ],
@@ -173218,55 +173223,50 @@
         "ownership_evidence": []
       },
       "Coolapk/Coolapk.yaml": {
-        "checked_at": "2026-11-06 04:53 UTC",
+        "checked_at": "2026-11-20 19:33 UTC",
         "name": "Coolapk",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.coolapk.com/",
-          "https://github.com/daimiaopeng/coolapk-desktop",
-          "https://cool-apk.en.uptodown.com/android",
-          "https://www.coolapk.com/about/index.html",
-          "https://apkpure.com/cn/ku-an/com.coolapk.market",
-          "https://apkpure.com/ku-an/com.coolapk.market/download/",
-          "https://apkpure.net/cn/ku-an/com.coolapk.market",
-          "https://github.com/bjzhou/Coolapk-kotlin",
-          "https://apkpure.net/ku-an/com.coolapk.market",
-          "https://sj.qq.com/appdetail/com.coolapk.market"
+          "https://www.zillow.com/",
+          "https://www.zillow.com/learn/",
+          "https://www.zillow.com/los-angeles-ca/rent-houses/",
+          "https://www.zillow.com/homes/for_sale/",
+          "https://www.zillow.com/denver-co/",
+          "https://www.zillow.com/los-angeles-ca/rentals/",
+          "https://www.zillow.com/las-vegas-nv/rent-houses/",
+          "https://www.zillow.com/chicago-il/",
+          "https://www.zillow.com/irvine-ca/",
+          "https://www.zillow.com/seattle-wa/"
         ],
         "candidates": [
-          "apkpure.com",
-          "apkpure.net",
-          "cool-apk.en.uptodown.com",
-          "github.com",
-          "sj.qq.com",
-          "www.coolapk.com"
+          "www.zillow.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Copilot/Copilot.yaml": {
-        "checked_at": "2026-11-06 04:53 UTC",
+        "checked_at": "2026-11-20 19:33 UTC",
         "name": "Copilot",
         "status": "checked",
         "sources": [
           "https://copilot.com/",
-          "https://copilot.microsoft.com/",
-          "https://www.microsoft.com/en-us/copilot/ai-knowledge/what-is-copilot",
           "https://adoption.microsoft.com/en-us/copilot/",
+          "https://www.microsoft.com/en-us/copilot/products/copilot-studio",
           "https://copilot.cloud.microsoft/",
-          "https://it.rutgers.edu/ai/microsoft-copilot/",
-          "https://copilot.com/en-gb/",
           "https://www.microsoft.com/en-us/copilot",
           "https://m365.cloud.microsoft/?omkt=en-001&source=post_page---------------------------",
-          "https://explore.microsoft.com/en-us/microsoft-copilot/learn"
+          "https://explore.microsoft.com/en-us/microsoft-copilot/learn",
+          "https://www.microsoft.com/en-us/copilot/ai-knowledge/what-is-copilot",
+          "https://en.wikipedia.org/wiki/Microsoft_Copilot",
+          "https://github.com/features/copilot"
         ],
         "candidates": [
           "adoption.microsoft.com",
           "copilot.cloud.microsoft",
           "copilot.com",
-          "copilot.microsoft.com",
+          "en.wikipedia.org",
           "explore.microsoft.com",
-          "it.rutgers.edu",
+          "github.com",
           "m365.cloud.microsoft",
           "www.microsoft.com"
         ],
@@ -173280,7 +173280,7 @@
         ]
       },
       "Crypto/Crypto.yaml": {
-        "checked_at": "2026-11-06 04:53 UTC",
+        "checked_at": "2026-11-20 19:33 UTC",
         "name": "Crypto",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -173288,20 +173288,19 @@
           "https://crypto.com/",
           "https://crypto.com/en",
           "https://accounts.crypto.com/login",
-          "https://en.wikipedia.org/wiki/Cryptocurrency",
-          "https://www.binance.com/",
-          "https://www.coingecko.com/",
           "https://www.tradingview.com/markets/cryptocurrencies/",
-          "https://coinmarketcap.com/currencies/bitcoin/",
-          "https://www.coinbase.com/explore"
+          "https://en.m.wikipedia.org/wiki/Cryptocurrency",
+          "https://coinmarketcap.com/coins/",
+          "https://www.coingecko.com/",
+          "https://www.binance.com/",
+          "https://accounts.crypto.com/signup"
         ],
         "candidates": [
           "accounts.crypto.com",
           "coinmarketcap.com",
           "crypto.com",
-          "en.wikipedia.org",
+          "en.m.wikipedia.org",
           "www.binance.com",
-          "www.coinbase.com",
           "www.coingecko.com",
           "www.tradingview.com"
         ],
@@ -173309,67 +173308,64 @@
         "ownership_evidence": []
       },
       "Cryptocurrency/Cryptocurrency.yaml": {
-        "checked_at": "2026-11-06 04:53 UTC",
+        "checked_at": "2026-11-20 19:33 UTC",
         "name": "Cryptocurrency",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://coinmarketcap.com/",
           "https://www.britannica.com/money/what-is-cryptocurrency",
           "https://en.wikipedia.org/wiki/Cryptocurrency",
-          "https://coinmarketcap.com/coins/",
           "https://www.interactivecrypto.com/learn/crypto-basics/what-is-cryptocurrency",
+          "https://coinmarketcap.com/coins/",
           "https://www.coingecko.com/",
-          "https://www.binance.com/en",
-          "https://www.coinbase.com/",
+          "https://www.investopedia.com/terms/c/cryptocurrency.asp",
           "https://crypto.com/en/price",
-          "https://crypto.com/us/crypto/learn/different-types-of-cryptocurrency"
+          "https://crypto.com/",
+          "https://www.coursera.org/articles/how-does-cryptocurrency-work"
         ],
         "candidates": [
           "coinmarketcap.com",
           "crypto.com",
           "en.wikipedia.org",
-          "www.binance.com",
           "www.britannica.com",
-          "www.coinbase.com",
           "www.coingecko.com",
-          "www.interactivecrypto.com"
+          "www.coursera.org",
+          "www.interactivecrypto.com",
+          "www.investopedia.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "CyberTrust/CyberTrust.yaml": {
-        "checked_at": "2026-11-06 18:49 UTC",
+        "checked_at": "2026-11-20 19:33 UTC",
         "name": "CyberTrust",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://passwords.google.com/",
-          "https://passwords.google/intl/en_sg/",
-          "https://en.wikipedia.org/wiki/Password_manager",
-          "https://www.nytimes.com/wirecutter/reviews/best-password-managers/",
-          "https://www.cnet.com/tech/services-and-software/best-password-manager/",
-          "https://explore.microsoft.com/en-us/edge/features/microsoft-password-manager",
-          "https://support.google.com/chrome/answer/95606?hl=en&co=GENIE.Platform%3DAndroid",
-          "https://www.pcmag.com/picks/the-best-password-managers",
-          "https://support.microsoft.com/en-us/accounts-billing/manage/view-or-edit-your-passwords-in-microsoft-password-manager",
-          "https://www.lastpass.com/"
+          "https://www.fedex.com/customer-support/en-ie",
+          "https://www.fedex.com/customer-support/pl-pl",
+          "https://local.fedex.com/en-us/il/skokie/nbua",
+          "https://local.fedex.com/en-fr",
+          "https://getrewards.fedex.com/it/it/login",
+          "https://investors.fedex.com/company-overview/overview-of-company/default.aspx",
+          "https://my.fedex.com/en-us/",
+          "https://careers.fedex.com/jobs",
+          "https://packagehandler.fedex.com/",
+          "https://getrewards.fedex.com/"
         ],
         "candidates": [
-          "en.wikipedia.org",
-          "explore.microsoft.com",
-          "passwords.google",
-          "passwords.google.com",
-          "support.google.com",
-          "support.microsoft.com",
-          "www.cnet.com",
-          "www.lastpass.com",
-          "www.nytimes.com",
-          "www.pcmag.com"
+          "careers.fedex.com",
+          "getrewards.fedex.com",
+          "investors.fedex.com",
+          "local.fedex.com",
+          "my.fedex.com",
+          "packagehandler.fedex.com",
+          "www.fedex.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "DAZN/DAZN.yaml": {
-        "checked_at": "2026-11-06 18:49 UTC",
+        "checked_at": "2026-11-20 19:33 UTC",
         "name": "DAZN",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -173377,9 +173373,12 @@
           "https://www.dazn.com/",
           "https://beta.dazn.com/en-US/home",
           "https://dazngroup.com/",
-          "https://safe.dazn.com/",
           "https://app.link.dazn.com/",
-          "https://en.wikipedia.org/wiki/DAZN"
+          "https://en.wikipedia.org/wiki/DAZN",
+          "https://www.dazn.com/account/signin",
+          "https://www.youtube.com/dazn",
+          "https://play.google.com/store/apps/details?id=com.dazn&hl=en",
+          "https://www.tvguide.com/news/what-is-dazn/"
         ],
         "candidates": [
           "app.link.dazn.com",
@@ -173387,43 +173386,45 @@
           "dazngroup.com",
           "en.wikipedia.org",
           "nhl.tv",
-          "safe.dazn.com",
-          "www.dazn.com"
+          "play.google.com",
+          "www.dazn.com",
+          "www.tvguide.com",
+          "www.youtube.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "DMM/DMM.yaml": {
-        "checked_at": "2026-11-06 18:49 UTC",
+        "checked_at": "2026-11-20 19:33 UTC",
         "name": "DMM",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.dmm.com/",
           "https://accounts.dmm.com/service/login/password",
-          "https://player.games.dmm.co.jp/",
-          "https://accounts.dmm.co.jp/service/login/password",
-          "https://en.m.wikipedia.org/wiki/DMM.com",
           "https://dmmwales.com/",
-          "https://games.dmm.com/list/all",
-          "https://support.dmm.com/games",
-          "https://games.dmm.com/store/download"
+          "https://www.nexusmods.com/crimsondesert/mods/633",
+          "https://accounts.dmm.co.jp/service/login/password",
+          "https://us.dmmwales.com/",
+          "https://en.wikipedia.org/wiki/DMM.com",
+          "https://en.wikipedia.org/wiki/DMM",
+          "https://www.thinkdmm.com/"
         ],
         "candidates": [
           "accounts.dmm.co.jp",
           "accounts.dmm.com",
           "dmm.com",
           "dmmwales.com",
-          "en.m.wikipedia.org",
-          "games.dmm.com",
-          "player.games.dmm.co.jp",
-          "support.dmm.com",
-          "www.dmm.com"
+          "en.wikipedia.org",
+          "us.dmmwales.com",
+          "www.dmm.com",
+          "www.nexusmods.com",
+          "www.thinkdmm.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "DNS/DNS.yaml": {
-        "checked_at": "2026-11-06 18:49 UTC",
+        "checked_at": "2026-11-20 19:33 UTC",
         "name": "DNS",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -173431,12 +173432,12 @@
           "https://en.m.wikipedia.org/wiki/Domain_Name_System",
           "https://www.geeksforgeeks.org/computer-networks/domain-name-system-dns-in-application-layer/",
           "https://dnschecker.org/",
-          "https://publicdns.info/best-dns-servers.html",
-          "https://www.whatismyip.com/dns/",
-          "https://www.ibm.com/think/topics/dns",
           "https://www.cloudflare.com/products/dns/",
-          "https://learn.microsoft.com/en-us/windows-server/networking/dns/dns-overview",
-          "https://mxtoolbox.com/DNSLookup.aspx"
+          "https://www.ibm.com/think/topics/dns",
+          "https://mxtoolbox.com/DNSLookup.aspx",
+          "https://publicdns.info/best-dns-servers.html",
+          "https://www.geeksforgeeks.org/computer-networks/dns-server/",
+          "https://learn.microsoft.com/en-us/windows-server/networking/dns/dns-overview"
         ],
         "candidates": [
           "dnschecker.org",
@@ -173447,61 +173448,53 @@
           "www.cloudflare.com",
           "www.example.com",
           "www.geeksforgeeks.org",
-          "www.ibm.com",
-          "www.whatismyip.com"
+          "www.ibm.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "DaMai/DaMai.yaml": {
-        "checked_at": "2026-11-06 18:49 UTC",
+        "checked_at": "2026-11-20 19:33 UTC",
         "name": "DaMai",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration",
-          "https://x.com/SharePoint",
-          "https://www.microsoft.com/en-us/microsoft-365/sharepoint/sharepoint-server",
-          "https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266",
-          "https://www.reddit.com/r/sharepoint/",
-          "https://support.microsoft.com/en-us/sharepoint/get-started-with-sharepoint/sign-in-to-sharepoint",
-          "https://support.microsoft.com/en-us/sharepoint/",
-          "https://en.wikipedia.org/wiki/SharePoint",
-          "https://learn.microsoft.com/en-us/sharepoint/",
-          "https://support.microsoft.com/en-us/sharepoint/get-started-with-sharepoint/get-started-with-sharepoint"
+          "https://support.microsoft.com/en-us/windows/how-to-get-help-in-windows-711b6492-0435-0038-8706-7c6b0feb200a",
+          "https://support.microsoft.com/en-us/support/get-help/about-get-help",
+          "https://www.reddit.com/r/WindowsHelp/comments/1db7me2/cant_activate_windows_11_on_new_pc_says_hardware/",
+          "https://www.reddit.com/r/WindowsHelp/comments/r44fzg/windows_11_upgrade_registry_bypass_not/",
+          "https://support.microsoft.com/ja-jp/support/get-help/about-get-help",
+          "https://support.microsoft.com/de-de/support/get-help/about-get-help",
+          "https://support.microsoft.com/pt-br/windows/como-obter-ajuda-no-windows-711b6492-0435-0038-8706-7c6b0feb200a",
+          "https://support.microsoft.com/it-it/windows/come-ottenere-assistenza-in-windows-711b6492-0435-0038-8706-7c6b0feb200a",
+          "https://support.microsoft.com/nl-nl/windows/hulp-vragen-in-windows-711b6492-0435-0038-8706-7c6b0feb200a",
+          "https://www.reddit.com/r/Windows11/comments/q1ukzk/where_to_get_realtek_audio_driver_for_windows_11/"
         ],
         "candidates": [
-          "apps.apple.com",
-          "en.wikipedia.org",
-          "learn.microsoft.com",
-          "microsoft.com",
           "support.microsoft.com",
-          "www.microsoft.com",
-          "www.reddit.com",
-          "x.com"
+          "www.reddit.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Dailymail/Dailymail.yaml": {
-        "checked_at": "2026-11-06 18:49 UTC",
+        "checked_at": "2026-11-20 19:33 UTC",
         "name": "Dailymail",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.dailymail.com/ushome/index.html",
           "https://www.dailymail.com/home/index.html",
-          "https://www.dailymail.co.uk/ushome/index.html",
+          "https://www.dailymail.co.uk/home/index.html",
           "https://newspaper.dailymail.com/",
-          "https://en.wikipedia.org/wiki/Daily_Mail",
-          "https://www.dailymail.com/news/index.html",
           "https://www.dailymail.com/news/us/index.html",
+          "https://www.dailymail.com/news/index.html",
           "https://www.dailymail.com/auhome/index.html",
           "https://www.dailymail.com/home/latest/index.html",
-          "https://offers.dailymail.com/"
+          "https://newspaper.dailymail.com/rewards",
+          "https://en.wikipedia.org/wiki/Daily_Mail"
         ],
         "candidates": [
           "en.wikipedia.org",
           "newspaper.dailymail.com",
-          "offers.dailymail.com",
           "www.dailymail.co.uk",
           "www.dailymail.com"
         ],
@@ -173509,24 +173502,23 @@
         "ownership_evidence": []
       },
       "Dailymotion/Dailymotion.yaml": {
-        "checked_at": "2026-11-06 18:49 UTC",
+        "checked_at": "2026-11-20 19:33 UTC",
         "name": "Dailymotion",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.dailymotion.com/",
-          "https://www.dailymotion.com/us/feed",
-          "https://www.youtube.com/dailymotion",
-          "https://en.wikipedia.org/wiki/Dailymotion",
-          "https://www.facebook.com/Dailymotion/",
-          "https://dailymotion.vhx.tv/login",
-          "https://faq.dailymotion.com/hc/en-us/articles/36837758232466-Subscribe-to-and-manage-your-Dailymotion-Pass",
+          "https://www.dailymotion.com/it",
+          "https://en.m.wikipedia.org/wiki/Dailymotion",
+          "https://www.dailymotion.com/gb",
           "https://www.dailymotion.com/stream/videos",
           "https://www.dailymotion.com/us/1",
-          "https://faq.dailymotion.com/hc/en-us/categories/360002708980-Dailymotion"
+          "https://www.youtube.com/dailymotion",
+          "https://faq.dailymotion.com/hc/en-us/categories/360002708980-Dailymotion",
+          "https://www.youtube.com/@Dailymotion_fr",
+          "https://www.facebook.com/Dailymotion/"
         ],
         "candidates": [
-          "dailymotion.vhx.tv",
-          "en.wikipedia.org",
+          "en.m.wikipedia.org",
           "faq.dailymotion.com",
           "www.dailymotion.com",
           "www.facebook.com",
