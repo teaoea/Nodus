@@ -1,7 +1,7 @@
 {
   "upstream": "https://github.com/blackmatrix7/ios_rule_script",
   "revision": "0b6897dc17e0c513d25449c935a9694818e32f0c",
-  "date": "2026-11-19 19:54 UTC",
+  "date": "2026-11-20 05:32 UTC",
   "collections": {
     "rule/Clash/115/115.yaml": {
       "input": 10,
@@ -15305,14 +15305,14 @@
       "no_resolve_removed": 0,
       "skipped": [],
       "merge": {
-        "duplicates": 12,
+        "duplicates": 17,
         "pruned": 0,
         "conflicts": 0,
         "policy": "unknown; policy-dependent pruning deferred to Core"
       },
       "output": "rules/Claude/Claude.yaml",
-      "rules": 14,
-      "bytes": 637,
+      "rules": 15,
+      "bytes": 667,
       "exceeds_current_core": false,
       "upstream_last_commit_date": "2025-06-17T15:19:38+08:00",
       "template_version": 9
@@ -149018,8 +149018,8 @@
   ],
   "discovery": {
     "engine": "Bing public RSS",
-    "checked_at": "2026-11-19 19:54 UTC",
-    "next_index": 158,
+    "checked_at": "2026-11-20 05:32 UTC",
+    "next_index": 182,
     "attempted": 24,
     "total_collections": 689,
     "verified_additions": {
@@ -154042,23 +154042,26 @@
         "ownership_evidence": []
       },
       "Cloud/AmazonCloud/AmazonCloud.list": {
-        "checked_at": "2026-11-06 04:53 UTC",
+        "checked_at": "2026-11-20 05:32 UTC",
         "name": "AmazonCloud",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://stackoverflow.com/questions/23048285/call-asynchronous-method-in-constructor",
-          "https://stackoverflow.com/questions/56833469/typescript-error-ts7053-element-implicitly-has-an-any-type",
-          "https://stackoverflow.com/questions/31140521/cannot-resolve-symbol-in-intellij-idea",
-          "https://stackoverflow.com/questions/790932/how-to-wrap-text-in-latex-tables",
-          "https://stackoverflow.com/questions/34370962/no-module-named-cffi-backend",
-          "https://stackoverflow.com/questions/35480623/how-to-import-local-packages-in-go",
-          "https://stackoverflow.com/questions/75456272/trying-to-create-a-random-joke-generator-that-chooses-between-two-joke-setups-an",
-          "https://stackoverflow.com/questions/17219688/href-tel-and-mobile-numbers",
-          "https://stackoverflow.com/questions/28622523/windows-cmd-command-for-accessing-usb",
-          "https://stackoverflow.com/questions/13279593/401-unauthorized-access-is-denied-due-to-invalid-credentials"
+          "https://www.youtube.com/",
+          "https://support.google.com/youtube/answer/9158808?hl=en&co=GENIE.Platform%3DDesktop",
+          "https://support.google.com/youtubetv/community-guide/294051734/understanding-the-youtube-tv-interface?hl=en",
+          "https://obsproject.com/forum/tags/youtube/",
+          "https://obsproject.com/forum/resources/youtube-chat-transparent-background-solely-css.486/",
+          "https://support.google.com/youtube/answer/7612539?hl=en",
+          "https://support.google.com/families/answer/7507744?hl=en&co=GENIE.Platform%3DAndroid",
+          "https://support.google.com/youtube/?hl=el",
+          "https://support.google.com/youtube/answer/7298539?hl=en",
+          "https://support.google.com/youtube/answer/174084?hl=en&co=GENIE.Platform%3Ddesktop"
         ],
         "candidates": [
-          "stackoverflow.com"
+          "obsproject.com",
+          "sheerid.com",
+          "support.google.com",
+          "www.youtube.com"
         ],
         "accepted": [],
         "ownership_evidence": []
@@ -172222,20 +172225,127 @@
         "ownership_evidence": []
       },
       "ChinaMax/ChinaMax.yaml": {
-        "checked_at": "2026-11-05 19:26 UTC",
+        "checked_at": "2026-11-20 05:32 UTC",
         "name": "ChinaMax",
         "status": "needs_ownership_evidence",
         "sources": [
+          "https://www.razer.com/",
+          "https://www.razer.com/affiliate",
+          "https://www.razer.com/about-razer",
+          "https://www.razer.com/latam-es",
+          "https://www.razer.com/newsroom",
+          "https://www.razer.com/hk-en",
+          "https://www.razer.com/sg-en/pc/gaming-pc-components",
+          "https://www.razer.com/es-es/about-razer",
+          "https://www.razer.com/ca-en/razerstores",
+          "https://www.razer.com/ap-en/store"
+        ],
+        "candidates": [
+          "www.razer.com"
+        ],
+        "accepted": [],
+        "ownership_evidence": []
+      },
+      "ChinaMaxNoIP/ChinaMaxNoIP.yaml": {
+        "checked_at": "2026-11-20 05:32 UTC",
+        "name": "ChinaMaxNoIP",
+        "status": "needs_ownership_evidence",
+        "sources": [
+          "https://www.nbcnews.com/pop-culture/pop-culture-news/larry-poindexter-days-lives-swt-actor-dies-hit-car-crossing-street-rcna610214",
+          "https://ew.com/larry-poindexter-dead-days-of-our-lives-12264176",
+          "https://www.usatoday.com/story/entertainment/tv-streaming/2026/11/19/larry-poindexter-dies-days-of-our-lives/92867572007/",
+          "https://people.com/larry-poindexter-swat-days-of-our-lives-character-actor-dies-66-report-12264356",
+          "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/actor-larry-poindexter-dies-being-104304175.html",
+          "https://www.tmz.com/2026/11/19/larry-poindexter-dead/",
+          "https://www.legacy.com/legacy/notable-deaths/larry-poindexter",
+          "https://en.m.wikipedia.org/wiki/Larry_Poindexter",
+          "https://www.latimes.com/entertainment-arts/tv/story/2026-11-19/larry-poindexter-dead-days-of-our-lives-actor",
+          "https://www.msn.com/en-us/entertainment/general/larry-poindexter-general-hospital-days-of-our-lives-actor-dies-at-66-after-being-struck-by-car/ar-AA2hMA14"
+        ],
+        "candidates": [
+          "en.m.wikipedia.org",
+          "ew.com",
+          "legacy.com",
+          "people.com",
+          "www.latimes.com",
+          "www.legacy.com",
+          "www.msn.com",
+          "www.nbcnews.com",
+          "www.tmz.com",
+          "www.usatoday.com",
+          "www.yahoo.com"
+        ],
+        "accepted": [],
+        "ownership_evidence": []
+      },
+      "ChinaMaxNoMedia/ChinaMaxNoMedia.yaml": {
+        "checked_at": "2026-11-20 05:32 UTC",
+        "name": "ChinaMaxNoMedia",
+        "status": "needs_ownership_evidence",
+        "sources": [
+          "https://www.amazon.com/your-account",
+          "https://www.amazon.com/gp/css/homepage.html",
+          "https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_aws_my-sec-creds-self-manage-mfa-only.html",
+          "https://developer.amazon.com/docs/app-submission/manage-account-and-permissions.html",
+          "https://sellercentral.amazon.com/help/hub/reference/external/G20191",
+          "https://read.amazon.com/kindle-library",
+          "https://www.amazon.com/gp/help/customer/display.html?nodeId=GAM5QWMWMTFCHEQT",
+          "https://business.amazon.com/en/login",
+          "https://business.amazon.com/en/solutions/payment-options",
+          "https://selection.amazon.com/sign-in?redirect_to=%2F&mons_redirect=sign_in"
+        ],
+        "candidates": [
+          "amazon.com",
+          "business.amazon.com",
+          "developer.amazon.com",
+          "docs.aws.amazon.com",
+          "read.amazon.com",
+          "selection.amazon.com",
+          "sellercentral.amazon.com",
+          "www.amazon.com"
+        ],
+        "accepted": [],
+        "ownership_evidence": []
+      },
+      "ChinaMedia/ChinaMedia.yaml": {
+        "checked_at": "2026-11-20 05:32 UTC",
+        "name": "ChinaMedia",
+        "status": "needs_ownership_evidence",
+        "sources": [
+          "https://www.ties.com/v/a/necktie-accessories-electronic-closet-rack-silver-tie-rack",
+          "https://www.ties.com/how-to-tie-a-tie",
+          "https://www.ties.com/infectious-awareables-ties",
+          "https://www.ties.com/extra-long-ties",
+          "https://www.ties.com/self-tie-bow-ties",
+          "https://www.ties.com/how-to-tie-a-tie/kelvin",
+          "https://www.ties.com/geek-ties",
+          "https://www.ties.com/military-ties",
+          "https://www.ties.com/how-to-tie-a-tie/eldredge",
+          "https://www.ties.com/bow-ties"
+        ],
+        "candidates": [
+          "ties.com",
+          "ties.comgives",
+          "www.ties.com"
+        ],
+        "accepted": [],
+        "ownership_evidence": []
+      },
+      "ChinaMobile/ChinaMobile.yaml": {
+        "checked_at": "2026-11-20 05:32 UTC",
+        "name": "ChinaMobile",
+        "status": "needs_ownership_evidence",
+        "sources": [
           "https://www.microsoft.com/en-us/",
-          "https://techcommunity.microsoft.com/blog/exchange/released-september-2026-exchange-server-security-updates/4554411",
-          "https://techcommunity.microsoft.com/blog/exchange/released-october-2026-exchange-server-security-updates/4563014",
-          "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
-          "https://support.microsoft.com/en-gb/contactus",
-          "https://techcommunity.microsoft.com/blog/excelblog/unlock-the-power-of-copilot-in-excel-now-generally-available/4242810",
-          "https://support.microsoft.com/en-gb/outlook/install-or-reinstall-classic-outlook-on-a-windows-pc",
-          "https://support.microsoft.com/en-us/forms/sign-in-to-microsoft-forms",
+          "https://support.microsoft.com/en-us/accounts-billing/work-school/sign-in-to-your-work-or-school-account-using-two-step-verification",
+          "https://support.microsoft.com/en-gb/accounts-billing/",
           "https://techcommunity.microsoft.com/category/windows/discussions/windowsinsiderprogram",
-          "https://techcommunity.microsoft.com/discussions/windowsinsiderprogram/windows-8-1-iso-download-for-64-and-32-bit/4454650"
+          "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128",
+          "https://support.microsoft.com/en-gb/edge/print-in-microsoft-edge",
+          "https://support.microsoft.com/en-gb/outlook/install-or-reinstall-classic-outlook-on-a-windows-pc",
+          "https://support.microsoft.com/en-us/accounts-billing/work-school/verifying-your-identity-when-signing-in",
+          "https://techcommunity.microsoft.com/blog/outlook/copilot-in-outlook-new-agentic-experiences-for-email-and-calendar/4499798",
+          "https://techcommunity.microsoft.com/event/techcommunitylive/microsoft-technical-takeoff-2026-windows--intune/4490614"
         ],
         "candidates": [
           "support.microsoft.com",
@@ -172245,328 +172355,244 @@
         "accepted": [],
         "ownership_evidence": []
       },
-      "ChinaMaxNoIP/ChinaMaxNoIP.yaml": {
-        "checked_at": "2026-11-05 19:26 UTC",
-        "name": "ChinaMaxNoIP",
-        "status": "needs_ownership_evidence",
-        "sources": [
-          "https://www.ssa.gov/",
-          "https://www.aarp.org/social-security/trust-fund/",
-          "https://www.aarp.org/social-security/ways-to-retire-on-social-security-alone/",
-          "https://www.justanswer.com/social-security/",
-          "https://www.justanswer.com/social-security/ap60f-recently-letter-social-security-great.html",
-          "https://www.aarp.org/advocacy/aarp-opposes-promise-act/",
-          "https://www.aarp.org/social-security/you-didnt-know-about/",
-          "https://www.aarp.org/social-security/faq/withholding-while-working/",
-          "https://www.aarp.org/social-security/aarp-fight-for-social-security-2026/",
-          "https://www.aarp.org/social-security/claim-benefits-early-or-late/"
-        ],
-        "candidates": [
-          "www.aarp.org",
-          "www.justanswer.com",
-          "www.ssa.gov"
-        ],
-        "accepted": [],
-        "ownership_evidence": []
-      },
-      "ChinaMaxNoMedia/ChinaMaxNoMedia.yaml": {
-        "checked_at": "2026-11-05 19:26 UTC",
-        "name": "ChinaMaxNoMedia",
-        "status": "needs_ownership_evidence",
-        "sources": [
-          "https://healnsoothe.com/cancelmysubscription",
-          "https://blog.healnsoothe.com/6-health-benefits-of-papain/",
-          "https://blog.healnsoothe.com/nutrition/",
-          "https://healnsoothe.com/products/141/sp-hns?gbraid=0AAAAADnveXXnGQtaCssdnvb4lQNkJrfki",
-          "https://blog.healnsoothe.com/author/livingwell-editorial-team/feed/",
-          "https://blog.healnsoothe.com/tag/bromelain/feed/"
-        ],
-        "candidates": [
-          "blog.healnsoothe.com",
-          "healnsoothe.com"
-        ],
-        "accepted": [],
-        "ownership_evidence": []
-      },
-      "ChinaMedia/ChinaMedia.yaml": {
-        "checked_at": "2026-11-05 19:26 UTC",
-        "name": "ChinaMedia",
-        "status": "needs_ownership_evidence",
-        "sources": [
-          "https://www.youtube.com/shorts/FCd0uI8dwjc",
-          "https://fatburnerlab.com/reviews/24burn-review/",
-          "https://www.tutelamedical.com/product/24-burn/",
-          "https://www.tutelamedical.com/product/24-burn-supplement/",
-          "https://www.teresamorgannutrition.com/post/24-burn-review-my-game-changing-weight-loss-supplement-that-works-around-the-clock.html",
-          "https://fullphysicalexam.com/24-burn-weight-loss-supplement-reviews/",
-          "https://altholhealth.com/24-burn-review/",
-          "https://www.youtube.com/watch?v=pjKD2oNDLbA",
-          "https://dec.ny.gov/environmental-protection/air-quality/open-burning",
-          "https://www.seanfeucht.com/burn-247"
-        ],
-        "candidates": [
-          "altholhealth.com",
-          "dec.ny.gov",
-          "fatburnerlab.com",
-          "fullphysicalexam.com",
-          "tutelamedical.com",
-          "www.seanfeucht.com",
-          "www.teresamorgannutrition.com",
-          "www.tutelamedical.com",
-          "www.youtube.com"
-        ],
-        "accepted": [],
-        "ownership_evidence": []
-      },
-      "ChinaMobile/ChinaMobile.yaml": {
-        "checked_at": "2026-11-05 19:26 UTC",
-        "name": "ChinaMobile",
-        "status": "needs_ownership_evidence",
-        "sources": [
-          "https://www.amazon.com/amazonprime",
-          "https://www.amazon.com/businessprime",
-          "https://www.amazon.com/",
-          "https://gaming.amazon.com/",
-          "https://amc.amazon.com/",
-          "https://www.amazon.com/gp/video/collection/IncludedwithPrime",
-          "https://selection.amazon.com/sign-in?redirect_to=%2F&mons_redirect=sign_in",
-          "https://www.amazon.com/b?node=15240005011",
-          "https://www.amazon.com/gp/help/customer/display.html?nodeId=GJNNP777QLUYFPNG",
-          "https://www.amazon.com/gp/video/collection/welcomehubtest"
-        ],
-        "candidates": [
-          "amazon.com",
-          "amc.amazon.com",
-          "gaming.amazon.com",
-          "selection.amazon.com",
-          "www.amazon.com"
-        ],
-        "accepted": [],
-        "ownership_evidence": []
-      },
       "ChinaNews/ChinaNews.yaml": {
-        "checked_at": "2026-11-05 19:26 UTC",
+        "checked_at": "2026-11-20 05:32 UTC",
         "name": "ChinaNews",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.chinanews.com.cn/",
-          "https://www.chinanews.com/?locale=en_US",
-          "https://www.chinanews.com.cn/world.shtml",
-          "https://m.chinanews.com/",
-          "https://www.ecns.cn/",
-          "https://wap.chinanews.com/",
-          "https://m.chinanews.com.cn/",
-          "https://www.sh.chinanews.com.cn/",
-          "https://en.cgtn.com/",
-          "https://www.chinanews.com/m/index.htm"
+          "https://www.facebook.com/",
+          "https://www.facebook.com/login.php/",
+          "https://upload.facebook.com/login/identify/",
+          "https://l.facebook.com/facebook/",
+          "https://secure.facebook.com/login/",
+          "https://l.facebook.com/r.php/?display=page",
+          "https://en.wikipedia.org/wiki/Facebook",
+          "https://www.meta.com/en-gb/facebook-app/",
+          "https://m.me/login/",
+          "https://apps.facebook.com/marketplace/"
         ],
         "candidates": [
-          "chinanews.com",
-          "chinanews.com.cn",
-          "en.cgtn.com",
-          "m.chinanews.com",
-          "m.chinanews.com.cn",
-          "wap.chinanews.com",
-          "www.chinanews.com",
-          "www.chinanews.com.cn",
-          "www.ecns.cn",
-          "www.sh.chinanews.com.cn"
+          "apps.facebook.com",
+          "en.wikipedia.org",
+          "l.facebook.com",
+          "m.me",
+          "secure.facebook.com",
+          "upload.facebook.com",
+          "www.facebook.com",
+          "www.meta.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "ChinaNoMedia/ChinaNoMedia.yaml": {
-        "checked_at": "2026-11-05 19:26 UTC",
+        "checked_at": "2026-11-20 05:32 UTC",
         "name": "ChinaNoMedia",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://maps.google.com/",
-          "https://www.google.com/",
-          "https://mymaps.google.com/",
-          "https://maps.google.ca/mapfiles/home3.html",
-          "https://maps.google.com/maps/dir/",
-          "https://maps.google.com/maps/search/$",
-          "https://maps.google.com/intl/en_us/mapfiles/home3.html",
-          "https://www.mapquest.com/directions",
-          "https://www.google.com/maps/about/"
+          "https://www.urbanair.com/kids-birthday-parties/",
+          "https://www.urbanair.com/choosing-the-perfect-birthday-party-package/",
+          "https://smartpartyprep.com/articles/how-much-is-a-birthday-party-at-urban-air",
+          "https://www.groupon.com/deals/urban-air-adventure-park-orange",
+          "https://www.urbanair.com/",
+          "https://www.urbanair.com/offers/",
+          "https://www.urbanair.com/the-best-trampoline-park-birthday-party-much-more/",
+          "https://www.urbanair.com/birthday-party-central/",
+          "https://www.urbanair.com/about-urban-air/",
+          "https://www.urbanair.com/attractions/"
         ],
         "candidates": [
-          "maps.google.ca",
-          "maps.google.com",
-          "mymaps.google.com",
-          "www.google.com",
-          "www.mapquest.com"
+          "smartpartyprep.com",
+          "www.groupon.com",
+          "www.urbanair.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "ChinaTelecom/ChinaTelecom.yaml": {
-        "checked_at": "2026-11-05 19:26 UTC",
+        "checked_at": "2026-11-20 05:32 UTC",
         "name": "ChinaTelecom",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.paycomonline.com/",
-          "https://webmail.paycomonline.com/owa/",
-          "https://pc00.paycomonline.com/v4/ats/web.php/portal/A38173AIE92874820ALRE20847CDE927PIW76526/career-page",
-          "https://bruno.paycomonline.com/",
-          "https://paycomvod-a.paycomonline.com/LMS/SCORM/PAYCU/001__LMS_b8edf41779c444301eb85b5535e37175ba0b4a24_20171030142713/lms/blank.html",
-          "https://pc00.paycomonline.com/v4/ats/web.php/portal/4F36CC2A0D477D971AED20CF5E524699/jobs/536787",
-          "https://bruno.paycomonline.com/register",
-          "https://alfred.paycomonline.com/",
-          "https://pc00.paycomonline.com/v4/ats/web.php/portal/A38173AIE92874820ALRE20847CDE927PIW76526/jobs/566600",
-          "https://pc00.paycomonline.com/v4/ats/web.php/portal/A38173AIE92874820ALRE20847CDE927PIW76526/jobs/567597"
+          "https://www.amazon.com/Richard-Scarrys-Day-Airport-Pictureback/dp/0375812024",
+          "https://www.museumofflightstore.org/a-day-at-the-airport-richard-scarrys.html",
+          "https://www.scribd.com/document/471267864/A-day-at-the-airport-pdf",
+          "https://www.penguinrandomhouse.com/books/161281/richard-scarrys-a-day-at-the-airport-by-written-and-illustrated-by-richard-scarry/",
+          "https://www.powells.com/book/richard-scarrys-a-day-at-the-airport-9780375812026",
+          "https://books.google.com/books/about/A_Day_at_the_Airport.html?id=xBtamwEACAAJ",
+          "https://www.amazon.com/richard-scarry-airport/s?k=richard+scarry+airport",
+          "https://www.barnesandnoble.com/w/richard-scarrys-a-day-at-the-airport-richard-scarry/1006540638",
+          "https://books.google.com/books/about/Richard_Scarry_s_Busy_Busy_Airport.html?id=WkKREAAAQBAJ",
+          "https://www.abebooks.com/9780613862516/Richard-Scarrys-Day-Airport-Scarry-0613862511/plp"
         ],
         "candidates": [
-          "alfred.paycomonline.com",
-          "bruno.paycomonline.com",
-          "paycomvod-a.paycomonline.com",
-          "pc00.paycomonline.com",
-          "webmail.paycomonline.com",
-          "www.paycomonline.com"
+          "amazon.com",
+          "books.google.com",
+          "www.abebooks.com",
+          "www.amazon.com",
+          "www.barnesandnoble.com",
+          "www.museumofflightstore.org",
+          "www.penguinrandomhouse.com",
+          "www.powells.com",
+          "www.scribd.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "ChinaTest/ChinaTest.yaml": {
-        "checked_at": "2026-11-05 19:26 UTC",
+        "checked_at": "2026-11-20 05:32 UTC",
         "name": "ChinaTest",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.davisenterprise.com/obituaries/robert-r-traut/article_44276839-70e0-530f-b2a1-a127dedd98dd.html",
-          "https://www.davisenterprise.com/archives/wedding-szucs-hayden/article_7439acaa-29c8-55c4-9d4e-94ad9369acaa.html",
-          "https://www.davisenterprise.com/news/toys-for-tots-brings-holiday-joy-to-yolo-county-families/article_5c31c6ca-6743-455a-bcb1-d967454cad88.html",
-          "https://www.davisenterprise.com/sports/aggies/already-loaded-aggies-add-three-talented-recruits/article_b06a1060-5e02-5f7e-8e3a-f599218f10e6.html",
-          "https://www.davisenterprise.com/obituaries/paul-brady/article_df45967b-4f01-5595-a62e-dec4fcf9f769.html",
-          "https://www.davisenterprise.com/news/cops-launch-annual-toys-for-tots-drive/article_d19c2178-8e29-11ee-b0a0-2fb96ff3a1e8.html",
-          "https://www.davisenterprise.com/obituaries/georg-wolfgang-fuhs/article_2041aa50-b18a-5b9c-89d0-923fa97b9c67.html"
+          "https://www.teamworkonline.com/hockey-jobs/echl/echl-league-office",
+          "https://www.sports-careers.com/ahl",
+          "https://www.teamworkonline.com/hockey-jobs/theahl/ahl-league-office",
+          "https://www.workinginhockey.com/",
+          "https://www.sports-careers.com/hockey-jobs",
+          "https://www.indeed.com/q-Sports-Media-Communications-Nhl-jobs.html",
+          "https://theahl.com/corporate-opportunities",
+          "https://hockeyjobs.com/",
+          "https://www.jobsinsports.com/hockey-jobs",
+          "https://www.nhl.com/info/careers"
         ],
         "candidates": [
-          "davisenterprise.com",
-          "www.davisenterprise.com",
-          "www.hackettstownlife.com"
+          "hockeyjobs.com",
+          "indeed.com",
+          "nhl.com",
+          "theahl.com",
+          "www.indeed.com",
+          "www.jobsinsports.com",
+          "www.nhl.com",
+          "www.sports-careers.com",
+          "www.teamworkonline.com",
+          "www.workinginhockey.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "ChinaUnicom/ChinaUnicom.yaml": {
-        "checked_at": "2026-11-05 19:26 UTC",
+        "checked_at": "2026-11-20 05:32 UTC",
         "name": "ChinaUnicom",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://ell.stackexchange.com/questions/162784/my-start-day-will-be-or-my-starting-date-will-be",
-          "https://ell.stackexchange.com/questions/163573/start-to-of-the-day",
-          "https://ell.stackexchange.com/questions/233217/every-sunday-or-on-every-sunday",
-          "https://ell.stackexchange.com/questions/43659/just-starting-vs-starting",
-          "https://ell.stackexchange.com/questions/44829/will-you-find-someone-saying-at-your-convenience-annoying-and-impolite",
-          "https://ell.stackexchange.com/questions/7832/how-to-express-working-shifts-in-perfect-english",
-          "https://ell.stackexchange.com/questions/3579/start-a-day-versus-start-the-day",
-          "https://ell.stackexchange.com/questions/331972/start-to-the-week-vs-start-of-the-week",
-          "https://ell.stackexchange.com/questions/112792/ive-started-or-i-started",
-          "https://ell.stackexchange.com/questions/119417/i-will-be-or-i-am-free-the-rest-of-today"
+          "https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf",
+          "https://help.openai.com/en/articles/20001499-luna-reserve-in-codex-and-chatgpt-work",
+          "https://openai.com/es-419/index/gpt-4o-and-more-tools-to-chatgpt-free/",
+          "https://help.openai.com/en/articles/8313359-is-chatgpt-biased",
+          "https://community.openai.com/t/chatgpt-plus-paid-but-still-stuck-on-free-plan-no-gpt-4-access/1204724",
+          "https://community.openai.com/t/chat-gpt-4-plus-subscription-across-devices/393440",
+          "https://openai.com/index/chatgpt-for-veterans/",
+          "https://developers.openai.com/api/reference/overview",
+          "https://platform.openai.com/onboarding",
+          "https://developers.openai.com/api/docs/models/gpt-image-1.5"
         ],
         "candidates": [
-          "ell.stackexchange.com"
+          "cdn.openai.com",
+          "community.openai.com",
+          "developers.openai.com",
+          "help.openai.com",
+          "openai.com",
+          "platform.openai.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Chromecast/Chromecast.yaml": {
-        "checked_at": "2026-11-05 19:26 UTC",
+        "checked_at": "2026-11-20 05:32 UTC",
         "name": "Chromecast",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.google.com/cast/chromecast/home",
           "https://www.google.com/cast/setup/",
           "https://support.google.com/chromecast/answer/3228332?hl=en",
+          "https://en.m.wikipedia.org/wiki/Chromecast",
           "https://www.amazon.com/chromecast/s?k=chromecast",
+          "https://support.google.com/chromecast/?hl=en",
           "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=Chromecast",
-          "https://en.wikipedia.org/wiki/Chromecast",
-          "https://www.amazon.com/clp/B0BG131ZLF",
-          "https://www.walmart.com/browse/electronics/google-chromecast/3944_77622_7549938_1229631_3314258",
-          "https://support.google.com/chromecast/answer/2998456?hl=en&co=GENIE.Platform=Android",
-          "https://www.bestbuy.com/site/streaming-media-devices/google-chromecast/pcmcat748301684651.c?id=pcmcat748301684651"
+          "https://play.google.com/store/apps/details?id=com.google.android.apps.mediashell&hl=en",
+          "https://www.amazon.com/chromecast-device/s?k=chromecast+device",
+          "https://www.tomsguide.com/us/what-is-google-chromecast,news-17637.html"
         ],
         "candidates": [
           "amazon.com",
-          "chromecast.com",
-          "en.wikipedia.org",
+          "en.m.wikipedia.org",
+          "play.google.com",
           "support.google.com",
-          "walmart.com",
           "www.amazon.com",
           "www.bestbuy.com",
           "www.google.com",
-          "www.walmart.com"
+          "www.tomsguide.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "ChuangKeTie/ChuangKeTie.yaml": {
-        "checked_at": "2026-11-05 19:26 UTC",
+        "checked_at": "2026-11-20 05:32 UTC",
         "name": "ChuangKeTie",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.drugs.com/minoxidil.html",
-          "https://www.drugs.com/comments/minoxidil/for-hypertension.html",
-          "https://www.hairlosstalk.com/interact/threads/minoxidil-3-times-a-day.13276/",
-          "https://www.realself.com/question/upland-california-topical-minoxidil-side-effects-hair-loss-treatment",
-          "https://www.realself.com/question/san-diego-ca-minoxidil-massaged-briefly-applied",
-          "https://www.hairlosstalk.com/interact/threads/minoxidil-every-other-day.90096/",
-          "https://www.drugs.com/pro/hair-regrowth-treatment-for-women.html",
-          "https://www.hairlosstalk.com/interact/threads/apply-retin-a-before-or-after-minoxidil.35900/",
-          "https://www.realself.com/question/city-industry-ca-allergic-minoxidil-reactions-happen-allergic",
-          "https://www.drugs.com/comments/minoxidil-topical/"
+          "https://stthomastheapostlecatholicchurch.com/wordpress/",
+          "https://stthomastheapostlecatholicchurch.com/wordpress/bulletins/",
+          "https://stthomastheapostlecatholicchurch.com/wordpress/st-bridget/",
+          "https://stthomastheapostlecatholicchurch.com/wordpress/who-we-are/",
+          "https://stthomastheapostlecatholicchurch.com/wordpress/contact-us/",
+          "https://stthomastheapostlecatholicchurch.com/wordpress/our-history/",
+          "https://stthomastheapostlecatholicchurch.com/wordpress/legacy-campaign/",
+          "https://stthomastheapostlecatholicchurch.com/wordpress/category/bulletins/",
+          "https://stthomastheapostlecatholicchurch.com/wordpress/ccd-religious-education/",
+          "https://stthomastheapostlecatholicchurch.com/wordpress/upcoming-events/"
         ],
         "candidates": [
-          "drugs.com",
-          "minoxidil.com",
-          "www.drugs.com",
-          "www.hairlosstalk.com",
-          "www.realself.com"
+          "cross.sept14",
+          "stthomastheapostlecatholicchurch.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "ChunYou/ChunYou.yaml": {
-        "checked_at": "2026-11-05 19:26 UTC",
+        "checked_at": "2026-11-20 05:32 UTC",
         "name": "ChunYou",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.fidelity.com/",
-          "https://digital.fidelity.com/prgw/digital/signin/retail",
-          "https://nb.fidelity.com/static/mybenefits/netbenefitslogin/",
-          "https://digital.fidelity.com/prgw/digital/journeys/loss/report-a-death",
-          "https://www.fidelity.com/security/extra-security-login",
-          "https://institutional.fidelity.com/",
-          "https://login.fidelity.com/ftgw/Fas/Fidelity/NBPart/Upgrade/Init",
-          "https://jobs.fidelity.com/en/jobs/",
-          "https://sponsor.fidelity.com/pspublic/pca/psw/public/homepage.html",
-          "https://login.fidelity.com/ftgw/Fas/Fidelity/RtlCust/Upgrade/Init"
+          "https://en.wikipedia.org/wiki/Adam_LaRoche",
+          "https://www.baseball-reference.com/players/l/larocad01.shtml",
+          "https://buckcommander.com/pages/adam-laroche",
+          "https://e3rf.org/about/",
+          "https://www.hookandbarrel.com/hunting/adam-laroche-from-baseball-and-buck-commander-to-fighting-human-traffickers",
+          "https://www.tmz.com/people/adam-la-roche/",
+          "https://www.inc.com/bill-murphy-jr/this-man-retired-and-gave-up-13-million-because-he-cant-bring-his-son-to-work-a.html",
+          "https://www.facebook.com/adam.laroche.2025/",
+          "https://www.mlb.com/player/adam-laroche-425560",
+          "https://www.espn.com/mlb/player/stats/_/id/5879/adam-laroche"
         ],
         "candidates": [
-          "digital.fidelity.com",
-          "fidelity.com",
-          "institutional.fidelity.com",
-          "jobs.fidelity.com",
-          "login.fidelity.com",
-          "nb.fidelity.com",
-          "sponsor.fidelity.com",
-          "www.fidelity.com"
+          "baseball-reference.com",
+          "buckcommander.com",
+          "e3rf.org",
+          "en.wikipedia.org",
+          "inc.com",
+          "www.baseball-reference.com",
+          "www.espn.com",
+          "www.facebook.com",
+          "www.hookandbarrel.com",
+          "www.inc.com",
+          "www.mlb.com",
+          "www.tmz.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Cisco/Cisco.yaml": {
-        "checked_at": "2026-11-05 19:26 UTC",
+        "checked_at": "2026-11-20 05:32 UTC",
         "name": "Cisco",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.cisco.com/",
           "https://www.netacad.com/",
-          "https://www.cisco.com/site/us/en/learn/training-certifications/training/netacad/index.html",
+          "https://www.netacad.com/cisco-packet-tracer",
+          "https://www.cisco.com/site/us/en/about/index.html",
           "https://en.wikipedia.org/wiki/Cisco",
-          "https://www.netacad.com/login",
+          "https://id.cisco.com/ui/v1.0/profile-ui/personal",
           "https://careers.cisco.com/global/en/home",
-          "https://id.cisco.com/ui/v1.0/profile-ui",
           "https://careers.cisco.com/global/en/search-results",
           "https://learningnetwork.cisco.com/s/",
           "https://directory.cisco.com/"
@@ -172584,81 +172610,81 @@
         "ownership_evidence": []
       },
       "Civitai/Civitai.yaml": {
-        "checked_at": "2026-11-05 19:26 UTC",
+        "checked_at": "2026-11-20 05:32 UTC",
         "name": "Civitai",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://civitai.com/",
+          "https://civitai.red/tools/civitai",
           "https://civitai.com/models",
-          "https://huggingface.co/Civitai",
           "https://civitai.red/models/827184/wai-illustrious-sdxl",
-          "https://en.m.wikipedia.org/wiki/Civitai",
-          "https://civitaiarchive.com/about",
-          "https://github.com/civitai/civitai",
-          "https://civitaiarchive.com/",
-          "https://education.civitai.com/about-us/",
-          "https://education.civitai.com/civitai/"
+          "https://civitaicn.com/",
+          "https://civitai.aiproducthub.cn/",
+          "https://civitai.vip/",
+          "https://civitai.com/tag/lora",
+          "https://civitai.com/ecosystems",
+          "https://civitai.red/models/2735032/master-krea2"
         ],
         "candidates": [
+          "civitai.aiproducthub.cn",
           "civitai.com",
           "civitai.red",
-          "civitaiarchive.com",
-          "education.civitai.com",
-          "en.m.wikipedia.org",
-          "github.com",
-          "huggingface.co"
+          "civitai.vip",
+          "civitaicn.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Classic/Classic.yaml": {
-        "checked_at": "2026-11-05 19:26 UTC",
+        "checked_at": "2026-11-20 05:32 UTC",
         "name": "Classic",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.classic.com/",
           "https://www.merriam-webster.com/dictionary/classic",
-          "https://www.classic.com/search",
           "https://en.wikipedia.org/wiki/Classic",
+          "https://classics.autotrader.com/classic-cars-for-sale/for-sale-in-Gilbert-Arizona-85295",
+          "https://classic.minecraft.net/",
+          "https://classiccars.com/listings/find?state=arizona",
+          "https://www.youtube.com/watch?v=1vhxu2zdPOM",
           "https://classics.autotrader.com/",
           "https://dictionary.cambridge.org/dictionary/english/classic",
-          "https://www.classic.bank/",
-          "https://classiccars.com/",
-          "https://classics.autotrader.com/classic-cars-for-sale",
-          "https://www.thefreedictionary.com/classic"
+          "https://www.wowhead.com/classic/guide/classic-plus-overview"
         ],
         "candidates": [
+          "browsehappy.com",
           "classic.com",
+          "classic.minecraft.net",
           "classiccars.com",
           "classics.autotrader.com",
           "dictionary.cambridge.org",
           "en.wikipedia.org",
-          "www.classic.bank",
           "www.classic.com",
           "www.merriam-webster.com",
-          "www.thefreedictionary.com"
+          "www.wowhead.com",
+          "www.youtube.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Claude/Claude.yaml": {
-        "checked_at": "2026-11-05 19:26 UTC",
+        "checked_at": "2026-11-20 05:32 UTC",
         "name": "Claude",
         "status": "checked",
         "sources": [
           "https://claude.com/",
           "https://claude.ai/",
-          "https://claude.ai/login-Claude",
-          "https://claude.com/download",
-          "https://claude-k12.com/",
+          "https://claude.ai/?hl=es&authuser=0",
+          "https://claude.com/product/overview",
+          "https://platform.claude.com/login",
           "https://support.claude.com/en/articles/13189465-log-in-to-your-claude-account",
           "https://www.anthropic.com/",
           "https://en.wikipedia.org/wiki/Claude_(AI)",
-          "https://platform.claude.com/login",
-          "https://www.anthropic.com/news/claude-2"
+          "https://support.claude.com/en/articles/10065433-install-claude-desktop",
+          "https://academy.claude.com/"
         ],
         "candidates": [
-          "claude-k12.com",
+          "academy.claude.com",
           "claude.ai",
           "claude.com",
           "en.wikipedia.org",
@@ -172667,6 +172693,7 @@
           "www.anthropic.com"
         ],
         "accepted": [
+          "academy.claude.com",
           "claude.ai",
           "claude.com",
           "platform.claude.com",
@@ -172680,172 +172707,156 @@
         ]
       },
       "Cloud/360Cloud/360Cloud.yaml": {
-        "checked_at": "2026-11-06 04:53 UTC",
+        "checked_at": "2026-11-20 05:32 UTC",
         "name": "360Cloud",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://music.youtube.com/watch?v=vTnMn0fEMR0",
-          "https://music.youtube.com/watch?v=73Z7rRx6dnM",
-          "https://www.youtube.com/watch?v=ryTdYnt1eUI",
-          "https://www.youtube.com/watch?v=_cMIlPAnN9U",
-          "https://www.mydailyrosary.com/short-on-time",
-          "https://www.mydailyrosary.com/daily-rosary",
-          "https://www.catholicconnect.io/rosary",
-          "https://www.holyrosarytoday.com/rosary-today/",
-          "https://prayrosary.net/pray/today",
-          "https://rosariointeractivo.com/en/"
+          "https://www.walmart.com/",
+          "https://www.reddit.com/r/WalmartSellers/",
+          "https://www.reddit.com/r/walmart_RX/",
+          "https://www.northeastshooters.com/xen/threads/breaking-multiple-victims-stabbed-at-michigan-walmart-suspect-in-custody.497053/page-3",
+          "https://www.reddit.com/r/walmart/comments/4wlgp4/when_you_applied_online_did_you_have_to_put_your/",
+          "https://www.reddit.com/r/tires/comments/1aq1hy1/avoid_walmart_goodyear_kelly_and_douglas_tires/",
+          "https://www.reddit.com/r/walmart/comments/7eurqd/find_hire_date/",
+          "https://www.reddit.com/r/walmart/comments/6t4nye/remove_associate_discount_from_account/",
+          "https://www.reddit.com/r/Frugal/comments/zeowak/walmart_plus/",
+          "https://www.reddit.com/r/AskAnAmerican/comments/14jrd39/what_do_you_think_about_walmart/"
         ],
         "candidates": [
-          "music.youtube.com",
-          "prayrosary.net",
-          "rosariointeractivo.com",
-          "www.catholicconnect.io",
-          "www.holyrosarytoday.com",
-          "www.mydailyrosary.com",
-          "www.youtube.com"
+          "thepostmillennial.com",
+          "walmart.com",
+          "www.northeastshooters.com",
+          "www.reddit.com",
+          "www.walmart.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Cloud/AkamaiCloud/AkamaiCloud.yaml": {
-        "checked_at": "2026-11-06 04:53 UTC",
+        "checked_at": "2026-11-20 05:32 UTC",
         "name": "AkamaiCloud",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.espn.com/nba/story/_/id/50379717/2027-nba-draft-rankings-top-100-prospects",
-          "https://nbadraftroom.com/2027-nba-mock-draft/",
-          "https://www.nbadraft.net/ranking/bigboard/",
-          "https://www.espn.com/nba/story/_/id/46886245/2026-nba-draft-big-board-rankings-top-100-prospects-players",
-          "https://bleacherreport.com/articles/25497625-top-2027-nba-draft-prospects-know-every-position",
-          "https://www.nba.com/draft/2026/prospects",
-          "https://sports.yahoo.com/articles/nba-rookie-rankings-yaxel-lendeborg-164620258.html",
-          "https://www.nytimes.com/athletic/7732404/2026/11/04/nba-draft-prospects-college-basketball/",
-          "https://fansided.com/nba/2027-nba-draft-big-board-top-60-prospects-as-college-basketball-gets-underway",
-          "https://www.nbadraft.net/2027-nba-extended-mock-draft-1-0/"
+          "https://www.microsoft.com/en-us",
+          "https://account.microsoft.com/account",
+          "https://m365.cloud.microsoft/",
+          "https://account.microsoft.com/account-checkup",
+          "https://myaccount.microsoft.com/",
+          "https://support.microsoft.com/en-us/",
+          "https://myaccount.microsoft.com/%C2%A0-%3E",
+          "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365",
+          "https://en.wikipedia.org/wiki/Microsoft",
+          "https://apps.microsoft.com/"
         ],
         "candidates": [
-          "bleacherreport.com",
-          "fansided.com",
-          "nba.com",
-          "nbadraft.net",
-          "nbadraftroom.com",
-          "sports.yahoo.com",
-          "www.espn.com",
-          "www.nba.com",
-          "www.nbadraft.net",
-          "www.nytimes.com"
+          "account.microsoft.com",
+          "apps.microsoft.com",
+          "en.wikipedia.org",
+          "m365.cloud.microsoft",
+          "myaccount.microsoft.com",
+          "support.microsoft.com",
+          "www.microsoft.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Cloud/BaiduCloud/BaiduCloud.yaml": {
-        "checked_at": "2026-11-06 04:53 UTC",
+        "checked_at": "2026-11-20 05:32 UTC",
         "name": "BaiduCloud",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://genius.com/Billy-joel-uptown-girl-lyrics",
-          "https://www.azlyrics.com/lyrics/billyjoel/uptowngirl.html",
-          "https://m.youtube.com/watch?v=xUZ2TYsEM5Y",
-          "https://www.lyricsmania.com/uptown_girl_lyrics_billy_joel.html",
-          "https://www.songlyrics.com/billy-joel/uptown-girl-lyrics/",
-          "https://m.youtube.com/watch?v=Y5Ai0omTV0M",
-          "https://lyrics.lyricfind.com/lyrics/billy-joel-uptown-girl",
-          "https://www.elyrics.net/read/b/billy-joel-lyrics/uptown-girl-lyrics.html",
-          "https://www.lyricsondemand.com/billy_joel/uptown_girl",
-          "https://www.azlyrics.com/lyrics/westlife/uptowngirl.html"
+          "https://www.microsoft.com/en-us/",
+          "https://support.microsoft.com/en-us/accounts-billing/work-school/sign-in-to-your-work-or-school-account-using-two-step-verification",
+          "https://support.microsoft.com/en-gb/accounts-billing/",
+          "https://techcommunity.microsoft.com/category/windows/discussions/windowsinsiderprogram",
+          "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128",
+          "https://support.microsoft.com/en-gb/edge/print-in-microsoft-edge",
+          "https://support.microsoft.com/en-gb/outlook/install-or-reinstall-classic-outlook-on-a-windows-pc",
+          "https://support.microsoft.com/en-us/accounts-billing/work-school/verifying-your-identity-when-signing-in",
+          "https://techcommunity.microsoft.com/blog/outlook/copilot-in-outlook-new-agentic-experiences-for-email-and-calendar/4499798",
+          "https://techcommunity.microsoft.com/event/techcommunitylive/microsoft-technical-takeoff-2026-windows--intune/4490614"
         ],
         "candidates": [
-          "airwavemusic.tv",
-          "azlyrics.com",
-          "elyrics.net",
-          "genius.com",
-          "lyrics.lyricfind.com",
-          "m.youtube.com",
-          "open.spotify.co",
-          "songlyrics.com",
-          "spoti.fi",
-          "www.azlyrics.com",
-          "www.elyrics.net",
-          "www.lyricsmania.com",
-          "www.lyricsondemand.com",
-          "www.songlyrics.com"
+          "support.microsoft.com",
+          "techcommunity.microsoft.com",
+          "www.microsoft.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Cloud/CloudCN/CloudCN.yaml": {
-        "checked_at": "2026-11-06 04:53 UTC",
+        "checked_at": "2026-11-20 05:32 UTC",
         "name": "CloudCN",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.reddit.com/r/wordle/comments/svk6gq/created_a_compilation_of_wordltype_games_hope_you/",
-          "https://www.reddit.com/r/wordle/comments/1by0mwc/what_other_puzzles_do_you_play_outside_of_wordle/",
-          "https://www.reddit.com/r/tesco/comments/1ah69cm/tescodle_a_wordlestyle_tesco_product_pricing_game/",
-          "https://www.reddit.com/r/northernlion/comments/1857xjq/wake_up_honey_new_dle_just_dropped_costcodle/",
-          "https://www.reddit.com/r/battlefield2042/comments/11o3vnq/what_do_the_sim_and_mps_stats_show/",
-          "https://www.reddit.com/r/pokedokuonline/comments/1ai0s3r/costcodle_play_it_online_at_pokedokuco/",
-          "https://www.reddit.com/r/northernlion/comments/12bsu4n/does_anyone_have_the_full_dles_list/",
-          "https://www.reddit.com/r/wordle/comments/zcocei/heres_all_the_wordle_type_games_ive_been_playing/",
-          "https://www.reddit.com/r/Grimdawn/top/",
-          "https://www.reddit.com/r/Costco/comments/18zhlqz/costcodlecom_for_those_who_spend_too_much_time_at/"
+          "https://support.google.com/youtubemusic/thread/198823490/i-uploaded-a-lot-of-music-to-youtube-music-can-i-download-those-albums-i-could-with-google-play?hl=en",
+          "https://support.google.com/youtube/answer/6308288?hl=en-GB",
+          "https://support.google.com/youtube/answer/7437518?hl=de",
+          "https://support.google.com/youtube/answer/9674101?hl=en",
+          "https://support.google.com/youtube/thread/240581678/hasil-download-di-beranda-youtube-tidak-ada?hl=id",
+          "https://support.google.com/pixelphone/?hl=it",
+          "https://support.google.com/youtube/answer/3376882?hl=nl",
+          "https://support.google.com/youtube/answer/56100?hl=en-GB&co=GENIE.Platform%3DDesktop",
+          "https://support.google.com/youtube/answer/7437518?hl=en",
+          "https://support.google.com/youtube/answer/3227660?hl=ja&co=GENIE.Platform%3DAndroid"
         ],
         "candidates": [
-          "costcodle.com",
-          "pokedoku.co",
-          "www.reddit.com"
+          "support.google.com",
+          "takeout.google.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Cloud/CloudGlobal/CloudGlobal.yaml": {
-        "checked_at": "2026-11-06 04:53 UTC",
+        "checked_at": "2026-11-20 05:32 UTC",
         "name": "CloudGlobal",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://careers.marriott.com/",
-          "https://careers.marriott.com/fr/",
-          "https://careers.marriott.com/brands/jw-marriott/",
-          "https://careers.marriott.com/brands/courtyard/",
-          "https://careers.marriott.com/career-journeys/flex-talent-solutions/jobs",
-          "https://careers.marriott.com/brands/edition/",
-          "https://careers.marriott.com/jobs",
-          "https://careers.marriott.com/career-journeys/corporate/",
-          "https://careers.marriott.com/ja/",
-          "https://careers.marriott.com/brands/element/"
+          "https://www.microsoft.com/en-us/",
+          "https://support.microsoft.com/en-us/accounts-billing/work-school/sign-in-to-your-work-or-school-account-using-two-step-verification",
+          "https://support.microsoft.com/en-gb/accounts-billing/",
+          "https://techcommunity.microsoft.com/category/windows/discussions/windowsinsiderprogram",
+          "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128",
+          "https://support.microsoft.com/en-gb/edge/print-in-microsoft-edge",
+          "https://support.microsoft.com/en-gb/outlook/install-or-reinstall-classic-outlook-on-a-windows-pc",
+          "https://support.microsoft.com/en-us/accounts-billing/work-school/verifying-your-identity-when-signing-in",
+          "https://techcommunity.microsoft.com/blog/outlook/copilot-in-outlook-new-agentic-experiences-for-email-and-calendar/4499798",
+          "https://techcommunity.microsoft.com/event/techcommunitylive/microsoft-technical-takeoff-2026-windows--intune/4490614"
         ],
         "candidates": [
-          "careers.marriott.com"
+          "support.microsoft.com",
+          "techcommunity.microsoft.com",
+          "www.microsoft.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Cloud/HiNet/HiNet.yaml": {
-        "checked_at": "2026-11-06 04:53 UTC",
+        "checked_at": "2026-11-20 05:32 UTC",
         "name": "HiNet",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://ipps-a.army.mil/",
-          "https://www.hrc.army.mil/wcmt-api/sites/default/wcmtfiles/files/27058_0.pdf",
-          "https://en.wikipedia.org/wiki/Integrated_Personnel_and_Pay_System_-_Army",
-          "https://www.army.mil/ippsa",
-          "https://www.caci.com/modernizing-ipps-us-armys-largest-most-complex-personnel-system",
-          "https://ipps-a.army.mil/Site-Index/",
-          "https://www.hrcapps.army.mil/Portal/?page_id=11227",
-          "https://www.youtube.com/c/IPPSA",
-          "https://d.ippsa.com/auth",
-          "https://www.dvidshub.net/video/592512/ippsa-made-simple-army"
+          "https://www.hinet.org/",
+          "https://play.google.com/store/apps/details?id=com.hinettvin&hl=en-US",
+          "https://hinet.hilabs.com/",
+          "https://webmail.hinet.net/",
+          "https://uhcc.hawaii.edu/hinethawaii/",
+          "https://vpn.hinet.org/remote/login?lang=en",
+          "https://hinet.sa/index-en.html",
+          "https://hinet-iptv.en.softonic.com/android",
+          "https://webmail.hinet.net/index_en.html",
+          "https://github.com/TomTomTommi/HiNet"
         ],
         "candidates": [
-          "d.ippsa.com",
-          "en.wikipedia.org",
-          "ipps-a.army.mil",
-          "my.ippsa.army.mil",
-          "www.army.mil",
-          "www.caci.com",
-          "www.dvidshub.net",
-          "www.hrc.army.mil",
-          "www.hrcapps.army.mil",
-          "www.youtube.com"
+          "github.com",
+          "hinet-iptv.en.softonic.com",
+          "hinet.hilabs.com",
+          "hinet.sa",
+          "play.google.com",
+          "uhcc.hawaii.edu",
+          "vpn.hinet.org",
+          "webmail.hinet.net",
+          "www.hinet.org"
         ],
         "accepted": [],
         "ownership_evidence": []
