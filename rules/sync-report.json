@@ -1,7 +1,7 @@
 {
   "upstream": "https://github.com/blackmatrix7/ios_rule_script",
   "revision": "0b6897dc17e0c513d25449c935a9694818e32f0c",
-  "date": "2026-11-21 18:38 UTC",
+  "date": "2026-11-22 04:51 UTC",
   "collections": {
     "rule/Clash/115/115.yaml": {
       "input": 10,
@@ -149018,8 +149018,8 @@
   ],
   "discovery": {
     "engine": "Bing public RSS",
-    "checked_at": "2026-11-21 18:38 UTC",
-    "next_index": 254,
+    "checked_at": "2026-11-22 04:51 UTC",
+    "next_index": 278,
     "attempted": 24,
     "total_collections": 689,
     "verified_additions": {
@@ -174818,67 +174818,78 @@
         "ownership_evidence": []
       },
       "Epic/Epic.yaml": {
-        "checked_at": "2026-11-07 17:21 UTC",
+        "checked_at": "2026-11-22 04:51 UTC",
         "name": "Epic",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.getepic.com/sign-in",
           "https://en.wikipedia.org/wiki/Epic_Games",
-          "https://www.getepic.com/press",
           "https://epic.org/",
+          "https://www.youtube.com/channel/UC5Qk8mWBwtMyEj7iQQYRk1A",
           "https://www.epicgames.com/site/home",
           "https://www.epic.com/",
-          "https://store.epicgames.com/download?lang=en-US"
+          "https://store.epicgames.com/download?lang=en-US",
+          "https://launcher.epicgames.com/",
+          "https://accounts.epicgames.com/",
+          "https://www.imdb.com/title/tt0848537/"
         ],
         "candidates": [
+          "accounts.epicgames.com",
           "en.wikipedia.org",
           "epic.org",
+          "launcher.epicgames.com",
           "store.epicgames.com",
           "www.epic.com",
           "www.epicgames.com",
-          "www.getepic.com"
+          "www.getepic.com",
+          "www.imdb.com",
+          "www.youtube.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Espn/Espn.yaml": {
-        "checked_at": "2026-11-07 17:21 UTC",
+        "checked_at": "2026-11-22 04:51 UTC",
         "name": "Espn",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.espn.com/",
           "https://m.espn.com/general/index",
-          "https://www.espn.com/college-football/",
           "https://plus.espn.com/",
-          "https://global.espn.com/football/",
-          "https://m.espn.com/general/index?wjb",
-          "https://secure.web.plus.espn.com/identity/login",
           "https://www.espn.com/nfl/",
-          "https://www.espn.com/nba/",
-          "https://www.espn.com/fantasy/"
+          "https://x.com/espn",
+          "https://www.youtube.com/@espn",
+          "https://secure.web.plus.espn.com/identity/login",
+          "https://espnpressroom.com/",
+          "https://plus.espn.com/nfl",
+          "https://www.facebook.com/ESPN/"
         ],
         "candidates": [
-          "global.espn.com",
+          "espn.com",
+          "espnpressroom.com",
           "m.espn.com",
           "plus.espn.com",
           "secure.web.plus.espn.com",
-          "www.espn.com"
+          "www.espn.com",
+          "www.facebook.com",
+          "www.youtube.com",
+          "x.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "FOXNOW/FOXNOW.yaml": {
-        "checked_at": "2026-11-07 17:21 UTC",
+        "checked_at": "2026-11-22 04:51 UTC",
         "name": "FOXNOW",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.livenowfox.com/",
           "https://www.fox.com/",
           "https://www.fox.com/shows-movies",
-          "https://www.youtube.com/watch?v=C96oohpWBGw",
           "https://www.livenowfox.com/live",
+          "https://www.youtube.com/watch?v=C96oohpWBGw",
           "https://www.foxnews.com/",
-          "https://www.foxnews.com/fox-news"
+          "https://www.foxnews.com/watch.foxnews.com"
         ],
         "candidates": [
           "www.fox.com",
@@ -174890,111 +174901,109 @@
         "ownership_evidence": []
       },
       "FOXPlus/FOXPlus.yaml": {
-        "checked_at": "2026-11-07 17:21 UTC",
+        "checked_at": "2026-11-22 04:51 UTC",
         "name": "FOXPlus",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.panthers.com/",
-          "https://en.wikipedia.org/wiki/Carolina_Panthers",
-          "https://www.panthers.com/news/",
-          "https://www.espn.com/nfl/team/_/name/car/carolina-panthers",
-          "https://www.nfl.com/teams/carolina-panthers/",
-          "https://www.yardbarker.com/nfl/teams/carolina_panthers/49",
-          "https://www.catscratchreader.com/"
+          "https://plus.aztecsoftware.com/",
+          "https://en.wikipedia.org/wiki/Aztecs",
+          "https://www.britannica.com/topic/Aztec",
+          "https://en.wikipedia.org/wiki/Aztec_Empire",
+          "https://plus.aztecsoftware.com/users/sign_in",
+          "https://education.nationalgeographic.org/resource/aztec-civilization/",
+          "https://www.history.com/articles/aztecs"
         ],
         "candidates": [
+          "education.nationalgeographic.org",
           "en.wikipedia.org",
-          "nfl.com",
-          "panthers.com",
-          "www.catscratchreader.com",
-          "www.espn.com",
-          "www.nfl.com",
-          "www.panthers.com",
-          "www.yardbarker.com"
+          "plus.aztecsoftware",
+          "plus.aztecsoftware.com",
+          "www.britannica.com",
+          "www.history.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Facebook/Facebook.yaml": {
-        "checked_at": "2026-11-07 17:21 UTC",
+        "checked_at": "2026-11-22 04:51 UTC",
         "name": "Facebook",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.facebook.com/",
-          "https://en.wikipedia.org/wiki/Facebook",
-          "https://x.com/facebook",
+          "https://www.facebook.com",
+          "https://m.facebook.com/",
           "https://secure.facebook.com/login/",
-          "https://www.facebook.com/%F0%9D%91%AA%F0%9D%92%90%F0%9D%92%8E%F0%9D%92%91%F0%9D%92%82%F0%9D%92%8F%F0%9D%92%9A-%F0%9D%92%",
+          "https://m.facebook.com/r.php",
+          "https://secure.facebook.com/",
           "https://l.facebook.com/facebook/",
           "https://upload.facebook.com/login/identify/",
-          "https://secure.facebook.com/r.php/?entry_point=login",
-          "https://m.me/login/",
-          "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en_US"
+          "https://www.meta.com/en-gb/facebook-app/",
+          "https://en.m.wikipedia.org/wiki/Facebook",
+          "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en-US"
         ],
         "candidates": [
-          "en.wikipedia.org",
-          "fb.me",
+          "en.m.wikipedia.org",
           "l.facebook.com",
-          "m.me",
+          "m.facebook.com",
           "play.google.com",
           "secure.facebook.com",
           "upload.facebook.com",
           "www.facebook.com",
-          "x.com"
+          "www.meta.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "FanFou/FanFou.yaml": {
-        "checked_at": "2026-11-07 17:21 UTC",
+        "checked_at": "2026-11-22 04:51 UTC",
         "name": "FanFou",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.glamour.com/",
-          "https://www.glamour.com/story/shoe-trends",
-          "https://www.glamour.com/story/i-dress-better-than-my-boss-is-this-a-problem",
-          "https://www.glamour.com/about/glamour-magazine",
-          "https://www.glamour.com/gallery/most-popular-haircuts",
-          "https://www.glamour.com/story/the-slip-bob-is-the-slinky-90s-cut-back-on-our-radar-thanks-to-margot-robbie",
-          "https://www.glamour.com/shopping",
-          "https://www.glamour.com/story/fall-capsule-wardrobe-2026",
-          "https://www.glamour.com/lipstick",
-          "https://www.glamour.com/story/high-vamp-shoes-fall-2026"
+          "https://translate.google.com/details?hl=ar&sl=en&tl=ar&op=translate",
+          "https://translate.google.com/?hl=da-dk",
+          "https://translate.google.com/intl/lv/about/",
+          "https://translate.google.com/intl/sk/about/",
+          "https://translate.google.com/intl/lt/about/",
+          "https://translate.google.com/intl/xh/about/",
+          "https://translate.google.com/intl/el/about/",
+          "https://translate.google.com/intl/ro/about/",
+          "https://translate.google.com/intl/az/about/",
+          "https://translate.google.com/intl/tr/about/"
         ],
         "candidates": [
-          "glamour.com",
-          "www.glamour.com"
+          "translate.google.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "FangZhengDianZi/FangZhengDianZi.yaml": {
-        "checked_at": "2026-11-07 17:21 UTC",
+        "checked_at": "2026-11-22 04:51 UTC",
         "name": "FangZhengDianZi",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://tools.usps.com/go/TrackConfirmAction!input.action",
-          "https://www.net54baseball.com/showthread.php?t=359669",
-          "https://www.net54baseball.com/showthread.php?t=363048",
-          "https://www.net54baseball.com/showthread.php?t=352846",
-          "https://www.net54baseball.com/showthread.php?t=374531",
-          "https://www.net54baseball.com/showthread.php?t=372348",
-          "https://www.net54baseball.com/showthread.php?t=237632",
-          "https://www.net54baseball.com/showthread.php?t=192728",
-          "https://www.net54baseball.com/showthread.php?t=374546",
-          "https://www.net54baseball.com/showthread.php?t=249636"
+          "https://www.microsoft.com/en-us",
+          "https://account.microsoft.com/account",
+          "https://myaccount.microsoft.com/login",
+          "https://m365.cloud.microsoft/",
+          "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365",
+          "https://www.microsoft.com/en-us/download",
+          "https://account.microsoft.com/account-checkup",
+          "https://myaccount.microsoft.com/%C2%A0-%3E",
+          "https://support.microsoft.com/en-us/",
+          "https://en.wikipedia.org/wiki/Microsoft"
         ],
         "candidates": [
-          "net54baseball.com",
-          "tools.usps.com",
-          "usps.com",
-          "www.net54baseball.com"
+          "account.microsoft.com",
+          "en.wikipedia.org",
+          "m365.cloud.microsoft",
+          "myaccount.microsoft.com",
+          "support.microsoft.com",
+          "www.microsoft.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Faronics/Faronics.yaml": {
-        "checked_at": "2026-11-07 17:21 UTC",
+        "checked_at": "2026-11-22 04:51 UTC",
         "name": "Faronics",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -175002,129 +175011,123 @@
           "https://www.faronics.com/en-uk",
           "https://en.wikipedia.org/wiki/Faronics",
           "https://www.deepfreeze.com/Account/Login",
+          "https://www2.faronics.com/Home/Login",
           "https://faronicscloud.com/pages/about-faronics",
+          "https://support.faronics.com/",
           "https://faronicscloud.com/",
-          "https://www.wikiwand.com/en/Faronics",
-          "https://www.faronics.com/products/deep-freeze",
-          "https://www.faronics.com/all-products",
-          "https://www.faronics.com/company/overview"
+          "https://deploy.faronics.com/",
+          "https://api.faronics.com/"
         ],
         "candidates": [
+          "api.faronics.com",
+          "deploy.faronics.com",
           "en.wikipedia.org",
+          "faronics.com",
           "faronicscloud.com",
+          "support.faronics.com",
           "www.deepfreeze.com",
           "www.faronics.com",
-          "www.wikiwand.com"
+          "www2.faronics.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "FeiZhu/FeiZhu.yaml": {
-        "checked_at": "2026-11-07 17:21 UTC",
+        "checked_at": "2026-11-22 04:51 UTC",
         "name": "FeiZhu",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://voice.google.com/",
-          "https://www.nbc.com/the-voice",
-          "https://www.nbc.com/nbc-insider/the-voice-season-30-everything-to-know",
-          "https://support.google.com/voice/answer/1065750?hl=en&co=GENIE.Platform%3DDesktop",
-          "https://www.voicemod.net/",
-          "https://www.youtube.com/@nbcthevoice",
-          "https://voice.ai/",
-          "https://www.facebook.com/NBCTheVoice/",
-          "https://en.wikipedia.org/wiki/The_Voice_(American_TV_series)_season_30",
-          "https://en.wikipedia.org/wiki/The_Voice_(American_TV_series)"
+          "https://drivecar.org/road-signs-glossary/",
+          "https://www.mdpi.com/2673-8392/2/4/119",
+          "https://quizlet.com/1031520418/unit-4-signs-signals-and-road-markingspermit-study-guide-flash-cards/",
+          "https://www.wikihow.com/Understand-Traffic-Signs",
+          "https://www.superprof.com/blog/road-signs-dmv/",
+          "https://www.roadsignstest.com/signs/meanings",
+          "https://dmvprepnow.com/road-signs/"
         ],
         "candidates": [
-          "en.wikipedia.org",
-          "nbc.com",
-          "support.google.com",
-          "voice.ai",
-          "voice.google.com",
-          "www.facebook.com",
-          "www.nbc.com",
-          "www.voicemod.net",
-          "www.youtube.com"
+          "dmvprepnow.com",
+          "drivecar.org",
+          "quizlet.com",
+          "www.mdpi.com",
+          "www.roadsignstest.com",
+          "www.superprof.com",
+          "www.wikihow.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "FengHuangWang/FengHuangWang.yaml": {
-        "checked_at": "2026-11-07 17:21 UTC",
+        "checked_at": "2026-11-22 04:51 UTC",
         "name": "FengHuangWang",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://en.wikipedia.org/wiki/David_Robinson",
-          "https://www.hoophall.com/hall-of-famers/david-robinson",
-          "https://www.youtube.com/watch?v=90kdNUWYMlQ",
-          "https://hofbbplayers.com/david-robinson/",
-          "https://www.teamusa.com/hall-of-fame/hall-of-fame-members/david-robinson",
-          "https://www.hoophall.com/hall-of-famers",
-          "https://www.usab.com/players/david-robinson",
-          "https://www.britannica.com/biography/David-Robinson",
-          "https://www.usna.edu/Notables/Bios/1987robinson.php",
-          "https://www.basketball-reference.com/players/r/robinda01.html"
+          "https://www.disneyplus.com/browse/entity-da8eb910-7fba-44ae-a37e-edd4b4d6630b",
+          "https://www.justwatch.com/us/tv-show/tales-of-the-jedi",
+          "https://www.disneyplus.com/en-sx/browse/entity-da8eb910-7fba-44ae-a37e-edd4b4d6630b",
+          "https://www.lucasfilm.com/productions/star-wars-tales-of-the-jedi/",
+          "https://www.starwars.com/disneyplus",
+          "https://www.themoviedb.org/tv/203085-star-wars-tales-of-the-jedi/watch",
+          "https://www.moviefone.com/tv-shows/star-wars-tales-of-the-jedi/zJNKSTgr3JMbGN0D2sAEl2/where-to-watch/"
         ],
         "candidates": [
-          "basketball-reference.com",
-          "en.wikipedia.org",
-          "hofbbplayers.com",
-          "www.basketball-reference.com",
-          "www.britannica.com",
-          "www.hoophall.com",
-          "www.teamusa.com",
-          "www.usab.com",
-          "www.usna.edu",
-          "www.youtube.com"
+          "lucasfilm.com",
+          "starwars.com",
+          "www.disneyplus.com",
+          "www.justwatch.com",
+          "www.lucasfilm.com",
+          "www.moviefone.com",
+          "www.starwars.com",
+          "www.themoviedb.org"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "FengXiaWangLuo/FengXiaWangLuo.yaml": {
-        "checked_at": "2026-11-07 17:21 UTC",
+        "checked_at": "2026-11-22 04:51 UTC",
         "name": "FengXiaWangLuo",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.justanswer.com/email/gf5p7-old-bellsouth-net-email-account.html",
-          "https://www.justanswer.com/email/e8n9v-e-mail-ends-sbcglobal-net-goes-trash.html",
-          "https://www.justanswer.com/email/jzrou-can-t-accrss-email-old-bellsouth-ema.html",
-          "https://www.justanswer.com/email/mrq7a-having-trouble-accessing-e-mail-sub-account.html",
-          "https://www.justanswer.com/email/afdl4-go-login-old-bellsouth-net-email.html",
-          "https://www.justanswer.com/email/jygnj-wife-email-account.html",
-          "https://www.justanswer.com/email/njiq1-just-told-bellsouth-email-will-no-longer-work.html",
-          "https://www.justanswer.com/email/mftc5-bellsouth-net-switched-yahoo-co-transfer-email.html",
-          "https://www.justanswer.com/email/jz1cs-need-help-resetting-bellsouth-net-email-even.html",
-          "https://www.justanswer.com/email/7jklr-can-t-log-bellsouth-net-email.html"
+          "https://www.reddit.com/r/ChatGPTPromptGenius/",
+          "https://github.com/xuhangc/ChatGPT-Academic-Prompt",
+          "https://www.zhihu.com/question/2089379386889979613",
+          "https://www.zhihu.com/question/2068986574256312589",
+          "https://www.reddit.com/r/ChatGPT/comments/14ryh15/card_declined_issue_while_renewing_chatgpt_plus/",
+          "https://github.com/openai/gpt-2",
+          "https://support.github.com/",
+          "https://www.zhihu.com/question/613509264?write",
+          "https://www.zhihu.com/question/2056888704334144521",
+          "https://github.com/bramses/chatgpt-md"
         ],
         "candidates": [
-          "att.net",
-          "att.net.principal",
-          "bellsouth.net",
-          "imap.mail.att.net",
-          "myatt.net",
-          "sbcglobal.net",
-          "smtp.mail.att.net",
-          "www.justanswer.com"
+          "github.com",
+          "support.github.com",
+          "www.reddit.com",
+          "www.zhihu.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Figma/Figma.yaml": {
-        "checked_at": "2026-11-07 17:21 UTC",
+        "checked_at": "2026-11-22 04:51 UTC",
         "name": "Figma",
         "status": "checked",
         "sources": [
           "https://www.figma.com/",
           "https://www.figma.com/login",
           "https://en.wikipedia.org/wiki/Figma",
+          "https://psxid.figma.com/pblk4",
           "https://help.figma.com/hc/en-us/articles/14563969806359-What-is-Figma",
+          "https://help.figma.com/hc/en-us/sections/23691657321239-Courses-and-collections",
           "https://www.figma.com/downloads/",
-          "https://www.figma.com/design/",
-          "https://www.figma.com/signup"
+          "https://www.figma.com/make/",
+          "https://www.figma.com/signup",
+          "https://www.figma.com/designers/"
         ],
         "candidates": [
           "en.wikipedia.org",
           "help.figma.com",
+          "psxid.figma.com",
           "www.figma.com"
         ],
         "accepted": [],
@@ -175133,88 +175136,88 @@
         ]
       },
       "Fiio/Fiio.yaml": {
-        "checked_at": "2026-11-07 17:21 UTC",
+        "checked_at": "2026-11-22 04:51 UTC",
         "name": "Fiio",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.fiio.com/",
-          "https://www.fiio.com/category",
-          "https://www.amazon.com/FiiO/s?k=FiiO",
-          "https://fiio.eu/category/portable-devices",
-          "https://fiio.eu/vendor/fiio",
-          "https://en.wikipedia.org/wiki/Fiio",
+          "https://fiiohifi.com/",
+          "https://www.fiio.com/player",
           "https://fiiohifi.com/pages/download-center",
+          "https://en.wikipedia.org/wiki/Fiio",
           "https://fiiocontrol.fiio.com/welcome",
-          "https://www.amazon.com/stores/FiiO/page/09C6D6C0-71E3-4540-968D-1F76CDBC4444/",
-          "https://www.sarahleeandjohnny.com/best-fiio-dacs/"
+          "https://fiio.eu/",
+          "https://fiio.eu/category/portable-devices",
+          "https://cn.fiio.com/"
         ],
         "candidates": [
-          "amazon.com",
+          "cn.fiio.com",
           "en.wikipedia.org",
           "fiio.eu",
           "fiiocontrol.fiio.com",
           "fiiohifi.com",
-          "worldwide.the",
-          "www.amazon.com",
-          "www.fiio.com",
-          "www.sarahleeandjohnny.com"
+          "www.fiio.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "FindMy/FindMy.yaml": {
-        "checked_at": "2026-11-07 17:21 UTC",
+        "checked_at": "2026-11-22 04:51 UTC",
         "name": "FindMy",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.icloud.com/find",
           "https://www.apple.com/icloud/find-my/",
           "https://myaccount.google.com/intro/find-your-phone?hl=en-US",
-          "https://www.apple.com/my/icloud/find-my/",
-          "https://www.google.com/android/find/about",
-          "https://support.apple.com/guide/icloud/set-up-find-my-mmfc0f0c67/icloud",
+          "https://www.apple.com/ae/icloud/find-my/",
           "https://support.apple.com/guide/icloud/locate-a-device-mmfc0f2442/icloud",
-          "https://www.apple.com/lae/icloud/find-my/",
-          "https://support.apple.com/en-us/101593",
-          "https://apps.apple.com/us/app/find-my/id1514844621"
+          "https://support.apple.com/guide/icloud/set-up-find-my-mmfc0f0c67/icloud",
+          "https://apps.apple.com/us/app/find-my/id1514844621",
+          "https://en.wikipedia.org/wiki/Find_My",
+          "https://support.apple.com/guide/icloud/intro-to-find-my-mm11a95f979f/icloud",
+          "https://support.apple.com/en-us/102648"
         ],
         "candidates": [
           "apps.apple.com",
+          "en.wikipedia.org",
           "icloud.com",
           "myaccount.google.com",
           "support.apple.com",
           "www.apple.com",
-          "www.google.com",
           "www.icloud.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "FitnessPlus/FitnessPlus.yaml": {
-        "checked_at": "2026-11-07 17:21 UTC",
+        "checked_at": "2026-11-22 04:51 UTC",
         "name": "FitnessPlus",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.blowoutcards.com/blog/tag/drake-maye/",
-          "https://www.blowoutcards.com/wp/wp-content/uploads/2021/05/2021-Topps-Update-MLB-Checklist.pdf",
-          "https://www.blowoutcards.com/blog/first-buzz-2017-tristar-quest-autographs/",
-          "https://www.blowoutcards.com/blog/gallery-2016-leaf-ultimate-draft-football-cards/",
-          "https://www.blowoutcards.com/blog/first-buzz-2019-leaf-autographed-football-mini-helmets/",
-          "https://www.blowoutcards.com/2019-tristar-h-t-football-mini-helmet-platinum-edition-8-box-case.html",
-          "https://www.blowoutcards.com/blog/flipper-tip-dig-up-your-non-rookie-patrick-mahomes-cards/",
-          "https://www.blowoutcards.com/blog/tag/tom-cruise/",
-          "https://www.blowoutcards.com/blog/board-buzz-must-read-threads-on-blowout-forums-nov-24/",
-          "https://www.blowoutcards.com/2018-panini-playbook-football-hobby-16-box-case.html"
+          "https://www.microsoft.com/en-us",
+          "https://account.microsoft.com/account",
+          "https://www.microsoft.com/en-us/download",
+          "https://myaccount.microsoft.com/login",
+          "https://m365.cloud.microsoft/",
+          "https://apps.microsoft.com/",
+          "https://myaccount.microsoft.com/%C2%A0-%3E",
+          "https://account.microsoft.com/account-checkup",
+          "https://support.microsoft.com/en-us/",
+          "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365"
         ],
         "candidates": [
-          "blowoutcards.com",
-          "www.blowoutcards.com"
+          "account.microsoft.com",
+          "apps.microsoft.com",
+          "m365.cloud.microsoft",
+          "myaccount.microsoft.com",
+          "support.microsoft.com",
+          "www.microsoft.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "FlipBoard/FlipBoard.yaml": {
-        "checked_at": "2026-11-07 17:21 UTC",
+        "checked_at": "2026-11-22 04:51 UTC",
         "name": "FlipBoard",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -175223,225 +175226,230 @@
           "https://about.flipboard.com/",
           "https://about.flipboard.com/download-flipboard/",
           "https://en.wikipedia.org/wiki/Flipboard",
-          "https://play.google.com/store/apps/details?id=flipboard.app&hl=en-US"
+          "https://flipboard.com/@login",
+          "https://flipboard.com/@flipboard"
         ],
         "candidates": [
           "about.flipboard.com",
-          "accounts.flipboard.com",
           "en.wikipedia.org",
-          "flipboard.com",
-          "play.google.com"
+          "flipboard.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Flurry/Flurry.yaml": {
-        "checked_at": "2026-11-07 17:21 UTC",
+        "checked_at": "2026-11-22 04:51 UTC",
         "name": "Flurry",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.merriam-webster.com/dictionary/flurry",
           "https://www.flurry.com/",
-          "https://www.flurry.com/analytics/",
+          "https://en.m.wikipedia.org/wiki/Flurry_(company)",
           "https://dictionary.cambridge.org/dictionary/english/flurry",
-          "https://en.wikipedia.org/wiki/Flurry_(company)",
           "https://www.vocabulary.com/dictionary/flurry",
-          "https://dictionary.cambridge.org/us/dictionary/english/flurry",
           "https://www.dictionary.com/browse/flurry",
-          "https://www.merriam-webster.com/thesaurus/flurry",
-          "https://en.wikipedia.org/wiki/Flurry"
+          "https://dictionary.cambridge.org/us/dictionary/english/flurry",
+          "https://www.thefreedictionary.com/flurry",
+          "https://en.m.wikipedia.org/wiki/Flurry",
+          "https://www.merriam-webster.com/thesaurus/flurry"
         ],
         "candidates": [
           "dictionary.cambridge.org",
           "dictionary.com",
-          "en.wikipedia.org",
+          "en.m.wikipedia.org",
           "vocabulary.com",
           "www.dictionary.com",
           "www.flurry.com",
           "www.merriam-webster.com",
+          "www.thefreedictionary.com",
           "www.vocabulary.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Fox/Fox.yaml": {
-        "checked_at": "2026-11-08 04:10 UTC",
+        "checked_at": "2026-11-22 04:51 UTC",
         "name": "Fox",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.fox.com/",
           "https://www.foxnews.com/",
-          "https://www.fox.com/news",
           "https://www.foxnews.com/us",
           "https://www.foxsports.com/",
-          "https://en.wikipedia.org/wiki/Fox",
-          "https://www.firefox.com/en-US/",
-          "https://www.foxsports.com/live",
-          "https://www.youtube.com/@FoxNews",
-          "https://www.livenowfox.com/"
+          "https://www.foxnews.com/person/h/abby-hornacek",
+          "https://www.fox.com/news",
+          "https://www.fox.com/shows-movies",
+          "https://foxs.com/",
+          "https://www.foxnews.com/sports/insane-clown-posse-violent-j-details-pro-wrestling-career-gears-bloodymania-19-juggalo-event",
+          "https://www.foxnews.com/fox-news"
         ],
         "candidates": [
-          "en.wikipedia.org",
           "foxnews.com",
-          "foxsports.com",
-          "www.firefox.com",
+          "foxs.com",
           "www.fox.com",
           "www.foxnews.com",
-          "www.foxsports.com",
-          "www.livenowfox.com",
-          "www.youtube.com"
+          "www.foxsports.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "FreeCodeCamp/FreeCodeCamp.yaml": {
-        "checked_at": "2026-11-08 04:10 UTC",
+        "checked_at": "2026-11-22 04:51 UTC",
         "name": "FreeCodeCamp",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.freecodecamp.org/",
           "https://www.freecodecamp.org/learn",
           "https://www.youtube.com/@freecodecamp",
-          "https://www.freecodecamp.org/catalog",
-          "https://www.freecodecamp.org/learn/python-v9",
-          "https://github.com/freeCodeCamp",
-          "https://en.wikipedia.org/wiki/FreeCodeCamp"
+          "https://preview.freecodecamp.org/",
+          "https://www.freecodecamp.org/?app=1",
+          "https://www.freecodecamp.org/news",
+          "https://www.reddit.com/r/learnprogramming/comments/11air3a/i_completed_every_single_certificate_on/"
         ],
         "candidates": [
-          "en.wikipedia.org",
           "freecodecamp.org",
-          "github.com",
+          "preview.freecodecamp.org",
           "www.freecodecamp.org",
+          "www.reddit.com",
           "www.youtube.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "FuboTV/FuboTV.yaml": {
-        "checked_at": "2026-11-08 04:10 UTC",
+        "checked_at": "2026-11-22 04:51 UTC",
         "name": "FuboTV",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.fubo.tv/",
-          "https://www.fubo.tv/signin",
+          "https://x.com/fuboTV",
           "https://qa-x1.fubo.tv/",
-          "https://support.fubo.tv/hc/en-us/articles/360035300072-How-do-I-sign-in-on-my-TV-using-a-code",
+          "https://www.fubo.tv/signin",
+          "https://auth.fubo.tv/login",
           "https://en.wikipedia.org/wiki/FuboTV",
-          "https://support.fubo.tv/hc/en-us/articles/360021527991-How-do-I-Cancel-My-Fubo-Subscription",
-          "https://www.justwatch.com/us/provider/fubotv",
-          "https://michaelsaves.com/streaming/fubo-tv-review/",
-          "https://www.cabletv.com/fubotv",
-          "https://thestreamable.com/live-tv-streaming/fubotv/channels"
+          "https://www.fubo.tv/stream/tv/",
+          "https://thestreamable.com/live-tv-streaming/fubotv/channels",
+          "https://www.fubo.tv/welcome/plans",
+          "https://www.fubo.tv/welcome/channels"
         ],
         "candidates": [
+          "auth.fubo.tv",
           "en.wikipedia.org",
-          "fubo.tv",
-          "michaelsaves.com",
           "qa-x1.fubo.tv",
-          "support.fubo.tv",
           "thestreamable.com",
-          "www.cabletv.com",
           "www.fubo.tv",
-          "www.justwatch.com"
+          "x.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Funshion/Funshion.yaml": {
-        "checked_at": "2026-11-08 04:10 UTC",
+        "checked_at": "2026-11-22 04:51 UTC",
         "name": "Funshion",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://subscribe.wsj.com/",
-          "https://subscribe.wsj.com/barhpheader/",
-          "https://subscribe.wsj.com/textheader?navSource=subscribeTextLink",
-          "https://subscribe.wsj.com/wsjprofessorprintsub25",
-          "https://subscribe.wsj.com/wsjprocyberdi"
+          "https://www.creditkarma.com/free-credit-score",
+          "https://www.experian.com/blogs/ask-experian/how-do-you-check-your-credit-score/",
+          "https://www.consumerfinance.gov/ask-cfpb/where-can-i-get-my-credit-scores-en-316/",
+          "https://www.transunion.com/free-credit-score",
+          "https://www.creditkarma.com/credit/i/how-to-check-credit-scores",
+          "https://www.usa.gov/credit-reports",
+          "https://www.fidelity.com/learning-center/smart-money/how-to-check-credit-score",
+          "https://www.transunion.com/free-credit-report",
+          "https://www.zillow.com/learn/how-do-i-check-my-credit-score/",
+          "https://www.annualcreditreport.com/index.action"
         ],
         "candidates": [
-          "subscribe.wsj.com"
+          "www.annualcreditreport.com",
+          "www.consumerfinance.gov",
+          "www.creditkarma.com",
+          "www.experian.com",
+          "www.fidelity.com",
+          "www.transunion.com",
+          "www.usa.gov",
+          "www.zillow.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Game/Assassin'sCreed-Odyssey/Assassin'sCreed-Odyssey.yaml": {
-        "checked_at": "2026-11-08 04:10 UTC",
+        "checked_at": "2026-11-22 04:51 UTC",
         "name": "Assassin'sCreed-Odyssey",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.merriam-webster.com/dictionary/assassin",
           "https://en.m.wikipedia.org/wiki/Assassination",
+          "https://www.merriam-webster.com/dictionary/assassin",
           "https://en.m.wikipedia.org/wiki/The_Assassin_(TV_series)",
           "https://m.imdb.com/title/tt33246591/",
-          "https://m.imdb.com/title/tt14555174/",
           "https://dictionary.cambridge.org/dictionary/english/assassin",
+          "https://m.imdb.com/title/tt14555174/",
+          "https://screenrant.com/amc-plus-the-assassin-season-2-freddie-highmore-thriller-must-watch/",
           "https://www.dictionary.com/browse/assassin",
-          "https://www.theguardian.com/tv-and-radio/2026/nov/06/the-assassin-review-keeley-hawes-amazon-prime-video",
-          "https://www.ubisoft.com/en-us/game/assassins-creed",
-          "https://en.m.wiktionary.org/wiki/assassin"
+          "https://www.vocabulary.com/dictionary/assassin",
+          "https://screenrant.com/the-assassin-tv-review/"
         ],
         "candidates": [
           "dictionary.cambridge.org",
           "dictionary.com",
           "en.m.wikipedia.org",
-          "en.m.wiktionary.org",
           "m.imdb.com",
+          "screenrant.com",
+          "vocabulary.com",
           "www.dictionary.com",
           "www.merriam-webster.com",
-          "www.theguardian.com",
-          "www.ubisoft.com"
+          "www.vocabulary.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Game/Assassin'sCreed-Origins/Assassin'sCreed-Origins.yaml": {
-        "checked_at": "2026-11-08 04:10 UTC",
+        "checked_at": "2026-11-22 04:51 UTC",
         "name": "Assassin'sCreed-Origins",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.merriam-webster.com/dictionary/assassin",
           "https://en.m.wikipedia.org/wiki/Assassination",
+          "https://www.merriam-webster.com/dictionary/assassin",
           "https://en.m.wikipedia.org/wiki/The_Assassin_(TV_series)",
           "https://m.imdb.com/title/tt33246591/",
-          "https://m.imdb.com/title/tt14555174/",
           "https://dictionary.cambridge.org/dictionary/english/assassin",
+          "https://m.imdb.com/title/tt14555174/",
+          "https://screenrant.com/amc-plus-the-assassin-season-2-freddie-highmore-thriller-must-watch/",
           "https://www.dictionary.com/browse/assassin",
-          "https://www.theguardian.com/tv-and-radio/2026/nov/06/the-assassin-review-keeley-hawes-amazon-prime-video",
-          "https://www.ubisoft.com/en-us/game/assassins-creed",
-          "https://en.m.wiktionary.org/wiki/assassin"
+          "https://www.vocabulary.com/dictionary/assassin",
+          "https://screenrant.com/the-assassin-tv-review/"
         ],
         "candidates": [
           "dictionary.cambridge.org",
           "dictionary.com",
           "en.m.wikipedia.org",
-          "en.m.wiktionary.org",
           "m.imdb.com",
+          "screenrant.com",
+          "vocabulary.com",
           "www.dictionary.com",
           "www.merriam-webster.com",
-          "www.theguardian.com",
-          "www.ubisoft.com"
+          "www.vocabulary.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Game/Game.yaml": {
-        "checked_at": "2026-11-08 04:10 UTC",
+        "checked_at": "2026-11-22 04:51 UTC",
         "name": "Game",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.carpet-wholesale.com/",
-          "https://www.carpet-wholesale.com/discount-wholesale-carpet.htm",
-          "https://www.carpet-wholesale.com/brandlist-carpet/carpet.php",
-          "https://www.carpet-wholesale.com/clearance.php",
-          "https://www.carpet-wholesale.com/mohawk-carpet.htm",
-          "https://www.carpet-wholesale.com/brandlist-commercial-carpet/commercial-carpet.php",
-          "https://www.carpet-wholesale.com/brandlist-carpet-tile/carpet-tile.php",
-          "https://www.carpet-wholesale.com/brand-shaw-floors/carpet/shaw-floors.php",
-          "https://www.carpet-wholesale.com/flooring-closeouts.php",
-          "https://www.carpet-wholesale.com/about-us.htm"
+          "https://www.crazygames.com/",
+          "https://www.msn.com/en-us/play",
+          "https://www.crazygames.com/new",
+          "https://www.kongregate.com/en",
+          "https://www.microsoft.com/en-US/store/top-free/games/pc",
+          "https://playhop.com/"
         ],
         "candidates": [
-          "www.carpet-wholesale.com"
+          "playhop.com",
+          "www.crazygames.com",
+          "www.kongregate.com",
+          "www.microsoft.com",
+          "www.msn.com"
         ],
         "accepted": [],
         "ownership_evidence": []
