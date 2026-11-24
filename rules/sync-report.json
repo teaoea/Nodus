@@ -1,7 +1,7 @@
 {
   "upstream": "https://github.com/blackmatrix7/ios_rule_script",
   "revision": "0b6897dc17e0c513d25449c935a9694818e32f0c",
-  "date": "2026-11-24 08:10 UTC",
+  "date": "2026-11-24 21:53 UTC",
   "collections": {
     "rule/Clash/115/115.yaml": {
       "input": 10,
@@ -149018,8 +149018,8 @@
   ],
   "discovery": {
     "engine": "Bing public RSS",
-    "checked_at": "2026-11-24 08:10 UTC",
-    "next_index": 374,
+    "checked_at": "2026-11-24 21:53 UTC",
+    "next_index": 398,
     "attempted": 24,
     "total_collections": 689,
     "verified_additions": {
@@ -159455,184 +159455,183 @@
         "ownership_evidence": []
       },
       "Ku6/Ku6.yaml": {
-        "checked_at": "2026-11-10 05:47 UTC",
+        "checked_at": "2026-11-24 21:53 UTC",
         "name": "Ku6",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.reddit.com/r/tiermaker/",
-          "https://www.reddit.com/r/asoiaf/comments/oe5rgs/spoilers_main_biggest_character_tier_list/",
-          "https://www.flipline.com/games/meteorblastor/index.html",
-          "https://www.reddit.com/r/tierlists/comments/qylj9f/is_there_a_way_to_edit_a_tier_list_i_have_saved/",
-          "https://www.reddit.com/r/tiermaker/comments/vkgppk/tiermaker_problem/",
-          "https://www.reddit.com/r/slaythespire/comments/rkooih/world_record_holders_watcher_tier_list/",
-          "https://www.reddit.com/r/danganronpa/comments/iltlea/so_i_made_my_own_tier_list_template_on_tiermaker/",
-          "https://www.reddit.com/r/tiermaker/comments/k9txcd/how_do_i_delete_images/",
-          "https://www.reddit.com/r/tierlists/comments/15jbg35/meta_is_it_just_me_or_is_tiermaker_absolutely/",
-          "https://www.reddit.com/r/tiermaker/comments/qmtv4h/modify_existing_tier_list/"
+          "https://www.reddit.com/r/amazon/comments/4p4rxa/unknown_gift_card_applied_to_my_account/",
+          "https://www.reddit.com/r/BambuLab/comments/1cq8zer/what_is_a_good_pla_filament_avaliable_on_amazon/",
+          "https://www.reddit.com/r/buildapc/comments/w2zf40/is_it_safe_to_buy_a_gpu_from_amazon/",
+          "https://www.reddit.com/r/PokemonTCG/comments/17aych4/have_you_ever_bought_pok%C3%A9mon_cards_off_of_amazon/",
+          "https://www.reddit.com/r/amazonprime/comments/17ef4ug/amazon_keeps_cancelling_all_orders/",
+          "https://www.reddit.com/r/Scams/comments/98u0ps/email_from_accountalertamazoncom/",
+          "https://www.reddit.com/r/amazon/comments/6f4wqy/lpt_when_searching_for_items_paste/",
+          "https://www.reddit.com/r/amazonemployees/",
+          "https://www.reddit.com/r/2007scape/comments/8yvq9d/can_i_use_the_amazon_fire_hd_tablet_for_osrs/",
+          "https://www.reddit.com/r/AmazonArgentina/"
         ],
         "candidates": [
-          "meteors.those",
-          "www.flipline.com",
+          "amazon.com",
+          "mail.scheduler.amazon.jobs",
           "www.reddit.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "KuKeMusic/KuKeMusic.yaml": {
-        "checked_at": "2026-11-10 05:47 UTC",
+        "checked_at": "2026-11-24 21:53 UTC",
         "name": "KuKeMusic",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://earth.google.com/",
-          "https://earth.google.com/web",
-          "https://earth.google.com/intl/earth/versions/",
-          "https://earth.google.com/web/home",
-          "https://earth.google.com/intl/en-US/",
-          "https://earth.google.com/intl/ru/download/ge/index.html",
-          "https://earth.google.com/kmlpreview/",
-          "https://earth.google.com/intl/en_uk/download/ge/index.html",
-          "https://earth.google.com/web/data-layers",
-          "https://earth.google.com/web/tools"
+          "https://lyceene-sapporo.com/kategori/bokep-barat",
+          "https://www.pornhub.com/video/search?search=barat+18",
+          "https://www.pornhub.com/video/search?search=bokep+barat+hd",
+          "https://www.xnxx.com/search/bokep%20barat",
+          "https://xhamster.com/search/bokep+barat",
+          "https://xhamster.com/search/bokep+barat+18+tahun",
+          "https://bokepcrot.cv/category/bokep-barat/",
+          "https://www.sebokep.com/category/bokep-barat/",
+          "https://id.xhamster.com/search/video+bokep+barat?sort=best",
+          "https://id.xhamster.com/categories/american"
         ],
         "candidates": [
-          "earth.google.com"
+          "bokepcrot.cv",
+          "id.xhamster.com",
+          "lyceene-sapporo.com",
+          "pornhub.com",
+          "www.pornhub.com",
+          "www.sebokep.com",
+          "www.xnxx.com",
+          "xhamster.com",
+          "xnxx.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "KuaiDi100/KuaiDi100.yaml": {
-        "checked_at": "2026-11-10 05:47 UTC",
+        "checked_at": "2026-11-24 21:53 UTC",
         "name": "KuaiDi100",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://vrcmods.com/",
-          "https://vrcmods.com/item?id=1063",
-          "https://vrcmods.com/search?sort=hot&cid=2",
-          "https://vrcmods.com/search?sort=hot&cid=9",
-          "https://vrcmods.com/item?id=67",
-          "https://vrcmods.com/item?id=6231",
-          "https://vrcmods.com/login",
-          "https://vrcmods.com/search?sort=hot&cid=1",
-          "https://vrcmods.com/item?id=10502",
-          "https://vrcmods.com/item?id=10708"
+          "https://www.microsoft.com/en-us/",
+          "https://support.microsoft.com/en-us/accounts-billing/work-school/sign-in-to-your-work-or-school-account-using-two-step-verification",
+          "https://support.microsoft.com/en-gb/outlook/install-or-reinstall-classic-outlook-on-a-windows-pc",
+          "https://techcommunity.microsoft.com/category/windows/discussions/windowsinsiderprogram",
+          "https://techcommunity.microsoft.com/category/microsoft365/discussions/word",
+          "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/what%E2%80%99s-new-in-notebooks--may-2026/4519838",
+          "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128",
+          "https://support.microsoft.com/en-us/windows/deployment/install-upgrade/getting-ready-for-the-windows-11-upgrade",
+          "https://support.microsoft.com/en-us/forms/sign-in-to-microsoft-forms",
+          "https://techcommunity.microsoft.com/discussions/windowsinsiderprogram/windows-12-64-bit-download/4023313"
         ],
         "candidates": [
-          "vrcmods.com"
+          "support.microsoft.com",
+          "techcommunity.microsoft.com",
+          "www.microsoft.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "KuaiShou/KuaiShou.yaml": {
-        "checked_at": "2026-11-10 05:47 UTC",
+        "checked_at": "2026-11-24 21:53 UTC",
         "name": "KuaiShou",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.kuaishou.com/",
-          "https://www.kuaishou.com/en",
+          "https://m.kuaishou.com/",
+          "https://en.m.wikipedia.org/wiki/Kuaishou",
+          "https://ir.kuaishou.com/",
+          "https://www.kuaishou.com/?lang=zh",
+          "https://b.kuaishou.com/",
+          "https://k.kuaishou.com/",
           "https://www.kuaishou.cn/brilliant",
-          "https://en.wikipedia.org/wiki/Kuaishou",
-          "https://m.ssl.kuaishou.com/app/",
-          "https://www.kwai.com/",
-          "https://www.kwai.com/aboutus",
           "https://live.kuaishou.com/",
-          "https://www.apkmirror.com/apk/beijing-kuaishou-technology-co-ltd/kuaishou/",
-          "https://www.kuaishou.cn/theater/0"
+          "https://webapp.kuaishou.com/",
+          "https://www.apkmirror.com/apk/beijing-kuaishou-technology-co-ltd/kuaishou/"
         ],
         "candidates": [
-          "en.wikipedia.org",
+          "b.kuaishou.com",
+          "en.m.wikipedia.org",
+          "ir.kuaishou.com",
+          "k.kuaishou.com",
           "live.kuaishou.com",
-          "m.ssl.kuaishou.com",
+          "m.kuaishou.com",
+          "webapp.kuaishou.com",
           "www.apkmirror.com",
           "www.kuaishou.cn",
-          "www.kuaishou.com",
-          "www.kwai.com"
+          "www.kuaishou.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "KuangShi/KuangShi.yaml": {
-        "checked_at": "2026-11-10 05:47 UTC",
+        "checked_at": "2026-11-24 21:53 UTC",
         "name": "KuangShi",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://oldnavy.gap.com/stores/tx/brownsville/oldnavy-6186.html",
-          "https://www.store-locator.info/old-navy/texas/brownsville/old-navy/",
-          "https://storelocatortool.com/v3/old-navy-locations/search.php?store=OLD+NAVY&city=Brownsville&region=TX&country=USA&lat=25.901.747&lon=-97.497.482",
-          "https://www.storeopeninghours.com/old-navy-brownsville-tx",
-          "https://www.storeshours.com/old-navy/texas/brownsville/pablokiselblvd",
-          "https://www.storesinfo.com/old-navy/texas/brownsville/2780-pablo-kisel-blvd.html",
-          "https://www.hoursguide.com/old-navy/brownsville/4713/",
-          "https://oldnavy.gap.com/stores/tx/brownsville",
-          "https://www.loc8nearme.com/texas/brownsville/old-navy/",
-          "https://www.mapquest.com/us/texas/old-navy-9706179"
+          "https://www.microsoft.com/en-us/",
+          "https://support.microsoft.com/en-us/accounts-billing/work-school/sign-in-to-your-work-or-school-account-using-two-step-verification",
+          "https://support.microsoft.com/en-gb/outlook/install-or-reinstall-classic-outlook-on-a-windows-pc",
+          "https://techcommunity.microsoft.com/category/windows/discussions/windowsinsiderprogram",
+          "https://techcommunity.microsoft.com/category/microsoft365/discussions/word",
+          "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/what%E2%80%99s-new-in-notebooks--may-2026/4519838",
+          "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128",
+          "https://support.microsoft.com/en-us/windows/deployment/install-upgrade/getting-ready-for-the-windows-11-upgrade",
+          "https://support.microsoft.com/en-us/forms/sign-in-to-microsoft-forms",
+          "https://techcommunity.microsoft.com/discussions/windowsinsiderprogram/windows-12-64-bit-download/4023313"
         ],
         "candidates": [
-          "oldnavy.gap.com",
-          "storelocatortool.com",
-          "storesinfo.com",
-          "www.hoursguide.com",
-          "www.loc8nearme.com",
-          "www.mapquest.com",
-          "www.store-locator.info",
-          "www.storeopeninghours.com",
-          "www.storeshours.com",
-          "www.storesinfo.com"
+          "support.microsoft.com",
+          "techcommunity.microsoft.com",
+          "www.microsoft.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "KugouKuwo/KugouKuwo.yaml": {
-        "checked_at": "2026-11-10 05:47 UTC",
+        "checked_at": "2026-11-24 21:53 UTC",
         "name": "KugouKuwo",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://fermi.gg/",
-          "https://populationguessr.com/",
-          "https://geoslice.net/",
-          "https://1in8b.life/en/",
-          "https://www.higherorlowergame.com/population/countries/",
-          "https://websim.com/@heyhey2025/live-population-simulator-50-countries-from-2025",
-          "https://blockatlas.com/games/guess-the-population",
-          "https://www.mappr.co/games/population-guess-game/",
-          "https://geoslice.org/",
-          "https://steamcommunity.com/app/691260/"
+          "https://greatergood.berkeley.edu/article/item/doing_something_creative_can_boost_your_well_being",
+          "https://greatergood.berkeley.edu/article/item/how_to_survive_your_midlife_blues",
+          "https://greatergood.berkeley.edu/quizzes/take_quiz/purpose_in_life",
+          "https://greatergood.berkeley.edu/contact",
+          "https://greatergood.berkeley.edu/article/item/happy_life_different_from_meaningful_life",
+          "https://greatergood.berkeley.edu/article/item/how_patience_can_help_you_find_your_purpose",
+          "https://greatergood.berkeley.edu/article/item/three_ways_to_see_meaning_in_your_life",
+          "https://greatergood.berkeley.edu/quizzes/take_quiz/awe",
+          "https://greatergood.berkeley.edu/article/item/why_your_brain_needs_to_dream",
+          "https://greatergood.berkeley.edu/quizzes/take_quiz/happiness_at_work"
         ],
         "candidates": [
-          "1in8b.life",
-          "blockatlas.com",
-          "fermi.gg",
-          "geoslice.net",
-          "geoslice.org",
-          "populationguessr.com",
-          "steamcommunity.com",
-          "websim.com",
-          "www.higherorlowergame.com",
-          "www.mappr.co"
+          "greatergood.berkeley.edu"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "LG/LG.yaml": {
-        "checked_at": "2026-11-10 05:47 UTC",
+        "checked_at": "2026-11-24 21:53 UTC",
         "name": "LG",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.lg.com/us/",
           "https://www.lg.com/us/support",
-          "https://en.m.wikipedia.org/wiki/LG",
+          "https://www.lg.com/us/tvs",
+          "https://en.wikipedia.org/wiki/LG",
           "https://www.lgcorp.com/",
-          "https://solutions.lg.com/us/promotions",
-          "https://en.m.wikipedia.org/wiki/LG_Electronics",
-          "https://www.bestbuy.com/site/brands/lg/pcmcat133000050031.c?id=pcmcat133000050031",
           "https://solutions.lg.com/us/tvs",
-          "https://lgcorp.com/about/lgway/1",
-          "https://www.lg.com/us/tvs"
+          "https://solutions.lg.com/us/",
+          "https://en.wikipedia.org/wiki/LG_Electronics",
+          "https://www.amazon.com/stores/LGElectronics/page/E8585304-4D77-4965-9D22-B5F2CF409E38",
+          "https://parts.lg.com/us",
+          "https://www.bestbuy.com/site/brands/lg/pcmcat133000050031.c?id=pcmcat133000050031"
         ],
         "candidates": [
-          "en.m.wikipedia.org",
+          "amazon.com",
+          "en.wikipedia.org",
           "lg.com",
-          "lgcorp.com",
+          "parts.lg.com",
           "solutions.lg.com",
+          "www.amazon.com",
           "www.bestbuy.com",
           "www.lg.com",
           "www.lgcorp.com"
@@ -159641,28 +159640,28 @@
         "ownership_evidence": []
       },
       "Lan/Lan.yaml": {
-        "checked_at": "2026-11-10 05:47 UTC",
+        "checked_at": "2026-11-24 21:53 UTC",
         "name": "Lan",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.geeksforgeeks.org/computer-networks/what-is-lan-local-area-network/",
-          "https://en.m.wikipedia.org/wiki/Local_area_network",
           "https://www.cisco.com/site/us/en/learn/topics/networking/what-is-a-lan-local-area-network.html",
+          "https://en.wikipedia.org/wiki/Local_area_network",
+          "https://www.latamairlines.com/us/en",
           "https://www.wikihow.com/Configure-Your-PC-to-a-Local-Area-Network",
-          "https://www.geeksforgeeks.org/computer-networks/types-of-area-networks-lan-man-and-wan/",
+          "https://en.wikipedia.org/wiki/Lan",
+          "https://www.merriam-webster.com/dictionary/LAN",
           "https://www.tp-link.com/ph/blog/2067/what-is-a-lan-local-area-network-a-beginner-s-guide/",
           "https://www.cloudflare.com/learning/network-layer/what-is-a-lan/",
-          "https://www.computerhope.com/jargon/l/lan.htm",
-          "https://www.merriam-webster.com/dictionary/LAN",
-          "https://www.howtogeek.com/353283/what-is-a-local-area-network-lan/"
+          "https://www.geeksforgeeks.org/computer-networks/types-of-area-networks-lan-man-and-wan/"
         ],
         "candidates": [
-          "en.m.wikipedia.org",
+          "en.wikipedia.org",
+          "latam.com",
           "www.cisco.com",
           "www.cloudflare.com",
-          "www.computerhope.com",
           "www.geeksforgeeks.org",
-          "www.howtogeek.com",
+          "www.latamairlines.com",
           "www.merriam-webster.com",
           "www.tp-link.com",
           "www.wikihow.com"
@@ -159671,31 +159670,35 @@
         "ownership_evidence": []
       },
       "LanZouYun/LanZouYun.yaml": {
-        "checked_at": "2026-11-10 05:47 UTC",
+        "checked_at": "2026-11-24 21:53 UTC",
         "name": "LanZouYun",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.jcpenney.com/m/jcpenney-coupons",
-          "https://www.jcpenney.com/m/really-big-deals",
-          "https://www.jcpenney.com/d/sales-deals",
-          "https://www.jcpenney.com/g/women/tops?id=cat100210006",
-          "https://www.jcpenney.com/d/jewelry-and-watches",
-          "https://www.jcpenney.com/g/baby-kids/all-girls-clothing/big-girls-7-16-clothing?id=cat11100001195",
-          "https://www.jcpenney.com/g/sale-shop-all-products?s1_deals_and_promotions=SALE&id=cat1007450013",
-          "https://www.jcpenney.com/g/shoes/womens-sandals-flip-flops?id=cat100250193",
-          "https://www.jcpenney.com/signin",
-          "https://www.jcpenney.com/m/digital-books"
+          "https://www.yelp.com/search?cflt=itservices&find_loc=Ninnescah%2C+KS",
+          "https://www.yelp.com/search?find_desc=Desktop+Computer+Repair&find_loc=Ninnescah+Township%2C+KS",
+          "https://www.bestbuy.com/site/services/computer-tablet-services/pcmcat138100050019.c?id=pcmcat138100050019",
+          "https://www.microcenter.com/site/service/service.aspx",
+          "https://www.ubreakifix.com/repairs/laptops-computers",
+          "https://www.microcenter.com/site/service/computer-diagnostics.aspx",
+          "https://geeksonsite.com/services/computer-repair/",
+          "https://www.ubreakifix.com/repairs/laptops-computers/pc",
+          "https://www.hp.com/us-en/tech-takes/laptops/troubleshooting/hp-computer-repair-near-me.html",
+          "https://www.thumbtack.com/k/computer-repair/near-me"
         ],
         "candidates": [
-          "decor.find",
-          "jcp.com",
-          "www.jcpenney.com"
+          "geeksonsite.com",
+          "www.bestbuy.com",
+          "www.hp.com",
+          "www.microcenter.com",
+          "www.thumbtack.com",
+          "www.ubreakifix.com",
+          "www.yelp.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "LastFM/LastFM.yaml": {
-        "checked_at": "2026-11-10 05:47 UTC",
+        "checked_at": "2026-11-24 21:53 UTC",
         "name": "LastFM",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -159704,94 +159707,98 @@
           "https://en.wikipedia.org/wiki/Last.fm",
           "https://www.last.fm/about/trackmymusic",
           "https://www.last.fm/join",
-          "https://www.last.fm/about",
           "https://www.last.fm/music",
-          "https://www.reddit.com/r/lastfm/",
-          "https://store.last.fm/account/login",
-          "https://x.com/lastfm"
+          "https://www.last.fm/es/",
+          "https://stats.fm/",
+          "https://x.com/lastfm",
+          "https://store.last.fm/account/login"
         ],
         "candidates": [
           "en.wikipedia.org",
           "last.fm",
+          "stats.fm",
           "store.last.fm",
           "www.last.fm",
-          "www.reddit.com",
           "x.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "LastPass/LastPass.yaml": {
-        "checked_at": "2026-11-10 05:47 UTC",
+        "checked_at": "2026-11-24 21:53 UTC",
         "name": "LastPass",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://app.lastpass.com/?ac=1",
           "https://www.lastpass.com/",
-          "https://lastpass.com/vault/vault.html",
+          "https://app.lastpass.com/?ac=1",
+          "https://www.lastpass.com/features/password-generator",
           "https://my.lastpass.com/",
-          "https://support.lastpass.com/login",
-          "https://partner.lastpass.com/px/dashboard",
-          "https://en.wikipedia.org/wiki/LastPass"
+          "https://en.wikipedia.org/wiki/LastPass",
+          "https://w1.lastpass.com/login/",
+          "https://w3.lastpass.com/?ac=1"
         ],
         "candidates": [
           "app.lastpass.com",
           "en.wikipedia.org",
-          "lastpass.com",
           "my.lastpass.com",
-          "partner.lastpass.com",
-          "support.lastpass.com",
+          "w1.lastpass.com",
+          "w3.lastpass.com",
           "www.lastpass.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "LeJu/LeJu.yaml": {
-        "checked_at": "2026-11-10 05:47 UTC",
+        "checked_at": "2026-11-24 21:53 UTC",
         "name": "LeJu",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://entsaustin.com/inspire-sleep-apnea-therapy/",
-          "https://austincosmeticexcellence.com/services/sleep-apnea/",
-          "https://www.austinregionalclinic.com/services/ear-nose-and-throat-ent/home-sleep-study",
-          "https://www.txsleepmedicine.com/service/inspire-therapy",
-          "https://sleepdoc.net/services/inspire/",
-          "https://www.austinsleepapneatreatment.com/locations",
-          "https://www.airwayhealth.com/solutions/myofunctional-therapy"
+          "https://en.wikipedia.org/wiki/Miami",
+          "https://www.miami.gov/Home",
+          "https://www.tripadvisor.com/Attractions-g34438-Activities-Miami_Florida.html",
+          "https://travel.usnews.com/Miami_FL/Things_To_Do/",
+          "https://www.miamitourism.org/things-to-do-in-miami/",
+          "https://www.miamitourism.org/",
+          "https://www.visitflorida.com/places-to-go/southeast/miami/",
+          "https://en.wikipedia.org/wiki/Miami_Beach,_Florida",
+          "https://welcome.miami.edu/",
+          "https://www.britannica.com/place/Miami-Florida"
         ],
         "candidates": [
-          "austincosmeticexcellence.com",
-          "entsaustin.com",
-          "sleepdoc.net",
-          "www.airwayhealth.com",
-          "www.austinregionalclinic.com",
-          "www.austinsleepapneatreatment.com",
-          "www.txsleepmedicine.com"
+          "en.wikipedia.org",
+          "travel.usnews.com",
+          "welcome.miami.edu",
+          "www.britannica.com",
+          "www.miami.gov",
+          "www.miamitourism.org",
+          "www.tripadvisor.com",
+          "www.visitflorida.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "LeTV/LeTV.yaml": {
-        "checked_at": "2026-11-10 05:47 UTC",
+        "checked_at": "2026-11-24 21:53 UTC",
         "name": "LeTV",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.youtube.com/channel/UCUuZe7OB0yHSYAfu8annGKQ",
           "https://tv.le.com/",
-          "https://en.wikipedia.org/wiki/LeEco",
-          "https://www.gadgets360.com/mobiles/letv-phones",
-          "https://www.le.com/?from=uc",
           "https://letv.org/",
-          "https://en.wikipedia.org/wiki/Le.com",
+          "https://www.youtube.com/channel/UCUuZe7OB0yHSYAfu8annGKQ",
+          "https://en.wikipedia.org/wiki/LeEco",
           "https://www.le.com/",
-          "https://www.gadgets360.com/letv-s1-pro-price-in-india-115308",
-          "https://music.youtube.com/channel/UCUuZe7OB0yHSYAfu8annGKQ"
+          "https://en.wikipedia.org/wiki/Le.com",
+          "https://www.gadgets360.com/mobiles/letv-phones",
+          "https://movie.le.com/",
+          "https://pitchbook.com/profiles/company/58415-32",
+          "https://tv.le.com/pin/"
         ],
         "candidates": [
           "en.wikipedia.org",
           "le.com",
           "letv.org",
-          "music.youtube.com",
+          "movie.le.com",
+          "pitchbook.com",
           "tv.le.com",
           "www.gadgets360.com",
           "www.le.com",
@@ -159801,7 +159808,7 @@
         "ownership_evidence": []
       },
       "Lenovo/Lenovo.yaml": {
-        "checked_at": "2026-11-10 05:47 UTC",
+        "checked_at": "2026-11-24 21:53 UTC",
         "name": "Lenovo",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -159812,17 +159819,16 @@
           "https://pcsupport.lenovo.com/us/en/",
           "https://en.wikipedia.org/wiki/Lenovo",
           "https://pcsupport.lenovo.com/us/en/selectproduct",
-          "https://www.amazon.com/stores/LENOVO/page/2C6395BA-C701-4025-9D7E-BAE1BD647EEE/",
+          "https://account.lenovo.com/us/en/account/login/",
           "https://www.bestbuy.com/site/lenovo/lenovo-laptops/pcmcat230600050001.c?id=pcmcat230600050001",
-          "https://account.lenovo.com/us/en/signin"
+          "https://store.lenovo.com/"
         ],
         "candidates": [
           "account.lenovo.com",
-          "amazon.com",
           "en.wikipedia.org",
           "pcsupport.lenovo.com",
+          "store.lenovo.com",
           "support.lenovo.com",
-          "www.amazon.com",
           "www.bestbuy.com",
           "www.lenovo.com"
         ],
@@ -159830,71 +159836,86 @@
         "ownership_evidence": []
       },
       "LiTV/LiTV.yaml": {
-        "checked_at": "2026-11-10 05:47 UTC",
+        "checked_at": "2026-11-24 21:53 UTC",
         "name": "LiTV",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://purplepainforums.com/thread/9844/fire-ko?page=8",
-          "https://purplepainforums.com/thread/9447/2026-vikings-schedule?page=3",
-          "https://purplepainforums.com/thread/9866/life-vikings-fan",
-          "https://purplepainforums.com/",
-          "https://purplepainforums.com/thread/9511/preseason-game-3-vikings-broncos?page=2",
-          "https://purplepainforums.com/thread/9525/vikings-2026-season-pressers-injuries?page=10",
-          "https://purplepainforums.com/thread/9838/vikings-bucs-depth-chart-preview",
-          "https://purplepainforums.com/thread/687/vikings-detroit-1-quick-notes?page=1",
-          "https://purplepainforums.com/page/chat-room",
-          "https://purplepainforums.com/thread/9858/week-vikes-saints-support-group"
+          "https://www.litv.tv/",
+          "https://www.litv.tv/drama",
+          "https://www.libtv.com/",
+          "https://www.lite.tv/",
+          "https://www.linetv.tw/",
+          "https://www.youtube.com/LiTVsercive",
+          "https://litv.chinatimes.com/",
+          "https://studybible.info/version/LITV",
+          "https://fetfriday.svc.litv.tv/",
+          "https://play.google.com/store/apps/details?id=com.litv.cable.home&hl=en-US"
         ],
         "candidates": [
-          "purplepainforums.com"
+          "fetfriday.svc.litv.tv",
+          "litv.chinatimes.com",
+          "play.google.com",
+          "studybible.info",
+          "www.libtv.com",
+          "www.linetv.tw",
+          "www.lite.tv",
+          "www.litv.tv",
+          "www.youtube.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "LianMeng/LianMeng.yaml": {
-        "checked_at": "2026-11-10 05:47 UTC",
+        "checked_at": "2026-11-24 21:53 UTC",
         "name": "LianMeng",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://developer.android.com/guide/topics/ui/accessibility/",
-          "https://developer.android.com/training/testing/fundamentals",
-          "https://developer.android.com/studio/terms",
-          "https://developer.android.com/guide/components/fundamentals",
-          "https://developer.android.com/privacy-and-security/security-tips",
-          "https://developer.android.com/studio/run/emulator",
-          "https://developer.android.com/reference/android/app/Application",
-          "https://developer.android.com/samples/",
-          "https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app",
-          "https://developer.android.com/training/data-storage/"
+          "https://aureliahouses.com/articles/renting-with-580-credit-score/",
+          "https://wallethub.com/answers/cs/can-i-get-an-apartment-with-a-580-credit-score-1000790-2140901504/",
+          "https://creditbooster.com/learn/can-i-rent-an-apartment-with-580-credit-score",
+          "https://elegantroost.com/articles/navigating-apartment-rentals-580-credit-score/",
+          "https://creditscoreclimb.com/what-can-you-get-with-a-580-credit-score-rent-an-apartment/",
+          "https://thecreditpros.com/cs/can-i-get-an-apartment-with-a-580-credit-score-tips-and-experiences/",
+          "https://infoheist.com/can-i-rent-an-apartment-with-a-580-credit-score/",
+          "https://www.zillow.com/learn/how-to-get-an-apartment-with-bad-credit/",
+          "https://www.thecreditpeople.com/credit-score/what-is-a-low-credit-score-for-renting-really",
+          "https://www.leaserunner.com/blog/renting-to-tenants-with-bad-credit"
         ],
         "candidates": [
-          "androidmanifest.xml",
-          "developer.android.com"
+          "aureliahouses.com",
+          "creditbooster.com",
+          "creditscoreclimb.com",
+          "elegantroost.com",
+          "infoheist.com",
+          "thecreditpros.com",
+          "wallethub.com",
+          "www.leaserunner.com",
+          "www.thecreditpeople.com",
+          "www.zillow.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Limelight/Limelight.yaml": {
-        "checked_at": "2026-11-10 05:47 UTC",
+        "checked_at": "2026-11-24 21:53 UTC",
         "name": "Limelight",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.limelight.pk/",
-          "https://en.wikipedia.org/wiki/Lime_light",
+          "https://www.limelighthotels.com/boulder",
+          "https://www.limelighthotels.com/denver",
+          "https://www.limelightusa.com/",
           "https://www.merriam-webster.com/dictionary/limelight",
+          "https://en.m.wikipedia.org/wiki/Lime_light",
           "https://limelightvision.io/",
           "https://limelight.store/",
-          "https://www.limelight.pk/collections/sale",
-          "https://en.wikipedia.org/wiki/Limelight_(1952_film)",
-          "https://www.history.com/articles/where-did-the-phrase-in-the-limelight-come-from",
-          "https://www.limelighthotels.com/",
-          "https://www.limelightusa.com/"
+          "https://en.m.wikipedia.org/wiki/Limelight_(1952_film)",
+          "https://www.limelight.pk/collections/women-sale"
         ],
         "candidates": [
-          "en.wikipedia.org",
+          "en.m.wikipedia.org",
           "limelight.store",
           "limelightvision.io",
-          "www.history.com",
           "www.limelight.pk",
           "www.limelighthotels.com",
           "www.limelightusa.com",
@@ -159904,72 +159925,70 @@
         "ownership_evidence": []
       },
       "Line/Line.yaml": {
-        "checked_at": "2026-11-10 19:15 UTC",
+        "checked_at": "2026-11-24 21:53 UTC",
         "name": "Line",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://line.me/en",
           "https://apps.microsoft.com/detail/xpfcc4cd725961",
+          "https://line.me/",
           "https://fm2.lineapplication.me/oauth2/v2.1/login/1",
           "https://en.wikipedia.org/wiki/Line_(software)",
-          "https://line.me/",
           "https://chromewebstore.google.com/detail/line/ophjlpahpchlmihnnnihgmmeilfjmjjc",
+          "https://help.line.me/line/?lang=en&contentId=20001192",
+          "https://line.me/tw/",
           "https://page.line.biz/",
-          "https://gm.lineapplication.me/oauth2/v2.1/qrcode/1",
-          "https://apps.apple.com/us/app/line/id443904275"
+          "https://www.lineco.org/"
         ],
         "candidates": [
-          "apps.apple.com",
           "apps.microsoft.com",
           "chromewebstore.google.com",
           "en.wikipedia.org",
           "fm2.lineapplication.me",
-          "gm.lineapplication.me",
+          "help.line.me",
           "line.me",
-          "page.line.biz"
+          "page.line.biz",
+          "www.lineco.org"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "LineTV/LineTV.yaml": {
-        "checked_at": "2026-11-10 19:15 UTC",
+        "checked_at": "2026-11-24 21:53 UTC",
         "name": "LineTV",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.nbc.com/american-ninja-warrior",
-          "https://www.nbc.com/nbc-insider/american-ninja-warrior-schedule-change-july-20-27-2026-episodes",
-          "https://help.nbc.com/hc/en-us/articles/360016448294-How-Do-I-Get-Tickets-to-Watch-a-Live-Taping-of-an-NBC-Show",
-          "https://www.nbc.com/nbc-insider/meagan-martin-american-ninja-warrior-history-career",
-          "https://www.nbc.com/nbc-insider/american-ninja-warrior-season-14-winner-results",
-          "https://www.nbc.com/nbc-insider/american-ninja-warrior-winners-every-last-ninja-standing",
-          "https://www.nbc.com/nbc-insider/american-ninja-warrior-season-18-winner-revealed",
-          "https://www.nbc.com/nbc-insider/american-ninja-warrior-renewed-season-19-20",
-          "https://www.nbc.com/nbc-insider/how-to-get-tickets-to-an-american-ninja-warrior-taping",
-          "https://www.nbc.com/american-ninja-warrior/exclusives/anw-bracket"
+          "https://www.roblox.com/",
+          "https://devforum.roblox.com/t/pixelfix-remove-the-black-edges-on-scaled-images/201802",
+          "https://devforum.roblox.com/t/can-you-get-banned-for-using-reshade-on-roblox/793199",
+          "https://www.reddit.com/r/roblox/comments/7wyk97/roblox_cant_move_with_keyboard_keys/",
+          "https://www.reddit.com/r/roblox/comments/smnrwp/wat_is_that_roblox/",
+          "https://devforum.roblox.com/t/ban-api-new-device-blocking-capability/4668265",
+          "https://devforum.roblox.com/t/how-to-use-the-roblox-app-beta-mac-windows/1145255",
+          "https://devforum.roblox.com/t/administer-modern-modular-free-admin-system-12/3179989",
+          "https://devforum.roblox.com/t/how-to-use-loadstrings/605158",
+          "https://devforum.roblox.com/c/bug-reports/10"
         ],
         "candidates": [
-          "help.nbc.com",
-          "nbc.com",
-          "www.nbc.com"
+          "devforum.roblox.com",
+          "www.reddit.com",
+          "www.roblox.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Linguee/Linguee.yaml": {
-        "checked_at": "2026-11-10 19:15 UTC",
+        "checked_at": "2026-11-24 21:53 UTC",
         "name": "Linguee",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.linguee.com/",
-          "https://www.linguee.com/english-french",
           "https://www.linguee.es/",
           "https://www.linguee.fr/",
+          "https://www.linguee.com/english-french",
           "https://www.linguee.de/",
-          "https://www.linguee.fr/francais-anglais",
           "https://www.linguee.com.br/",
-          "https://www.linguee.com/english-spanish",
-          "https://www.linguee.com/english-german",
-          "https://www.linguee.es/espanol-ingles/traduccion/traductor.html"
+          "https://www.linguee.fr/francais-anglais"
         ],
         "candidates": [
           "www.linguee.com",
@@ -159982,50 +160001,50 @@
         "ownership_evidence": []
       },
       "LinkedIn/LinkedIn.yaml": {
-        "checked_at": "2026-11-10 19:15 UTC",
+        "checked_at": "2026-11-24 21:53 UTC",
         "name": "LinkedIn",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.linkedin.com/",
           "https://www.linkedin.com/login/",
           "https://in.linkedin.com/company/linkedin",
-          "https://www.facebook.com/LinkedIn/",
+          "https://gb.linkedin.com/",
           "https://fr.linkedin.com/",
-          "https://en.wikipedia.org/wiki/LinkedIn",
+          "https://mx.linkedin.com/",
+          "https://ca.linkedin.com/company/linkedin",
+          "https://it.linkedin.com/",
           "https://de.linkedin.com/",
-          "https://octopuscrm.io/blog/what-is-linkedin-and-how-to-use-it/",
-          "https://www.pcmag.com/news/everything-businesses-need-to-know-about-linkedin",
-          "https://www.youtube.com/watch?v=AdVgWnviBJM"
+          "https://en.wikipedia.org/wiki/LinkedIn"
         ],
         "candidates": [
+          "ca.linkedin.com",
           "de.linkedin.com",
           "en.wikipedia.org",
           "fr.linkedin.com",
+          "gb.linkedin.com",
           "in.linkedin.com",
-          "octopuscrm.io",
-          "www.facebook.com",
-          "www.linkedin.com",
-          "www.pcmag.com",
-          "www.youtube.com"
+          "it.linkedin.com",
+          "mx.linkedin.com",
+          "www.linkedin.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Linux/Linux.yaml": {
-        "checked_at": "2026-11-10 19:15 UTC",
+        "checked_at": "2026-11-24 21:53 UTC",
         "name": "Linux",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.linux.org/pages/download/",
-          "https://en.wikipedia.org/wiki/Linux",
           "https://www.linux.org/",
-          "https://www.geeksforgeeks.org/linux-unix/linux-tutorial/",
+          "https://en.wikipedia.org/wiki/Linux",
           "https://www.linux.com/what-is-linux/",
-          "https://ubuntu.com/download",
-          "https://www.comptia.org/en-us/certifications/linux/",
           "https://www.linuxmint.com/download.php",
-          "https://www.oracle.com/linux/what-is-linux/",
-          "https://www.geeksforgeeks.org/linux-unix/introduction-to-linux-operating-system/"
+          "https://ubuntu.com/download",
+          "https://www.geeksforgeeks.org/linux-unix/linux-tutorial/",
+          "https://www.redhat.com/en/topics/linux/what-is-linux",
+          "https://en.wikipedia.org/wiki/Linux_distribution",
+          "https://www.linux.com/training-tutorials/complete-beginners-guide-linux/"
         ],
         "candidates": [
           "distrowatch.com",
@@ -160033,60 +160052,66 @@
           "linux.com",
           "linux.org",
           "ubuntu.com",
-          "www.comptia.org",
           "www.geeksforgeeks.org",
           "www.linux.com",
           "www.linux.org",
           "www.linuxmint.com",
-          "www.oracle.com"
+          "www.redhat.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "LivePerson/LivePerson.yaml": {
-        "checked_at": "2026-11-10 19:15 UTC",
+        "checked_at": "2026-11-24 21:53 UTC",
         "name": "LivePerson",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.liveperson.com/",
+          "https://authentication.liveperson.net/accountSelection.html?source=login_html",
           "https://authentication.liveperson.net/login.html?lpservice=liveengage&servicepath=a/~~accountid~~/",
           "https://en.wikipedia.org/wiki/LivePerson",
-          "https://authentication.liveperson.net/accountSelection.html?source=login_html",
           "https://www.liveperson.com/company/",
           "https://pr.liveperson.com/",
-          "https://www.liveperson.com/company/leadership/",
+          "https://community.liveperson.com/",
           "https://www.liveperson.com/products/conversational-cloud/",
-          "https://www.liveperson.com/company/careers/",
-          "https://www.liveperson.com/products/ai-chatbots/"
+          "https://www.liveperson.com/products/ai-chatbots/",
+          "https://www.linkedin.com/company/liveperson"
         ],
         "candidates": [
           "authentication.liveperson.net",
+          "community.liveperson.com",
           "en.wikipedia.org",
           "pr.liveperson.com",
+          "www.linkedin.com",
           "www.liveperson.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Logitech/Logitech.yaml": {
-        "checked_at": "2026-11-10 19:15 UTC",
+        "checked_at": "2026-11-24 21:53 UTC",
         "name": "Logitech",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.logitech.com/en-us",
-          "https://www.logitechg.com/en-us/software/ghub",
-          "https://www.logitech.com/en-us/shop",
           "https://www.logitechg.com/en-us",
-          "https://support.logi.com/hc/en-gb?lang=en",
-          "https://support.logi.com/hc/change_language/en-us?return_to=%2Fhc%2Fen-us",
-          "https://en.wikipedia.org/wiki/Logitech",
-          "https://www.logitech.com/en-us/software",
           "https://www.logitech.com/en-us/shop/c/mice",
-          "https://www.logitech.com/en-us/support.html"
+          "https://www.logitechg.com/en-us/software/ghub",
+          "https://support.logi.com/hc/en-gb?lang=en",
+          "https://sync.logitech.com/",
+          "https://en.wikipedia.org/wiki/Logitech",
+          "https://play.logitech.com/",
+          "https://www.amazon.com/stores/Logitech/page/01EFDE77-7D1A-41D7-9EEA-7C2FA22AB12F",
+          "https://hub.sync.logitech.com/syncapp"
         ],
         "candidates": [
+          "amazon.com",
           "en.wikipedia.org",
+          "hub.sync.logitech.com",
+          "play.logitech.com",
           "support.logi.com",
+          "sync.logitech.com",
+          "www.amazon.com",
           "www.logitech.com",
           "www.logitechg.com"
         ],
