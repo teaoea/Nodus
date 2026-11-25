@@ -1,7 +1,7 @@
 {
   "upstream": "https://github.com/blackmatrix7/ios_rule_script",
   "revision": "0b6897dc17e0c513d25449c935a9694818e32f0c",
-  "date": "2026-11-25 06:47 UTC",
+  "date": "2026-11-25 20:59 UTC",
   "collections": {
     "rule/Clash/115/115.yaml": {
       "input": 10,
@@ -149018,8 +149018,8 @@
   ],
   "discovery": {
     "engine": "Bing public RSS",
-    "checked_at": "2026-11-25 06:47 UTC",
-    "next_index": 422,
+    "checked_at": "2026-11-25 20:59 UTC",
+    "next_index": 446,
     "attempted": 24,
     "total_collections": 689,
     "verified_additions": {
@@ -160794,68 +160794,68 @@
         "ownership_evidence": []
       },
       "Mojitianqi/Mojitianqi.yaml": {
-        "checked_at": "2026-11-11 04:29 UTC",
+        "checked_at": "2026-11-25 20:59 UTC",
         "name": "Mojitianqi",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://thegameslayer.com/guides/dispatch-spare-or-kill-shroud/",
-          "https://www.playerauctions.com/guide/other/single-player-games/dispatch-kill-or-spare-shroud-results-consequences/",
-          "https://www.wikihow.com/Dispatch-Endings",
-          "https://www.noobfeed.com/articles/dispatch-episode-8-important-choices-all-endings",
-          "https://tposegaming.com/dispatch-all-endings-guide/",
-          "https://intoindiegames.com/walkthroughs/dispatch-complete-endings-guide/",
-          "https://steamcommunity.com/app/2592160/discussions/0/682985658886765735/",
-          "https://steamcommunity.com/app/2592160/discussions/0/682985658887020848/",
-          "https://www.thepopverse.com/gaming-dispatch-invisigal-ending-reddit-calculations-villain-hero-visi",
-          "https://gamerant.com/should-you-choose-spare-or-kill-shroud-dispatch-episode-8/"
+          "https://latech.bncollege.com/customer-service",
+          "https://www.chamberofcommerce.com/business-directory/louisiana/ruston/book-store/2025794489-louisiana-tech-bookstore",
+          "https://www.loc8nearme.com/louisiana/ruston/louisiana-tech-bookstore/2972947/",
+          "https://latech-roomservice.bncollege.com/customer-service",
+          "https://www.latech.edu/contact.php",
+          "https://local.us-info.com/USLA100018769-3182573066/louisiana_tech_bookstore-ruston.html",
+          "https://latech.bncollege.com/",
+          "https://www.rustonlincoln.com/directory/louisiana-tech-bookstore/",
+          "https://m.facebook.com/pages/Louisiana-Tech-University-Bookstore/113444585372889/",
+          "https://opendatany.com/place.php?id=ChIJ04FlBXLFMYYRjHqa7NYOBaU"
         ],
         "candidates": [
-          "gamerant.com",
-          "intoindiegames.com",
-          "steamcommunity.com",
-          "thegameslayer.com",
-          "tposegaming.com",
-          "www.noobfeed.com",
-          "www.playerauctions.com",
-          "www.thepopverse.com",
-          "www.wikihow.com"
+          "latech-roomservice.bncollege.com",
+          "latech.bncollege.com",
+          "local.us-info.com",
+          "m.facebook.com",
+          "opendatany.com",
+          "www.chamberofcommerce.com",
+          "www.latech.edu",
+          "www.loc8nearme.com",
+          "www.rustonlincoln.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Movefree/Movefree.yaml": {
-        "checked_at": "2026-11-11 04:29 UTC",
+        "checked_at": "2026-11-25 20:59 UTC",
         "name": "Movefree",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.xnxx.com/todays-selection/",
-          "https://www.xnxx.com/",
-          "https://m-xnxx.com/todays-selection",
-          "https://xnxx.watch/todays-selection",
-          "https://m-xnxx.com/todays-selection/en/",
-          "https://www.xvideos.com/tags/xnxx",
-          "https://www.xvideos.com/tags/xxnx",
-          "https://www.xnxx20.com/search/new",
-          "https://en.xnxx.place/hits/week",
-          "https://xnxx.health/todays-selection/"
+          "https://www.schiffvitamins.com/pages/move-free/",
+          "https://www.movefree.com.hk/",
+          "https://www.schiffvitamins.com/collections/move-free/",
+          "https://www.walmart.com/browse/move-free/YnJhbmQ6TW92ZSBGcmVl",
+          "https://zhuanlan.zhihu.com/p/505988655",
+          "https://www.amazon.com/stores/MoveFree/page/883FF37A-00A2-4C81-B49C-88D11DF0C61C",
+          "https://www.movefree.com.cn/product/",
+          "https://www.costco.com/p/-/schiff-move-free-advanced-joint-supplement-200-tablets/100338957",
+          "https://baike.baidu.com/item/%E7%9B%8A%E8%8A%82/23723597",
+          "https://www.movefree.com.cn/"
         ],
         "candidates": [
-          "com.xnxx",
-          "en.xnxx.place",
-          "m-xnxx.com",
-          "www.xnxx.com",
-          "www.xnxx20.com",
-          "www.xvideos.com",
-          "xnxx.com",
-          "xnxx.health",
-          "xnxx.watch",
-          "xvideos.com"
+          "amazon.com",
+          "baike.baidu.com",
+          "walmart.com",
+          "www.amazon.com",
+          "www.costco.com",
+          "www.movefree.com.cn",
+          "www.movefree.com.hk",
+          "www.schiffvitamins.com",
+          "www.walmart.com",
+          "zhuanlan.zhihu.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Mozilla/Mozilla.yaml": {
-        "checked_at": "2026-11-11 04:29 UTC",
+        "checked_at": "2026-11-25 20:59 UTC",
         "name": "Mozilla",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -160864,16 +160864,15 @@
           "https://www.mozilla.org/",
           "https://www.firefox.com/en-US/download/windows/",
           "https://en.wikipedia.org/wiki/Mozilla",
-          "https://apps.microsoft.com/detail/9nzvdkpmr9rd",
-          "https://en.wikipedia.org/wiki/Mozilla_Corporation",
-          "https://www.firefox.com/",
-          "https://www.mozilla.org/en-US/products/",
-          "https://www.mozilla.org/en-US/about/"
+          "https://login.mozilla.com/",
+          "https://apps.microsoft.com/detail/9nzvdkpmr9rd"
         ],
         "candidates": [
           "apps.microsoft.com",
           "en.wikipedia.org",
           "firefox.com",
+          "login.mozilla.com",
+          "mozilla.org",
           "www.firefox.com",
           "www.mozilla.org"
         ],
@@ -160881,37 +160880,36 @@
         "ownership_evidence": []
       },
       "My5/My5.yaml": {
-        "checked_at": "2026-11-11 04:29 UTC",
+        "checked_at": "2026-11-25 20:59 UTC",
         "name": "My5",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.channel5.com/",
-          "https://www.channel5.com/tv-guide/",
-          "https://activate.channel5.com/index.html",
-          "https://www.freeview.co.uk/get-freeview-play/channels/5-app",
-          "https://help.channel5.com/hc/en-gb/articles/22513314772637-How-to-sign-in-to-the-5-app-on-a-TV-streaming-device",
-          "https://www.amazon.com/Channel-5-My5/dp/B00ICKFR7Q",
-          "https://www.youtube.com/c/channel5",
-          "https://play.google.com/store/apps/details?id=com.channel5.my5&hl=en-US",
-          "https://myfivevibes.com/",
-          "https://en.wikipedia.org/wiki/5_(streaming_service)"
+          "https://capriottis.com/location/waialae-ave-25380836",
+          "https://capriottis.com/",
+          "https://www.yelp.com/biz/capriottis-sandwich-shop-honolulu",
+          "https://web.capriottis.com/shop-menu",
+          "https://vre.incentrev.com/Honolulu/9000273-capriottis-sandwich-shop",
+          "https://en.wikipedia.org/wiki/Capriotti%27s_Sandwich_Shop",
+          "https://www.ubereats.com/store/capriottis-sandwich-shop-hi100392/EvL0lb9zVl6sEmOE8tzJrA",
+          "https://www.restaurantji.com/hi/honolulu/capriottis-sandwich-shop-/",
+          "https://www.doordash.com/store/capriotti's-sandwich-shop-honolulu-25380836/",
+          "https://www.ubereats.com/store/capriottis-sandwich-shop-hi480/L0OeXg5NUuWQShFobhVK-A"
         ],
         "candidates": [
-          "activate.channel5.com",
+          "capriottis.com",
           "en.wikipedia.org",
-          "help.channel5.com",
-          "myfivevibes.com",
-          "play.google.com",
-          "www.amazon.com",
-          "www.channel5.com",
-          "www.freeview.co.uk",
-          "www.youtube.com"
+          "vre.incentrev.com",
+          "web.capriottis.com",
+          "www.doordash.com",
+          "www.restaurantji.com",
+          "www.ubereats.com",
+          "www.yelp.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "NBC/NBC.yaml": {
-        "checked_at": "2026-11-11 04:29 UTC",
+        "checked_at": "2026-11-25 20:59 UTC",
         "name": "NBC",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -160919,19 +160917,20 @@
           "https://www.nbcnews.com/",
           "https://www.nbc.com/live",
           "https://www.nbcnews.com/us-news",
-          "https://en.wikipedia.org/wiki/NBC",
-          "https://www.komu.com/",
+          "https://en.m.wikipedia.org/wiki/NBC",
+          "https://www.kgw.com/",
+          "https://kobi5.com/",
           "https://www.nbc.com/%20%20",
-          "https://www.nbcnews.com/nightly-news",
           "https://www.nbcnews.com/watch",
-          "https://www.nbc.com/live-stream"
+          "https://www.nbcnews.com/latest-stories"
         ],
         "candidates": [
-          "en.wikipedia.org",
-          "komu.com",
+          "en.m.wikipedia.org",
+          "kgw.com",
+          "kobi5.com",
           "nbc.com",
           "nbcnews.com",
-          "www.komu.com",
+          "www.kgw.com",
           "www.nbc.com",
           "www.nbcnews.com"
         ],
@@ -160939,255 +160938,255 @@
         "ownership_evidence": []
       },
       "NGA/NGA.yaml": {
-        "checked_at": "2026-11-11 04:29 UTC",
+        "checked_at": "2026-11-25 20:59 UTC",
         "name": "NGA",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.nga.mil/?%2C+.",
-          "https://www.geo.nga.mil/",
-          "https://www.nga.mil/about/NGA_Locations.html",
-          "https://map.nga.mil/index.html",
-          "https://bbs.nga.cn/?language=en-US",
           "https://bbs.nga.cn/",
+          "https://www.geo.nga.mil/",
+          "https://bbs.nga.cn/?language=en-US",
+          "https://www.nga.cn/",
           "https://www.nga.gov/",
-          "https://northeastgas.org/",
-          "https://nationalgym.org/",
-          "https://my.xc.nga.mil/"
+          "https://www.nga.mil/careers/Your_Career.html",
+          "https://www.nga.org/",
+          "https://map.nga.mil/index.html",
+          "https://nga.gov.ng/"
         ],
         "candidates": [
           "bbs.nga.cn",
           "geo.nga.mil",
           "map.nga.mil",
-          "my.xc.nga.mil",
-          "nationalgym.org",
-          "nga.mil",
-          "northeastgas.org",
+          "nga.cn",
+          "nga.gov.ng",
           "www.geo.nga.mil",
+          "www.nga.cn",
           "www.nga.gov",
-          "www.nga.mil"
+          "www.nga.mil",
+          "www.nga.org"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "NGAA/NGAA.yaml": {
-        "checked_at": "2026-11-11 04:29 UTC",
+        "checked_at": "2026-11-25 20:59 UTC",
         "name": "NGAA",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.youtube.com/",
-          "https://www.facebook.com/youtube/",
-          "https://about.youtube/",
-          "https://x.com/YouTube",
-          "https://en.wikipedia.org/wiki/YouTube",
-          "https://blog.youtube/",
-          "https://www.youtube.com/youtube",
-          "https://www.britannica.com/topic/YouTube",
-          "https://accounts.google.com/InteractiveLogin?service=youtube",
-          "https://www.youtube.com/feed"
+          "https://www.yna.co.kr/theme/breaknews-history",
+          "https://news.sbs.co.kr/news/newsflash.do",
+          "https://www.yna.co.kr/",
+          "https://www.ytn.co.kr/",
+          "https://www.ytn.co.kr/news/list.php?mcd=0133",
+          "https://www.mt.co.kr/breakingnews",
+          "https://news.google.com/home?edchanged=1&hl=ko&ceid=KR:ko",
+          "https://news.kbs.co.kr/news/pc/main/main.html",
+          "https://news.kbs.co.kr/news/pc/breaking/breaking.html",
+          "https://ysecure.ytn.co.kr/"
         ],
         "candidates": [
-          "about.youtube",
-          "accounts.google.com",
-          "blog.youtube",
-          "en.wikipedia.org",
-          "www.britannica.com",
-          "www.facebook.com",
-          "www.youtube.com",
-          "x.com"
+          "news.google.com",
+          "news.kbs.co.kr",
+          "news.sbs.co.kr",
+          "www.mt.co.kr",
+          "www.yna.co.kr",
+          "www.ytn.co.kr",
+          "ysecure.ytn.co.kr"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "NTPService/NTPService.yaml": {
-        "checked_at": "2026-11-11 04:29 UTC",
+        "checked_at": "2026-11-25 20:59 UTC",
         "name": "NTPService",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.microsoft.com/en-us/",
-          "https://www.microsoft.com/",
-          "https://account.microsoft.com/account",
-          "https://account.microsoft.com/account-checkup",
-          "https://myaccount.microsoft.com/",
-          "https://myaccount.microsoft.com/login",
-          "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365",
-          "https://en.wikipedia.org/wiki/Microsoft",
-          "https://m365.cloud.microsoft/?origindomain=Office",
-          "https://apps.microsoft.com/"
+          "https://www.sports-reference.com/cfb/schools/mississippi/2025-schedule.html",
+          "https://en.wikipedia.org/wiki/2025_Ole_Miss_Rebels_football_team",
+          "https://www.espn.com/college-football/team/stats/_/type/team/id/145/season/2025",
+          "https://www.sports-reference.com/cfb/schools/mississippi/2025.html",
+          "https://olemisssports.com/sports/football/schedule/2025",
+          "https://www.cfb-scores.com/Team/Ole%20Miss/2025",
+          "https://www.statmuse.com/cfb/team/ole-miss-rebels-593/2025",
+          "https://www.footballdb.com/college-football/teams/fbs/ole-miss/results/2025",
+          "https://www.espn.com/college-football/team/schedule/_/id/145/season/2025",
+          "https://www.ncaa.com/game/6458811"
         ],
         "candidates": [
-          "account.microsoft.com",
-          "apps.microsoft.com",
           "en.wikipedia.org",
-          "m365.cloud.microsoft",
-          "myaccount.microsoft.com",
-          "support.microsoft.com",
-          "www.microsoft.com"
+          "ncaa.com",
+          "olemisssports.com",
+          "sports-reference.com",
+          "www.cfb-scores.com",
+          "www.espn.com",
+          "www.footballdb.com",
+          "www.ncaa.com",
+          "www.sports-reference.com",
+          "www.statmuse.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "NYPost/NYPost.yaml": {
-        "checked_at": "2026-11-11 04:29 UTC",
+        "checked_at": "2026-11-25 20:59 UTC",
         "name": "NYPost",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://nypost.com/",
           "https://nypost.com/us-news/",
-          "https://nypost.com/sports/",
-          "https://nypost.com/world-news/",
-          "https://nypost.com/metro/",
-          "https://nypost.com/tag/minnesota/",
           "https://en.wikipedia.org/wiki/New_York_Post",
-          "https://nypost.com/opinion/",
-          "https://nypost.com/2026/11/06/us-news/husband-threatened-to-kill-wife-and-leave-4-kids-without-parents-years-before-murder-suicide/",
-          "https://nypost.pressreader.com/"
+          "https://nypost.pressreader.com/",
+          "https://nypost.com/metro/",
+          "https://nypost.com/world-news/",
+          "https://nypost.com/sports/",
+          "https://www.facebook.com/NYPost/",
+          "https://subscribe.nypost.com/"
         ],
         "candidates": [
           "en.wikipedia.org",
+          "my.nypost.com",
           "nypost.com",
-          "nypost.pressreader.com"
+          "nypost.pressreader.com",
+          "subscribe.nypost.com",
+          "www.facebook.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "NYTimes/NYTimes.yaml": {
-        "checked_at": "2026-11-11 04:29 UTC",
+        "checked_at": "2026-11-25 20:59 UTC",
         "name": "NYTimes",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.nytimes.com/",
           "https://www.nytimes.com/section/todayspaper",
-          "https://myaccount.nytimes.com/seg",
           "https://help.nytimes.com/115010905707-Log-in-to-Your-New-York-Times-Account",
-          "https://www.nytimes.com/.\"",
-          "https://www.nytimes.com/section/opinion",
-          "https://www.nytimes.com/section/us",
+          "https://www.nytimes.com/international/",
+          "https://www.nytimes.com/account",
+          "https://www.nytimes.com/ca/",
+          "https://www.nytimes.com/account/login/",
           "https://help.nytimes.com/115002788207-Subscriptions",
-          "https://www.nytimes.app/",
-          "https://cooking.nytimes.com/"
+          "https://cooking.nytimes.com/",
+          "https://www.nytco.com/games/"
         ],
         "candidates": [
           "cooking.nytimes.com",
           "help.nytimes.com",
-          "myaccount.nytimes.com",
-          "nytimes.app",
-          "www.nytimes.app",
+          "nytimes.com",
+          "www.nytco.com",
           "www.nytimes.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "NaSDDNS/NaSDDNS.yaml": {
-        "checked_at": "2026-11-11 04:29 UTC",
+        "checked_at": "2026-11-25 20:59 UTC",
         "name": "NaSDDNS",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://mobile.foundationsoft.com/Login",
-          "https://foundationsoftware.my.site.com/ClientPortal/login?locale=us",
-          "https://eaccess.foundationsoft.com/",
-          "https://www.foundationsoft.com/clients/",
-          "https://play.google.com/store/apps/details?id=com.foundationsoft.fieldlog&hl=en-US",
-          "https://www.foundationsoft.com/software/mobile/",
-          "https://admin.foundationsoft.com/",
-          "https://apps.apple.com/us/app/foundation-field-log/id1348050684",
-          "https://service.foundationsoft.com/login",
-          "https://apkpure.com/foundation-field-log/com.foundationsoft.fieldlog"
+          "https://www.puzzmo.com/",
+          "https://www.puzzmo.com/game/crossword",
+          "https://ssr.puzzmo.com/",
+          "https://staging.puzzmo.com/subscribe",
+          "https://shop.puzzmo.com/",
+          "https://data.puzzmo.com/",
+          "https://shop.puzzmo.com/products/puzzmo-crossword-puzzles-vol-1-pack-of-two-identical-books",
+          "https://workshop.puzzmo.com/",
+          "https://blog.puzzmo.com/",
+          "https://blog.puzzmo.com/posts/2024/04/17/v1-launch/"
         ],
         "candidates": [
-          "admin.foundationsoft.com",
-          "apkpure.com",
-          "apps.apple.com",
-          "eaccess.foundationsoft.com",
-          "foundationsoftware.my.site.com",
-          "fsi.mobile.fl.web",
-          "mobile.foundationsoft.com",
-          "play.google.com",
-          "service.foundationsoft.com",
-          "www.foundationsoft.com"
+          "blog.puzzmo.com",
+          "data.puzzmo.com",
+          "puzzmo.com",
+          "shop.puzzmo.com",
+          "ssr.puzzmo.com",
+          "staging.puzzmo.com",
+          "workshop.puzzmo.com",
+          "www.puzzmo.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Naver/Naver.yaml": {
-        "checked_at": "2026-11-11 04:29 UTC",
+        "checked_at": "2026-11-25 20:59 UTC",
         "name": "Naver",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.naver.com/",
           "https://en.wikipedia.org/wiki/Naver",
           "https://map.naver.com/p/",
-          "https://en.wikipedia.org/wiki/Naver_Corporation",
-          "https://m.sports.naver.com/index",
-          "https://en.dict.naver.com/",
-          "https://whale.naver.com/ko/",
-          "https://dict.naver.com/",
-          "https://keep.naver.com/"
+          "https://academic.naver.com/",
+          "https://memo.naver.com/"
         ],
         "candidates": [
-          "dict.naver.com",
-          "en.dict.naver.com",
+          "academic.naver.com",
           "en.wikipedia.org",
-          "keep.naver.com",
           "link.naver.com",
-          "m.sports.naver.com",
           "map.naver.com",
-          "whale.naver.com",
+          "memo.naver.com",
+          "nid.naver.com",
           "www.naver.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "NaverTV/NaverTV.yaml": {
-        "checked_at": "2026-11-11 04:29 UTC",
+        "checked_at": "2026-11-25 20:59 UTC",
         "name": "NaverTV",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.x.com",
-          "https://developer.twitter.com/apps",
-          "https://developer.twitter.com/",
-          "https://ads.twitter.com/getstarted",
-          "https://ads.twitter.com/ads-repository",
-          "https://analytics.twitter.com/i/adsct?p_id=Twitter",
-          "https://partners.twitter.com/content/dam/partners-twitter/sprinklr-customer-care-report/reports/full-and-report-chapters/twitter-sprinklr-full-report-customer-care.pdf",
-          "https://blog.twitter.com/robots.txt",
-          "https://dev.twitter.com/robots.txt",
-          "https://marketing.twitter.com/content/dam/marketing-twitter/downloads/Playbook-BuildYourBrand.pdf"
+          "https://chefjacooks.com/en/nimono-recipe/",
+          "https://www.masterclass.com/articles/nimono-recipe",
+          "https://int.japanesetaste.com/blogs/japanese-taste-recipes/how-to-make-fall-nimono-traditional-japanese-simmered-vegetable-dish",
+          "https://sudachirecipes.com/nimono-recipes/",
+          "https://yujinizakaya.com.sg/japanese-simmered-vegetable-nimono-recipe/",
+          "https://www.umamicart.com/how-to-make-nimono/",
+          "https://cookpad.com/eng/recipes/11928144",
+          "https://receto.com/en/japanese-vegetable-nimono",
+          "https://justhungry.com/handbook/cooking-courses/japanese-cooking-101-lesson-3-nimono-simmered-dish-basics",
+          "https://myjapaneserecipes.com/instant-pot-nimono-japanese-simmered-dish/"
         ],
         "candidates": [
-          "ads.twitter.com",
-          "analytics.twitter.com",
-          "blog.twitter.com",
-          "blog.x.com",
-          "dev.twitter.com",
-          "developer.twitter.com",
-          "marketing.twitter.com",
-          "partners.twitter.com",
-          "www.x.com"
+          "chefjacooks.com",
+          "cookpad.com",
+          "int.japanesetaste.com",
+          "justhungry.com",
+          "myjapaneserecipes.com",
+          "receto.com",
+          "sudachirecipes.com",
+          "www.masterclass.com",
+          "www.umamicart.com",
+          "yujinizakaya.com.sg"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "NetEase/NetEase.yaml": {
-        "checked_at": "2026-11-11 04:29 UTC",
+        "checked_at": "2026-11-25 20:59 UTC",
         "name": "NetEase",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.neteasegames.com/",
           "https://en.wikipedia.org/wiki/NetEase",
-          "https://account.neteasegames.com/?lang=en_US",
+          "https://account.neteasegames.com/account/?lang=en_US",
           "https://account.neteasegames.com/account/login",
-          "https://passport.mpsdk.easebar.com/account/?lang=en_US",
+          "https://www.netease.com/",
           "https://music.163.com/",
-          "https://www.neteasegames.com/news/game/",
-          "https://www.forbes.com/companies/netease/"
+          "https://pay.neteasegames.com/",
+          "https://adl.netease.com/d/g/enter/c/pc",
+          "https://www.neteasegames.com/news/game/"
         ],
         "candidates": [
           "account.neteasegames.com",
+          "adl.netease.com",
           "en.wikipedia.org",
+          "gameclub.support",
+          "mesg.corp.netease.com",
           "music.163.com",
-          "passport.mpsdk.easebar.com",
-          "store.loadingbay.com",
-          "www.forbes.com",
+          "pay.neteasegames.com",
+          "reg.netease.com",
+          "service.netease.com",
           "www.netease.com",
           "www.neteasegames.com"
         ],
@@ -161195,117 +161194,109 @@
         "ownership_evidence": []
       },
       "NetEaseMusic/NetEaseMusic.yaml": {
-        "checked_at": "2026-11-11 04:29 UTC",
+        "checked_at": "2026-11-25 20:59 UTC",
         "name": "NetEaseMusic",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.outlook.com",
-          "https://outlook.office365.com/mail/login.html?authRedirect=true&bO=1",
-          "https://outlook.office.com/mail/login.html?bO=1",
-          "https://www.microsoft.com/en-us/microsoft-365/outlook/log-in",
-          "https://outlook.office.com/mail/mini/opxdeeplink/mail/inbox",
-          "https://outlook.office365.com/owa",
-          "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook",
-          "https://outlook.live.com/mail/oauthRedirect.html",
-          "https://account.microsoft.com/account",
-          "https://myaccount.microsoft.com/en-us/office/how-to-sign-in-to-outlook-on-the-web-763fab4d-0138-4814-b450-37fc286bcb79"
+          "https://www.husqvarna.com/us/locations/?region=or&city=redmond",
+          "https://www.husqvarna.com/us/locations/?region=or",
+          "https://smallengine.directory/states/oregon/redmond",
+          "https://www.yelp.com/search?find_desc=Chainsaw+Repair&find_loc=Redmond%2C+OR+97756",
+          "https://www.yelp.com/biz/small-engine-repair-of-redmond-redmond",
+          "https://www.chamberofcommerce.com/business-directory/oregon/redmond/small-engine-repair-service/41488212-small-engine-repair-of-redmond",
+          "https://www.mapquest.com/us/oregon/small-engine-repair-of-redmond-388157909",
+          "https://www.mapquest.com/us/oregon/small-engine-repair-of-central-oregon-411897743",
+          "https://www.husqvarnaconstruction.com/us/services/service-centers/",
+          "https://www.facebook.com/smallenginerepairofredmond/"
         ],
         "candidates": [
-          "account.microsoft.com",
-          "hotmail.com",
-          "myaccount.microsoft.com",
-          "outlook.com",
-          "outlook.live.com",
-          "outlook.office.com",
-          "outlook.office365.com",
-          "www.microsoft.com",
-          "www.outlook.com"
+          "smallengine.directory",
+          "www.chamberofcommerce.com",
+          "www.facebook.com",
+          "www.husqvarna.com",
+          "www.husqvarnaconstruction.com",
+          "www.mapquest.com",
+          "www.yelp.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Netflix/Netflix.yaml": {
-        "checked_at": "2026-11-11 04:29 UTC",
+        "checked_at": "2026-11-25 20:59 UTC",
         "name": "Netflix",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.netflix.com/",
           "https://www.netflix.com/us/login/browse",
-          "https://app.netflix.com/signup",
-          "https://help.netflix.com/en/node/24926",
-          "https://sprp.prod.netflix.net/",
-          "https://www.tvguide.com/news/best-movies-on-netflix/",
-          "https://en.wikipedia.org/wiki/Netflix",
+          "https://www3.stage.netflix.com/browse/genre/83",
           "https://qr.netflix.com/browse/genre/839338",
-          "https://www.tvguide.com/news/the-best-shows-on-netflix/",
-          "https://ir.netflix.net/home/default.aspx"
+          "https://help.netflix.com/en/node/24926",
+          "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en-US",
+          "https://en.wikipedia.org/wiki/Netflix",
+          "https://help.netflix.com/en/node/41049",
+          "https://www.netflix.com/gb",
+          "https://www.tvguide.com/news/the-best-shows-on-netflix/"
         ],
         "candidates": [
-          "app.netflix.com",
           "en.wikipedia.org",
           "help.netflix.com",
-          "ir.netflix.net",
+          "play.google.com",
           "qr.netflix.com",
-          "sprp.prod.netflix.net",
           "www.netflix.com",
-          "www.tvguide.com"
+          "www.tvguide.com",
+          "www3.stage.netflix.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Niconico/Niconico.yaml": {
-        "checked_at": "2026-11-11 04:29 UTC",
+        "checked_at": "2026-11-25 20:59 UTC",
         "name": "Niconico",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.nicovideo.jp/",
           "https://en.wikipedia.org/wiki/Niconico",
           "https://www.nicovideo.jp/video_top",
-          "https://sp.live.nicovideo.jp/",
-          "https://www.video.nicovideo.jp/recommendations?ref=video_sidemenu",
-          "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3%E5%8B%95%E7%94%BB",
+          "https://live.nicovideo.jp/",
+          "https://www.youtube.com/@niconico_official",
           "https://nicochannel.jp/",
-          "https://www.youtube.com/channel/UCpIwR9j8RXoMJSFzHcvEngw",
-          "https://ch.nicovideo.jp/",
-          "https://www.nicovideo.jp/ranking"
+          "https://ext.seiga.nicovideo.jp/",
+          "https://niconico.en.uptodown.com/android",
+          "https://x.com/niconicoen",
+          "https://www.niconico.nl/"
         ],
         "candidates": [
-          "ch.nicovideo.jp",
           "en.wikipedia.org",
-          "ja.wikipedia.org",
+          "ext.seiga.nicovideo.jp",
+          "live.nicovideo.jp",
           "nicochannel.jp",
+          "niconico.en.uptodown.com",
           "nicovideo.jp",
-          "sp.live.nicovideo.jp",
+          "www.niconico.nl",
           "www.nicovideo.jp",
-          "www.video.nicovideo.jp",
-          "www.youtube.com"
+          "www.youtube.com",
+          "x.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Nike/Nike.yaml": {
-        "checked_at": "2026-11-11 19:12 UTC",
+        "checked_at": "2026-11-25 20:59 UTC",
         "name": "Nike",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.nike.com/",
-          "https://www.nike.com/w/usa-10ciy/",
+          "https://www.nike.com/w/usa-10ciy",
+          "https://www.nike.in/",
           "https://about.nike.com/en/",
           "https://en.wikipedia.org/wiki/Nike,_Inc.",
-          "https://investors.nike.com/company-information/who-we-are",
-          "https://www.nike.in/",
-          "https://investors.nike.com/",
-          "https://about.nike.com/en/newsroom",
-          "https://careers.nike.com/",
-          "https://www.nike.ae/en/home/"
+          "https://about.nike.com/en/company",
+          "https://www.nike.com/ca"
         ],
         "candidates": [
           "about.nike.com",
-          "careers.nike.com",
           "en.wikipedia.org",
-          "investors.nike.com",
           "nike.com",
-          "www.nike.ae",
           "www.nike.com",
           "www.nike.in"
         ],
@@ -161313,7 +161304,7 @@
         "ownership_evidence": []
       },
       "Nikkei/Nikkei.yaml": {
-        "checked_at": "2026-11-11 19:12 UTC",
+        "checked_at": "2026-11-25 20:59 UTC",
         "name": "Nikkei",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -161321,20 +161312,15 @@
           "https://asia.nikkei.com/",
           "https://finance.yahoo.com/quote/%5EN225/",
           "https://www.investing.com/indices/japan-ni225",
-          "https://www.nikkei.com/theme/",
+          "https://www.nikkei.com/markets/",
           "https://en.wikipedia.org/wiki/The_Nikkei",
-          "https://indexes.nikkei.co.jp/en/nkave/nkidx",
-          "https://en.wikipedia.org/wiki/Nikkei_225",
-          "https://www.nikkei.co.jp/nikkeiinfo/en/",
-          "https://markets.businessinsider.com/index/nikkei_225"
+          "https://www.nikkei.co.jp/nikkeiinfo/en/"
         ],
         "candidates": [
           "asia.nikkei.com",
           "en.wikipedia.org",
           "finance.yahoo.com",
-          "indexes.nikkei.co.jp",
           "investing.com",
-          "markets.businessinsider.com",
           "www.investing.com",
           "www.nikkei.co.jp",
           "www.nikkei.com"
@@ -161343,26 +161329,22 @@
         "ownership_evidence": []
       },
       "Nintendo/Nintendo.yaml": {
-        "checked_at": "2026-11-11 19:12 UTC",
+        "checked_at": "2026-11-25 20:59 UTC",
         "name": "Nintendo",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.nintendo.com/us/",
           "https://www.nintendo.com/us/store/",
           "https://accounts.nintendo.com/login",
-          "https://en.wikipedia.org/wiki/Nintendo",
           "https://store.nintendo.com/en-gb",
-          "https://en-americas-support.nintendo.com/",
-          "https://play.nintendo.com/",
-          "https://www.nintendo.com/us/gaming-systems/switch/",
-          "https://www.nintendo.com/us/gaming-systems/switch/system/"
+          "https://my.nintendo.com/",
+          "https://en.wikipedia.org/wiki/Nintendo",
+          "https://en.wikipedia.org/wiki/History_of_Nintendo"
         ],
         "candidates": [
           "accounts.nintendo.com",
-          "en-americas-support.nintendo.com",
           "en.wikipedia.org",
           "my.nintendo.com",
-          "play.nintendo.com",
           "store.nintendo.com",
           "www.nintendo.com"
         ],
@@ -161370,49 +161352,55 @@
         "ownership_evidence": []
       },
       "NivodTV/NivodTV.yaml": {
-        "checked_at": "2026-11-11 19:12 UTC",
+        "checked_at": "2026-11-25 20:59 UTC",
         "name": "NivodTV",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://marcsamuelsjewelers.com/",
-          "https://marcsamuelsjewelers.com/collections/tissot-watches",
-          "https://marcsamuelsjewelers.com/collections/rolex-watches-dallas",
-          "https://marcsamuelsjewelers.com/collections/pre-owned-watches",
-          "https://marcsamuelsjewelers.com/pages/our-locations",
-          "https://marcsamuelsjewelers.com/pages/contact",
-          "https://marcsamuelsjewelers.com/collections/authorized-luxury-watch-dealer",
-          "https://marcsamuelsjewelers.com/collections/diamond-engagement-rings",
-          "https://marcsamuelsjewelers.com/pages/sell-my-watch",
-          "https://marcsamuelsjewelers.com/collections/all"
+          "https://link.springer.com/article/10.1007/s00134-026-08499-y",
+          "https://cvphysiology.com/cardiac-function/cf016",
+          "https://cvphysiology.com/cardiac-function/cf027",
+          "https://derangedphysiology.com/main/cicm-primary-exam/cardiovascular-system/Chapter-028/cardiac-output-curves-and-vascular-function-curves",
+          "https://www.sciencedirect.com/topics/medicine-and-dentistry/venous-return-curve",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC5018186/",
+          "https://link.springer.com/article/10.1186/s13054-022-04024-x",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC6526270/",
+          "https://clinicalpub.com/cardiac-output-venous-return-and-their-regulation/",
+          "https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/venous-return"
         ],
         "candidates": [
-          "marcsamuelsjewelers.com"
+          "clinicalpub.com",
+          "cvphysiology.com",
+          "derangedphysiology.com",
+          "link.springer.com",
+          "pmc.ncbi.nlm.nih.gov",
+          "www.sciencedirect.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Notion/Notion.yaml": {
-        "checked_at": "2026-11-11 19:12 UTC",
+        "checked_at": "2026-11-25 20:59 UTC",
         "name": "Notion",
         "status": "checked",
         "sources": [
           "https://www.notion.com/",
           "https://app.notion.com/login",
-          "https://www.thegoodtrade.com/features/what-is-notion/",
           "https://apps.apple.com/us/app/notion-notes-tasks-ai/id1232780281",
+          "https://www.merriam-webster.com/dictionary/notion",
           "https://www.notion.com/explore",
           "https://app.notion.com/index.html",
-          "https://www.notion.com/desktop",
           "https://en.wikipedia.org/wiki/Notion_(productivity_software)",
-          "https://www.notion.com/pricing",
-          "https://www.notion.com/help/notion-for-desktop"
+          "https://apps.microsoft.com/detail/xpdbvss44r0l9h",
+          "https://www.notion.com/pt",
+          "https://www.notion.com/desktop"
         ],
         "candidates": [
           "app.notion.com",
           "apps.apple.com",
+          "apps.microsoft.com",
           "en.wikipedia.org",
-          "www.notion.com",
-          "www.thegoodtrade.com"
+          "www.merriam-webster.com",
+          "www.notion.com"
         ],
         "accepted": [],
         "ownership_evidence": [
@@ -161420,61 +161408,57 @@
         ]
       },
       "NowE/NowE.yaml": {
-        "checked_at": "2026-11-11 19:12 UTC",
+        "checked_at": "2026-11-25 20:59 UTC",
         "name": "NowE",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.nowe.com/",
-          "https://www.nowe.com/?lang=en&locale=en",
-          "https://en.wikipedia.org/wiki/Nowe",
-          "https://www.nowtv.now.com/",
-          "https://www.definitions.net/definition/NOWE",
-          "https://www.nowemoney.com/",
-          "https://en.wikipedia.org/wiki/New_Town,_Warsaw",
-          "https://nowe.de/en/",
-          "https://drakengard.fandom.com/wiki/Nowe",
-          "https://www.youtube.com/watch?v=WWjCSlCvTHc"
+          "https://www.msn.com/en-us/play",
+          "https://zone.msn.com/en",
+          "https://zone.msn.com/en/categories/arcade",
+          "https://zone.msn.com/en/categories/microsoft",
+          "https://zone.msn.com/en/categories",
+          "https://mcgzoneweb.azurewebsites.net/home",
+          "https://zone.msn.com/en/categories/puzzle",
+          "https://zone.msn.com/en/games/mssolitairecollection",
+          "https://www.microsoftcasualgames.com/",
+          "https://zone.msn.com/en/games/mahjonggdimensions"
         ],
         "candidates": [
-          "definitions.net",
-          "drakengard.fandom.com",
-          "en.wikipedia.org",
-          "nowe.de",
-          "www.definitions.net",
-          "www.nowe.com",
-          "www.nowemoney.com",
-          "www.nowtv.now.com",
-          "www.youtube.com"
+          "mcgzoneweb.azurewebsites.net",
+          "www.microsoftcasualgames.com",
+          "www.msn.com",
+          "zone.msn.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Npmjs/Npmjs.yaml": {
-        "checked_at": "2026-11-11 19:12 UTC",
+        "checked_at": "2026-11-25 20:59 UTC",
         "name": "Npmjs",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.npmjs.com/",
           "https://www.npmjs.com/package/npm",
-          "https://docs.npmjs.com/downloading-and-installing-node-js-and-npm/?ref=meilisearch-blog",
+          "https://docs.npmjs.com/downloading-and-installing-node-js-and-npm/",
           "https://nodejs.org/",
-          "https://docs.npmjs.com/",
           "https://nodejs.org/learn/getting-started/an-introduction-to-the-npm-package-manager",
+          "https://docs.npmjs.com/cli/v9/configuring-npm/install/?v=true",
+          "https://registry.npmjs.org/npm/latest",
           "https://en.wikipedia.org/wiki/NPM",
-          "https://api-docs.npmjs.com/",
-          "https://registry.npmjs.com/-/",
-          "https://status.npmjs.org/"
+          "https://github.com/npm",
+          "https://api-docs.npmjs.com/"
         ],
         "candidates": [
           "api-docs.npmjs.com",
           "docs.npmjs.com",
           "en.wikipedia.org",
-          "install.sh",
+          "github.com",
           "node.js",
           "nodejs.org",
+          "npm-cli.js",
           "npmjs.com",
-          "registry.npmjs.com",
-          "status.npmjs.org",
+          "npx-cli.js",
+          "registry.npmjs.org",
           "www.npmjs.com"
         ],
         "accepted": [],
