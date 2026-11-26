@@ -1,7 +1,7 @@
 # 名称：OpenAI
-# 来源核对日期：2026-11-04 16:11 UTC
-# 规则总数：38
-# domain: 10
+# 来源核对日期：2026-11-26 06:39 UTC
+# 规则总数：39
+# domain: 11
 # domain-suffix: 25
 # domain-keyword: 1
 # ip-cidr: 2
@@ -19,6 +19,7 @@ rules:
   - domain,chatgpt.com
   - domain,openai.com
   - domain,platform.openai.com
+  - domain,developers.openai.com
   - domain-suffix,ai.com
   - domain-suffix,algolia.net
   - domain-suffix,api.statsig.com
