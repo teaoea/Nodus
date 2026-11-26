@@ -1,0 +1,127 @@
+# 哔哩哔哩 App 去广告 · Nodus Core 原生插件
+# 通过宿主的插件入口加载。主配置须开启 MitM 并配置非空 hosts，客户端须信任宿主 CA。
+# 此插件使用请求本地响应与原生 JSON 复写，无需 JavaScript。
+# MitM 按主机解密，复写仅处理下列端点。主配置的 bypass 优先。
+# 接口参考：https://github.com/teaoea/shell/tree/0470e17b938628e10bb090d88e884815deb66eca/plugins/Bilibili
+
+mitm:
+  enabled: true
+  hosts:
+    - app.bilibili.com
+    - app.biliapi.net
+
+rewrites:
+  - name: 常规开屏
+    url:
+      - '^https://app.bilibili.com/x/v2/splash/(?:list|show|event/list2)$'
+      - '^https://app.bilibili.com:443/x/v2/splash/(?:list|show|event/list2)$'
+      - '^https://app.biliapi.net/x/v2/splash/(?:list|show|event/list2)$'
+      - '^https://app.biliapi.net:443/x/v2/splash/(?:list|show|event/list2)$'
+    phase: request
+    when:
+      method: GET
+    action: respond
+    response:
+      status: 200
+      headers:
+        set:
+          Content-Type: application/json; charset=utf-8
+          Cache-Control: no-store
+      body:
+        text: '{"code":0,"message":"0","ttl":1,"data":{"list":[],"show":[],"event_list":[],"keep_ids":[],"max_time":0}}'
+
+  - name: 品牌开屏
+    url:
+      - 'https://app.bilibili.com/x/v2/splash/brand/list'
+      - 'https://app.bilibili.com:443/x/v2/splash/brand/list'
+      - 'https://app.biliapi.net/x/v2/splash/brand/list'
+      - 'https://app.biliapi.net:443/x/v2/splash/brand/list'
+    phase: request
+    when:
+      method: GET
+    action: respond
+    response:
+      status: 200
+      headers:
+        set:
+          Content-Type: application/json; charset=utf-8
+          Cache-Control: no-store
+      body:
+        text: '{"code":0,"message":"0","ttl":1,"data":{"list":[],"show":[],"event_list":[]}}'
+
+  - name: 明确标记的推荐流广告
+    url:
+      - '^https://app.bilibili.com/x/v2/feed/index(?:/story)?$'
+      - '^https://app.bilibili.com:443/x/v2/feed/index(?:/story)?$'
+      - '^https://app.biliapi.net/x/v2/feed/index(?:/story)?$'
+      - '^https://app.biliapi.net:443/x/v2/feed/index(?:/story)?$'
+    phase: response
+    when:
+      method: GET
+      status: 200
+      content-type: application/json
+    action: modify-response
+    response:
+      json:
+        - op: require-equals
+          path: /code
+          equals: 0
+        - op: require-array
+          path: /data/items
+        - op: filter-where
+          path: /data/items
+          predicate:
+            test: any
+            conditions:
+              - {test: in, field: /is_ad, values: [true, 1, '1']}
+              - {test: non-empty-object, field: /ad_info}
+              - test: all
+                conditions:
+                  - {test: in, field: /card_type, values: [cm_v2, cm_double_v9]}
+                  - test: in
+                    field: /card_goto
+                    values: [ad_web_s, ad_av, ad_web_gif, ad_player, ad_inline_3d, ad_inline_eggs, ad_inline_av]
+        # 横幅只处理已确认的类型；缺失或形状不明的 banner_item 保留。
+        - op: filter-nested
+          path: /data/items
+          within: /banner_item
+          when:
+            test: all
+            conditions:
+              - {test: in, field: /card_type, values: [banner_v8]}
+              - {test: in, field: /card_goto, values: [banner]}
+          predicate: {test: in, field: /type, values: [ad]}
+        - op: filter-where
+          path: /data/items
+          predicate:
+            test: all
+            conditions:
+              - {test: in, field: /card_type, values: [banner_v8]}
+              - {test: in, field: /card_goto, values: [banner]}
+              - {test: empty-array, field: /banner_item}
+
+  # 对应 BilibiliEnhance.plugin 的 hide_search_discovery 参数，默认关闭。
+  # 启用后只删除搜索发现页的两类已知模块，保留历史和未知模块。
+  - name: 隐藏搜索发现页的热搜和推荐
+    enable: false
+    url:
+      - https://app.bilibili.com/x/v2/search/square
+      - https://app.bilibili.com:443/x/v2/search/square
+      - https://app.biliapi.net/x/v2/search/square
+      - https://app.biliapi.net:443/x/v2/search/square
+    phase: response
+    when:
+      method: GET
+      status: 200
+      content-type: application/json
+    action: modify-response
+    response:
+      json:
+        - op: require-equals
+          path: /code
+          equals: 0
+        - op: require-array
+          path: /data
+        - op: filter-where
+          path: /data
+          predicate: {test: in, field: /type, values: [trending, recommend]}
