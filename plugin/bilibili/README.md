@@ -14,7 +14,11 @@
 
 ## 安装地址
 
-将下方 URL 复制到宿主的插件地址栏，然后启用插件。
+在 Fluxa 的插件表单中填写以下三项，再点「保存」。
+
+- **名称**填写 `B站优化插件`。
+- **类型**填写 `广告过滤`。这是必填的分类字段。
+- **订阅地址**粘贴下面的 URL。
 
 ```text
 https://raw.githubusercontent.com/teaoea/Nodus/main/plugin/bilibili/bilibili.plugin.yaml
