@@ -1,7 +1,7 @@
 {
   "upstream": "https://github.com/blackmatrix7/ios_rule_script",
   "revision": "0b6897dc17e0c513d25449c935a9694818e32f0c",
-  "date": "2026-11-26 20:52 UTC",
+  "date": "2026-11-27 06:29 UTC",
   "collections": {
     "rule/Clash/115/115.yaml": {
       "input": 10,
@@ -149018,8 +149018,8 @@
   ],
   "discovery": {
     "engine": "Bing public RSS",
-    "checked_at": "2026-11-26 20:52 UTC",
-    "next_index": 494,
+    "checked_at": "2026-11-27 06:29 UTC",
+    "next_index": 518,
     "attempted": 24,
     "total_collections": 689,
     "verified_additions": {
@@ -162810,33 +162810,33 @@
         "ownership_evidence": []
       },
       "Qobuz/Qobuz.yaml": {
-        "checked_at": "2026-11-12 19:29 UTC",
+        "checked_at": "2026-11-27 06:29 UTC",
         "name": "Qobuz",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.qobuz.com/us-en/discover",
           "https://www.qobuz.com/us-en/shop",
+          "https://qobuz-ai.com/",
           "https://en.wikipedia.org/wiki/Qobuz",
           "https://try.qobuz.com/tqs_us-en/",
-          "https://try.qobuz.com/sam/",
           "https://help.qobuz.com/en/",
           "https://www.qobuz.com/gb-en/discover",
+          "https://www.qobuz.com/us-en/discover/apps-partners",
           "https://www.qobuz.com/us-en/discover/apps-qobuz",
-          "https://www.qobuz.com/us-en/music/streaming/offers",
-          "https://www.reddit.com/r/qobuz/comments/1d01ww2/im_considering_switching_to_qobuz_what_are_the/"
+          "https://www.qobuz.com/us-en/music/streaming/offers"
         ],
         "candidates": [
           "en.wikipedia.org",
           "help.qobuz.com",
+          "qobuz-ai.com",
           "try.qobuz.com",
-          "www.qobuz.com",
-          "www.reddit.com"
+          "www.qobuz.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Qualcomm/Qualcomm.yaml": {
-        "checked_at": "2026-11-12 19:29 UTC",
+        "checked_at": "2026-11-27 06:29 UTC",
         "name": "Qualcomm",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -162845,18 +162845,20 @@
           "https://www.qualcomm.com/company",
           "https://finance.yahoo.com/quote/QCOM/",
           "https://investor.qualcomm.com/overview/default.aspx",
-          "https://myaccount.qualcomm.com/login",
           "https://www.linkedin.com/company/qualcomm",
+          "https://myaccount.qualcomm.com/login",
           "https://softwarecenter.qualcomm.com/",
-          "https://www.qualcomm.com/company/careers",
-          "https://www.qualcomm.com/products"
+          "https://www.androidauthority.com/what-is-qualcomm-3231828/",
+          "https://aihub.qualcomm.com/en-US/models"
         ],
         "candidates": [
+          "aihub.qualcomm.com",
           "en.wikipedia.org",
           "finance.yahoo.com",
           "investor.qualcomm.com",
           "myaccount.qualcomm.com",
           "softwarecenter.qualcomm.com",
+          "www.androidauthority.com",
           "www.linkedin.com",
           "www.qualcomm.com"
         ],
@@ -162864,272 +162866,271 @@
         "ownership_evidence": []
       },
       "QuickConnect/QuickConnect.yaml": {
-        "checked_at": "2026-11-12 19:29 UTC",
+        "checked_at": "2026-11-27 06:29 UTC",
         "name": "QuickConnect",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://quickconnect.to/",
           "https://kb.synology.com/en-global/DSM/help/DSM/Tutorial/cloud_set_up_quickconnect",
           "https://www.synology.com/en-us/dsm/packages/QuickConnect",
+          "https://www.synologyacds.direct.quickconnect.to:2222/remote/login",
+          "https://www.synology.com/en-us/synology-account",
           "https://app.quickconnect.fr/",
-          "https://www.synology.com/en-global/dsm/feature/cloud_service",
           "https://kb.synology.com/en-us/DSM/help/DSM/AdminCenter/connection_quickconnect",
-          "https://quickconnect.biz/",
-          "https://www.rdesktop.direct.quickconnect.to/drive/",
-          "https://azquickconnect.azdes.gov/login.aspx"
+          "https://www.synology.com/en-global/dsm/feature/cloud_service",
+          "https://azquickconnect.azdes.gov/login.aspx",
+          "https://www.rdesktop.direct.quickconnect.to/drive/"
         ],
         "candidates": [
           "app.quickconnect.fr",
           "azquickconnect.azdes.gov",
           "kb.synology.com",
-          "quickconnect.biz",
           "quickconnect.to",
-          "www.quickconnect.cn",
           "www.rdesktop.direct.quickconnect.to",
-          "www.synology.com"
+          "www.synology.com",
+          "www.synologyacds.direct.quickconnect.to"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Qyyjt/Qyyjt.yaml": {
-        "checked_at": "2026-11-12 19:29 UTC",
+        "checked_at": "2026-11-27 06:29 UTC",
         "name": "Qyyjt",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://sellercentral.amazon.com/help/hub/reference/external/G202191620?locale=en-US",
-          "https://www.amazon.com/Returns-Exchanges-Kayla-Rae-Whitaker/dp/0593733347",
-          "https://sellercentral.amazon.com/help/hub/reference/external/G200379860?locale=en-US",
-          "https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/",
-          "https://supplychain.amazon.com/blog/how-to-process-multi-channel-fulfillment-mcf-returns",
-          "https://sell.amazon.com/blog/manage-customer-returns",
-          "https://www.amazon.com/spr/returns/label/rmaID/DBKKwqJ0RRMA",
-          "https://aws.amazon.com/blogs/business-intelligence/how-amazon-worldwide-returns-recommerce-enhanced-analytics-capabilities-with-amazon-q-in-quicksight/",
-          "https://sell.amazon.com/blog/announcements/fba-grade-and-resell",
-          "https://hiring.amazon.com/locations/arizona-jobs"
+          "https://restaurants.subway.com/united-states/tx/highlands/103-s-main",
+          "https://restaurants.subway.com/united-states/ma/boston/981-tremont-st",
+          "https://www.subway.com/en-ca/contact-us",
+          "https://www.subway.com/en-ie/careers",
+          "https://order.subway.com/en-au/Faq",
+          "https://newsroom.subway.com/Subway-Expands-Record-Setting-Subway-Series-Menu-for-the-First-Time-Adding-All-New-Sandwiches-and-Updating-Classics",
+          "https://newsroom.subway.com/2026-10-21-Subway-R-Moves-Up-National-Sandwich-Day-to-Tuesday,-Oct-27-and-Brings-Back-the-Fritos-R-Chicken-Enchilada-Sub",
+          "https://contactsubscriptions.subway.com/en-us/unsubscribe/",
+          "https://order.subway.com/en-au/Menu"
         ],
         "candidates": [
-          "amazon.com",
-          "aws.amazon.com",
-          "hiring.amazon.com",
-          "sell.amazon.com",
-          "sellercentral.amazon.com",
-          "supplychain.amazon.com",
-          "www.amazon.com"
+          "contactsubscriptions.subway.com",
+          "newsroom.subway.com",
+          "order.subway.com",
+          "restaurants.subway.com",
+          "subway.com",
+          "www.subway.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "RTHK/RTHK.yaml": {
-        "checked_at": "2026-11-12 19:29 UTC",
+        "checked_at": "2026-11-27 06:29 UTC",
         "name": "RTHK",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.allpar.com/threads/1972-dodge-w100-questions.155371/",
-          "https://www.allpar.com/threads/hvac-weird-problem.166358/",
-          "https://www.answers.microsoft.com/ja-jp/windows/forum/all/ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¹ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â®ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£/b45f8dde-aa4a-4598-ab6e-21a67f8b6ec2",
-          "https://www.answers.microsoft.com/ja-jp/windows/forum/apps_windows_10-msedge/microsoft-edge/252f30fb-a46d-48f1-9dff-46f1ebf7ddc1↑少し違うかもですが、マイクロソフトのコミュニティに書いてある方法を試して下さい。&gt;アプリのトラブルシューティングを実行してみると良さそうです。手順:[コントロールパネル]→[システムとセキュリティ]→[セキュリティとメンテナンス]→[トラブルシューティング]の順に開き、[すべて表示]を選択して&quot;Windowsストアアプリ&quot;の診断を行ってみてください。もし、上記の対処法を試してみてもうまくいかない場合は、ひとまず、有効な対処法が見つかるまではIEをかわりに使用されると良いと思います。",
-          "https://www.allpar.com/threads/96-gc-belt-issue.156072",
-          "https://www.allpar.com/threads/radio-infinity-not-working-2000-dodge-intrepid-r-t.142684/",
-          "https://www.allpar.com/threads/barracuda-that-never-was.167655/",
-          "https://www.allpar.com/threads/duster-transmission-swap.159208/",
-          "https://www.allpar.com/threads/electric-window-door-switch-repairable.150961/",
-          "https://www.allpar.com/threads/help-id-this-slant-six-engine.152334/"
+          "https://www.rthk.hk/",
+          "https://news.rthk.hk/rthk/en/",
+          "https://www.rthk.hk/radio/radio1",
+          "https://news.rthk.hk/rthk/ch/latest-news.htm",
+          "https://en.wikipedia.org/wiki/RTHK",
+          "https://newsprd.rthk.hk/rthk/en/",
+          "https://www.youtube.com/@RTHK",
+          "https://newsprd.rthk.hk/rthk/ch/",
+          "https://onlineradiobox.com/hk/rthk3/?lang=en",
+          "https://programme.rthk.hk/channel/radio/trafficnews/index.php"
         ],
         "candidates": [
-          "www.allpar.com",
-          "www.answers.microsoft.com"
+          "en.wikipedia.org",
+          "news.rthk.hk",
+          "newsprd.rthk.hk",
+          "onlineradiobox.com",
+          "programme.rthk.hk",
+          "rthk.gov",
+          "www.rthk.hk",
+          "www.youtube.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Rakuten/Rakuten.yaml": {
-        "checked_at": "2026-11-12 19:29 UTC",
+        "checked_at": "2026-11-27 06:29 UTC",
         "name": "Rakuten",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.rakuten.com/",
-          "https://www.rakuten.ca/",
           "https://www.rakuten.com/welcome.htm",
-          "https://www.facebook.com/rakuten/",
-          "https://chromewebstore.google.com/detail/rakuten-get-cash-back-for/chhjbpecpncaggjpdakmflnfcopglcmi?hl=en",
-          "https://apps.apple.com/us/app/rakuten-cash-back-deals/id723134859",
-          "https://x.com/Rakuten",
-          "https://en.wikipedia.org/wiki/Rakuten",
-          "https://en.wikipedia.org/wiki/Rakuten.com"
+          "https://www.rakuten.co.jp/",
+          "https://go.rakuten.com/",
+          "https://en.m.wikipedia.org/wiki/Rakuten",
+          "https://en.m.wikipedia.org/wiki/Rakuten.com",
+          "https://global.rakuten.com/corp/",
+          "https://www.rakuten.com/f/allstores",
+          "https://www.rakuten.com/new-brand",
+          "https://www.rakuten.ca/"
         ],
         "candidates": [
-          "apps.apple.com",
-          "chromewebstore.google.com",
-          "en.wikipedia.org",
+          "ebates.com",
+          "en.m.wikipedia.org",
+          "global.rakuten.com",
           "go.rakuten.com",
           "rakuten.com",
-          "www.facebook.com",
           "www.rakuten.ca",
-          "www.rakuten.com",
-          "x.com"
+          "www.rakuten.co.jp",
+          "www.rakuten.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Rarbg/Rarbg.yaml": {
-        "checked_at": "2026-11-12 19:29 UTC",
+        "checked_at": "2026-11-27 06:29 UTC",
         "name": "Rarbg",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.techworm.net/2021/08/rarbg-proxy-list-mirror.html",
-          "https://techpp.com/2026/05/24/rarbg-proxy-sites/",
-          "https://rarbg.beer/",
-          "https://github.com/wesharebytes/RARBG-Proxy-List",
-          "https://proxywing.com/blog/rarbg-proxy",
+          "https://vpncentral.com/rarbg-proxy-list-working-rarbg-mirror-proxies/",
+          "https://alternativeto.net/software/rarbg/",
           "https://en.wikipedia.org/wiki/RARBG",
-          "https://privacysavvy.com/security/torrents/best-torrent-sites/",
-          "https://www.getdroidtips.com/all-rarbg-proxy-list/",
-          "https://www.itechguides.com/11-best-rarbg-alternative-sites-in-2026-working/",
-          "https://www.tuttotek.it/web-social/guide-web-social/rarbg-nuovo-indirizzo-e-link"
+          "https://torrentfreak.com/rarbg-over-267000-movie-tv-show-magnet-links-appear-online-230601/",
+          "https://www.reddit.com/r/torrents/comments/195k8o3/rarbg/",
+          "https://okkproxy.com/blog/what-replaces-rarbg-best-rarbg-proxies-2026/",
+          "https://github.com/topics/rarbg",
+          "https://recoverit.wondershare.com/video-tips/rarbg-proxy-alternatives.html",
+          "https://www.reddit.com/r/trackers/comments/16hro1r/introducing_therarbg_a_fork_of_the_nowdefunct/",
+          "https://www.itechguides.com/11-best-rarbg-alternative-sites-in-2026-working/"
         ],
         "candidates": [
+          "alternativeto.net",
           "en.wikipedia.org",
           "github.com",
-          "privacysavvy.com",
-          "proxywing.com",
-          "rarbg.beer",
-          "techpp.com",
-          "tuttotek.it",
-          "www.getdroidtips.com",
+          "okkproxy.com",
+          "recoverit.wondershare.com",
+          "torrentfreak.com",
+          "vpncentral.com",
           "www.itechguides.com",
-          "www.techworm.net",
-          "www.tuttotek.it"
+          "www.reddit.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Razer/Razer.yaml": {
-        "checked_at": "2026-11-12 19:29 UTC",
+        "checked_at": "2026-11-27 06:29 UTC",
         "name": "Razer",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.britannica.com/event/Whiskey-Rebellion",
-          "https://en.wikipedia.org/wiki/Whiskey_Rebellion",
-          "https://www.history.com/articles/whiskey-rebellion",
-          "https://www.history.com/articles/whiskey-america-economy",
-          "https://www.americanhistorycentral.com/entries/whiskey-rebellion/",
-          "https://www.thoughtco.com/whiskey-rebellion-4797408",
-          "https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/whiskey-rebellion",
-          "https://www.pbs.org/wgbh/americanexperience/features/duel-whiskey-rebellion/",
-          "https://anythingpolitical.com/why-the-whiskey-rebellion-was-a-turning-point-for-federal-power/",
-          "https://teachingamericanhistory.org/the-whiskey-rebellion-insurrection-in-the-early-republic/"
+          "https://www.razer.com/",
+          "https://www.razer.com/pc/software",
+          "https://insider.razer.com/razer-synapse-27",
+          "https://razerid.razer.com/",
+          "https://en.m.wikipedia.org/wiki/Razer_Inc.",
+          "https://www.razer.com/synapse-4",
+          "https://www.razer.com/store",
+          "https://www.razer.com/eu-en",
+          "https://www.razer.com/pc",
+          "https://www.razer.com/ca-en"
         ],
         "candidates": [
-          "anythingpolitical.com",
-          "en.wikipedia.org",
-          "teachingamericanhistory.org",
-          "www.americanhistorycentral.com",
-          "www.britannica.com",
-          "www.history.com",
-          "www.mountvernon.org",
-          "www.pbs.org",
-          "www.thoughtco.com"
+          "en.m.wikipedia.org",
+          "insider.razer.com",
+          "razerid.razer.com",
+          "www.razer.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Reabble/Reabble.yaml": {
-        "checked_at": "2026-11-12 19:29 UTC",
+        "checked_at": "2026-11-27 06:29 UTC",
         "name": "Reabble",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://anusedcar.com/mazda/how-long-has-mazda-been-making-hybrids/",
-          "https://en.wikipedia.org/wiki/Mazda",
-          "https://en.wikipedia.org/wiki/Mazda_CX-50",
-          "https://www.mazdausa.com/the-mazda-difference/electric-vehicles/hybrids",
-          "https://www.cars.com/research/mazda-cx_50_hybrid/",
-          "https://www.reliablemazda.com/blog/when-did-mazda-make-their-first-electric-vehicle.htm",
-          "https://colonialmazdablog.com/2025/09/10/a-brief-history-of-mazda-hybrid-models/",
-          "https://news.mazdausa.com/mazda-history",
-          "https://www.magnamazda.co.uk/news/everything-you-need-to-know-about-mazda-s-hybrid-technology/",
-          "https://www.mazdausa.com/the-mazda-difference/electric-vehicles/plug-in-hybrids"
+          "https://www.premierleague.com/en/tables/premier-league",
+          "https://www.bbc.com/sport/football/premier-league/table",
+          "https://www.espn.com/soccer/standings/_/league/eng.1",
+          "https://www.premierleague.com/en",
+          "https://www.livescore.com/en/football/england/premier-league/standings/",
+          "https://www.espn.com/Football/standings",
+          "https://en.m.wikipedia.org/wiki/2025%E2%80%9326_Premier_League",
+          "https://www.bbc.co.uk/sport/football/tables",
+          "https://sports.yahoo.com/soccer/premier-league/standings/",
+          "https://www.bbc.co.uk/sport/football/championship/table"
         ],
         "candidates": [
-          "anusedcar.com",
-          "cars.com",
-          "colonialmazdablog.com",
-          "en.wikipedia.org",
-          "news.mazdausa.com",
-          "www.cars.com",
-          "www.magnamazda.co.uk",
-          "www.mazdausa.com",
-          "www.reliablemazda.com"
+          "en.m.wikipedia.org",
+          "sports.yahoo.com",
+          "www.bbc.co.uk",
+          "www.bbc.com",
+          "www.espn.com",
+          "www.livescore.com",
+          "www.premierleague.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Reddit/Reddit.yaml": {
-        "checked_at": "2026-11-12 19:29 UTC",
+        "checked_at": "2026-11-27 06:29 UTC",
         "name": "Reddit",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.reddit.com/",
-          "https://x.com/Reddit",
-          "https://www.youtube.com/c/reddit",
-          "https://apps.apple.com/us/app/reddit/id1064216828",
-          "https://apps.microsoft.com/detail/9ns3rbq5hv5f?hl=en-US&gl=US",
           "https://www.reddit.com/r/reddit/wiki/index/",
           "https://redditinc.com/",
-          "https://mashable.com/article/reddit-r-all-going-away-new-homepage",
-          "https://www.techtarget.com/news/What-is-Reddit-How-it-works-history-and-pros-and-cons/846994/",
-          "https://en.m.wikipedia.org/wiki/Reddit"
+          "https://en.wikipedia.org/wiki/Reddit",
+          "https://x.com/Reddit",
+          "https://developers.reddit.com/",
+          "https://www.reddit.com/r/all/",
+          "https://www.reddit.com/r/all+/",
+          "https://ads.reddit.com/",
+          "https://redditinc.com/careers"
         ],
         "candidates": [
-          "apps.apple.com",
-          "apps.microsoft.com",
-          "bit.ly",
-          "en.m.wikipedia.org",
-          "mashable.com",
+          "ads.reddit.com",
+          "developers.reddit.com",
+          "en.wikipedia.org",
           "redditinc.com",
           "www.reddit.com",
-          "www.techtarget.com",
-          "www.youtube.com",
           "x.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "RemoteDesktop/RemoteDesktop.yaml": {
-        "checked_at": "2026-11-12 19:29 UTC",
+        "checked_at": "2026-11-27 06:29 UTC",
         "name": "RemoteDesktop",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://us.forums.blizzard.com/en/wow/t/transmog-of-gilneas-genn-greymane/2004761",
-          "https://us.forums.blizzard.com/en/wow/t/the-disaster-that-is-the-reclamation-of-gilneas/1768151",
-          "https://us.forums.blizzard.com/en/wow/t/pretty-amazing-how-thoroughly-retconned-tess-greymane-has-become/1767152",
-          "https://us.forums.blizzard.com/en/wow/t/reclaiming-gilneas-a-worgen-fan-reflecting/1767434",
-          "https://us.forums.blizzard.com/en/hearthstone/t/missing-cards-after-cataclysm-launch/158388",
-          "https://us.forums.blizzard.com/en/wow/t/tess-greymane-as-worgen-leader/1776887",
-          "https://us.forums.blizzard.com/en/hearthstone/t/simply-unfair-that-tess-greymane-can-replay-rogue-cards/157987",
-          "https://us.forums.blizzard.com/en/wow/t/why-is-alliance-lore-so-bad/1600148",
-          "https://us.forums.blizzard.com/en/wow/t/will-the-bloodline-of-kings-continue-in-stormwind/2239559",
-          "https://us.forums.blizzard.com/en/wow/t/cannot-access-%E2%80%9Cthe-gilneas-reclamation%E2%80%9D-storyline/2219391"
+          "https://remotedesktop.google.com/",
+          "https://remotedesktop.google.com/_/oauthredirect",
+          "https://support.microsoft.com/en-us/windows/experience/connectivity-networking/how-to-use-remote-desktop",
+          "https://www.remotedesktop.com/",
+          "https://chromewebstore.google.com/detail/chrome-remote-desktop/inomeogfingihgjfjlpeplalcfajhgai",
+          "https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/remotepc/remote-desktop-allow-access",
+          "https://www.howtogeek.com/752040/how-to-turn-on-and-use-remote-desktop-on-windows-11/",
+          "https://www.microsoft.com/en-us/d/microsoft-remote-desktop/9wzdncrfj3ps",
+          "https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/",
+          "https://www.microsoft.com/en-us/windows/learning-center/use-windows-remote-desktop-to-access-pc"
         ],
         "candidates": [
-          "us.forums.blizzard.com"
+          "aka.ms",
+          "chromewebstore.google.com",
+          "learn.microsoft.com",
+          "remotedesktop.google.com",
+          "support.microsoft.com",
+          "www.howtogeek.com",
+          "www.microsoft.com",
+          "www.remotedesktop.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Riot/Riot.yaml": {
-        "checked_at": "2026-11-12 19:29 UTC",
+        "checked_at": "2026-11-27 06:29 UTC",
         "name": "Riot",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.riotgames.com/",
-          "https://login.riotgames.com/",
           "https://playvalorant.com/en-us/download/",
-          "https://account.riotgames.com/en-US/login",
           "https://playvalorant.com/",
           "https://support.riotgames.com/en-us/riot/",
+          "https://account.riotgames.com/en-US/login",
+          "https://login.riotgames.com/",
           "https://www.leagueoflegends.com/en-us/download/",
-          "https://www.riotgames.com/pt-br",
-          "https://www.leagueoflegends.com/"
+          "https://www.leagueoflegends.com/en-sg/download/",
+          "https://account.riotgames.com/account/login",
+          "https://www.riotgames.com/pt-br"
         ],
         "candidates": [
           "account.riotgames.com",
@@ -163143,20 +163144,20 @@
         "ownership_evidence": []
       },
       "Rockstar/Rockstar.yaml": {
-        "checked_at": "2026-11-12 19:29 UTC",
+        "checked_at": "2026-11-27 06:29 UTC",
         "name": "Rockstar",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.rockstargames.com/",
           "https://www.rockstargames.com/downloads/",
-          "https://www.rockstaroriginal.com/",
-          "https://socialclub.rockstargames.com/profile/signin",
           "https://en.wikipedia.org/wiki/Rockstar_Games",
+          "https://socialclub.rockstargames.com/profile/signin",
           "https://store.rockstargames.com/",
-          "https://socialclub.rockstargames.com/member/----___--___----",
-          "https://www.rockstaroriginal.com/collections/kids-homepage",
+          "https://www.rockstaroriginal.com/",
           "https://support.rockstargames.com/",
-          "https://store.rockstargames.com/game/buy-gta-v"
+          "https://en.wikipedia.org/wiki/Rockstar_North",
+          "https://socialclub.rockstargames.com/member/OurClients/",
+          "https://store.rockstargames.com/account"
         ],
         "candidates": [
           "en.wikipedia.org",
@@ -163170,33 +163171,38 @@
         "ownership_evidence": []
       },
       "RuanMei/RuanMei.yaml": {
-        "checked_at": "2026-11-12 19:29 UTC",
+        "checked_at": "2026-11-27 06:29 UTC",
         "name": "RuanMei",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://mail.google.com/mail",
-          "https://accounts.google.com/",
-          "https://accounts.google.com/login?hl=pt-BR",
-          "https://accounts.google.com/login?hl=id",
-          "https://accounts.google.com/login?service=mail",
-          "https://mail.google.com/mail/u/0/",
-          "https://myaccount.google.com/intro/signing-in-to-google",
-          "https://support.google.com/mail/answer/8494?hl=en&co=genie.platform=desktop",
-          "https://www.google.com/account/about/",
-          "https://support.google.com/mail/answer/8494?hl=en-IN&co=GENIE.Platform%3DDesktop"
+          "https://www.espn.com/soccer/scoreboard/_/league/eng.1",
+          "https://www.premierleague.com/",
+          "https://www.bbc.co.uk/sport/football/premier-league/scores-fixtures",
+          "https://www.premierleague.com/en/matches",
+          "https://www.livescore.com/en/football/england/premier-league/",
+          "https://www.flashscore.com/football/england/premier-league/",
+          "https://www.flashscoreusa.com/soccer/england/premier-league/",
+          "https://www.cbssports.com/soccer/premier-league/scoreboard/",
+          "https://sports.yahoo.com/soccer/premier-league/scoreboard/",
+          "https://www.espn.com/soccer/scoreboard"
         ],
         "candidates": [
-          "accounts.google.com",
-          "mail.google.com",
-          "myaccount.google.com",
-          "support.google.com",
-          "www.google.com"
+          "cbssports.com",
+          "flashscore.com",
+          "sports.yahoo.com",
+          "www.bbc.co.uk",
+          "www.cbssports.com",
+          "www.espn.com",
+          "www.flashscore.com",
+          "www.flashscoreusa.com",
+          "www.livescore.com",
+          "www.premierleague.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "SFExpress/SFExpress.yaml": {
-        "checked_at": "2026-11-12 19:29 UTC",
+        "checked_at": "2026-11-27 06:29 UTC",
         "name": "SFExpress",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -163205,15 +163211,15 @@
           "https://www.sf-express.com/chn/en/waybill/list",
           "https://www.sf-express.com/chn/en",
           "https://www.17track.net/en/carriers/sf-express",
-          "https://parcelsapp.com/en/carriers/sf-express",
-          "https://en.m.wikipedia.org/wiki/SF_Express",
-          "https://carriers.aftership.com/sf-express",
           "https://htm.sf-express.com/tw/tc/",
+          "https://parcelsapp.com/en/carriers/sf-express",
+          "https://en.wikipedia.org/wiki/SF_Express",
+          "https://carriers.aftership.com/sf-express",
           "https://htm.sf-express.com/tw/en/"
         ],
         "candidates": [
           "carriers.aftership.com",
-          "en.m.wikipedia.org",
+          "en.wikipedia.org",
           "htm.sf-express.com",
           "parcelsapp.com",
           "s.f.express",
@@ -163226,240 +163232,239 @@
         "ownership_evidence": []
       },
       "SMG/SMG.yaml": {
-        "checked_at": "2026-11-12 19:29 UTC",
+        "checked_at": "2026-11-27 06:29 UTC",
         "name": "SMG",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://reporting.smg.com/",
+          "https://www.studiomoviegrill.com/locations/texas/plano",
           "https://smg.com/",
-          "https://safetymanagementgroup.com/safety-locations/indianapolis-in/",
-          "https://safetymanagementgroup.com/",
-          "https://smg.com/customer-experience-management",
-          "https://en.wikipedia.org/wiki/List_of_submachine_guns",
-          "https://en.wikipedia.org/wiki/Submachine_gun",
-          "https://smg.team/",
+          "https://www.studiomoviegrill.com/quicktickets/texas/plano",
+          "https://smg.com/about",
           "https://360.smg.com/",
-          "https://smgconstruction.com/"
+          "https://www.fandango.com/studio-movie-grill-plano-aabed/theater-page",
+          "https://en.wikipedia.org/wiki/Submachine_gun",
+          "https://en.wikipedia.org/wiki/List_of_submachine_guns",
+          "https://smg.team/"
         ],
         "candidates": [
           "360.smg.com",
           "en.wikipedia.org",
           "reporting.smg.com",
-          "safetymanagementgroup.com",
           "smg.com",
           "smg.team",
-          "smgconstruction.com"
+          "www.fandango.com",
+          "www.studiomoviegrill.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "SMZDM/SMZDM.yaml": {
-        "checked_at": "2026-11-12 19:29 UTC",
+        "checked_at": "2026-11-27 06:29 UTC",
         "name": "SMZDM",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.smzdm.com/",
-          "https://www.smzdm.com/mall/smzdm/",
-          "https://post.smzdm.com/",
-          "https://m.smzdm.com/top/",
-          "https://wiki.smzdm.com/",
-          "https://faxian.smzdm.com/",
-          "https://shangjia.smzdm.com/",
-          "https://m.smzdm.com/html/whole_network_parity/",
-          "https://h5.smzdm.com/",
-          "https://zhiyou.smzdm.com/user/login/"
+          "https://www.zillow.com/matunuck-south-kingstown-ri/",
+          "https://www.zillow.com/nanticoke-pa/",
+          "https://www.zillow.com/kingston-wa/rent-houses/",
+          "https://www.zillow.com/kingston-wa/land/",
+          "https://www.zillow.com/kingston-wa-98346/houses/",
+          "https://www.zillow.com/kingston-wa/waterfront/",
+          "https://www.zillow.com/kingston-wa/newest/",
+          "https://www.zillow.com/kingston-mi/",
+          "https://www.zillow.com/kingston-ny/duplex/",
+          "https://www.zillow.com/kingston-wa/houses/"
         ],
         "candidates": [
-          "faxian.smzdm.com",
-          "h5.smzdm.com",
-          "m.smzdm.com",
-          "post.smzdm.com",
-          "shangjia.smzdm.com",
-          "smzdm.com",
-          "wiki.smzdm.com",
-          "www.smzdm.com",
-          "zhiyou.smzdm.com"
+          "www.zillow.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "STUN/STUN.yaml": {
-        "checked_at": "2026-11-13 04:51 UTC",
+        "checked_at": "2026-11-27 06:29 UTC",
         "name": "STUN",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://en.wikipedia.org/wiki/STUN",
+          "https://en.m.wikipedia.org/wiki/STUN",
           "https://www.merriam-webster.com/dictionary/stun",
-          "https://dictionary.cambridge.org/dictionary/english/stun",
           "https://liveapi.com/blog/stun-server/",
+          "https://dictionary.cambridge.org/dictionary/english/stun",
           "https://info.support.huawei.com/info-finder/encyclopedia/en/STUN.html",
+          "https://www.merriam-webster.com/thesaurus/stun",
           "https://www.amazon.com/stun/s?k=stun",
-          "https://www.merriam-webster.com/thesaurus/stun"
+          "https://www.amazon.com/Best-Sellers-Stun-Guns/zgbs/sporting-goods/7824770011",
+          "https://www.bestproductsreviews.com/rated-stun-guns",
+          "https://stun-guns.com/"
         ],
         "candidates": [
           "amazon.com",
+          "bestproductsreviews.com",
           "dictionary.cambridge.org",
-          "en.wikipedia.org",
+          "en.m.wikipedia.org",
           "info.support.huawei.com",
           "liveapi.com",
+          "stun-guns.com",
           "www.amazon.com",
+          "www.bestproductsreviews.com",
           "www.merriam-webster.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Salesforce/Salesforce.yaml": {
-        "checked_at": "2026-11-13 04:51 UTC",
+        "checked_at": "2026-11-27 06:29 UTC",
         "name": "Salesforce",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://login.salesforce.com/",
-          "https://www.linkedin.com/company/salesforce",
-          "https://www.facebook.com/salesforce/",
           "https://www.salesforce.com/",
-          "https://salesforceventures.com/",
-          "https://www.salesforce.com/ap/",
-          "https://www.cnbc.com/quotes/CRM",
+          "https://www.salesforce.com/products/what-is-salesforce/",
+          "https://login.salesforce.com/logos/",
           "https://en.wikipedia.org/wiki/Salesforce",
-          "https://play.google.com/store/apps/details?id=com.salesforce.chatter&hl=en_US",
-          "https://trailhead.salesforce.com/"
+          "https://www.salesforce.com/homepage/",
+          "https://www.salesforce.com/in/",
+          "https://login.salesforce.com/login/sessionserver190.html",
+          "https://trailhead.salesforce.com/",
+          "https://help.salesforce.com/s/?language=en_US"
         ],
         "candidates": [
           "en.wikipedia.org",
+          "help.salesforce.com",
           "login.salesforce.com",
-          "play.google.com",
-          "salesforceventures.com",
           "trailhead.salesforce.com",
-          "www.cnbc.com",
-          "www.facebook.com",
-          "www.linkedin.com",
           "www.salesforce.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Samsung/Samsung.yaml": {
-        "checked_at": "2026-11-13 04:51 UTC",
+        "checked_at": "2026-11-27 06:29 UTC",
         "name": "Samsung",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://math.stackexchange.com/questions/134606/distance-between-any-two-points-on-a-unit-circle",
-          "https://math.stackexchange.com/questions/209308/can-we-characterize-the-m%c3%b6bius-transformations-that-maps-the-unit-disk-into-itse",
-          "https://math.stackexchange.com/questions/1250880/precalculus-unit-circle-with-imaginary-axis",
-          "https://math.stackexchange.com/questions/291686/how-does-ei-x-produce-rotation-around-the-imaginary-unit-circle",
-          "https://math.stackexchange.com/questions/31163/tips-for-understanding-the-unit-circle",
-          "https://math.stackexchange.com/questions/260096/find-the-coordinates-of-a-point-on-a-circle",
-          "https://math.stackexchange.com/questions/4567824/in-a-unit-circle-what-is-the-average-distance-to-the-center-of-circle",
-          "https://math.stackexchange.com/questions/3408/characterizing-non-constant-entire-functions-with-modulus-1-on-the-unit-circle",
-          "https://math.stackexchange.com/questions/1298379/finding-the-largest-triangle-inscribed-in-the-unit-circle",
-          "https://math.stackexchange.com/questions/1243160/expected-area-of-triangle-formed-by-three-random-points-inside-unit-circle"
+          "https://www.samsung.com/us/",
+          "https://www.samsung.com/us/support/",
+          "https://account.samsung.com/",
+          "https://en.m.wikipedia.org/wiki/SAMSUNG",
+          "https://www.bestbuy.com/site/brands/samsung-store/pcmcat140800050115.c?id%3Dpcmcat140800050115",
+          "https://en.m.wikipedia.org/wiki/Samsung_Electronics",
+          "https://us.community.samsung.com/",
+          "https://news.samsung.com/global/",
+          "https://www.samsung.com/us/smartphones/",
+          "https://www.samsung.com/us/tvs/"
         ],
         "candidates": [
-          "math.stackexchange.com"
+          "account.samsung.com",
+          "en.m.wikipedia.org",
+          "news.samsung.com",
+          "us.community.samsung.com",
+          "www.bestbuy.com",
+          "www.samsung.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Scaleflex/Scaleflex.yaml": {
-        "checked_at": "2026-11-13 04:51 UTC",
+        "checked_at": "2026-11-27 06:29 UTC",
         "name": "Scaleflex",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.x.com",
-          "https://www.reddit.com/r/XFiles/",
-          "https://zhidao.baidu.com/question/391959772.html",
-          "https://www.reddit.com/r/CUETards/",
-          "https://zhidao.baidu.com/question/544216351.html",
-          "https://www.zhihu.com/question/329237557",
-          "https://www.zhihu.com/question/19969734",
-          "https://zhidao.baidu.com/question/141441548.html",
-          "https://www.reddit.com/r/personaphantomx/",
-          "https://www.reddit.com/r/abandonware/comments/198luz4/xmen_origins_wolverine_download_link/"
+          "https://www.archimag.com/societe/scaleflex",
+          "https://www.archimag.com/demat-cloud/2025/03/27/emil-novakov-julian-de-maestri-duo-fondateurs-scaleflex",
+          "https://www.archimag.com/files/scaleflex-portraits-dirigeants-julian-de-maestri-emil-novakov-dam-digital-asset-managementjpg",
+          "https://www.archimag.com/demat-cloud/2016/03/22/iron-mountain-france-obtient-certification-iso-27001",
+          "https://www.archimag.com/rss",
+          "https://www.archimag.com/bibliotheque-edition/2016/06/06/gustave-flaubert-education-sentimentale-passe-par-case-numerisation",
+          "https://www.archimag.com/vie-numerique/2014/04/30/open-data-photographies-oeuvres-art-oubliees-engagement-mairie-paris",
+          "https://www.archimag.com/bibliotheque-edition/2015/07/22/yves-alix-nomm%C3%A9-t%C3%AAte-enssib",
+          "https://www.archimag.com/tags/presse-num%C3%A9rique",
+          "https://www.archimag.com/vie-numerique/2019/04/12/automatisation-audit-financier"
         ],
         "candidates": [
-          "wolverine.exe",
-          "www.reddit.com",
-          "www.x.com",
-          "www.zhihu.com",
-          "zhidao.baidu.com"
+          "archimag.com",
+          "www.archimag.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Scholar/Scholar.yaml": {
-        "checked_at": "2026-11-13 04:51 UTC",
+        "checked_at": "2026-11-27 06:29 UTC",
         "name": "Scholar",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://scholar.google.com/",
-          "https://scholar.google.com/%C2%A0%C2%A0",
-          "https://en.wikipedia.org/wiki/Google_Scholar",
-          "https://en.wikipedia.org/wiki/Scholar",
-          "https://scholar.google.cl/",
           "https://scholar.google.com/advanced_scholar_search",
-          "https://scholar.google.com/schhp?hl=en",
-          "https://www.semanticscholar.org/",
+          "https://app.scholar.com/",
+          "https://en.wikipedia.org/wiki/Google_Scholar",
+          "https://scholar.google.com.sg/intl/en/scholar/citations.html",
+          "https://library.harvard.edu/services-tools/google-scholar",
+          "https://en.wikipedia.org/wiki/Scholar",
+          "https://scholar.google.com/intl/en/scholar/help.html",
           "https://scholar.google.com/intl//scholar/about.html",
-          "https://fulbrightscholars.org/us-scholar-awards"
+          "https://libraries.catholic.edu/research-help/how-do-i/google-scholar.html"
         ],
         "candidates": [
+          "app.scholar.com",
           "en.wikipedia.org",
-          "fulbrightscholars.org",
-          "scholar.google.cl",
+          "libraries.catholic.edu",
+          "library.harvard.edu",
           "scholar.google.com",
-          "www.semanticscholar.org"
+          "scholar.google.com.sg"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Sectigo/Sectigo.yaml": {
-        "checked_at": "2026-11-13 04:51 UTC",
+        "checked_at": "2026-11-27 06:29 UTC",
         "name": "Sectigo",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.sectigo.com/",
           "https://www.sectigo.com/products",
           "https://en.wikipedia.org/wiki/Sectigo",
-          "https://comodo.jp/",
           "https://store.sectigo.com/index.php?rp=/login",
-          "https://docs.sectigo.com/",
           "https://scm.sectigo.com/",
+          "https://docs.sectigo.com/",
           "https://sectigostore.com/enterprise/sectigo-certificate-manager",
-          "https://en.wikipedia.org/wiki/Xcitium",
-          "https://www.sectigo.eu/"
+          "https://sectigostore.com/page/",
+          "https://platform.sectigo.com/login",
+          "https://www.linkedin.com/company/sectigo"
         ],
         "candidates": [
-          "comodo.jp",
           "docs.sectigo.com",
           "en.wikipedia.org",
+          "platform.sectigo.com",
           "scm.sectigo.com",
-          "sectigo.eu",
           "sectigostore.com",
           "store.sectigo.com",
-          "www.sectigo.com",
-          "www.sectigo.eu"
+          "www.linkedin.com",
+          "www.sectigo.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "ShangHaiJuXiao/ShangHaiJuXiao.yaml": {
-        "checked_at": "2026-11-13 04:51 UTC",
+        "checked_at": "2026-11-27 06:29 UTC",
         "name": "ShangHaiJuXiao",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://m.imdb.com/title/tt0025488/fullcredits/",
-          "https://m.imdb.com/title/tt2248480/fullcredits/",
-          "https://m.imdb.com/title/tt5709234/fullcredits/",
-          "https://m.imdb.com/title/tt2662128/",
-          "https://m.imdb.com/title/tt0119654/trivia/",
-          "https://m.imdb.com/title/tt0119654/fullcredits/",
-          "https://m.imdb.com/title/tt0095082/fullcredits/",
-          "https://m.imdb.com/title/tt0041113/fullcredits/",
-          "https://m.imdb.com/title/tt0735172/fullcredits/",
-          "https://m.imdb.com/title/tt6565702/fullcredits/"
+          "https://www.nba.com/standings",
+          "https://www.nba.com/news/emirates-nba-cup-2026-east-group-b-preview",
+          "https://stats.gleague.nba.com/team/1612709920/",
+          "https://picks.nba.com/bracket-challenge",
+          "https://www.nba.com/stats/teams/advanced",
+          "https://www.nba.com/nba-cup/2026/standings",
+          "https://www.nba.com/playoffs/2025",
+          "https://www.nba.com/timberwolves/standings",
+          "https://www.nba.com/nuggets/standings",
+          "https://stats.gleague.nba.com/team/1612709904/"
         ],
         "candidates": [
-          "m.imdb.com"
+          "nba.com",
+          "picks.nba.com",
+          "stats.gleague.nba.com",
+          "www.nba.com"
         ],
         "accepted": [],
         "ownership_evidence": []
