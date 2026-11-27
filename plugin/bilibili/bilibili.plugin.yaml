@@ -1,8 +1,7 @@
-# 哔哩哔哩 App 去广告 · Nodus Core 原生插件
-# 通过宿主的插件入口加载。主配置须开启 MitM 并配置非空 hosts，客户端须信任宿主 CA。
-# 此插件使用请求本地响应与原生 JSON 复写，无需 JavaScript。
-# MitM 按主机解密，复写仅处理下列端点。主配置的 bypass 优先。
-# 接口参考：https://github.com/teaoea/shell/tree/0470e17b938628e10bb090d88e884815deb66eca/plugins/Bilibili
+# name: 哔哩哔哩 App 去广告
+# category: 广告过滤
+# description: 清理 B 站 App 的开屏广告和首页、竖屏推荐中的明确广告卡片。
+# icon: https://raw.githubusercontent.com/teaoea/shell/main/plugins/Bilibili/assets/bilibili.png
 
 mitm:
   enabled: true
