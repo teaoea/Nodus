@@ -1,7 +1,7 @@
 {
   "upstream": "https://github.com/blackmatrix7/ios_rule_script",
   "revision": "0b6897dc17e0c513d25449c935a9694818e32f0c",
-  "date": "2026-11-27 06:29 UTC",
+  "date": "2026-11-27 20:38 UTC",
   "collections": {
     "rule/Clash/115/115.yaml": {
       "input": 10,
@@ -149018,8 +149018,8 @@
   ],
   "discovery": {
     "engine": "Bing public RSS",
-    "checked_at": "2026-11-27 06:29 UTC",
-    "next_index": 518,
+    "checked_at": "2026-11-27 20:38 UTC",
+    "next_index": 542,
     "attempted": 24,
     "total_collections": 689,
     "verified_additions": {
@@ -163470,7 +163470,7 @@
         "ownership_evidence": []
       },
       "Shanling/Shanling.yaml": {
-        "checked_at": "2026-11-13 04:51 UTC",
+        "checked_at": "2026-11-27 20:38 UTC",
         "name": "Shanling",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -163478,17 +163478,17 @@
           "https://store.shanling.com/",
           "https://store.shanling.com/products.html",
           "https://en.shanling.com/category/237",
-          "https://shanling.com/",
           "https://www.amazon.com/stores/SHANLING/page/EE647722-A4F9-491E-A153-A0DCE5A582F3",
+          "https://shanling.com/",
           "https://www.safeandsoundhq.com/collections/shanling",
-          "https://newen.shanling.com/",
-          "https://shop.musicteck.com/collections/shanling",
-          "https://www.musicdirect.com/brands/shanling"
+          "https://www.musicdirect.com/brands/shanling",
+          "https://www.amazon.com/Shanling/s?k=Shanling",
+          "https://shop.musicteck.com/collections/shanling"
         ],
         "candidates": [
           "amazon.com",
           "en.shanling.com",
-          "newen.shanling.com",
+          "experience.after",
           "sales.including",
           "shanling.com",
           "shop.musicteck.com",
@@ -163501,195 +163501,195 @@
         "ownership_evidence": []
       },
       "Sharethis/Sharethis.yaml": {
-        "checked_at": "2026-11-13 04:51 UTC",
+        "checked_at": "2026-11-27 20:38 UTC",
         "name": "Sharethis",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://forum.utorrent.com/topic/9695-how-to-cancel-u-torrent/",
-          "https://www.reddit.com/r/explainlikeimfive/comments/1jh2xe/eli5_what_are_torrents_and_how_do_they_work/",
-          "https://forum.bittorrent.com/topic/42754-didnt-happen-before-when-i-open-bittorrent-it-shows-a-blank-white-screen/",
-          "https://forum.utorrent.com/topic/101333-unable-to-load-name-of-torrent-unknown-error/",
-          "https://www.reddit.com/r/libgen/comments/pmng8z/accidentally_downloaded_a_torrent_file_is_this_a/",
-          "https://forum.bittorrent.com/topic/42171-dht-waiting-to-login/",
-          "https://forum.utorrent.com/topic/106715-unknown-host-11001/",
-          "https://www.reddit.com/r/VitaPiracy/comments/55e5pw/fully_tested_vpk_torrent_398_games/",
-          "https://forum.utorrent.com/topic/32418-what-do-the-swarm-numbers-really-mean/",
-          "https://www.reddit.com/r/torrents/comments/415sll/best_site_to_torrent_university_textbooks/"
+          "https://www.google.com/chrome/index.html",
+          "https://www.google.com/chrome/",
+          "https://www.google.com/intl/es-419/chrome/beta/",
+          "https://support.google.com/chrome/answer/95346?hl=sk&co=GENIE.Platform%3DDesktop",
+          "https://play.google.com/store/apps/details?id=com.android.chrome&hl=id",
+          "https://support.google.com/chrome/answer/95346?hl=fr&co=GENIE.Platform=iOS",
+          "https://chromewebstore.google.com/detail/squarespace-id-finder/igjamfnifnkmecjidfbdipieoaeghcff",
+          "https://chromewebstore.google.com/detail/meet-attendance/nenibigflkdikhamlnekfppbganmojlg",
+          "https://play.google.com/store/apps/details?id=com.ixolit.ipvanish&hl=en-US",
+          "https://landing.google.com/advancedprotection/"
         ],
         "candidates": [
-          "forum.bittorrent.com",
-          "forum.utorrent.com",
-          "peers.right",
-          "www.reddit.com"
+          "chromewebstore.google.com",
+          "landing.google.com",
+          "play.google.com",
+          "support.google.com",
+          "www.google.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "ShenMa/ShenMa.yaml": {
-        "checked_at": "2026-11-13 04:51 UTC",
+        "checked_at": "2026-11-27 20:38 UTC",
         "name": "ShenMa",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://greatergood.berkeley.edu/article/item/how_patience_can_help_you_find_your_purpose",
-          "https://greatergood.berkeley.edu/article/item/how_to_survive_your_midlife_blues",
-          "https://greatergood.berkeley.edu/contact",
-          "https://greatergood.berkeley.edu/article/item/happy_life_different_from_meaningful_life",
-          "https://greatergood.berkeley.edu/quizzes/take_quiz/awe",
-          "https://greatergood.berkeley.edu/article/item/why_your_friends_are_more_important_than_you_think",
-          "https://greatergood.berkeley.edu/quizzes/take_quiz/happiness_at_work",
-          "https://greatergood.berkeley.edu/article/item/seven_ways_to_bring_more_meaning_to_your_life",
-          "https://greatergood.berkeley.edu/article/item/why_your_brain_needs_to_dream",
-          "https://greatergood.berkeley.edu/quizzes/take_quiz/purpose_in_life"
+          "https://www.huskerboard.com/threads/rank-em-the-voices-of-the-huskers.41551/",
+          "https://www.huskerboard.com/threads/media-predictions-for-nebraska-2026-football-season.106072/",
+          "https://forum.huskermax.com/forums/football.4/",
+          "https://forum.huskermax.com/threads/officiating-crews-from-each-game.133525/",
+          "https://bighuskerfan.com/forum/index.php",
+          "https://bighuskerfan.com/forum/forums/husker-football.13/",
+          "https://www.huskerboard.com/threads/in-the-deed-the-glory.33780/",
+          "https://www.huskerboard.com/threads/deangelo-evans-is-trying-to-turn-his-failed-football-dreams-into-a-successful-business.13681/",
+          "https://www.huskerboard.com/threads/fire-matt-rhule-who-can-we-hire.106234/",
+          "https://www.huskerboard.com/forums/football-recruiting.86/"
         ],
         "candidates": [
-          "greatergood.berkeley.edu"
+          "bighuskerfan.com",
+          "forum.huskermax.com",
+          "huskerboard.com",
+          "www.huskerboard.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "ShiJiChaoXing/ShiJiChaoXing.yaml": {
-        "checked_at": "2026-11-13 04:51 UTC",
+        "checked_at": "2026-11-27 20:38 UTC",
         "name": "ShiJiChaoXing",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.perplexity.ai/",
-          "https://docs.perplexity.ai/llms.txt",
-          "https://www.perplexity.ai/help-center/en/articles/11187416-which-perplexity-subscription-plan-is-right-for-you",
-          "https://www.perplexity.ai/students",
-          "https://www.perplexity.ai/hub/blog",
-          "https://r2cdn.perplexity.ai/pdf/pplx-at-work.pdf",
-          "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
-          "https://www.perplexity.ai/pro",
-          "https://www.perplexity.ai/enterprise/use-cases/education",
-          "https://docs.perplexity.ai/docs/agent-api/prompt-guide"
+          "https://www.bcra.gob.ar/",
+          "https://apnews.com/article/javier-milei-central-bank-economy-argentina-peso-primaries-paso-e4598186ef6cbcf05ecc598788c52cec",
+          "https://www.bcra.gob.ar/en/",
+          "https://abcnews.com/International/wireStory/argentina-bans-central-bank-printing-money-government-138472438",
+          "https://www.straitstimes.com/world/argentina-bans-its-central-bank-from-printing-money-for-the-government",
+          "https://businessmirror.com.ph/2026/11/27/argentina-bans-its-central-bank-from-printing-money-for-the-government/",
+          "https://economictimes.indiatimes.com/news/international/business/argentina-bans-its-central-bank-from-printing-money-for-the-government/articleshow/136206246.cms",
+          "https://startupfortune.com/argentinas-central-bank-money-printing-ban-passes-without-mileis-full-lock/",
+          "https://www.telegraph.co.uk/world-news/2026/11/27/milei-bans-central-bank-from-printing-money-recession/",
+          "https://www.msn.com/en-us/news/other/argentina-bars-central-bank-from-printing-money-to-fund-government-spending/ar-AA2ijaxR"
         ],
         "candidates": [
-          "docs.perplexity.ai",
-          "perplexity.ai",
-          "r2cdn.perplexity.ai",
-          "www.perplexity.ai"
+          "abcnews.com",
+          "apnews.com",
+          "businessmirror.com.ph",
+          "economictimes.indiatimes.com",
+          "startupfortune.com",
+          "straitstimes.com",
+          "www.bcra.gob.ar",
+          "www.msn.com",
+          "www.straitstimes.com",
+          "www.telegraph.co.uk"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "ShiNongZhiKe/ShiNongZhiKe.yaml": {
-        "checked_at": "2026-11-13 04:51 UTC",
+        "checked_at": "2026-11-27 20:38 UTC",
         "name": "ShiNongZhiKe",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.toyota.com/4-door-sedans/",
-          "https://www.kbb.com/toyota/sedans/",
-          "https://www.edmunds.com/toyota/sedan/",
-          "https://www.toyota.com/cars/",
-          "https://www.cargurus.com/Cars/spt-toyota-sedans",
-          "https://www.autotrader.com/cars-for-sale/sedan/toyota",
-          "https://www.jdpower.com/cars/toyota/sedan",
-          "https://www.kenganleytoyotaakron.com/toyota-sedan-model-lineup",
-          "https://www.carvana.com/cars/toyota-sedan",
-          "https://www.cars.com/shopping/toyota/sedan/"
+          "https://www.amazon.com/",
+          "https://www.amazon.com/-/es/",
+          "https://sell.amazon.com/tools/seller-central",
+          "https://hiring.amazon.com/",
+          "https://amc.amazon.com/",
+          "https://read.amazon.com/landing",
+          "https://business.amazon.com/en/login",
+          "https://selection.amazon.com/sign-in?redirect_to=%2F&mons_redirect=sign_in",
+          "https://pharmacy.amazon.com/",
+          "https://music.amazon.com/podcasts"
         ],
         "candidates": [
-          "cars.com",
-          "toyota.com",
-          "www.autotrader.com",
-          "www.cargurus.com",
-          "www.cars.com",
-          "www.carvana.com",
-          "www.edmunds.com",
-          "www.jdpower.com",
-          "www.kbb.com",
-          "www.kenganleytoyotaakron.com",
-          "www.toyota.com"
+          "amazon.com",
+          "amc.amazon.com",
+          "business.amazon.com",
+          "hiring.amazon.com",
+          "music.amazon.com",
+          "pharmacy.amazon.com",
+          "read.amazon.com",
+          "selection.amazon.com",
+          "sell.amazon.com",
+          "sellercentral.amazon.com",
+          "www.amazon.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Shopee/Shopee.yaml": {
-        "checked_at": "2026-11-13 04:51 UTC",
+        "checked_at": "2026-11-27 20:38 UTC",
         "name": "Shopee",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://shopee.ph/",
           "https://shopee.sg/",
-          "https://shopee.in/index.html",
           "https://shopee.com.br/",
-          "https://shopee.co.id/",
           "https://shopee.vn/",
+          "https://shopee.in/index.html",
           "https://shopee.ph/shopeeph",
-          "https://shopee.tw/",
-          "https://open.shopee.com/"
+          "https://shopee.co.id/"
         ],
         "candidates": [
-          "open.shopee.com",
-          "seller.shopee.com.my",
           "shopee.co.id",
           "shopee.com.br",
           "shopee.in",
           "shopee.ph",
           "shopee.sg",
-          "shopee.tw",
           "shopee.vn"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Shopify/Shopify.yaml": {
-        "checked_at": "2026-11-13 04:51 UTC",
+        "checked_at": "2026-11-27 20:38 UTC",
         "name": "Shopify",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.shopify.com/",
           "https://www.shopify.com/store-login",
-          "https://x.com/Shopify",
-          "https://www.facebook.com/shopify/",
-          "https://www.youtube.com/shopify",
-          "https://www.shop.com/",
-          "https://apps.apple.com/us/app/shopify-sell-run-a-business/id371294472",
-          "https://finance.yahoo.com/quote/SHOP/",
+          "https://themes.shopify.com/designers/shopify",
+          "https://en.wikipedia.org/wiki/Shopify",
           "https://help.shopify.com/",
-          "https://en.wikipedia.org/wiki/Shopify"
+          "https://www.shopify.com/online",
+          "https://www.shopify.com/uk",
+          "https://www.shopify.com/store-signup",
+          "https://www.shopify.com/about",
+          "https://www.forbes.com/advisor/business/software/what-is-shopify/"
         ],
         "candidates": [
-          "apps.apple.com",
           "en.wikipedia.org",
-          "facebook.com",
-          "finance.yahoo.com",
           "help.shopify.com",
-          "www.facebook.com",
-          "www.shop.com",
-          "www.shopify.com",
-          "www.youtube.com",
-          "x.com"
+          "themes.shopify.com",
+          "www.forbes.com",
+          "www.shopify.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Sina/Sina.yaml": {
-        "checked_at": "2026-11-13 04:51 UTC",
+        "checked_at": "2026-11-27 20:38 UTC",
         "name": "Sina",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.sina.com.cn/",
           "https://mail.sina.com.cn/",
-          "https://www.sina.com.cn/temp/",
-          "https://sina.saglik.gov.tr/",
-          "https://sports.sina.com.cn/?locale=en_US",
-          "https://finance.sina.com.cn/stock/",
           "https://sina.cn/",
-          "https://www.youtube.com/@sina-drums",
+          "https://www.sina.com.cn/temp/",
           "https://portal.sina.com.hk/",
-          "https://news.sina.cn/en-US/Portal/"
+          "https://sinainc.org/",
+          "https://www.youtube.com/@sina-drums",
+          "https://en.wikipedia.org/wiki/Sina-Drums",
+          "https://sports.sina.com.cn/?locale=en_US",
+          "https://finance.sina.com.cn/stock/"
         ],
         "candidates": [
+          "en.wikipedia.org",
           "finance.sina.com.cn",
           "mail.sina.com.cn",
           "news.sina.cn",
           "portal.sina.com.hk",
           "sina.cn",
           "sina.com",
-          "sina.saglik.gov.tr",
+          "sinainc.org",
           "sports.sina.com.cn",
-          "vip.sina.com",
           "www.sina.com.cn",
           "www.youtube.com"
         ],
@@ -163697,78 +163697,84 @@
         "ownership_evidence": []
       },
       "Siri/Siri.yaml": {
-        "checked_at": "2026-11-13 04:51 UTC",
+        "checked_at": "2026-11-27 20:38 UTC",
         "name": "Siri",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.apple.com/apple-intelligence/",
           "https://siriai.help/",
-          "https://en.m.wikipedia.org/wiki/Siri",
-          "https://apps.apple.com/us/app/siri/id6758482875",
           "https://www.computerhope.com/jargon/s/siri.htm",
-          "https://support.apple.com/en-us/105020",
-          "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
+          "https://en.wikipedia.org/wiki/Siri",
+          "https://apps.apple.com/us/app/siri/id6758482875",
           "https://support.apple.com/guide/iphone/turn-on-and-activate-siri-iph83aad8922/ios",
-          "https://www.simplymac.com/ios/set-up-siri-on-this-device",
-          "https://appleinsider.com/inside/siri"
+          "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
+          "https://support.apple.com/en-us/105020",
+          "https://www.siriusxm.com/",
+          "https://www.simplymac.com/ios/set-up-siri-on-this-device"
         ],
         "candidates": [
-          "appleinsider.com",
           "apps.apple.com",
-          "en.m.wikipedia.org",
+          "en.wikipedia.org",
           "siriai.help",
           "support.apple.com",
           "www.apple.com",
           "www.computerhope.com",
-          "www.simplymac.com"
+          "www.simplymac.com",
+          "www.siriusxm.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "SkyGO/SkyGO.yaml": {
-        "checked_at": "2026-11-13 04:51 UTC",
+        "checked_at": "2026-11-27 20:38 UTC",
         "name": "SkyGO",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.reddit.com/r/Windows11/comments/wpcd5f/windows_11_bluetooth_issues/",
-          "https://www.reddit.com/r/battlefield_one/comments/58or6t/bluetooth_headset_no_in_game_sound/",
-          "https://www.toyotanation.com/threads/2010-corolla-radio-upgrade-suggestions.1640808/",
-          "https://www.toyotanation.com/threads/bluetooth-stopped-working-update-issue-found.1464242/",
-          "https://www.reddit.com/r/davinciresolve/comments/nqwo3k/bluetooth_audio_issue/",
-          "https://www.reddit.com/r/airpods/comments/7gdvma/airpods_bluetooth_drivers_for_windows_10/",
-          "https://www.reddit.com/r/Bluetooth_Speakers/",
-          "https://www.reddit.com/r/windows/comments/rhupic/bluetooth_missing_after_windows_11_update/",
-          "https://www.reddit.com/r/ASUS/comments/9b0717/is_the_wifi_antenna_also_used_as_a_bluetooth/",
-          "https://www.reddit.com/r/bootcamp/comments/zitkfr/bluetooth_not_available_in_windows_11/"
+          "https://www.nfl.com/standings/league/2026/REG",
+          "https://media.nfl.com/content/dam/communications/Official%20Playing%20Rules/2025%20Official%20Playing%20Rules.pdf",
+          "https://www.nfl.com/international",
+          "https://static.www.nfl.com/image/upload/league/zx8d2rasyewxuusbhzae.pdf",
+          "https://nextgenstats.nfl.com/",
+          "https://operations.nfl.com/rules-officiating/nfl-football-basics/football-terms",
+          "https://support.nfl.com/hc/en-us/articles/39414498347796-Contact-Us",
+          "https://media.nfl.com/",
+          "https://static.www.nfl.com/league/apps/league-site/media-guides/2024/2024-Record-and-Fact-Book.pdf",
+          "https://support.nfl.com/hc/en-us/requests/new"
         ],
         "candidates": [
-          "install.wim",
-          "www.reddit.com",
-          "www.toyotanation.com"
+          "league.the",
+          "media.nfl.com",
+          "nextgenstats.nfl.com",
+          "nfl.com",
+          "operations.nfl.com",
+          "static.www.nfl.com",
+          "support.nfl.com",
+          "www.nfl.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Slack/Slack.yaml": {
-        "checked_at": "2026-11-13 04:51 UTC",
+        "checked_at": "2026-11-27 20:38 UTC",
         "name": "Slack",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://slack.com/signin",
           "https://slack.com/ssb/signin",
           "https://app.slack.com/client",
+          "https://slack.com/ssb/workspace-signin",
           "https://en.wikipedia.org/wiki/Slack_(software)",
-          "https://app.slack.com/client/*/*",
           "https://slackdemo.com/?from=home",
+          "https://app.slack.com/*/",
           "https://api.slack.com/apps",
-          "https://en.wikipedia.org/wiki/Slack_Technologies",
-          "https://slack.com/downloads/windows",
-          "https://slack.com/"
+          "https://go.slack.com/get-started/",
+          "https://slack.com/signin%20",
+          "https://slack.com/downloads/windows"
         ],
         "candidates": [
           "api.slack.com",
           "app.slack.com",
           "en.wikipedia.org",
+          "go.slack.com",
           "slack.com",
           "slackdemo.com"
         ],
@@ -163776,20 +163782,21 @@
         "ownership_evidence": []
       },
       "SlideShare/SlideShare.yaml": {
-        "checked_at": "2026-11-13 04:51 UTC",
+        "checked_at": "2026-11-27 20:38 UTC",
         "name": "SlideShare",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.slideshare.net/",
           "https://www.slideshare.net/Slideshare",
           "https://es.slideshare.net/slideshare",
-          "https://es.slideshare.net/",
           "https://ppt.ai/slideshare",
-          "https://www.slideshare.net/login/li_connect",
-          "https://www.slideshare.net/explore"
+          "https://es.slideshare.net/",
+          "https://fr.slideshare.net/Slideshare",
+          "https://www.slideshare.net/login/li_connect"
         ],
         "candidates": [
           "es.slideshare.net",
+          "fr.slideshare.net",
           "ppt.ai",
           "www.slideshare.net"
         ],
@@ -163797,7 +163804,7 @@
         "ownership_evidence": []
       },
       "Sling/Sling.yaml": {
-        "checked_at": "2026-11-13 04:51 UTC",
+        "checked_at": "2026-11-27 20:38 UTC",
         "name": "Sling",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -163806,121 +163813,131 @@
           "https://www.sling.com/sign-in",
           "https://getsling.com/",
           "https://watch.sling.com/",
+          "https://auth-client.p.sling.com/",
           "https://getsling.com/employee-scheduling/",
           "https://watch.sling.com/1/hub/base_select_hub/browse",
-          "https://auth-client.p.sling.com/",
-          "https://watch2.d.sling.com/",
+          "https://help.sling.com/",
           "https://www.sling.com/channels"
         ],
         "candidates": [
           "app.getsling.com",
           "auth-client.p.sling.com",
           "getsling.com",
+          "help.sling.com",
           "watch.sling.com",
-          "watch2.d.sling.com",
           "www.sling.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "SmarTone/SmarTone.yaml": {
-        "checked_at": "2026-11-13 04:51 UTC",
+        "checked_at": "2026-11-27 20:38 UTC",
         "name": "SmarTone",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.smartone.com/en/home/",
           "https://play.google.com/store/apps/details?id=build.smartone_iptv.com&hl=en",
-          "https://smartone-iptv.com/en/plugin/smart_one/client_main/",
-          "https://en.wikipedia.org/wiki/SmarTone",
-          "https://smartone-iptv.com/en/iptv-application-for-adroidtv",
-          "https://play.google.com/store/apps/details?id=build.smartone_iptv.com&hl=es",
           "https://smart-one.ca/",
-          "https://myaccount.smartone.com/jsp/uemo/uemo_login.jsp?lang=english&cat=1&cus_type=1",
-          "https://smartone.ai/"
+          "https://en.wikipedia.org/wiki/SmarTone",
+          "https://myaccount.smartone.com/",
+          "https://smartone.md/en/",
+          "https://smartone.ai/",
+          "https://play.google.com/store/apps/details?id=build.smartone_iptv.com&hl=es"
         ],
         "candidates": [
           "en.wikipedia.org",
           "myaccount.smartone.com",
           "play.google.com",
           "smart-one.ca",
-          "smartone-iptv.com",
           "smartone.ai",
           "smartone.com",
+          "smartone.md",
+          "t.smartone.com",
           "www.smartone.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Snap/Snap.yaml": {
-        "checked_at": "2026-11-13 04:51 UTC",
+        "checked_at": "2026-11-27 20:38 UTC",
         "name": "Snap",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.snapchat.com/",
+          "https://www.dss.nv.gov/Programs/SNAP/",
           "https://www.snapchat.com/web",
-          "https://accounts.snapchat.com/v2/welcome",
           "https://www.fna.usda.gov/snap/supplemental-nutrition-assistance-program",
           "https://accounts.snapchat.com/v2/login",
+          "https://accounts.snapchat.com/v2/welcome",
           "https://snap.berkeley.edu/",
-          "https://www.pa.gov/agencies/dhs/resources/snap"
+          "https://www.usa.gov/food-stamps",
+          "https://snapfinance.com/",
+          "https://www.ers.usda.gov/topics/food-nutrition-assistance/supplemental-nutrition-assistance-program-snap"
         ],
         "candidates": [
           "accounts.snapchat.com",
+          "assistance.pdf",
           "snap.berkeley.edu",
+          "snapfinance.com",
+          "www.dss.nv.gov",
+          "www.ers.usda.gov",
           "www.fna.usda.gov",
-          "www.pa.gov",
-          "www.snapchat.com"
+          "www.snapchat.com",
+          "www.usa.gov"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Sohu/Sohu.yaml": {
-        "checked_at": "2026-11-13 04:51 UTC",
+        "checked_at": "2026-11-27 20:38 UTC",
         "name": "Sohu",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://gemmountainmt.com/",
-          "https://sapphiregallery.com/",
-          "https://www.bluenile.com/blog/diamonds-jewelry/gemstones/what-is-a-montana-sapphire",
-          "https://en.m.wikipedia.org/wiki/Sapphire_Mountains",
-          "https://www.sapphiremine.com/",
-          "https://www.sapphiremine.com/product/mother-lode-sapphire-concentrate/",
-          "https://www.thenaturalsapphirecompany.com/montana-sapphires/",
-          "https://gemmountainmt.com/sapphire-gravel-mine",
-          "https://rockhounding.org/maps/us/montana/sapphires",
-          "https://en.m.wikipedia.org/wiki/Yogo_sapphire"
+          "https://www.sohu.com/?lang=en_us",
+          "https://www.sohu.com/?*$",
+          "https://odin.sohu.com/sohuHome/",
+          "https://m.sohu.com/?v=1",
+          "https://m.sohu.com/limit/",
+          "https://news.sohu.com/?CN",
+          "https://news.sohu.com/?pid=1",
+          "https://en.m.wikipedia.org/wiki/Sohu",
+          "https://tv.sohu.com/",
+          "https://odin.sohu.com/"
         ],
         "candidates": [
+          "changyou.com",
           "en.m.wikipedia.org",
-          "gemmountainmt.com",
-          "rockhounding.org",
-          "sapphiregallery.com",
-          "www.bluenile.com",
-          "www.sapphiremine.com",
-          "www.thenaturalsapphirecompany.com"
+          "m.sohu.com",
+          "news.sohu.com",
+          "odin.sohu.com",
+          "sogou.com",
+          "sohu-inc.com",
+          "tv.sohu.com",
+          "www.sohu.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Sony/Sony.yaml": {
-        "checked_at": "2026-11-13 04:51 UTC",
+        "checked_at": "2026-11-27 20:38 UTC",
         "name": "Sony",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://electronics.sony.com/",
           "https://www.playstation.com/en-us/",
-          "https://www.playstation.com/en-us/your-account-for-playstation/",
           "https://www.sony.com/",
-          "https://www.sony.net/?l=en_US",
           "https://electronics.sony.com/tv-video/televisions/c/all-tvs",
-          "https://www.sony.com/electronics/support",
+          "https://www.playstation.com/en-us/your-account-for-playstation/",
+          "https://www.sony.net/?l=en_US",
+          "https://www.account.sony.com/en-us/top/",
           "https://en.wikipedia.org/wiki/Sony",
-          "https://www.sony.ca/",
-          "https://www.sony.net/products-services/"
+          "https://www.sony.com/en_us/SCA/index.html",
+          "https://www.sony.ca/"
         ],
         "candidates": [
           "electronics.sony.com",
           "en.wikipedia.org",
+          "www.account.sony.com",
           "www.playstation.com",
           "www.sony.ca",
           "www.sony.com",
@@ -163930,79 +163947,69 @@
         "ownership_evidence": []
       },
       "SouFang/SouFang.yaml": {
-        "checked_at": "2026-11-13 19:08 UTC",
+        "checked_at": "2026-11-27 20:38 UTC",
         "name": "SouFang",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.tumblr.com/",
-          "https://keoni-chan.tumblr.com/",
-          "https://www.tumblr.com/boujeesimss",
-          "https://farfallasims.tumblr.com/",
-          "https://wilwheaton.tumblr.com/",
-          "https://zerbu.tumblr.com/post/173398784785/the-sims-4-mod-all-worlds-are-residential",
-          "https://framexframe.tumblr.com/",
-          "https://tromosinstitute.tumblr.com/",
-          "https://sssvitlanz.tumblr.com/alls2cc",
-          "https://oldwindowsicons.tumblr.com/"
+          "https://www.rachelreed.website/blog/active-management-placenta",
+          "https://www.rachelreed.website/blog/induction-of-labour-for-prolonged-pregnancy",
+          "https://www.rachelreed.website/rcrp",
+          "https://www.rachelreed.website/blog/perineal-protectors",
+          "https://www.rachelreed.website/blog/big-babies-care-provider-fear",
+          "https://www.rachelreed.website/childbirth-physiology-course",
+          "https://www.rachelreed.website/blog/understanding-labour-progress",
+          "https://www.rachelreed.website/blog/early-labour",
+          "https://www.rachelreed.website/blog",
+          "https://www.rachelreed.website/blog/vbac"
         ],
         "candidates": [
-          "farfallasims.tumblr.com",
-          "framexframe.tumblr.com",
-          "keoni-chan.tumblr.com",
-          "oldwindowsicons.tumblr.com",
-          "sssvitlanz.tumblr.com",
-          "tromosinstitute.tumblr.com",
-          "wilwheaton.tumblr.com",
-          "www.tumblr.com",
-          "zerbu.tumblr.com"
+          "rachelreed.website",
+          "www.rachelreed.website"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "SoundCloud/SoundCloud.yaml": {
-        "checked_at": "2026-11-13 19:08 UTC",
+        "checked_at": "2026-11-27 20:38 UTC",
         "name": "SoundCloud",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://soundcloud.com/",
-          "https://en.wikipedia.org/wiki/SoundCloud",
-          "https://www.youtube.com/soundcloud",
           "https://soundcloud.com/signin",
           "https://soundcouch.soundcloud.com/",
           "https://m.soundcloud.com/Home",
-          "https://www.facebook.com/SoundCloud/",
-          "https://apps.apple.com/us/app/soundcloud-discover-new-music/id336353151",
-          "https://m.soundcloud.com/signin/callback",
-          "https://checkout.soundcloud.com/"
+          "https://m.soundcloud.com/signin/reset/success",
+          "https://cast-beta.soundcloud.com/",
+          "https://partner.soundcloud.com/elasticstage/",
+          "https://m.soundcloud.com/soundcloud/popular-tracks",
+          "https://soundcloud.com/soundcloud",
+          "https://m.soundcloud.com/notifications"
         ],
         "candidates": [
-          "apps.apple.com",
-          "checkout.soundcloud.com",
-          "en.wikipedia.org",
+          "cast-beta.soundcloud.com",
           "m.soundcloud.com",
+          "partner.soundcloud.com",
           "soundcloud.com",
-          "soundcouch.soundcloud.com",
-          "www.facebook.com",
-          "www.youtube.com"
+          "soundcouch.soundcloud.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "SourceForge/SourceForge.yaml": {
-        "checked_at": "2026-11-13 19:08 UTC",
+        "checked_at": "2026-11-27 20:38 UTC",
         "name": "SourceForge",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://sourceforge.net/",
           "https://sourceforge.net/projects/sourceforge/",
           "https://en.wikipedia.org/wiki/SourceForge",
+          "https://www.reddit.com/r/software/comments/bsy0f4/is_sourceforge_safe_to_download_software/",
+          "https://view.sourceforge.net/",
           "https://sourceforge.net/directory/?q=software",
           "https://sourceforge.net/directory/",
           "https://sourceforge.net/directory/windows/",
           "https://sourceforge.net/about",
-          "https://dev-cpp.sourceforge.net/",
-          "https://www.reddit.com/r/software/comments/bsy0f4/is_sourceforge_safe_to_download_software/",
-          "https://view.sourceforge.net/"
+          "https://dev-cpp.sourceforge.net/"
         ],
         "candidates": [
           "dev-cpp.sourceforge.net",
@@ -164016,27 +164023,27 @@
         "ownership_evidence": []
       },
       "Spark/Spark.yaml": {
-        "checked_at": "2026-11-13 19:08 UTC",
+        "checked_at": "2026-11-27 20:38 UTC",
         "name": "Spark",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://learn.eltngl.com/",
+          "https://aligners.ormcodigital.com/",
           "https://spark.apache.org/",
           "https://drive4spark.walmart.com/ca",
-          "https://www.eltngl.com/spark",
-          "https://aligners.ormcodigital.com/",
-          "https://go-spark.app/auth/login",
-          "https://en.wikipedia.org/wiki/Apache_Spark",
+          "https://learn.eltngl.com/",
+          "https://drive4spark.walmart.com/register",
           "https://sparkmailapp.com/",
+          "https://platform.sparkadvisors.com/",
+          "https://go-spark.app/auth/login",
           "https://www.sparkdriverapp.com/en_us/signup.html",
-          "https://drive4spark.walmart.com/register"
+          "https://www.eltngl.com/spark"
         ],
         "candidates": [
           "aligners.ormcodigital.com",
           "drive4spark.walmart.com",
-          "en.wikipedia.org",
           "go-spark.app",
           "learn.eltngl.com",
+          "platform.sparkadvisors.com",
           "spark.apache.org",
           "sparkdriverapp.ca",
           "sparkmailapp.com",
@@ -164047,7 +164054,7 @@
         "ownership_evidence": []
       },
       "Speedtest/Speedtest.yaml": {
-        "checked_at": "2026-11-13 19:08 UTC",
+        "checked_at": "2026-11-27 20:38 UTC",
         "name": "Speedtest",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -164057,19 +164064,13 @@
           "https://interprefy.speedtestcustom.com/",
           "https://en.wikipedia.org/wiki/Speedtest.net",
           "https://fast.com/",
-          "https://www.speedtest.org/",
-          "https://apps.apple.com/us/app/speedtest-by-ookla/id300704847",
-          "https://ciscoconnect.speedtest.net/",
-          "https://speed-test.io/"
+          "https://www.speedtest.org/"
         ],
         "candidates": [
-          "apps.apple.com",
-          "ciscoconnect.speedtest.net",
           "en.wikipedia.org",
           "fast.com",
           "gfiber.com",
           "interprefy.speedtestcustom.com",
-          "speed-test.io",
           "speedtest.net",
           "speedtest.org",
           "www.att.com",
@@ -164080,25 +164081,25 @@
         "ownership_evidence": []
       },
       "Spotify/Spotify.yaml": {
-        "checked_at": "2026-11-13 19:08 UTC",
+        "checked_at": "2026-11-27 20:38 UTC",
         "name": "Spotify",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.spotify.com/",
           "https://open.spotify.com/",
           "https://open.spotify.com/download/",
-          "https://accounts.spotify.com/en/login?nosignup=true",
           "https://www.spotify.com/us/download/windows/",
-          "https://accounts.spotify.com/en/login?continue=https",
-          "https://spotify.link/",
+          "https://accounts.spotify.com/en/login?nosignup=true",
           "https://spotify.link/8JnKrNFWLob",
+          "https://spotify.link/",
           "https://artists.spotify.com/",
-          "https://en.wikipedia.org/wiki/Spotify"
+          "https://members.spotify.com/",
+          "https://open.spotify.com/browse/home"
         ],
         "candidates": [
           "accounts.spotify.com",
           "artists.spotify.com",
-          "en.wikipedia.org",
+          "members.spotify.com",
           "open.spotify.com",
           "spotify.link",
           "www.spotify.com"
@@ -164107,14 +164108,14 @@
         "ownership_evidence": []
       },
       "Stackexchange/Stackexchange.yaml": {
-        "checked_at": "2026-11-13 19:08 UTC",
+        "checked_at": "2026-11-27 20:38 UTC",
         "name": "Stackexchange",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://stackexchange.com/",
           "https://stackexchange.com/sites",
-          "https://en.wikipedia.org/wiki/Stack_Exchange",
           "https://math.stackexchange.com/",
+          "https://en.wikipedia.org/wiki/Stack_Exchange",
           "https://physics.stackexchange.com/",
           "https://softwareengineering.stackexchange.com/",
           "https://electronics.stackexchange.com/"
