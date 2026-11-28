@@ -1,7 +1,7 @@
 {
   "upstream": "https://github.com/blackmatrix7/ios_rule_script",
   "revision": "0b6897dc17e0c513d25449c935a9694818e32f0c",
-  "date": "2026-11-27 20:38 UTC",
+  "date": "2026-11-28 06:04 UTC",
   "collections": {
     "rule/Clash/115/115.yaml": {
       "input": 10,
@@ -149018,8 +149018,8 @@
   ],
   "discovery": {
     "engine": "Bing public RSS",
-    "checked_at": "2026-11-27 20:38 UTC",
-    "next_index": 542,
+    "checked_at": "2026-11-28 06:04 UTC",
+    "next_index": 566,
     "attempted": 24,
     "total_collections": 689,
     "verified_additions": {
@@ -164132,57 +164132,60 @@
         "ownership_evidence": []
       },
       "StarCraftII/StarCraftII.yaml": {
-        "checked_at": "2026-11-13 19:08 UTC",
+        "checked_at": "2026-11-28 06:04 UTC",
         "name": "StarCraftII",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://days.to/july/2027",
-          "https://days.to/1-july/2027",
-          "https://howlongagogo.com/date/2027/july/1",
-          "https://www.inchcalculator.com/days-until/days-until-july-1/",
-          "https://timecal.net/days-until/July-1-2027",
-          "https://online-calculator.org/days-until-july-1",
-          "https://howlonghowmany.com/how-many-days-until-july-1-2027",
-          "https://datetimego.com/date/2027/07/01",
-          "https://outside.so/days-until/how-many-days-until-july-2027",
-          "https://www.gigacalculator.com/calculators/days-between-dates-calculator.php"
+          "https://www.thepricer.org/how-much-does-an-ai-girlfriend-cost/",
+          "https://hollywoodlife.com/2026/09/24/how-much-ai-girlfriend-cost-2026/",
+          "https://www.sloane.world/guides/how-much-should-i-pay-for-ai-girlfriend",
+          "https://cherrypop.ai/blog/how-much-does-an-ai-girlfriend-cost",
+          "https://thefriend.io/en/blog/ai-girlfriend-cost",
+          "https://inamorai.com/guides/ai-companion-cost-guide/",
+          "https://kissable.app/blog/how-much-does-ai-girlfriend-cost",
+          "https://virtualcandy-ai.com/blog/ai-girlfriend-cost/",
+          "https://www.aiangels.io/blog/ai-girlfriend-cost-2026",
+          "https://www.newsbreak.com/hollywoodlife-516677/4906511445217-how-much-does-an-ai-girlfriend-cost-in-2026"
         ],
         "candidates": [
-          "datetimego.com",
-          "days.to",
-          "howlongagogo.com",
-          "howlonghowmany.com",
-          "online-calculator.org",
-          "outside.so",
-          "timecal.net",
-          "www.gigacalculator.com",
-          "www.inchcalculator.com"
+          "character.ai",
+          "cherrypop.ai",
+          "hollywoodlife.com",
+          "inamorai.com",
+          "kissable.app",
+          "thefriend.io",
+          "virtualcandy-ai.com",
+          "www.aiangels.io",
+          "www.newsbreak.com",
+          "www.sloane.world",
+          "www.thepricer.org"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Starbucks/Starbucks.yaml": {
-        "checked_at": "2026-11-13 19:08 UTC",
+        "checked_at": "2026-11-28 06:04 UTC",
         "name": "Starbucks",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.starbucks.com/",
           "https://www.starbucks.com/menu",
           "https://www.shop.starbucks.com/",
+          "https://www.starbucks.co.uk/",
           "https://www.starbucks.co.uk/menu",
           "https://careers.starbucks.com/",
+          "https://starbucks.ph/menu",
+          "https://www.starbucks.ph/",
           "https://www.starbucks.at/",
-          "https://www.starbucks.co.uk/",
-          "https://en.wikipedia.org/wiki/%40Starbucks",
-          "https://about.starbucks.com/stories/2026/starbucks-holiday-menu-arrives-nov-5-with-new-and-returning-drinks-treats-holiday-cups-and-merchandise/"
+          "https://www.starbucks.co.za/"
         ],
         "candidates": [
-          "about.starbucks.com",
           "careers.starbucks.com",
-          "en.wikipedia.org",
+          "starbucks.ph",
           "www.shop.starbucks.com",
           "www.starbucks.at",
           "www.starbucks.co.uk",
+          "www.starbucks.co.za",
           "www.starbucks.com",
           "www.starbucks.ph"
         ],
@@ -164190,66 +164193,57 @@
         "ownership_evidence": []
       },
       "Steam/Steam.yaml": {
-        "checked_at": "2026-11-13 19:08 UTC",
+        "checked_at": "2026-11-28 06:04 UTC",
         "name": "Steam",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://store.steampowered.com/",
-          "https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community&hl=en_US",
-          "https://en.wikipedia.org/wiki/Steam",
-          "https://store.steampowered.com/about",
-          "https://www.pcmag.com/reviews/steam-for-pc",
-          "https://help.steampowered.com/en/faqs/view/6285-A36E-8728-FED0",
-          "https://checkout.steampowered.com/search/",
+          "https://store.steampowered.com/about/download",
+          "https://help.steampowered.com/",
           "https://en.wikipedia.org/wiki/Steam_(service)",
-          "https://www.youtube.com/watch?v=JhTvaRogQp8",
-          "https://steamcommunity.com/"
+          "https://steamcommunity.com/",
+          "https://help.steampowered.com/en/login/",
+          "https://checkout.steampowered.com/search/",
+          "https://store.steampowered.com/login/",
+          "https://store.steampowered.com/join/",
+          "https://store.steampowered.com/games/"
         ],
         "candidates": [
           "checkout.steampowered.com",
           "en.wikipedia.org",
           "help.steampowered.com",
-          "play.google.com",
           "steamcommunity.com",
-          "store.steampowered.com",
-          "www.pcmag.com",
-          "www.youtube.com"
+          "store.steampowered.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "SteamCN/SteamCN.yaml": {
-        "checked_at": "2026-11-13 19:08 UTC",
+        "checked_at": "2026-11-28 06:04 UTC",
         "name": "SteamCN",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.yahoo.com/",
-          "https://login.yahoo.com/",
-          "https://yahoo.com/.\"",
-          "https://mail.yahoo.com/",
-          "https://www.yahoo.com/news/",
-          "https://espanol.yahoo.com/",
-          "https://au.yahoo.com/",
-          "https://finance.yahoo.com/",
-          "https://uk.yahoo.com/",
-          "https://sports.yahoo.com/"
+          "https://www.microsoft.com/en-us/",
+          "https://techcommunity.microsoft.com/category/microsoft365/discussions/word",
+          "https://support.microsoft.com/en-us/windows/deployment/install-upgrade/getting-ready-for-the-windows-11-upgrade",
+          "https://techcommunity.microsoft.com/blog/microsoftintuneblog/what%E2%80%99s-new-in-microsoft-intune-%E2%80%93-april/4493135",
+          "https://support.microsoft.com/en-us/accounts-billing/manage/help-us-secure-your-account",
+          "https://techcommunity.microsoft.com/blog/skills-hub-blog/evolving-the-microsoft-certified-azure-ai-fundamentals-certification/4494127",
+          "https://support.microsoft.com/en-us/accounts-billing/work-school/sign-in-to-your-work-or-school-account-using-two-step-verification",
+          "https://support.microsoft.com/en-us/forms/sign-in-to-microsoft-forms",
+          "https://support.microsoft.com/en-gb/contactus",
+          "https://techcommunity.microsoft.com/category/windows/discussions/windowsinsiderprogram"
         ],
         "candidates": [
-          "au.yahoo.com",
-          "espanol.yahoo.com",
-          "finance.yahoo.com",
-          "login.yahoo.com",
-          "mail.yahoo.com",
-          "sports.yahoo.com",
-          "uk.yahoo.com",
-          "www.yahoo.com",
-          "yahoo.com"
+          "support.microsoft.com",
+          "techcommunity.microsoft.com",
+          "www.microsoft.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Stripe/Stripe.yaml": {
-        "checked_at": "2026-11-13 19:08 UTC",
+        "checked_at": "2026-11-28 06:04 UTC",
         "name": "Stripe",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -164259,135 +164253,157 @@
           "https://dashboard.stripe.com/register",
           "https://en.wikipedia.org/wiki/Stripe,_Inc.",
           "https://support.stripe.com/",
+          "https://www.nerdwallet.com/business/software/learn/what-is-stripe",
           "https://support.stripe.com/questions/what-is-stripe",
           "https://docs.stripe.com/",
-          "https://docs.stripe.com/payments",
-          "https://stripe.com/pricing"
+          "https://stripe.com/\""
         ],
         "candidates": [
           "dashboard.stripe.com",
           "docs.stripe.com",
           "en.wikipedia.org",
           "stripe.com",
-          "support.stripe.com"
+          "support.stripe.com",
+          "www.nerdwallet.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "SuNing/SuNing.yaml": {
-        "checked_at": "2026-11-13 19:08 UTC",
+        "checked_at": "2026-11-28 06:04 UTC",
         "name": "SuNing",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://portal.njcourts.gov/webe41/ExternalPGPA/",
-          "https://investigators-toolbox.com/resource/nj-criminal-cases-promis-gavel-public-access/",
-          "https://portal.njcourts.gov/webe41/ExternalPGPA/index.jsp",
-          "https://www.njcourts.gov/courts/superior-court-clerks-office/electronic-access",
-          "https://grokipedia.com/page/PROMISGavel_Public_Access",
-          "https://portalpcsam-cloud.njcourts.gov/prweb/PRAuth/PCSAMSAMLAuth?AppName=PCSAM",
-          "https://www.njcourts.gov/courts/criminal",
-          "https://portal.njcourts.gov/webe1/eCourtsHelpWeb/eCourts%20-%20Filing/!SSL!/WebHelp/CJ00001.htm",
-          "https://newjerseycourts.us/criminal-court-records/warrant",
-          "https://www.njcourts.gov/courts/superior-court-clerks-office/data-reps-sale"
+          "https://www.suning.com/",
+          "https://en.wikipedia.org/wiki/Suning.com",
+          "https://www.hksuning.com/",
+          "https://ir.suning.com/cms/index.htm",
+          "https://en.wikipedia.org/wiki/Suning",
+          "https://fr.wikipedia.org/wiki/Suning.com",
+          "https://lol.fandom.com/wiki/Suning",
+          "https://www.forbes.com/companies/suning/",
+          "https://www.jademond.com/glossary/suning/",
+          "https://ja.wikipedia.org/wiki/%E8%98%87%E5%AF%A7%E6%98%93%E8%B3%BC"
         ],
         "candidates": [
-          "grokipedia.com",
-          "investigators-toolbox.com",
-          "newjerseycourts.us",
-          "portal.njcourts.gov",
-          "portalpcsam-cloud.njcourts.gov",
-          "www.njcourts.gov"
+          "en.wikipedia.org",
+          "fr.wikipedia.org",
+          "hksuning.com",
+          "ir.suning.com",
+          "ja.wikipedia.org",
+          "lol.fandom.com",
+          "suning.com",
+          "t.bear",
+          "www.forbes.com",
+          "www.hksuning.com",
+          "www.jademond.com",
+          "www.suning.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "SublimeText/SublimeText.yaml": {
-        "checked_at": "2026-11-13 19:08 UTC",
+        "checked_at": "2026-11-28 06:04 UTC",
         "name": "SublimeText",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.sublimetext.com/",
           "https://www.sublimetext.com/download",
           "https://en.wikipedia.org/wiki/Sublime_Text",
-          "https://packages.sublimetext.com/installation",
           "https://www.sublimetext.com/3",
-          "https://www.sublimetext.com/2",
-          "https://packages.sublimetext.com/",
-          "https://docs.sublimetext.io/guide/getting-started/installation.html",
           "https://sublime-text.en.softonic.com/",
-          "https://docs.sublimetext.io/guide/"
+          "https://docs.sublimetext.io/guide/getting-started/installation.html",
+          "https://packages.sublimetext.com/installation",
+          "https://packages.sublimetext.com/",
+          "https://www.sublimehq.com/store/text",
+          "https://sublimetext.co/"
         ],
         "candidates": [
           "docs.sublimetext.io",
           "en.wikipedia.org",
           "packages.sublimetext.com",
           "sublime-text.en.softonic.com",
+          "sublimetext.co",
+          "www.sublimehq.com",
           "www.sublimetext.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "SuiShiChuanMei/SuiShiChuanMei.yaml": {
-        "checked_at": "2026-11-13 19:08 UTC",
+        "checked_at": "2026-11-28 06:04 UTC",
         "name": "SuiShiChuanMei",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.calculator.com/",
-          "https://www.chegg.com/homework-help/questions-and-answers/take-away-formulas-work-power-used-calculate-information-nstalling-equipment-0-3413-btu-1--q94176226",
-          "https://www.chegg.com/homework-help/questions-and-answers/barry-s-steroids-company-1-000-par-value-bonds-outstanding-14-percent-interest-bonds-matur-q8008971",
-          "https://www.codeproject.com/Tips/631525/Creating-Calculator-using-HTML-CSS-and-JavaScript",
-          "https://www.chegg.com/homework-help/questions-and-answers/data-set-2-presents-sample-number-defective-flash-drives-produced-small-manufacturing-comp-q8877965",
-          "https://www.chegg.com/homework-help/questions-and-answers/asked-evaluate-following-two-projects-norton-corporation-use-discount-rate-10-percent-use--q9912067",
-          "https://www.chegg.com/homework-help/questions-and-answers/point-p-9-4-lies-curve-y-4-8-x--q-point-x-4-8-x-use-calculator-find-slope-mpq-secant-line--q30674614",
-          "https://www.chegg.com/homework-help/questions-and-answers/1-p5-8-time-value-misty-needs-15-000-end-5-years-fulfill-goal-purchasing-small-sailboat-wi-q3034194",
-          "https://www.chegg.com/homework-help/questions-and-answers/python-homework-instructions-tax-calculator-program-case-study-outputs-floating-point-numb-q39083937",
-          "https://www.chegg.com/homework-help/questions-and-answers/1-sometimes-convenient-table-sine-cosine-tangent-values-instead-using-calculator-create-ta-q67985045"
+          "https://blockblast.pro/",
+          "https://block-blast.gg/",
+          "https://blockblast.game/",
+          "https://en.m.wikipedia.org/wiki/Block_Blast!",
+          "https://www.blockblast.com/",
+          "https://www.facebook.com/gaming/play/block-blast/",
+          "https://blockblast.org/",
+          "https://blockbreakersonline.com/games/block-blast",
+          "https://share.blockblast.com/main.html?page=overPage&activeversion_=0.0",
+          "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en-GB"
         ],
         "candidates": [
-          "calculator.com",
-          "www.calculator.com",
-          "www.chegg.com",
-          "www.codeproject.com"
+          "block-blast.gg",
+          "blockblast.game",
+          "blockblast.org",
+          "blockblast.pro",
+          "blockbreakersonline.com",
+          "en.m.wikipedia.org",
+          "play.google.com",
+          "share.blockblast.com",
+          "www.blockblast.com",
+          "www.facebook.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Supercell/Supercell.yaml": {
-        "checked_at": "2026-11-13 19:08 UTC",
+        "checked_at": "2026-11-28 06:04 UTC",
         "name": "Supercell",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://supercell.com/en/",
           "https://store.supercell.com/",
-          "https://en.wikipedia.org/wiki/Supercell_(company)",
           "https://supercell.com/en/supercell-id/",
-          "https://store.supercell.com/hayday",
+          "https://en.wikipedia.org/wiki/Supercell_(company)",
+          "https://en.wikipedia.org/wiki/Supercell",
           "https://id.supercell.com/en/account/",
-          "https://make.supercell.com/en/create"
+          "https://tournaments.supercell.com/",
+          "https://x.com/supercell",
+          "https://store.supercell.com/pt",
+          "https://make.supercell.com/en/"
         ],
         "candidates": [
           "en.wikipedia.org",
+          "gunshine.net",
           "id.supercell.com",
           "make.supercell.com",
+          "mo.co",
           "store.supercell.com",
-          "supercell.com"
+          "supercell.com",
+          "tournaments.supercell.com",
+          "x.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Synology/Synology.yaml": {
-        "checked_at": "2026-11-13 19:08 UTC",
+        "checked_at": "2026-11-28 06:04 UTC",
         "name": "Synology",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.synology.com/",
-          "https://www.synology.com/support/download",
+          "https://www.synology.com/en-us/products",
           "https://quickconnect.to/",
-          "https://account.synology.com/sso/",
+          "https://account.synology.com/en-global/support",
           "https://en.wikipedia.org/wiki/Synology",
-          "https://kb.synology.com/en-us/DSM/help/Assistant/assistant",
-          "https://kb.synology.com/en-global/DSM/help/SynologyDriveClient/synologydriveclient",
           "https://www.amazon.com/Synology/s?k=Synology",
+          "https://kb.synology.com/en-global/DSM/help/SynologyDriveClient/synologydriveclient",
+          "https://kb.synology.com/en-us/DSM/help/DSM/SupportCenter/contact_support",
           "https://c2.synology.com/en-us/storage/overview"
         ],
         "candidates": [
@@ -164405,42 +164421,45 @@
         "ownership_evidence": []
       },
       "SystemOTA/SystemOTA.yaml": {
-        "checked_at": "2026-11-13 19:08 UTC",
+        "checked_at": "2026-11-28 06:04 UTC",
         "name": "SystemOTA",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.crosswordsolver.org/clues/d/dejected.87509",
-          "https://www.crosswordsolver.org/clues/c/challenge.4365",
-          "https://www.crosswordsolver.org/clues/v/visionary.119902",
-          "https://www.crosswordsolver.org/forum/977502/offset/10",
-          "https://www.crosswordsolver.org/quicksolve.php",
-          "https://www.crosswordsolver.org/clues/b/bitter.78658",
-          "https://www.crosswordsolver.org/guides/what-is-a-crossword-puzzle",
-          "https://www.crosswordsolver.org/forum/guardian-crossword-solutions",
-          "https://www.crosswordsolver.org/guides/how-to-solve-cryptic-crosswords",
-          "https://www.crosswordsolver.org/clues/a/african-country.267499"
+          "https://www.bestbuy.com/",
+          "https://daily.slickdeals.net/black-friday/remember-best-deal-ever-earn-20-cash-back-on-pay-later-purchases-with-paypal/",
+          "https://daily.slickdeals.net/shopping/best-buy-100-dollars-gift-cards-60-dollars-60th-anniversary/",
+          "https://poppersguide.com/reviews/",
+          "https://sales.slickdeals.net/",
+          "https://daily.slickdeals.net/apparel/how-fabletics-works/",
+          "https://daily.slickdeals.net/fitness/24-hour-fitness-membership-deal/",
+          "https://daily.slickdeals.net/shopping/best-discount-grocery-stores/",
+          "https://daily.slickdeals.net/fitness/best-anytime-fitness-membership-deal/",
+          "https://daily.slickdeals.net/shopping/amazonfresh-review-worth-it/"
         ],
         "candidates": [
-          "www.crosswordsolver.org"
+          "daily.slickdeals.net",
+          "poppersguide.com",
+          "sales.slickdeals.net",
+          "www.bestbuy.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "TCL/TCL.yaml": {
-        "checked_at": "2026-11-13 19:08 UTC",
+        "checked_at": "2026-11-28 06:04 UTC",
         "name": "TCL",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://us.tcl.com/",
+          "https://www.tcl.com/global/en",
           "https://us.tcl.com/collections/tv-for-sale",
           "https://en.wikipedia.org/wiki/TCL_Technology",
-          "https://www.tcl.com/global/en",
           "https://support.tcl.com/us",
-          "https://www.tcl.com/in/en",
+          "https://www.tcl.com/gulf/en",
           "https://www.tcl.edu/",
-          "https://support.tcl.com/us/contact-us-options",
-          "https://register.tcl.com/en/",
-          "https://www.amazon.com/stores/TCL/page/0BC8946D-897E-41F0-837E-F776CEDFD8B3"
+          "https://www.amazon.com/stores/TCL/page/0BC8946D-897E-41F0-837E-F776CEDFD8B3",
+          "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=tcl",
+          "https://register.tcl.com/en/"
         ],
         "candidates": [
           "amazon.com",
@@ -164449,6 +164468,7 @@
           "support.tcl.com",
           "us.tcl.com",
           "www.amazon.com",
+          "www.bestbuy.com",
           "www.tcl.com",
           "www.tcl.edu"
         ],
@@ -164456,52 +164476,52 @@
         "ownership_evidence": []
       },
       "TIDAL/TIDAL.yaml": {
-        "checked_at": "2026-11-13 19:08 UTC",
+        "checked_at": "2026-11-28 06:04 UTC",
         "name": "TIDAL",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.eastms.edu/",
-          "https://www.eastms.edu/about-emcc/locations/golden-triangle-campus-information",
-          "https://catalog.eastms.edu/",
-          "https://catalog.eastms.edu/index.php?catoid=1",
-          "https://www.mccb.edu/colleges/east-mississippi-community-college",
-          "https://airwave.eastms.edu/locations/golden-triangle/location-and-directions.html",
-          "https://en.wikipedia.org/wiki/East_Mississippi_Community_College",
-          "https://www.chamberofcommerce.com/business-directory/mississippi/mayhew/college/2001502889-east-mississippi-community-college",
-          "https://www.emccathletics.com/"
+          "https://tidal.com/",
+          "https://tidal.com/download",
+          "https://desktop.tidal.com/",
+          "https://login.tidal.com/authorize?response_type=code&redirect_uri=tidal%3A%2F%2Flogin%2Fauth&client_id=Z13ykpTBE1t2aY3X&code_challenge=W0Osi_h5QvpVMG58mreO4clQ7mqFvpiwVKMPymEhgQY&client_unique_key=3A9EF5F6-4C81-46BB-88B6-3E22A24FC5C7&code_challenge_method=S256&appMode=ios&lang=en-US&consentStatus=C0004%3A0&restrict_facebook=true&restrict_twitter=true&restrict_playpl=true",
+          "https://en.wikipedia.org/wiki/Tidal_(service)",
+          "https://dm.tidal.com/",
+          "https://support.tidal.com/hc/en-us/articles/115003662825-Subscription-Types",
+          "https://www.digitaltrends.com/phones/what-is-tidal/",
+          "https://offer.tidal.com/?Offer&geo=US",
+          "https://support.tidal.com/hc/en-us/categories/200493591-Get-Started"
         ],
         "candidates": [
-          "airwave.eastms.edu",
-          "catalog.eastms.edu",
+          "desktop.tidal.com",
+          "dm.tidal.com",
           "en.wikipedia.org",
-          "www.chamberofcommerce.com",
-          "www.eastms.edu",
-          "www.emccathletics.com",
-          "www.mccb.edu",
-          "www.w2nl.com"
+          "login.tidal.com",
+          "offer.tidal.com",
+          "support.tidal.com",
+          "tidal.com",
+          "www.digitaltrends.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "TVB/TVB.yaml": {
-        "checked_at": "2026-11-13 19:08 UTC",
+        "checked_at": "2026-11-28 06:04 UTC",
         "name": "TVB",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://www.tvb.com/",
           "https://tvbanywherena.com/",
           "https://www.tvb.org/",
-          "https://programme.tvb.com/",
-          "https://www.tvbanywhere.com/en/webtv",
-          "https://www.youtube.com/@TVBBestDramaChannel",
-          "https://news.tvb.com/tc",
-          "https://www.tvbusa.com/",
           "https://en.wikipedia.org/wiki/TVB",
-          "https://programme.tvb.com/tvb-news-channel"
+          "https://www.tvbusa.com/",
+          "https://www.tvbanywhere.com/en/webtv",
+          "https://programme.tvb.com/",
+          "https://programme.tvb.com/tvb-news-channel",
+          "https://www.youtube.com/@TVBBestDramaChannel",
+          "https://tvbanywherena.com/browse"
         ],
         "candidates": [
           "en.wikipedia.org",
-          "news.tvb.com",
           "programme.tvb.com",
           "tvbanywherena.com",
           "www.tvb.com",
@@ -164514,137 +164534,129 @@
         "ownership_evidence": []
       },
       "TVer/TVer.yaml": {
-        "checked_at": "2026-11-13 19:08 UTC",
+        "checked_at": "2026-11-28 06:04 UTC",
         "name": "TVer",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://tver.jp/",
           "https://tver.jp/search",
-          "https://en.wikipedia.org/wiki/Tver",
           "https://ja.wikipedia.org/wiki/TVer",
           "https://play.google.com/store/apps/details?id=jp.hamitv.hamiand1&hl=ja",
           "https://tver.co.jp/",
-          "https://play.google.com/store/apps/details?id=jp.hamitv.hamiand1&hl=en",
-          "https://www.tver.in/",
-          "https://en.wikipedia.org/wiki/Tver_Oblast",
-          "https://www.youtube.com/channel/UC31lc2zUnhefFwUiO5zJLOQ"
+          "https://help.tver.jp/hc/ja/articles/20080570934937--TVer-%E3%81%AE%E8%A6%96%E8%81%B4%E6%96%B9%E6%B3%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
+          "https://www.youtube.com/channel/UC31lc2zUnhefFwUiO5zJLOQ",
+          "https://help.tver.jp/hc/ja/articles/18805557817497-%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E6%96%B9%E6%B3%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
+          "https://tver.co.jp/service",
+          "https://play.google.com/store/apps/details?id=jp.co.tver.tvapp&hl=ja"
         ],
         "candidates": [
-          "en.wikipedia.org",
+          "help.tver.jp",
           "ja.wikipedia.org",
           "play.google.com",
           "tver.co.jp",
           "tver.jp",
-          "www.tver.in",
           "www.youtube.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "TaiKang/TaiKang.yaml": {
-        "checked_at": "2026-11-13 19:08 UTC",
+        "checked_at": "2026-11-28 06:04 UTC",
         "name": "TaiKang",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.amazon.com/",
-          "https://www.amazon.com/-/es/",
-          "https://hiring.amazon.com/",
-          "https://selection.amazon.com/sign-in?redirect_to=%2F&mons_redirect=sign_in",
-          "https://pay.amazon.com/using-amazon-pay",
-          "https://amc.amazon.com/",
-          "https://business.amazon.com/en/login",
-          "https://payments.amazon.com/overview/",
-          "https://pharmacy.amazon.com/",
-          "https://music.amazon.com/podcasts"
+          "https://m.youtube.com/watch?v=gt7WyZGPQAI",
+          "https://www.dailymotion.com/video/x4xh2r6",
+          "https://vimeo.com/308171438",
+          "https://www.dailymotion.com/video/x9cedu6",
+          "https://m.youtube.com/watch?v=sRAK31dL8gQ",
+          "https://m.youtube.com/watch?v=XmtV8BuMzFc",
+          "https://vimeo.com/367622548",
+          "https://www.youtube.com/channel/UCuganl28XPQhPp4TMmWuudQ",
+          "https://m.youtube.com/watch?v=xmUkhvOl7xg",
+          "https://www.dailymotion.com/video/x2uw6db"
         ],
         "candidates": [
-          "amazon.com",
-          "amc.amazon.com",
-          "business.amazon.com",
-          "hiring.amazon.com",
-          "music.amazon.com",
-          "pay.amazon.com",
-          "payments.amazon.com",
-          "pharmacy.amazon.com",
-          "selection.amazon.com",
-          "www.amazon.com"
+          "m.youtube.com",
+          "vimeo.com",
+          "www.dailymotion.com",
+          "www.youtube.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "TaiWanGood/TaiWanGood.yaml": {
-        "checked_at": "2026-11-13 19:08 UTC",
+        "checked_at": "2026-11-28 06:04 UTC",
         "name": "TaiWanGood",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.hotels.com/",
-          "https://www.booking.com/hotel/index.html",
-          "https://www.expedia.com/Hotels",
-          "https://www.booking.com/city/us/washington.html",
-          "https://www.kayak.com/hotels",
-          "https://www.marriott.com/default.mi",
-          "https://www.hotels.com/trips",
-          "https://www.tripadvisor.com/Hotels-g60745-Boston_Massachusetts-Hotels.html",
-          "https://www.hilton.com/en/",
-          "https://www.expedia.com/"
+          "https://www.aloyoga.com/es-mx",
+          "https://www.aloyoga.com/",
+          "https://www.aloyoga.com/collections/womens-sale-all",
+          "https://www.aloyoga.com/collections/shoes",
+          "https://www.aloyoga.com/en-es",
+          "https://www.aloyoga.com/fr-fr",
+          "https://www.aloyoga.com/en-au",
+          "https://www.aloyoga.com/collections/tennis-inspired",
+          "https://www.aloyoga.com/pages/help-center",
+          "https://www.aloyoga.com/collections/womens-sweatshirts-hoodies"
         ],
         "candidates": [
-          "booking.com",
-          "hotels.com",
-          "www.booking.com",
-          "www.expedia.com",
-          "www.hilton.com",
-          "www.hotels.com",
-          "www.kayak.com",
-          "www.marriott.com",
-          "www.tripadvisor.com"
+          "aloyoga.com",
+          "www.aloyoga.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "TaiheMusic/TaiheMusic.yaml": {
-        "checked_at": "2026-11-14 04:44 UTC",
+        "checked_at": "2026-11-28 06:04 UTC",
         "name": "TaiheMusic",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://brainly.com/question/14001905",
-          "https://brainly.com/question/12885435",
-          "https://www.answers.com/natural-sciences/What_are_genotypes_that_would_be_considered_purebred",
-          "https://www.answers.com/biology/What_are_the_possible_alleles_for_Alu_PV92",
-          "https://brainly.com/question/34207649",
-          "https://brainly.com/question/29956523",
-          "https://brainly.com/question/1307494",
-          "https://brainly.com/question/11849053",
-          "https://brainly.com/question/10282067",
-          "https://brainly.com/question/1548903"
+          "https://www.seguintexas.gov/473/Utilities",
+          "https://www.seguintexas.gov/813/Utility-Billing",
+          "https://seguintx.municipalonlinepayments.com/seguintx/utilities",
+          "https://www.seguinedc.com/site-selection/infrastructure-and-utilities",
+          "https://seguintx.municipalonlinepayments.com/seguintx",
+          "https://www.facebook.com/SeguinUtilities/",
+          "https://seguin-utility.maps.arcgis.com/home/index.html",
+          "https://www.findglocal.com/US/Seguin/1072193442843163/City-of-Seguin-Utilities",
+          "https://www.chamberofcommerce.com/business-directory/texas/seguin/government-office/2025743093-city-of-seguin-utilities-operation-center",
+          "https://www.chamberofcommerce.com/business-directory/texas/seguin/city-government-office/2025743535-seguin-utility-billing"
         ],
         "candidates": [
-          "brainly.com",
-          "www.answers.com"
+          "seguin-utility.maps.arcgis.com",
+          "seguintx.municipalonlinepayments.com",
+          "www.chamberofcommerce.com",
+          "www.facebook.com",
+          "www.findglocal.com",
+          "www.seguinedc.com",
+          "www.seguintexas.gov"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "TapTap/TapTap.yaml": {
-        "checked_at": "2026-11-14 04:44 UTC",
+        "checked_at": "2026-11-28 06:04 UTC",
         "name": "TapTap",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.taptap.io/",
           "https://www.taptap.cn/",
-          "https://www.taptapsend.com/",
-          "https://www.taptap.io/mobile",
-          "https://en.wikipedia.org/wiki/TapTap",
-          "https://www.taptap.cn/pc",
+          "https://www.taptap.io/",
+          "https://www.taptap.cn/web-cloud-game",
+          "https://developer.taptap.cn/",
           "https://dispatch.taptap.cn/",
+          "https://accounts.taptap.com/",
+          "https://www.taptap.io/lite?hreflang=en_US",
           "https://accounts.taptap.io/login",
           "https://accounts.taptap.io/",
-          "https://www.taptapsend.com/en-gb"
+          "https://www.taptapsend.com/"
         ],
         "candidates": [
+          "accounts.taptap.com",
           "accounts.taptap.io",
+          "developer.taptap.cn",
           "dispatch.taptap.cn",
-          "en.wikipedia.org",
           "www.taptap.cn",
           "www.taptap.io",
           "www.taptapsend.com"
@@ -164653,7 +164665,7 @@
         "ownership_evidence": []
       },
       "TeamViewer/TeamViewer.yaml": {
-        "checked_at": "2026-11-14 04:44 UTC",
+        "checked_at": "2026-11-28 06:04 UTC",
         "name": "TeamViewer",
         "status": "needs_ownership_evidence",
         "sources": [
@@ -164662,54 +164674,50 @@
           "https://web.teamviewer.com/",
           "https://web.teamviewer.com/Connect",
           "https://service.teamviewer.com/front/en-us/customer",
-          "https://apps.microsoft.com/detail/xpdm17hk323c4x",
-          "https://en.wikipedia.org/wiki/TeamViewer",
-          "https://teamviewer.en.softonic.com/",
           "https://community.teamviewer.com/English/kb",
-          "https://www.techspot.com/downloads/4636-teamviewer.html"
+          "https://apps.microsoft.com/detail/xpdm17hk323c4x",
+          "https://teamviewer.en.softonic.com/",
+          "https://en.wikipedia.org/wiki/TeamViewer",
+          "https://custom.teamviewer.com/"
         ],
         "candidates": [
           "apps.microsoft.com",
           "community.teamviewer.com",
+          "custom.teamviewer.com",
           "en.wikipedia.org",
           "service.teamviewer.com",
           "teamviewer.en.softonic.com",
           "web.teamviewer.com",
-          "www.teamviewer.com",
-          "www.techspot.com"
+          "www.teamviewer.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Teambition/Teambition.yaml": {
-        "checked_at": "2026-11-14 04:44 UTC",
+        "checked_at": "2026-11-28 06:04 UTC",
         "name": "Teambition",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://www.teambition.com/solution",
-          "https://account.teambition.com/login",
-          "https://www.teambition.com/app",
-          "https://account.teambition.com/login/password",
-          "https://open.teambition.com/",
-          "https://www.aliyun.com/teambition",
-          "https://baike.baidu.com/item/teambition/7624369",
-          "https://open.teambition.com/docs/documents",
-          "https://zhuanlan.zhihu.com/p/16755598719"
+          "https://stackoverflow.com/questions/48655101/default-value-of-set-p-in-batch-script",
+          "https://www.zhihu.com/question/20401972",
+          "https://stackoverflow.com/questions/30195587/what-does-regex-pz-mean",
+          "https://www.zhihu.com/question/55745286",
+          "https://stackoverflow.com/questions/7988942/what-does-this-django-regular-expression-mean-p",
+          "https://stackoverflow.com/questions/25977309/what-does-this-regexp-mean-plu",
+          "https://stackoverflow.com/questions/47357135/powershell-equivalent-of-linux-mkdir-p",
+          "https://stackoverflow.com/questions/10059673/named-regular-expression-group-pgroup-nameregexp-what-does-p-stand-for",
+          "https://stackoverflow.com/questions/5047366/why-does-git-stash-p-sometimes-fail",
+          "https://www.zhihu.com/question/19714808"
         ],
         "candidates": [
-          "account.teambition.com",
-          "baike.baidu.com",
-          "open.teambition.com",
-          "teambition.aliyunsaas.com",
-          "www.aliyun.com",
-          "www.teambition.com",
-          "zhuanlan.zhihu.com"
+          "stackoverflow.com",
+          "www.zhihu.com"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "Teams/Teams.yaml": {
-        "checked_at": "2026-11-14 04:44 UTC",
+        "checked_at": "2026-11-28 06:04 UTC",
         "name": "Teams",
         "status": "checked",
         "sources": [
@@ -164742,53 +164750,55 @@
         ]
       },
       "Telegram/Telegram.yaml": {
-        "checked_at": "2026-11-14 04:44 UTC",
+        "checked_at": "2026-11-28 06:04 UTC",
         "name": "Telegram",
         "status": "needs_ownership_evidence",
         "sources": [
           "https://telegram.org/",
-          "https://weba.telegram.org/",
           "https://desktop.telegram.org/",
-          "https://telegram.org/web?setln=es",
+          "https://web.telegram.org/a/get/",
           "https://web.telegram.org/js/locales/en-us.json",
-          "https://web.telegram.org/k/pageSignIn-c5a80999.js.map",
           "https://telegram.me/telegram",
           "https://telegram.me/desktop",
-          "https://my.telegram.org/signin",
-          "https://telegram.im/blog/telegram-web/"
+          "https://telegram.org/web?setln=es",
+          "https://en.m.wikipedia.org/wiki/Telegram_(software)",
+          "https://core.telegram.org/widgets/login"
         ],
         "candidates": [
+          "core.telegram.org",
           "desktop.telegram.org",
-          "my.telegram.org",
-          "telegram.im",
+          "en.m.wikipedia.org",
           "telegram.me",
           "telegram.org",
-          "web.telegram.org",
-          "weba.telegram.org"
+          "web.telegram.org"
         ],
         "accepted": [],
         "ownership_evidence": []
       },
       "TelegramNL/TelegramNL.yaml": {
-        "checked_at": "2026-11-14 04:44 UTC",
+        "checked_at": "2026-11-28 06:04 UTC",
         "name": "TelegramNL",
         "status": "needs_ownership_evidence",
         "sources": [
-          "https://students.brooklyn.edu/knowledge-base/loan-resources-and-forms/",
-          "https://www.brooklyn.edu/event/first-day-to-request-a-spring-only-federal-direct-loan-for-spring-2027/",
-          "https://www.brooklyn.edu/event/last-day-to-submit-any-2026-2027-federal-direct-loan-request-fall-spring-or-spring-only-all-federal-direct-loan-types/",
-          "https://students.brooklyn.edu/knowledge-base/undergraduate-federal-student-loan-guide/",
-          "https://www.ccny.cuny.edu/financialaid/2025-2026-important-deadlines",
-          "https://www.brooklyn.edu/event/first-day-to-submit-a-request-to-cancel-the-spring-2027-portion-of-a-federal-direct-loan/",
-          "https://www.brooklyn.edu/admissions-aid/financial-aid-scholarships/loans/",
-          "https://www.brooklyn.edu/admissions-aid/financial-aid-scholarships/",
-          "https://www.brooklyn.edu/admissions-aid/",
-          "https://www.brooklyn.edu/registrar/academic-calendars/"
+          "https://student.iclicker.com/",
+          "https://www.iclicker.com/",
+          "https://www.iclicker.com/accessibility/overview",
+          "https://go.iclicker.com/schedule-a-training",
+          "https://access.iclicker.com/find-clicker-id/",
+          "https://campus.iclicker.com/",
+          "https://join.iclicker.com/XUFY",
+          "https://learn.iclicker.com/Request-Custom-Classic-Software.html",
+          "https://go.iclicker.com/iClicker-Specialist-Contact-Us",
+          "https://access.iclicker.com/"
         ],
         "candidates": [
-          "students.brooklyn.edu",
-          "www.brooklyn.edu",
-          "www.ccny.cuny.edu"
+          "access.iclicker.com",
+          "campus.iclicker.com",
+          "go.iclicker.com",
+          "join.iclicker.com",
+          "learn.iclicker.com",
+          "student.iclicker.com",
+          "www.iclicker.com"
         ],
         "accepted": [],
         "ownership_evidence": []
